@@ -22,6 +22,8 @@ Basen har tre nivåer. Gå ikke dypere enn nødvendig.
 2. **`regelverk/<regelverk>/VEIVISER.md`**: hva regelverket gjelder, kjente feller, hvilke merknader som finnes, og en liste over alle paragrafer med stien til filen.
 3. **Paragraffilene**: selve lov- og forskriftsteksten, én fil per paragraf.
 
+For de største regelverkene er paragraflisten i veiviseren delt. Veiviseren har da én linje per lovkapittel og forskrift med stien til en innholdsfil (`regelverk/<regelverk>/innhold/`), og innholdsfilen har paragrafene. Åpne innholdsfilen for kapitlet eller forskriften du trenger, ikke alle.
+
 Noen regelverk har også `rundskriv/` (rundskriv, veiledere, kommentarer og uttalelser fra blant annet Nav, Arbeidstilsynet, Utdanningsdirektoratet, IMDi, Statens pensjonskasse, Lånekassen, NOKUT, HK-dir og Sivilombudet), `rettspraksis/` (Høyesteretts avgjørelser fra november 2021) og `merknader/` (hjelpetekst for bestemte temaer). Hvilke tolkningskilder som finnes for et regelverk, står under «Tolkningskilder i basen» øverst i veiviseren. Statens personalhåndbok ligger under `regelverk/statsansatteloven/rundskriv/personalhandboka/` og dekker også hovedtariffavtalen, ferie, permisjoner, reiser og pensjon i staten. Rundskriv er ikke lov- eller forskriftstekst. Si fra i svaret når du bygger på et rundskriv, og oppgi det med navn. Høyesteretts avgjørelser ligger under `rettspraksis/hoyesterett/` med en `oversikt.md` per lov. De er rettspraksis, ikke rundskriv. Bygg på teksten under «Avgjørelsen». Høyesteretts omtale øverst i filen er ikke en del av avgjørelsen. Merknadene er ikke en kilde, se regel 9.
 
 Basen har også to typer kilder som ikke er norsk lov eller forskrift, se tabellene under regelverkslisten:
