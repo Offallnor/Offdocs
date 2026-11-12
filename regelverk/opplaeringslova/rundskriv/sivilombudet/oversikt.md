@@ -1,6 +1,6 @@
 # Sivilombudets uttalelser om opplæringslova
 
-78 uttalelser fra 2010 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i uttalelsen. Uttalelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også». Uttalelsene er ikke bindende, men tillegges stor vekt i forvaltningen.
+80 uttalelser fra 2010 og senere der loven nevnes med paragraf, nyeste først. Kolonnen «Paragrafer» viser paragrafene i loven som nevnes i uttalelsen. Uttalelser som nevner denne loven oftere enn andre lover i basen, ligger her. Andre lover som nevnes, står i kolonnen «Også». Uttalelsene er ikke bindende, men tillegges stor vekt i forvaltningen.
 
 Søk i tabellen etter paragraf eller stikkord i tittelen, og åpne filen før du bruker uttalelsen.
 
@@ -52,6 +52,7 @@ Søk i tabellen etter paragraf eller stikkord i tittelen, og åpne filen før du
 | 2019-10-10 | 2018/4777 | Skriftlig advarsel i arbeidsforhold etter ytring på Facebook | § 1-1 |  | `skriftlig-advarsel-i-arbeidsforhold-etter-ytring-pa-facebook.md` |
 | 2019-08-22 | 2019/460 | Fylkesmannens behandling av søknad om skoleplass i annen kommune | § 8-1, § 15-1 |  | `fylkesmannens-behandling-av-soknad-om-skoleplass-i-annen-kommune.md` |
 | 2019-05-27 | 2018/3545 | Fylkeskommunens behandling av klage på standpunktkarakter | § 5-1 |  | `fylkeskommunens-behandling-av-klage-pa-standpunktkarakter.md` |
+| 2019-04-23 | 2018/2519 | Finansiering av spesialundervisning for elever i friskoler | § 13-9, § 13-10 |  | `finansiering-av-spesialundervisning-for-elever-i-friskoler.md` |
 | 2019-03-22 | 2018/3627 | Kommunens saksbehandling ved søknad om utsatt skolestart og tap av barnehageplass | § 2-1 | Barnehageloven | `kommunens-saksbehandling-ved-soknad-om-utsatt-skolestart-og-tap-av-barnehageplass.md` |
 | 2019-03-14 | 2018/3151 | Ansettelse av yrkesfaglærer | § 10-1, § 10-6 |  | `ansettelse-av-yrkesfaglaerer.md` |
 | 2019-03-12 | 2018/3445 og 2018/3446 | Fylkesmannens klagebehandling i sak om psykososialt skolemiljø | § 9 |  | `fylkesmannens-klagebehandling-i-sak-om-psykososialt-skolemiljo.md` |
@@ -69,6 +70,7 @@ Søk i tabellen etter paragraf eller stikkord i tittelen, og åpne filen før du
 | 2017-07-24 | 2016/1131 | Kompensasjon av merverdiavgift for produksjon av undervisningstjenester i samvirke | § 3-1, § 3-3, § 3-4, § 13-3 |  | `29820.md` |
 | 2016-11-30 | 2016/1644 og 2016/1551 | Forbigåelse ved tilsetting i stillinger som lærere ved X videregående skole | § 10, § 10-1, § 10-2, § 10-6, § 10-6a, § 14-1 |  | `forbigaelse-ved-tilsetting-i-stillinger-som-laerere-ved-x-videregaende-skole.md` |
 | 2016-10-03 | 2016/1046 | Barnebidrag etter fylte 18 år | § 3-1 |  | `barnebidrag-etter-fylte-18-ar.md` |
+| 2016-09-16 | 2015/3425 | Dekning av utgifter til skoleskyss til privatskole i nabokommunen | § 7-1 | Forvaltningsloven | `dekning-av-utgifter-til-skoleskyss-til-privatskole-i-nabokommunen.md` |
 | 2016-08-08 | 2015/3340 | Skoleskyss – akseptabel reisetid | § 7-1, § 7-2 |  | `skoleskyss-akseptabel-reisetid.md` |
 | 2016-04-29 | 2015/2540 | Dekning av utgifter til skoleskyss | § 7-2, § 7-3, § 10-2 |  | `dekning-av-utgifter-til-skoleskyss.md` |
 | 2016-01-27 | 2015/2445 | Sak om skoleplass i nabokommunen | § 8-1 |  | `sak-om-skoleplass-i-nabokommunen.md` |
