@@ -87,7 +87,7 @@ def oppsummer() -> tuple[str, bool, bool]:
     oversikt = set()
     for status, sti in endringer:
         mappe = regelverk_for(sti)
-        if sti in OVERSIKT or sti.endswith("VEIVISER.md") or mappe is None:
+        if sti in OVERSIKT or sti.endswith("VEIVISER.md") or "/innhold/" in sti or mappe is None:
             oversikt.add(sti)
             continue
         if "/vedtatte-endringer/" in sti:

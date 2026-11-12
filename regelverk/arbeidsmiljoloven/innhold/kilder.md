@@ -1,0 +1,49 @@
+# Arbeidsmiljøloven: kilder for forskriftene
+
+- **Forskrift:** Forskrift om tvisteløsningsnemnd etter arbeidsmiljøloven – FOR-2005-12-16-1569. Sist endret i kraft: 2019-11-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om offentlig godkjenning av bemanningsforetak – FOR-2008-06-04-541. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om innleie fra bemanningsforetak – FOR-2013-01-11-33. Sist endret i kraft: 2024-04-16. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om adgang til ved tariffavtale å fravike reglene om likebehandling ved utleie fra bemanningsforetak – FOR-2015-07-06-874. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak) – FOR-2022-12-20-2301. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om innleie av avløser fra avløserlag – FOR-2025-07-01-1377. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om plikt til å utarbeide arbeidsreglement ved virksomheter innen hotell- og restaurantbransjen. – FOR-1991-10-31-1014. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om kameraovervåking i virksomhet – FOR-2018-07-02-1107. Sist endret i kraft: 2021-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale – FOR-2018-07-02-1108. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten. – FOR-1980-06-06-6. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven for visse typer arbeid og arbeidstakergrupper. – FOR-2005-12-16-1567. Sist endret i kraft: 2021-06-04. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera. – FOR-1985-02-08-293. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4) – FOR-2004-12-30-1817. Sist endret i kraft: 2016-07-01. Forvaltes av: Samferdselsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid for sjåfører og andre innenfor vegtransport – FOR-2005-06-10-543. Sist endret i kraft: 2024-01-01. Forvaltes av: Samferdselsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid i institusjoner som har medleverordninger – FOR-2005-06-24-686. Sist endret i kraft: 2017-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid mv. for arbeidstakere i grensekryssende jernbanetrafikk – FOR-2008-07-03-783. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljølovens arbeidstidsbestemmelser for polititjenestemenn mv. – FOR-2009-06-26-873. Sist endret i kraft: 2021-12-03. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidstid for avlastere – FOR-2017-06-25-1052. Sist endret i kraft: 2022-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven. – FOR-1980-06-13-2. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om administrative ordninger på arbeidsmiljølovens område (forskrift om administrative ordninger) – FOR-2011-12-06-1360. Sist endret i kraft: 2024-09-30. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om HMS-kort på bygge- og anleggsplasser – FOR-2007-03-30-366. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om HMS-kort i virksomheter som transporterer andres varer med bil – FOR-2025-06-20-1152. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester – FOR-2012-05-08-408. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester – FOR-2022-02-11-206. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere. – FOR-2005-12-16-1568. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeid som utføres i arbeidstakers hjem – FOR-2002-07-05-715. Sist endret i kraft: 2022-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeid i arbeidsgivers hjem og husholdning – FOR-2022-06-03-969. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om utsendte arbeidstakere – FOR-2005-12-16-1566. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart. – FOR-1986-02-21-540. Sist endret i kraft: 2010-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven med tilhørende forskrifter for sivil luftfart mv. – FOR-2018-12-20-2182. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om unntak fra arbeidsmiljøloven § 50 for Sjøfartsdirektoratets og Skipskontrollens sjøkyndige, tekniske skipsinspektører og skipsmålere. – FOR-1983-04-29-3349. **Ikke i kraft:** ukjent dato. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv. – FOR-2024-04-11-607. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter (Internkontrollforskriften) – FOR-1996-12-06-1127. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om organisering, ledelse og medvirkning – FOR-2011-12-06-1355. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om utforming og innretning av arbeidsplasser, arbeidslokaler og innkvartering (arbeidsplassforskriften) – FOR-2011-12-06-1356. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) – FOR-2011-12-06-1357. Sist endret i kraft: 2026-09-29. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier) – FOR-2011-12-06-1358. Sist endret i kraft: 2026-06-05. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om konstruksjon, utforming og fremstilling av arbeidsutstyr og kjemikalier (produsentforskriften) – FOR-2011-12-06-1359. Sist endret i kraft: 2020-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften) – FOR-2009-08-03-1028. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+- **Forskrift:** Forskrift om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften) – FOR-2010-02-12-158. Sist endret i kraft: 2024-01-01. Forvaltes av: Energidepartementet.
+- **Forskrift:** Forskrift om styring og opplysningsplikt i petroleumsvirksomheten og på enkelte landanlegg (styringsforskriften) – FOR-2010-04-29-611. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
+- **Forskrift:** Forskrift om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer (teknisk og operasjonell forskrift) – FOR-2010-04-29-612. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet.
+- **Forskrift:** Forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften) – FOR-2010-04-29-613. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
+- **Forskrift:** Forskrift om utforming og utrustning av innretninger med mer i petroleumsvirksomheten (innretningsforskriften) – FOR-2010-04-29-634. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
+- **Forskrift:** Forskrift om maskiner – FOR-2009-05-20-544. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Justis- og beredskapsdepartementet Klima- og miljødepartementet.
+- **Forskrift:** Forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften) – FOR-2016-06-03-569. Sist endret i kraft: 2024-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
+- **Forskrift:** Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer – FOR-2003-06-30-911. Sist endret i kraft: 2019-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
