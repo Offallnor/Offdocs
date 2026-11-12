@@ -1,6 +1,6 @@
 # Arbeidstilsynets kommentarer til forskrift om utførelse av arbeid
 
-Arbeidstilsynets kommentarer til Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) (FOR-2011-12-06-1357), hentet fra [arbeidstilsynet.no](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/) 2026-11-05. Kommentarene er Arbeidstilsynets veiledning, ikke forskriftstekst. Forskriftsteksten ligger under `forskrifter/` og kommer fra Lovdata.
+Arbeidstilsynets kommentarer til Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) (FOR-2011-12-06-1357), hentet fra [arbeidstilsynet.no](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/) 2026-11-12. Kommentarene er Arbeidstilsynets veiledning, ikke forskriftstekst. Forskriftsteksten ligger under `forskrifter/` og kommer fra Lovdata.
 
 ## Innhold
 
