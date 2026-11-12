@@ -157,7 +157,7 @@ def endringer(siden: str, til: str | None, mapper: dict) -> dict:
     """mappe -> {"typer": {type: set(filnavn)}, "commits": [(sha, melding)]}"""
     ut = defaultdict(lambda: {"typer": defaultdict(set), "commits": []})
     grense = [f"--until={til}"] if til else []
-    logg = git("log", "HEAD", f"--since={siden}", *grense, "--first-parent", "--diff-merges=first-parent",
+    logg = git("log", "HEAD", f"--since={siden}", *grense, "--first-parent", "--min-parents=1", "--diff-merges=first-parent",
                "--no-renames",
                "--format=@@%H %s", "--name-only", "--", "regelverk/")
     sha = melding = None
