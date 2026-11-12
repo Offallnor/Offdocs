@@ -1,0 +1,36 @@
+# Spørsmål nr. 117 fra Rødt til STB 2025
+
+- **Parti:** Rødt
+- **Spørsmålsnr:** 117
+- **Dato på spørsmålet:** 07.10.2024
+- **Departement:** Kunnskapsdepartementet
+- **Tittel:** Svar på spørsmål 117 fra Finanskomiteen/Rødts fraksjon av 7.10.2024
+
+## Oversikt over kostnader og ressursbruk til nasjonale prøver
+
+a) Ber om en fullstendig oversikt over kostnader og ressursbruk knyttet til nasjonale prøver, de statlige kartleggingsprøvene, PISA, TIMSS, PIRLS, ICCS, TALIS, ICIL og andre internasjonale undersøkelser Norge deltar i, der kostnadsoversikten blant annet inneholder utgifter til anskaffelser, utarbeidelse, gjennomføring, oppfølging, ressursbruk i direktorat og departement. b) Ber også om et estimat over skoleledere og læreres samlede ressursbruk på nasjonale prøver gitt at de følges opp etter anbefalingene gitt av prøveutviklere og Udir. Ber om kapittel og post.
+
+## Svar
+
+Spørsmålet er forelagt Kunnskapsdepartementet, som har gitt følgende svar:
+
+«i) Norge deltar regelmessig i trendstudiene PISA, TIMSS, ICCS, ICILS og PIRLS. I tillegg deltar Norge i TALIS. Utgiftene til studiene varierer fra år til år etter som hvor i syklusen studien er. I tabellen under er budsjettbehovet for 2025 listet opp, som summerer seg til om lag 25,9 mill. kroner. Utdanningsdirektoratet opplyser om at det er avtalemessige bindinger på disse utgiftene i 2025.
+
+|  | Budsjett 2025 |
+|---|---|
+| TIMSS | 8 600 000 |
+| PIRLS | 5 300 000 |
+| PISA | 7 273 000 |
+| TALIS (OECD-lærerkartlegging) | 1 830 000 |
+| ICCS | 2 500 000 |
+| IEA-medlemsavgift | 280 000 |
+| ICILS | 100 000 |
+| Sum | 25 883 000 |
+
+I rapporten Samfunnsøkonomiske kostnader av eksamen og statlige prøver (Vista Analyse, 2020) ble det gjort en samfunnsøkonomisk analyse over kostnader for eksamen, nasjonale prøver og kartleggingsprøver. Delinnstillingen til utvalget for kvalitetsutvikling i skolen (NOU 2023:1) refererer også til denne rapporten.
+
+Den forventede totalkostnaden for obligatoriske statlige kartleggingsprøver i 2019 er beregnet til 131 millioner kroner. I 2025-kroner tilsvarer dette om lag 167 millioner kroner.
+
+ii) Den estimerte totale forventede kostnaden er 182 mill. kroner for nasjonale prøver i barneskolen og 244 mill. kroner i ungdomsskolen (Vista Analyse, 2020). I 2025-kroner tilsvarer dette hhv. om lag 232 og 310 mill. kroner.
+
+Den største kostnaden for eksamen og prøver er knyttet til den lokale gjennomføringen. Det gjelder både administrative og pedagogiske oppfølginger (Vista Analyse, 2020)»

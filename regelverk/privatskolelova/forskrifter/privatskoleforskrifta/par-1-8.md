@@ -1,0 +1,11 @@
+# § 1-8. Fritak frå opplæring i framandspråk, fordjuping eller arbeidslivsfag på 8. til 10. trinn
+
+**Kilde:** Forskrift til privatskolelova (privatskoleforskrifta) § 1-8
+
+**1. ledd**
+
+Elevar som får opplæring i samisk som første- eller andrespråk, opplæring i kvensk eller finsk som andrespråk, opplæring i norsk teiknspråk eller særskild språkopplæring etter privatskolelova § 3-5 , er fritatt frå opplæring i framandspråk, fordjuping eller arbeidslivsfag på 8. til 10. trinn. Dei skal likevel få slik opplæring dersom dei ønskjer det.
+
+**2. ledd**
+
+Elevar som ikkje deltar i opplæringa i framandspråk, fordjuping eller arbeidslivsfag, skal få forsterka opplæring i engelsk, norsk, samisk, kvensk, finsk, norsk teiknspråk eller eit anna språk som dei allereie har eit grunnlag i.

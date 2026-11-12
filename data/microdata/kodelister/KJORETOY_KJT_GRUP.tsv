@@ -1,0 +1,58 @@
+kode	kategori
+101	Personbil unntatt ambulanse
+106	Personbil (Ambulanse)
+107	Personbil (Leilighetsambulanse)
+201	Buss,- registrert første gang her i landet før 1.1.1983
+210	Buss,- registret for mindre enn 17 passasjerer
+211	Buss (Klasse 1)
+212	Buss (Klasse 2)
+213	Buss (Klasse 3)
+214	Buss (Klasse 2 og 3)
+215	Buss (minst 10 seter i fartsretning)
+301	Kombinert bil
+310	Varebil,- reg. f.g. før 1.1.1981, varebil (kl 2) reg. f. her i landet 1.1. 1981 eller senere
+311	Varebil (Klasse2),- registrert første gang her i landet 1.1.1981 eller senere
+312	Varebil (Likbil)
+313	Varebil (Campingbil)
+314	Varebil (klasse 1) fortollet etter 31.3.2001
+315	Varebil (klasse 2) fortollet etter 31.3.2001
+316	Campingbil
+320	Lastebil (med plan),- åpent plan med og uten kapell, herunder dumperkasse
+321	Lastebil (med lukket godsrom),- herunder flyttebil, thermovogn, bankbuss mv.
+323	Lastebil (bergingsbil)
+325	Lastebil,- betongblandebil, renovajonsbil, tømmertransportbil, containerbil og andre lastebiler
+330	Lastebil (tankbil),- for bensin og olje
+335	Lastebil (tankbil),- for andre varer enn bensin/olje
+336	Lastebil (campingbil)
+340	Trekkbil
+350	Beltebil
+360	Lastebil(med plan),-åpent plan m el. u kapell reg. etter 01.01 2005
+361	Lastebil(med lukket godsrom),- reg. etter 01.01 2005
+363	Lastebil(bergningsbil)l reg. etter 01.01 2005
+365	Lastebil,-betongbl.bil, renov., tømmertransp. mv. reg etter 1. januar 2005
+370	Lastebil (tankbil)for bensin og olje reg. etter 1.1.2005
+375	Lastebil (tankbil)for andre varer enn bensin og olje. Registrert 1. januar 2005 eller senere
+380	Lastebil (med plan) og totalvekt mindre enn 7501 kg, åpent plan med og uten kapell, herunder dumperkasse. Oppfyller krav til avgiftsgruppe b (rammekravet)
+381	Lastebil (med lukket godsrom) og totalvekt mindre enn 7501 kg, herunder flyttebil, termovogn, bankbuss mv. Oppfyller krav til avgiftsgruppe b (rammekravet)
+401	Traktor
+501	Motorredskap (motorkran)
+502	Motorredskap (motorsprøyte)
+503	Motorredskap (motorstige)
+509	Motorredskap,- annen motorredskap
+601	Moped
+610	Lett motorsykkel
+620	Tung motorsykkel, herunder mellomtung motorsykkel
+621	Tung motorsykkel (chopper-ombygd)
+630	Snøscooter
+701	Påhengsvogn (med tank),- ikke til traktor
+702	Påhengsvogn (til traktor)
+703	Påhengsvogn(campingtilhenger)
+709	Påhengsvogn,- annen påhengsvogn
+711	Slepvogn (med tank),- ikke til traktor
+712	Slepvogn (til traktor)
+713	Slepvogn (campingtilhenger)
+719	Slepvogn,- annen slepvogn
+721	Semitrailer (med tank),- ikke til traktor
+722	Semitrailer (til traktor)
+723	Semitrailer (campingtilhenger)
+729	Semitrailer,- annen semitrailer

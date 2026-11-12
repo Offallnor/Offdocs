@@ -1,0 +1,21 @@
+# Spørsmål nr. 53 fra KRF til STB 2027
+
+- **Parti:** KRF
+- **Spørsmålsnr:** 53
+- **Dato på spørsmålet:** 07.10.2026
+- **Departement:** Kunnskapsdepartementet
+- **Tittel:** Svar på spørsmål 53 fra Finanskomiteen/KRFs fraksjon av 7.10.2026
+
+## Provenyeffekt ITO-kostnader mm.
+
+Hva vil provenyeffekten bli dersom kostnader til individuell tilrettelegging (ITO-kostnader) ikke lenger trekkes ut av tilskuddsgrunnlaget for friskoler, statens økte kostnader gjennom økt tilskudd til friskoler trekkes ut av rammeoverføringene til kommunene og kommunene ikke lenger skal refundere noe til friskoler, kommunene sparer administrasjonskostnader for ITO-refusjon og det lages statlige satser for korrigering mellom friskolene?
+
+## Svar
+
+Spørsmålet er forelagt Kunnskapsdepartementet, som har gitt følgende svar:
+
+«Dersom kostnader til individuell tilrettelegging (ITO-kostnader) ikke lenger trekkes ut av tilskuddsgrunnlaget for private skoler vil dette øke tilskuddsgrunnlaget til private grunnskoler og øke satsene sammenlignet med satsene for 2026. Skolene vil da også måtte ta ansvaret for ITO. Samlet vil dette gi en økning i budsjettbehovet på 1,2 mrd. kroner alene for private grunnskoler i Norge (kap. 228 post 70).
+
+Private grunnskoler i utlandet får et eget tilskudd til individuell tilrettelagt opplæring. Videre er ITO-kostnader ikke en del av tilskuddsgrunnlaget på videregående skoler, og føres på en funksjon som ikke inngår i tilskuddsmodellen. For å beregne den endelige budsjetteffekten må det tas stilling til hvilke konsekvenser en slik endring i tilskuddet har for disse skolene, og hvordan endringen kan gjennomføres i lys av prinsippet om likebehandling. Vi gjør oppmerksom på at å la være å trekke ITO-kostnader ut av tilskuddsgrunnlaget for privatskoler også får en rekke andre økonomiske og administrative konsekvenser, deriblant lov- og forskriftsendringer og behov for å utrede nye beregningsmodeller for tilskudd.
+
+Innenfor tidsrammen har det ikke vært mulig å beregne budsjetteffekten av at statens økte kostnader gjennom økt tilskudd til privatskoler trekkes ut av rammeoverføringene til kommunene, og at kommunene ikke lenger skal refundere noe til privatskoler. Vi har heller ikke data som viser kommunenes administrasjonskostnader for ITO-refusjon. Dersom private skoler skal få dekt sine kostnader til ITO gjennom et statlig tilskudd må det lages en egen tilskuddsordning til dette formålet, og vi har per dags dato ingen utredninger som kan legges til grunn for et eventuelt kostnadsanslag.»

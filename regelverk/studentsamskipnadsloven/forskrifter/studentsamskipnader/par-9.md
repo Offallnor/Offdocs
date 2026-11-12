@@ -1,0 +1,17 @@
+# § 9. Regnskapsinformasjon
+
+**Kilde:** Forskrift om studentsamskipnader § 9
+
+**1. ledd**
+
+Studentsamskipnadens regnskap skal ha et informasjonsinnhold som bestemt i regnskapsloven og samskipnadslovens § 7 . Studentsamskipnadene skal gjennom regnskapet kunne dokumentere at all offentlig støtte til studentvelferd kun kommer studentene til gode.
+
+**2. ledd**
+
+Studentsamskipnader som omsetter varer og tjenester til andre enn studenter, skal utarbeide og presentere en resultatoppstilling for studentvelferdsaktiviteten og en eller flere resultatoppstillinger som omfatter all annen aktivitet hver for seg i sine regnskaper. Dette gjøres ved at resultatoppstillingene for hver av de to typene aktiviteter presenteres i noter både i selskapsregnskap og eventuelle konsernregnskap. Tilsvarende gjelder for selskap der studentsamskipnaden har bestemmende innflytelse.
+
+---
+
+**Endringshistorikk:**
+
+- Tilføyd ved forskrift 10 des 2008 nr. 1314 (i kraft 1 jan 2009).

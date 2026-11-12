@@ -1,0 +1,117 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 14975,
+      "stop": 20058
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 14975,
+      "stop": 20058
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "ALDPENSJ2011FDT_MOTTAK@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 14975,
+      "stop": 20058
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Alderspensjon fra folketrygden, mottaksperiode",
+  "name": "ALDPENSJ2011FDT_MOTTAK",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Datering av mottaksperiode.",
+    "validPeriod": {
+     "start": 0
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Mottar stønad/ytelse",
+       "code": "1"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "ALDPENSJ2011FDT_MOTTAK",
+ "populationDescription": "Hovedsakelig bosatte i Norge (fnr), men noen ikke-bosatte kan inngå (dnr)",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Sosiale forhold og kriminalitet",
+  "Trygd og stønad"
+ ],
+ "temporalCoverage": {
+  "start": 14975,
+  "stop": 20058
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1763646904,
+ "version": "59.0.0.0"
+}

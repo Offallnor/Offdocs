@@ -1,0 +1,129 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/sluttdato for hendelsen",
+     "validPeriod": {
+      "start": 15957,
+      "stop": 18148
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 15957,
+      "stop": 18148
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "VALG_FULLTELLINGSKOMMUNE@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Statistisk enhet er person (individ, enkeltmenenske)",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i RAIRD",
+     "validPeriod": {
+      "start": 15957,
+      "stop": 18148
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Totaltelling i kommunen",
+  "name": "VALG_FULLTELLINGSKOMMUNE",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser totaltelling i kommunen. \n \n Mer informasjon om valg og bruk av data i statistikk og for forskning og analyse: \n [Variabelområdet valg hos SSB]  (https://www.ssb.no/data-til-forskning/utlan-av-data-til-forskere/variabellister/valg)",
+    "validPeriod": {
+     "start": 15706
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Nei",
+       "code": "0"
+      },
+      {
+       "category": "Ja",
+       "code": "1"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "VALG_FULLTELLINGSKOMMUNE",
+ "populationDescription": "Variabelen omfatter alle personer som har stemmerett i valg. For å ha stemmerett i valg må man stå i manntallet i den kommunen en skal stemme. Folkeregisteret danner grunnlaget for manntallet. Observasjoner med missing er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Valg"
+ ],
+ "temporalCoverage": {
+  "start": 15957,
+  "stop": 18148
+ },
+ "temporalEnd": {
+  "description": "Variabelen oppdateres ikke. SSB gikk over til fulltelling etter valget 2019."
+ },
+ "temporalStatusDates": [
+  17420,
+  18148,
+  15957,
+  16692
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1633937990,
+ "version": "59.0.0.0"
+}

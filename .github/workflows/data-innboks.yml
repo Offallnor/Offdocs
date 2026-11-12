@@ -1,0 +1,68 @@
+name: Legg inn data fra innboksen
+
+on:
+  # Når noen legger en xlsx-fil i data/innboks/ på main, konverteres den med en gang.
+  push:
+    branches: [main]
+    paths: ["data/innboks/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: data-innboks
+  cancel-in-progress: false
+
+jobs:
+  data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: pip install openpyxl==3.1.5
+
+      - name: Legg inn data
+        run: python3 verktoy/data_innboks.py
+
+      - name: Legg inn på main
+        run: |
+          [ -f data-innboks-rapport.txt ] || exit 0
+          mv data-innboks-rapport.txt "$RUNNER_TEMP/melding.txt"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -q -F "$RUNNER_TEMP/melding.txt"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
+
+      - name: Varsle om filer som ikke ble lagt inn
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          grep -q "Ikke lagt inn" "$RUNNER_TEMP/melding.txt" 2>/dev/null || exit 0
+          tittel="Datainnboks: fil ikke lagt inn"
+          { echo "@offallnor-bot: filene under ligger fortsatt i data/innboks/ med en .FEIL.txt som forklarer hvorfor. Rett opp og last opp på nytt, eller be Claude se på dem."; echo; cat "$RUNNER_TEMP/melding.txt"; } > "$RUNNER_TEMP/sak.txt"
+          gh label create driftsvarsel --color FBCA04 --description "Varsel fra en fast jobb. Claude går gjennom disse." --force >/dev/null
+          nr=$(gh issue list --state open --search "\"$tittel\" in:title" --json number --jq '.[0].number')
+          if [ -n "$nr" ]; then
+            gh issue comment "$nr" --body-file "$RUNNER_TEMP/sak.txt"
+            gh issue edit "$nr" --add-label driftsvarsel >/dev/null
+          else
+            gh issue create --title "$tittel" --assignee offallnor-bot --label driftsvarsel --body-file "$RUNNER_TEMP/sak.txt"
+          fi
+
+      - name: Vis resultatet
+        if: always()
+        run: cat "$RUNNER_TEMP/melding.txt" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Innboksen var tom." >> "$GITHUB_STEP_SUMMARY"

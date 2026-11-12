@@ -1,0 +1,84 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-med-beregnet-ytelse-som-ung-ufor-etter-kjonn-og-alder-.pr.30.09.2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *) Poengtallet til "unge uføre" gis tidligst f.o.m. den kalendermåneden mottakeren fyller 20 år. 18- og 19-åringene er derfor ikke med.
+# Merknad: *) Poengtallet til "unge uføre" gis tidligst f.o.m. den kalendermåneden mottakeren fyller 20 år. 18- og 19-åringene er derfor ikke med.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	I alt	67046	70426	74061	76788	78804	80485	82101	84150	85966	87906
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	20-24	5349	5843	6416	6722	6738	6642	6472	6544	6650	6859
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	25-29	7913	9029	10074	10690	11058	11315	11513	11800	11716	11581
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	30-34	8468	9128	10047	10825	11647	12290	12987	13535	13948	14345
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	35-39	8225	8707	9051	9433	9669	10144	10443	11064	11792	12651
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	40-44	8345	8194	8326	8395	8541	8642	8919	9090	9447	9684
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	45-49	8900	8926	8815	8697	8434	8280	8047	8088	8093	8281
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	50-54	8100	8303	8406	8466	8537	8527	8536	8393	8267	7984
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	55-59	5938	6244	6606	6938	7385	7571	7754	7820	7836	7928
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	60-64	4398	4599	4800	4996	5065	5319	5646	5934	6223	6597
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	65-67	1368	1400	1465	1563	1661	1672	1719	1805	1927	1914
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Antall.	Uoppgitt	42	53	55	63	69	83	65	77	67	82
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner.	Kvinner i alt	33356	34991	36738	37967	38885	39691	40441	41424	42251	43145
+Kvinner.	20-24	2182	2383	2640	2772	2773	2744	2655	2723	2745	2821
+Kvinner.	25-29	3569	4110	4647	4903	5080	5218	5333	5471	5439	5388
+Kvinner.	30-34	4064	4420	4872	5259	5693	5963	6281	6585	6716	6881
+Kvinner.	35-39	3989	4256	4420	4637	4724	4997	5155	5424	5817	6260
+Kvinner.	40-44	4109	4051	4092	4105	4183	4231	4395	4463	4687	4773
+Kvinner.	45-49	4550	4511	4427	4356	4167	4104	4010	4005	3977	4082
+Kvinner.	50-54	4301	4357	4423	4382	4473	4370	4327	4222	4175	3983
+Kvinner.	55-59	3247	3446	3646	3797	3953	4054	4089	4155	4108	4214
+Kvinner.	60-64	2532	2608	2682	2815	2847	2982	3181	3331	3450	3589
+Kvinner.	65-67	795	820	866	905	952	978	990	1001	1099	1109
+Kvinner.	Uoppgitt	18	29	23	36	40	50	25	44	38	45
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn.	Menn i alt	33690	35435	37323	38821	39919	40794	41660	42726	43715	44761
+Menn.	20-24	3167	3460	3776	3950	3965	3898	3817	3821	3905	4038
+Menn.	25-29	4344	4919	5427	5787	5978	6097	6180	6329	6277	6193
+Menn.	30-34	4404	4708	5175	5566	5954	6327	6706	6950	7232	7464
+Menn.	35-39	4236	4451	4631	4796	4945	5147	5288	5640	5975	6391
+Menn.	40-44	4236	4143	4234	4290	4358	4411	4524	4627	4760	4911
+Menn.	45-49	4350	4415	4388	4341	4267	4176	4037	4083	4116	4199
+Menn.	50-54	3799	3946	3983	4084	4064	4157	4209	4171	4092	4001
+Menn.	55-59	2691	2798	2960	3141	3432	3517	3665	3665	3728	3714
+Menn.	60-64	1866	1991	2118	2181	2218	2337	2465	2603	2773	3008
+Menn.	65-67	573	580	599	658	709	694	729	804	828	805
+Menn.	Uoppgitt	24	24	32	27	29	33	40	33	29	37
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	20-24	8.0	8.3	8.7	8.8	8.6	8.3	7.9	7.8	7.7	7.8
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	25-29	11.8	12.8	13.6	13.9	14.0	14.1	14.0	14.0	13.6	13.2
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	30-34	12.6	13.0	13.6	14.1	14.8	15.3	15.8	16.1	16.2	16.3
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	35-39	12.3	12.4	12.2	12.3	12.3	12.6	12.7	13.1	13.7	14.4
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	40-44	12.4	11.6	11.2	10.9	10.8	10.7	10.9	10.8	11.0	11.0
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	45-49	13.3	12.7	11.9	11.3	10.7	10.3	9.8	9.6	9.4	9.4
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	50-54	12.1	11.8	11.4	11.0	10.8	10.6	10.4	10.0	9.6	9.1
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	55-59	8.9	8.9	8.9	9.0	9.4	9.4	9.4	9.3	9.1	9.0
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	60-64	6.6	6.5	6.5	6.5	6.4	6.6	6.9	7.1	7.2	7.5
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	65-67	2.0	2.0	2.0	2.0	2.1	2.1	2.1	2.1	2.2	2.2
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	Uoppgitt	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	Kvinner i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	20-24	6.5	6.8	7.2	7.3	7.1	6.9	6.6	6.6	6.5	6.5
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	25-29	10.7	11.7	12.6	12.9	13.1	13.1	13.2	13.2	12.9	12.5
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	30-34	12.2	12.6	13.3	13.9	14.6	15.0	15.5	15.9	15.9	15.9
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	35-39	12.0	12.2	12.0	12.2	12.1	12.6	12.7	13.1	13.8	14.5
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	40-44	12.3	11.6	11.1	10.8	10.8	10.7	10.9	10.8	11.1	11.1
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	45-49	13.6	12.9	12.1	11.5	10.7	10.3	9.9	9.7	9.4	9.5
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	50-54	12.9	12.5	12.0	11.5	11.5	11.0	10.7	10.2	9.9	9.2
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	55-59	9.7	9.8	9.9	10.0	10.2	10.2	10.1	10.0	9.7	9.8
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	60-64	7.6	7.5	7.3	7.4	7.3	7.5	7.9	8.0	8.2	8.3
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	65-67	2.4	2.3	2.4	2.4	2.4	2.5	2.4	2.4	2.6	2.6
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	Uoppgitt	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	Menn i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	20-24	9.4	9.8	10.1	10.2	9.9	9.6	9.2	8.9	8.9	9.0
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	25-29	12.9	13.9	14.5	14.9	15.0	14.9	14.8	14.8	14.4	13.8
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	30-34	13.1	13.3	13.9	14.3	14.9	15.5	16.1	16.3	16.5	16.7
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	35-39	12.6	12.6	12.4	12.4	12.4	12.6	12.7	13.2	13.7	14.3
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	40-44	12.6	11.7	11.3	11.1	10.9	10.8	10.9	10.8	10.9	11.0
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	45-49	12.9	12.5	11.8	11.2	10.7	10.2	9.7	9.6	9.4	9.4
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	50-54	11.3	11.1	10.7	10.5	10.2	10.2	10.1	9.8	9.4	8.9
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	55-59	8.0	7.9	7.9	8.1	8.6	8.6	8.8	8.6	8.5	8.3
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	60-64	5.5	5.6	5.7	5.6	5.6	5.7	5.9	6.1	6.3	6.7
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	65-67	1.7	1.6	1.6	1.7	1.8	1.7	1.7	1.9	1.9	1.8
+Mottakere av uføretrygd med beregnet ytelse som "ung ufør", etter kjønn og alder *). Pr. 30.09.2017-2026. Prosent.	Uoppgitt	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1

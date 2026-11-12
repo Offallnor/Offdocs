@@ -1,0 +1,46 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-mottakere-av-uforetrygd-per-1000-ikke-ufor-i-befolkningen-etter-kjonn-og-alder.1.kvartal-3.kvartal-2017-2026.per-1000
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *) Nye uførepensjonister som andel av befolkningen som er under risiko for å bli ufør (dvs. per 1000-ikke uføre). Det er befolkningen 18-67 år fratrukket de som allerede er uføre. 11/12 av 18-åringene og 1/12 av 67-åringene er inkludert.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	I alt	7.5	8.4	8.8	7.2	6.6	6.5	6.3	7.1	6.1	6.9
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	18-19	5.2	5.7	5.3	5.1	5.6	5.7	5.5	6.3	6.2	6.2
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	20-24	2.2	2.8	3.1	2.7	2.7	2.4	2.2	2.8	2.3	2.5
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	25-29	2.8	4.1	4.8	3.7	3.4	3.5	3.2	3.6	3.1	3.3
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	30-34	3.4	4.5	5.1	4.3	3.8	3.7	3.8	4.2	3.6	4.0
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	35-39	4.7	6.1	6.8	5.1	4.8	4.6	4.3	4.5	4.1	4.7
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	40-44	6.9	7.8	8.5	6.3	5.8	5.5	5.5	5.9	5.0	5.8
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	45-49	8.6	9.8	10.3	8.0	7.1	7.1	7.1	7.5	6.2	7.3
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	50-54	10.9	11.9	12.7	10.4	9.4	9.1	8.4	9.9	8.4	9.5
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	55-59	14.8	15.3	15.2	13.3	11.5	11.6	11.1	13.0	11.0	12.9
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	60-64	17.7	18.4	17.6	14.7	13.9	13.6	12.9	14.8	12.8	14.7
+Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen *), etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Per 1000.	65-67	12.9	12.4	11.5	10.3	10.3	8.9	9.9	10.7	9.1	10.0
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner	I alt	8.9	10.2	10.7	8.7	8.0	7.8	7.6	8.5	7.3	8.3
+Kvinner	18-19	3.9	4.5	4.2	4.0	4.5	4.5	4.4	4.9	5.6	5.3
+Kvinner	20-24	1.9	2.7	3.3	2.8	2.7	2.5	2.3	2.9	2.3	2.4
+Kvinner	25-29	3.1	4.7	5.4	4.2	4.1	4.0	3.8	4.3	3.6	3.6
+Kvinner	30-34	4.1	5.7	6.5	5.3	4.7	4.5	4.7	5.1	4.4	5.0
+Kvinner	35-39	6.0	7.9	8.6	6.4	6.3	5.8	5.7	5.8	5.0	6.2
+Kvinner	40-44	9.0	10.3	11.5	8.5	7.7	7.4	7.1	7.4	6.4	7.3
+Kvinner	45-49	11.3	13.0	13.4	10.4	9.5	9.5	9.5	9.8	8.0	9.4
+Kvinner	50-54	13.5	14.9	15.9	13.4	12.0	11.9	10.7	12.9	10.9	12.1
+Kvinner	55-59	17.4	18.5	17.8	16.0	13.8	13.9	13.8	16.2	13.9	16.3
+Kvinner	60-64	21.1	22.0	21.2	17.1	15.9	15.5	15.0	17.1	14.6	17.1
+Kvinner	65-67	16.2	15.3	13.6	12.6	12.2	10.7	11.6	12.1	9.9	10.8
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn	I alt	6.1	6.7	7.1	5.8	5.4	5.3	5.0	5.8	5.0	5.7
+Menn	18-19	6.4	6.7	6.3	6.1	6.6	6.8	6.6	7.5	6.7	6.9
+Menn	20-24	2.6	3.0	2.8	2.6	2.7	2.3	2.1	2.7	2.3	2.6
+Menn	25-29	2.5	3.5	4.1	3.2	2.7	3.0	2.6	2.8	2.5	2.9
+Menn	30-34	2.8	3.3	3.8	3.3	2.9	2.9	3.0	3.3	2.9	3.1
+Menn	35-39	3.5	4.4	5.2	3.8	3.5	3.6	3.0	3.4	3.2	3.4
+Menn	40-44	4.9	5.5	5.7	4.4	4.1	3.7	4.0	4.5	3.7	4.4
+Menn	45-49	6.1	6.8	7.4	5.8	5.0	4.9	4.9	5.4	4.6	5.4
+Menn	50-54	8.6	9.2	9.8	7.8	7.0	6.5	6.4	7.2	6.1	7.1
+Menn	55-59	12.5	12.4	13.0	10.9	9.4	9.7	8.8	10.3	8.6	10.0
+Menn	60-64	14.7	15.4	14.6	12.7	12.1	11.9	11.1	12.7	11.3	12.8
+Menn	65-67	10.0	10.0	9.7	8.3	8.6	7.4	8.4	9.5	8.4	9.3

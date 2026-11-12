@@ -1,0 +1,41 @@
+kode	kategori
+1	Helt ledige permitterte
+2	Helt ledige ikke permitterte
+3	Delvis ledige ikke permitterte
+4	Delvis ledige permitterte
+10	Andre
+11	Ordinære tiltaksdeltakere passert sluttdato
+17	Ugyldig kode med 1. statuskode HL
+18	Ugyldig kode med 1. statuskode DS
+19	Ugyldig kode med 1. statuskode FS
+21	Inaktiv i ordinær statistikk
+22	Ukjent
+31	Lønnstilskudd
+32	Arbeidspraksis
+33	Opplæring
+34	Sysselsettingstiltak, permisjoner og vikariater
+35	Andre tiltak
+36	Oppfølging
+37	Avklaringstiltak
+38	Jobbskaping og egenetablering
+41	Helserelatert arbeidsrettet oppfølging i NAV
+42	Sykmeldt, oppfølging på arbeidsplassen
+43	Sykmeldt uten arbeidsgiver
+44	Nedsatt arbeidsevne, ikke i arbeidsrettet tiltak
+49	Nedsatt arbeidsevne som søker attføring
+50	Nedsatt arbeidsevne i kartleggingsfase
+51	Nedsatt arbeidsevne i ventefase for tiltak
+52	Lønnstilskudd
+53	Arbeidspraksis
+54	Opplæring
+55	Sysselsettingstiltak, permisjoner og vikariater
+56	Oppfølging
+57	Avklaringstiltak
+58	Kvalifisering i arbeidsmarkedsbedrift
+59	Tilrettelagt arbeid i arbeidsmarkedsbedrift
+60	Tilrettelagt arbeid
+61	Andre tiltak
+62	Arbeidsrettet rehabilitering
+63	Helsemessig utredning/behandling
+64	Jobbskaping og egenetablering
+65	Tilrettelegging

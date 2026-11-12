@@ -1,0 +1,37 @@
+kode	kategori
+01	Innrapportert verdi for nåværende periode
+02	Innrapportert verdi for nåværende periode, nedjustert til 120
+03	Innrapportert verdi for nåværende periode, nedjustert fordi samlet stillingprosent overstiger 160
+04	Innrapportert verdi for neste periode
+05	Innrapportert verdi for neste periode, nedjustert til 120
+06	Innrapportert verdi for neste periode, nedjustert fordi samlet stillingprosent overstiger 160
+07	Verdi satt til 100 fordi innrapportert verdi for nåværende periode er lik 100 × n (n = antall arbeidsforhold i samme virksomhet)
+08	Verdi satt til 100 fordi innrapportert verdi for nåværende periode er lik 100 × n (n = antall arbeidsforhold i samme virksomhet), nedjustert fordi samlet stillingsprosent overstiger 160
+09	Verdi satt til 100 fordi innrapportert verdi for neste periode er lik 100 × n (n = antall arbeidsforhold i samme virksomhet)
+10	Verdi satt til 100 fordi innrapportert verdi for neste periode er lik 100 × n (n = antall arbeidsforhold i samme virksomhet), nedjustert fordi samlet stillingsprosent overstiger 160
+11	Verdi satt til 100 fordi innrapportert verdi for nåværende periode mangler (kun for fastlønnete og andre arbeidsforhold ? ikke timelønnete arbeidsforhold)
+12	Verdi satt til 100 fordi innrapportert verdi for nåværende periode mangler (kun for fastlønnete og andre arbeidsforhold ? ikke timelønnete arbeidsforhold), nedjustert fordi samlet stillingsprosent overstiger 160
+13	Verdi satt til 100 fordi innrapportert verdi for neste periode mangler (kun for fastlønnete og andre arbeidsforhold ? ikke timelønnete arbeidsforhold
+14	Verdi satt til 100 fordi innrapportert verdi for neste periode mangler (kun for fastlønnete og andre arbeidsforhold ? ikke timelønnete arbeidsforhold), nedjustert fordi samlet stillingsprosent overstiger 160
+15	Verdi utledet fra betalte timer for nåværende periode (kun timelønnete arbeidsforhold)
+16	Verdi utledet fra betalte timer for nåværende periode (kun timelønnete arbeidsforhold), nedjustert til 100
+17	Verdi utledet fra betalte timer for nåværende periode (kun timelønnete arbeidsforhold), nedjustert fordi samlet stillingsprosent overstiger 160
+18	Verdi utledet fra betalte timer for neste periode (kun timelønnete arbeidsforhold)
+19	Verdi utledet fra betalte timer for neste periode (kun timelønnete arbeidsforhold), nedjustert til 100
+20	Verdi utledet fra betalte timer for neste periode (kun timelønnete arbeidsforhold), nedjustert fordi samlet stillingsprosent overstiger 160
+21	Predikert verdi fra XGBoost-modell
+22	Predikert verdi fra XGBoost-modell, nedjustert til 100
+23	Predikert verdi fra XGBoost-modell, nedjustert fordi samlet stillingsprosent overstiger 160
+24	Imputert verdi fra nærmeste-nabo-metode
+25	Imputert verdi fra nærmeste-nabo-metode, nedjustert til 120
+26	Imputert verdi fra nærmeste-nabo-metode, nedjustert fordi samlet stillingsprosent overstiger 160
+30	Verdi satt til 100 (vernepliktig)
+31	Ekskludert pga. manglende positiv LONN_FAST og LONN_TIME (beholder innrapportert verdi)
+32	Ekskludert pga. manglende positiv LONN_FAST og LONN_TIME (verdi satt til 100, innrapp er lik 100 × n i samme virksomhet)
+33	Ekskludert pga. manglende positiv LONN_FAST og LONN_TIME, nedjustert til 120
+34	Ekskludert pga. høy lønn (beholder innrapportert verdi)
+35	Ekskludert pga. høy lønn (stillingsprosent satt til 100)
+36	Ekskludert pga. manglende positiv LONN_FAST og LONN_TIME, nedjustert fordi samlet stillingsprosent overstiger 160
+37	Ekskludert pga. høy lønn, nedjustert fordi samlet stillingsprosent overstiger 160
+38	Verdi satt til 100 (kilde: SFU UTEN LONN)
+39	Verdi satt til 100 (kilde: SFU UTEN LONN), nedjustert fordi samlet stillingsprosent overstiger 160

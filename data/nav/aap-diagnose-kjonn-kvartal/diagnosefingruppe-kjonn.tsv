@@ -1,0 +1,81 @@
+# Kilde: Nav
+# Tabell: Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, kvartal (AAP370)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger
+# Lagt inn: 2026-10-20
+# Ark: Diagnosefingruppe. Kjønn
+# Mottakere av arbeidsavklaringspenger. Diagnose og kjønn. Tidsserie kvartal
+# Diagnosefingruppe og kjønn. Antall
+# Periode: 3. kvartal 2010 - 2026
+gruppe	rad		2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner	I alt		101855	102392	98424	97115	90122	88220	86065	83884	76316	68120	70429	77006	81356	86376	91384	97563	100310
+Kvinner	Allment	Annet allment inkl. avklaring/prosedyrer	654	693	661	635	591	608	576	546	472	370	365	374	373	388	413	458	453
+Kvinner	Allment	Infeksjonssykdommer	155	161	189	203	210	202	194	182	151	126	117	116	143	154	144	151	146
+Kvinner	Allment	Skader/forgiftning/komplikasjoner	1151	1162	1094	1097	1002	979	965	912	826	726	685	727	748	765	790	809	784
+Kvinner	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	2812	3033	3195	3432	3378	3475	3683	3838	3730	3459	3594	3971	4441	5336	5932	6438	6678
+Kvinner	Allment	Symptomer på sykdom inkl.smerte/feber	278	296	300	321	310	293	260	270	261	249	277	323	373	439	477	579	722
+Kvinner	Andre lidelser		5019	5255	5184	5313	5129	5047	4947	4884	4380	3833	3887	4271	4437	4591	4678	4914	4910
+Kvinner	Andre lidelser	Skader/komplikasjoner	40	33	29	35	32	28	24	26	22	23	22	24	19	21	24	31	26
+Kvinner	Hjerte- og karsykdommer		1757	1817	1795	1842	1891	1818	1712	1619	1454	1280	1326	1445	1484	1519	1513	1558	1522
+Kvinner	Kreft		2271	2346	2588	2798	2958	3160	3218	3191	3125	2986	3065	3242	3266	3333	3524	3602	3715
+Kvinner	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	2195	2165	1988	2029	1894	1931	1965	1949	1720	1537	1506	1655	1661	1566	1562	1598	1688
+Kvinner	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	58	54	42	33	24	23	21	25	19	12	*	14	15	13	*	17	19
+Kvinner	Muskel- og skjelettlidelser	Artrose	2152	2363	2403	2503	2585	2443	2326	2318	2083	1810	1799	2050	2153	2142	2152	2101	2072
+Kvinner	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	1276	1355	1370	1382	1350	1299	1228	1192	1114	985	1048	1147	1167	1177	1224	1310	1287
+Kvinner	Muskel- og skjelettlidelser	Brudd og skade	1327	1390	1379	1388	1354	1309	1257	1251	1131	1046	1120	1196	1192	1198	1175	1261	1272
+Kvinner	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	6630	6811	6615	6645	6269	6096	5792	5370	4586	3862	3786	4143	4232	4026	4106	4292	4190
+Kvinner	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	467	484	475	476	477	430	411	395	350	285	311	364	386	423	468	518	559
+Kvinner	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	1023	1093	1172	1243	1231	1208	1145	1052	881	766	785	923	1068	1230	1349	1535	1640
+Kvinner	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	1461	1435	1313	1333	1319	1298	1264	1309	1175	1011	970	1028	1002	1018	968	959	920
+Kvinner	Muskel- og skjelettlidelser	Rygglidelser	7115	7180	6970	7003	6574	6267	5884	5604	4830	4173	4304	4789	5093	5274	5367	5676	5734
+Kvinner	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	7539	7471	6909	6809	6343	6205	6008	5809	5412	4904	5240	5905	6491	6934	7141	7242	7292
+Kvinner	Psykiske lidelser	Andre psykiske plager	1714	1905	2017	2068	2010	2187	2301	2362	2255	2011	1984	2125	2200	2320	2511	2966	3114
+Kvinner	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	5062	5385	5275	5232	4865	4947	4844	4764	4334	3891	4051	4404	5010	5895	6956	7803	8439
+Kvinner	Psykiske lidelser	Angst-, tvangs- og stresslidelser	6044	6436	6463	6632	6330	6537	6702	6763	6305	6086	6629	7427	8147	9224	10088	10821	11309
+Kvinner	Psykiske lidelser	Depresjon/bipolar lidelse	13882	14925	15189	15412	14624	14573	14184	13787	12524	11034	11603	12273	12192	12110	12057	12386	12056
+Kvinner	Psykiske lidelser	Hukommelsesforstyrrelse/demens	126	159	161	174	199	209	200	226	216	202	202	227	248	283	336	398	377
+Kvinner	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	1301	1449	1490	1478	1409	1372	1315	1242	1092	947	989	1053	1107	1166	1206	1212	1229
+Kvinner	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	2949	3376	3600	3817	3810	3980	3854	3647	3209	2815	2885	3117	3400	3917	4684	5563	6038
+Kvinner	Psykiske lidelser	Psykose/schizofreni	936	951	854	864	759	753	722	704	614	516	496	557	559	548	546	617	659
+Kvinner	Psykiske lidelser	Søvnforstyrrelse	179	214	219	252	266	276	313	305	292	260	267	324	353	365	376	419	419
+Kvinner	Sykdommer i fordøyelsesorganene		1843	1969	2020	2095	2056	2069	2089	2021	1938	1733	1760	1889	1989	2062	2177	2220	2306
+Kvinner	Sykdommer i luftveiene		867	925	863	888	873	818	751	699	616	561	549	633	706	858	884	844	784
+Kvinner	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	2851	2965	2953	3056	3085	3070	2937	2807	2570	2327	2360	2548	2663	2719	2751	2861	2933
+Kvinner	Sykdommer i nervesystemet	Migrene/ hodepine	1364	1382	1410	1473	1489	1514	1601	1631	1560	1534	1787	2089	2416	2755	3198	3802	4410
+Kvinner	Sykdommer i nervesystemet	Skader i hode/ nervesystem	262	267	285	294	296	283	308	321	345	369	396	432	443	457	487	515	559
+Kvinner	Ukjent		17095	13487	9954	6860	3130	1513	1064	863	724	391	255	201	179	150	112	87	49
+Menn	I alt		69872	71451	68594	66871	62437	61330	60091	58435	52355	47078	49465	54084	56189	60026	63468	68155	69043
+Menn	Allment	Annet allment inkl. avklaring/prosedyrer	648	738	760	778	729	718	676	626	529	444	430	457	459	494	530	568	572
+Menn	Allment	Infeksjonssykdommer	117	122	121	149	148	129	131	129	115	103	93	102	102	122	113	110	94
+Menn	Allment	Skader/forgiftning/komplikasjoner	1229	1301	1219	1192	1065	1089	1099	1082	988	898	850	880	878	925	1000	1059	1020
+Menn	Allment	Slapphet/tretthet inkl. utmattelse etter virusinfeksjon	784	869	924	971	980	1015	1086	1130	1129	1049	1096	1197	1316	1631	1855	2054	2120
+Menn	Allment	Symptomer på sykdom inkl.smerte/feber	169	194	199	201	207	202	206	195	174	158	169	200	231	265	282	311	349
+Menn	Andre lidelser		3130	3339	3231	3187	3049	3037	3058	2947	2650	2413	2545	2792	2820	2940	2989	3150	3138
+Menn	Andre lidelser	Skader/komplikasjoner	72	74	64	68	65	67	71	52	50	41	44	49	45	36	43	43	56
+Menn	Hjerte- og karsykdommer		2845	3054	3084	3198	3194	3115	2911	2797	2452	2169	2150	2391	2449	2580	2597	2704	2711
+Menn	Kreft		979	1027	1106	1134	1238	1305	1308	1297	1327	1348	1344	1412	1441	1458	1483	1504	1506
+Menn	Muskel- og skjelettlidelser	Andre spesifikke sykdommer i muskel- skjelettsystemet	1189	1230	1217	1215	1210	1168	1167	1119	1022	914	971	1122	1132	1170	1225	1264	1281
+Menn	Muskel- og skjelettlidelser	Annet muskel- skjelett inkl. avklaringer/prosedyrer	20	18	20	19	15	16	17	16	*	10	11	13	13	10	11	17	12
+Menn	Muskel- og skjelettlidelser	Artrose	1267	1359	1389	1458	1475	1527	1495	1468	1309	1234	1285	1459	1493	1521	1559	1669	1660
+Menn	Muskel- og skjelettlidelser	Betennelse/ overbelastning i sener/ ledd/ slimposer	700	762	786	747	705	720	708	684	584	525	550	597	663	648	706	780	727
+Menn	Muskel- og skjelettlidelser	Brudd og skade	1899	2000	1951	1937	1857	1819	1826	1822	1584	1433	1541	1658	1674	1661	1730	1845	1820
+Menn	Muskel- og skjelettlidelser	Nakke/ skulderlidelser	4390	4564	4479	4451	4272	4113	3912	3808	3299	2904	2940	3353	3393	3519	3778	4070	4057
+Menn	Muskel- og skjelettlidelser	Plager i bryst/kjeve/armer/hånd	382	387	380	363	375	362	343	316	265	252	271	292	313	348	406	449	480
+Menn	Muskel- og skjelettlidelser	Plager i hofte/knær/ben/fot	874	972	1017	1086	1023	963	923	805	679	594	635	781	903	1024	1187	1355	1462
+Menn	Muskel- og skjelettlidelser	Revmatiske lidelser, inkl. leddgikt	763	736	628	647	683	659	640	647	567	477	481	549	541	543	507	507	495
+Menn	Muskel- og skjelettlidelser	Rygglidelser	6305	6583	6290	6165	5687	5523	5295	5088	4501	3933	4183	4779	5183	5593	5878	6431	6632
+Menn	Muskel- og skjelettlidelser	Smerter og plager i muskler/ledd inkl. fibromyalgi	1168	1204	1166	1108	1062	1025	999	940	885	779	835	975	1058	1184	1248	1263	1239
+Menn	Psykiske lidelser	Andre psykiske plager	1279	1440	1589	1630	1717	1777	1847	1896	1745	1493	1506	1596	1678	1867	1936	2126	2133
+Menn	Psykiske lidelser	Andre spesifikke psykiske sykdommer inkl. adhd/autisme	4006	4446	4556	4605	4511	4624	4585	4521	3924	3613	3772	4158	4412	5061	5619	6232	6641
+Menn	Psykiske lidelser	Angst-, tvangs- og stresslidelser	3795	4258	4279	4373	4300	4431	4541	4428	4067	3775	4199	4485	4720	5112	5499	5837	5887
+Menn	Psykiske lidelser	Depresjon/bipolar lidelse	7902	8653	8760	8951	8644	8810	8655	8546	7743	7026	7549	8131	8177	8397	8539	8957	8874
+Menn	Psykiske lidelser	Hukommelsesforstyrrelse/demens	144	170	193	220	232	248	268	242	242	219	237	240	250	314	345	367	351
+Menn	Psykiske lidelser	Misbruk av alkohol/narkotika/legemidler	2821	3311	3426	3464	3332	3304	3263	3088	2682	2482	2785	2869	2924	3166	3399	3588	3585
+Menn	Psykiske lidelser	Psykiske symptomer/ utbrenthet/ reaksjon på belastende hendelser	1348	1546	1674	1708	1684	1671	1629	1476	1275	1109	1146	1239	1351	1602	1885	2235	2407
+Menn	Psykiske lidelser	Psykose/schizofreni	1595	1622	1427	1370	1265	1214	1210	1209	1066	993	1067	1071	1067	1057	1093	1161	1193
+Menn	Psykiske lidelser	Søvnforstyrrelse	235	284	310	332	321	341	360	375	359	334	343	384	397	413	463	504	501
+Menn	Sykdommer i fordøyelsesorganene		1243	1328	1373	1448	1403	1442	1422	1445	1355	1236	1306	1384	1402	1456	1529	1655	1719
+Menn	Sykdommer i luftveiene		841	898	894	881	819	800	751	734	636	527	524	607	700	749	758	749	721
+Menn	Sykdommer i nervesystemet	Andre lidelser i nervesystemet	1913	1956	1966	2066	2098	2112	2009	2014	1829	1551	1561	1769	1846	1923	1935	2086	2052
+Menn	Sykdommer i nervesystemet	Migrene/ hodepine	552	555	573	570	537	536	535	536	475	456	526	618	672	754	860	994	1093
+Menn	Sykdommer i nervesystemet	Skader i hode/ nervesystem	394	412	387	367	365	372	359	363	318	288	318	330	353	376	388	421	397
+Menn	Ukjent		12874	10039	7156	4812	2170	1076	786	594	523	298	202	145	133	107	93	90	58

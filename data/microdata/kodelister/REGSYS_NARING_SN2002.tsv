@@ -1,0 +1,700 @@
+kode	kategori
+00.000	Uoppgitt
+01.110	Dyrking av jordbruksvekster
+01.121	Dyrking av hagebruksvekster på friland
+01.122	Dyrking av hagebruksvekster i veksthus
+01.130	Dyrking av frukt, bær og krydderurter
+01.210	Storfehold og melkeproduksjon
+01.220	Saue- og geitehold. Oppdrett av hester
+01.230	Svinehold
+01.240	Fjørfehold
+01.250	Husdyrhold ellers
+01.300	Kombinert husdyrhold og planteproduksjon
+01.410	Tjenester tilknyttet planteproduksjon. Beplanting og vedlikehold av hager og parkanlegg
+01.420	Tjenester tilknyttet husdyrhold
+01.500	Jakt, viltstell og tjenester tilknyttet jakt og viltstell
+02.011	Avvirking
+02.012	Skogbruk ellers
+02.020	Tjenester tilknyttet skogbruk
+05.011	Hav- og kystfiske
+05.012	Hvalfangst
+05.013	Ferskvannsfiske
+05.021	Produksjon av matfisk og skalldyr
+05.022	Produksjon av yngel og settefisk
+05.023	Tjenester tilknyttet fiskeoppdrett
+10.100	Bryting av steinkull
+10.200	Bryting av brunkull
+10.300	Stikking av torv
+11.100	Utvinning av råolje og naturgass
+11.200	Tjenester tilknyttet olje- og gassutvinning
+12.000	Bryting av uran- og thoriummalm
+13.100	Bryting av jernmalm
+13.200	Bryting av ikke-jernholdig malm unntatt uran- og thoriummalm
+14.110	Bryting av stein til bygge- og anleggsvirksomhet
+14.120	Bryting av kalkstein, gips og kritt
+14.130	Bryting av skifer
+14.210	Utvinning fra grus- og sandtak
+14.220	Utvinning av leire og kaolin
+14.300	Bryting og utvinning av kjemiske mineraler og gjødselsmineraler
+14.400	Produksjon av salt
+14.500	Annen bryting og utvinning
+15.110	Slakting, produksjon og konservering av kjøtt
+15.120	Slakting, produksjon og konservering av fjørfekjøtt
+15.130	Produksjon av kjøtt- og fjørfevarer
+15.201	Produksjon av saltfisk, tørrfisk og klippfisk
+15.202	Frysing av fisk, fiskefileter, skalldyr og bløtdyr
+15.203	Produksjon av fiskehermetikk
+15.209	Bearbeiding og konservering av fisk og fiskevarer ellers
+15.310	Bearbeiding og konservering av poteter
+15.320	Produksjon av juice av frukt og grønnsaker
+15.330	Bearbeiding og konservering av frukt og grønnsaker ellers
+15.411	Produksjon av rå fiskeoljer og fett
+15.419	Produksjon av andre uraffinerte oljer og fett
+15.421	Produksjon av animalske oljer og fett
+15.422	Produksjon av vegetabilske oljer og fett
+15.430	Produksjon av margarin og liknende spiselige fettstoffer
+15.510	Produksjon av meierivarer
+15.520	Produksjon av iskrem
+15.610	Produksjon av kornvarer
+15.620	Produksjon av stivelse og stivelsesprodukter
+15.710	Produksjon av fôr til husdyrhold
+15.720	Produksjon av fôr til kjæledyr
+15.810	Produksjon av brød og ferske konditorvarer
+15.820	Produksjon av kavring og kjeks og konserverte konditorvarer
+15.830	Produksjon av sukker
+15.840	Produksjon av kakao, sjokolade og sukkervarer
+15.850	Produksjon av pastavarer
+15.860	Bearbeiding av te og kaffe
+15.870	Produksjon av smakstilsettingsstoffer og krydderier
+15.880	Produksjon av homogeniserte matprodukter og diettmat
+15.890	Produksjon av næringsmidler ellers
+15.910	Produksjon av destillerte alkoholholdige drikkevarer
+15.920	Produksjon av etylalkohol av gjærede råvarer
+15.930	Produksjon av vin
+15.940	Produksjon av sider og annen fruktvin
+15.950	Produksjon av andre ikke-destillerte gjærede drikkevarer
+15.960	Produksjon av øl
+15.970	Produksjon av malt
+15.980	Produksjon av mineralvann og leskedrikker
+16.000	Produksjon av tobakksvarer
+17.110	Bearbeiding og spinning av fibrer av bomullstype
+17.120	Bearbeiding og spinning av fibrer av kardegarnstype
+17.130	Bearbeiding og spinning av fibrer av kamgarnstype
+17.140	Bearbeiding og spinning av fibrer av lintype
+17.150	Tvinning og spinning av fibrer av silketype
+17.160	Produksjon av sytråd
+17.170	Bearbeiding og spinning av andre tekstilfibrer
+17.210	Veving av stoffer av bomullstype
+17.220	Veving av stoffer av kardegarnstype
+17.230	Veving av stoffer av kamgarnstype
+17.240	Veving av silke
+17.250	Veving av andre tekstiler
+17.300	Etterbehandling av tekstiler
+17.401	Produksjon av utstyrsvarer
+17.409	Produksjon av andre tekstilvarer, unntatt klær
+17.510	Produksjon av gulvtepper, -matter og -ryer
+17.520	Produksjon av tauverk og nett
+17.530	Produksjon av ikke-vevde tekstiler og tekstilvarer, unntatt klær
+17.540	Produksjon av tekstiler ellers
+17.600	Produksjon av stoffer av trikotasje
+17.710	Produksjon av strømpevarer
+17.720	Produksjon av gensere, jakker og vester av trikotasje
+18.100	Produksjon av klær av lær
+18.210	Produksjon av arbeidstøy
+18.220	Produksjon av annet yttertøy
+18.230	Produksjon av undertøy og innertøy
+18.240	Produksjon av klær og tilbehør ellers
+18.300	Beredning og farging av pelsskinn. Produksjon av pelsvarer
+19.100	Beredning av lær
+19.200	Produksjon av reiseeffekter og salmakerartikler
+19.300	Produksjon av skotøy
+20.101	Saging og høvling av tre
+20.102	Treimpregnering
+20.200	Produksjon av finer, kryssfiner, lamelltre, spon-, fiber- og andre bygnings- og møbelplater av tre
+20.301	Produksjon av monteringsferdige hus
+20.302	Produksjon av bygningsartikler
+20.400	Produksjon av treemballasje
+20.510	Produksjon av trevarer ellers
+20.520	Produksjon av varer av kork, strå og flettematerialer
+21.111	Produksjon av mekanisk tremasse
+21.112	Produksjon av sulfat- og sulfittcellulose
+21.120	Produksjon av papir og papp
+21.210	Produksjon av bølgepapp og emballasje av papir og papp
+21.220	Produksjon av husholdnings-, sanitær- og toalettartikler av papir
+21.230	Produksjon av kontorartikler av papir
+21.240	Produksjon av tapeter
+21.250	Produksjon av varer av papir og papp ellers
+22.110	Forlegging av bøker
+22.120	Forlegging av aviser
+22.130	Forlegging av blader og tidsskrifter
+22.140	Forlegging av lydopptak
+22.150	Forlagsvirksomhet ellers
+22.210	Trykking av aviser
+22.220	Trykking ellers
+22.230	Bokbinding
+22.240	Ferdiggjøring før trykking
+22.250	Annen grafisk produksjon
+22.310	Reproduksjon av lydopptak
+22.320	Reproduksjon av videoopptak
+22.330	Reproduksjon av data og programmer på edb-media
+23.100	Produksjon av kullprodukter
+23.200	Produksjon av raffinerte petroleumsprodukter
+23.300	Produksjon av kjernebrensel
+24.110	Produksjon av industrigasser
+24.120	Produksjon av fargestoffer og pigmenter
+24.131	Produksjon av karbider
+24.139	Produksjon av uorganiske kjemikalier ellers
+24.140	Produksjon av andre organiske kjemiske råvarer
+24.150	Produksjon av gjødsel og nitrogenforbindelser
+24.160	Produksjon av basisplast
+24.170	Produksjon av syntetisk gummi
+24.200	Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter
+24.301	Produksjon av maling og lakk
+24.302	Produksjon av trykkfarger og tetningsmidler
+24.410	Produksjon av farmasøytiske råvarer
+24.420	Produksjon av farmasøytiske preparater
+24.510	Produksjon av såpe og vaskemidler, rense- og polérmidler
+24.520	Produksjon av parfyme og toalettartikler
+24.610	Produksjon av eksplosiver
+24.620	Produksjon av lim og gelatin
+24.630	Produksjon av eteriske oljer
+24.640	Produksjon av fotokjemiske produkter
+24.650	Produksjon av uinnspilte media
+24.660	Produksjon av kjemiske produkter ellers
+24.700	Produksjon av kunstfibrer
+25.110	Produksjon av gummidekk og slanger til gummidekk
+25.120	Regummiering og vulkanisering av gummidekk
+25.130	Produksjon av gummiprodukter ellers
+25.210	Produksjon av halvfabrikater av plast
+25.220	Produksjon av plastemballasje
+25.230	Produksjon av byggevarer av plast
+25.240	Produksjon av plastprodukter ellers
+26.110	Produksjon av planglass
+26.120	Bearbeiding av planglass
+26.130	Produksjon av emballasje og husholdningsartikler av glass og krystall
+26.140	Produksjon av glassfibrer
+26.150	Produksjon av teknisk glass og andre glassvarer
+26.210	Produksjon av keramiske husholdningsartikler og dekorasjonsgjenstander
+26.220	Produksjon av sanitærutstyr av keramisk materiale
+26.230	Produksjon av isolatorer og isoleringsdeler av keramisk materiale
+26.240	Produksjon av andre keramiske produkter for teknisk bruk
+26.250	Produksjon av andre keramiske produkter
+26.260	Produksjon av ildfaste keramiske produkter
+26.300	Produksjon av keramiske vegg- og gulvfliser
+26.400	Produksjon av murstein, teglstein og andre byggevarer av brent leire
+26.510	Produksjon av sement
+26.520	Produksjon av kalk
+26.530	Produksjon av gips
+26.610	Produksjon av betongvarer for bygge- og anleggsvirksomhet
+26.620	Produksjon av gipsvarer for bygge- og anleggsvirksomhet
+26.630	Produksjon av ferdigblandet betong
+26.640	Produksjon av mørtel
+26.650	Produksjon av fibersement
+26.660	Produksjon av betong-, sement- og gipsprodukter ellers
+26.700	Hogging og bearbeiding av monument- og bygningsstein
+26.810	Produksjon av slipestoffer
+26.820	Produksjon av ikke-metallholdige mineralprodukter ellers
+27.100	Produksjon av jern og stål samt ferrolegeringer
+27.210	Produksjon av rør og rørdeler av støpejern
+27.220	Produksjon av andre rør og rørdeler av jern og stål
+27.310	Kaldtrekking av stenger og profiler
+27.320	Kaldvalsing av bånd
+27.330	Kaldvalsing og pressing av profilerte plater og profiler
+27.340	Trekking av tråd
+27.410	Produksjon av edelmetaller
+27.421	Produksjon av primæraluminium
+27.422	Produksjon av halvfabrikater av aluminium
+27.430	Produksjon av bly, sink og tinn
+27.440	Produksjon av kobber
+27.450	Produksjon av ikke-jernholdige metaller ellers
+27.510	Støping av jern
+27.520	Støping av stål
+27.530	Støping av lettmetaller
+27.540	Støping av andre ikke-jernholdige metaller
+28.110	Produksjon av metallkonstruksjoner og deler
+28.120	Produksjon av bygningsartikler av metall
+28.210	Produksjon av cisterner, tanker og beholdere av metall
+28.220	Produksjon av radiatorer og kjeler til sentralvarmeanlegg
+28.300	Produksjon av dampkjeler, unntatt kjeler til sentralvarmeanlegg
+28.400	Smiing, stansing og valsing av metall. Pulvermetallurgi
+28.510	Overflatebehandling av metaller
+28.520	Bearbeiding av metaller
+28.610	Produksjon av kjøkkenredskaper og skjære- og klipperedskaper
+28.620	Produksjon av håndverktøy
+28.630	Produksjon av låser og beslag
+28.710	Produksjon av stålfat og liknende beholdere av jern og stål
+28.720	Produksjon av emballasje av lettmetall
+28.730	Produksjon av varer av metalltråd
+28.740	Produksjon av bolter, skruer, muttere, kjetting og fjærer
+28.750	Produksjon av metallvarer ellers
+29.111	Produksjon av skipsmotorer
+29.119	Produksjon av motorer og turbiner ellers unntatt motorer til luftfartøyer og motorvogner
+29.120	Produksjon av pumper og kompressorer
+29.130	Produksjon av kraner og ventiler
+29.140	Produksjon av lagre, gir, tannhjulsutvekslinger og andre innretninger for kraftoverføring
+29.210	Produksjon av industri- og laboratorieovner
+29.221	Produksjon av løfte- og håndteringsutstyr til skip og båter
+29.229	Produksjon av løfte- og håndteringsutstyr ellers
+29.230	Produksjon av kjøle- og ventilasjonsanlegg unntatt til husholdningsbruk
+29.240	Produksjon av maskiner og utstyr til generell bruk ellers
+29.310	Produksjon av jordbruks- og skogbrukstraktorer
+29.320	Produksjon av jordbruks- og skogbruksmaskiner og -utstyr ellers
+29.410	Produksjon av bærbart, motordrevet håndverktøy
+29.420	Produksjon av annet maskinverktøy til metallbearbeiding
+29.430	Produksjon av maskinverktøy ikke nevnt annet sted
+29.510	Produksjon av maskiner og utstyr til metallurgisk industri
+29.520	Produksjon av maskiner og utstyr til bergverksdrift og bygge- og anleggsvirksomhet
+29.530	Produksjon av maskiner og utstyr til nærings- og nytelsesmiddelindustri
+29.540	Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvareindustri
+29.550	Produksjon av maskiner og utstyr til papir- og pappvareindustri
+29.560	Produksjon av spesialmaskiner ellers
+29.600	Produksjon av våpen og ammunisjon
+29.710	Produksjon av elektriske husholdningsmaskiner og -apparater
+29.720	Produksjon av ikke-elektriske husholdningsmaskiner og -apparater
+30.010	Produksjon av kontormaskiner
+30.020	Produksjon av datamaskiner og annet databehandlingsutstyr
+31.100	Produksjon av elektromotorer, generatorer og transformatorer
+31.200	Produksjon av elektriske fordelings- og kontrolltavler og paneler
+31.300	Produksjon av isolert ledning og kabel
+31.400	Produksjon av akkumulatorer, tørrelementer og batterier
+31.500	Produksjon av belysningsutstyr og elektriske lamper
+31.610	Produksjon av elektrisk utstyr til motorer og kjøretøyer
+31.620	Produksjon av elektrisk utstyr ellers
+32.100	Produksjon av elektronrør og andre elektroniske komponenter
+32.200	Produksjon av radio- og fjernsynssendere og apparater til linjetelefoni og -telegrafi
+32.300	Produksjon av radio- og fjernsynsmottakere og apparater og utstyr til opptak og gjengivelse av lyd og bilde samt tilhørende varer
+33.100	Produksjon av medisinsk og kirurgisk utstyr og ortopediske artikler
+33.200	Produksjon av måle- og kontrollinstrumenter og -utstyr, unntatt industrielle prosesstyringsanlegg
+33.300	Produksjon av industrielle prosesstyringsanlegg
+33.400	Produksjon av optiske instrumenter og fotografisk utstyr
+33.500	Produksjon av klokker og ur
+34.100	Produksjon av motorvogner
+34.200	Produksjon av karosserier og tilhengere
+34.300	Produksjon av deler og utstyr til motorvogner og motorer
+35.111	Bygging og reparasjon av skip og skrog over 100 bruttotonn
+35.112	Innrednings- og installasjonsarbeid utført på skip over 100 bruttotonn
+35.113	Bygging og reparasjon av båter under 100 bruttotonn
+35.114	Bygging og reparasjon av oljeplattformer og moduler
+35.115	Innrednings- og installasjonsarbeid utført på borerigger og moduler
+35.116	Produksjon av annet flytende materiell
+35.120	Bygging og reparasjon av fritidsbåter
+35.201	Produksjon av jernbane- og sporvognmateriell
+35.202	Reparasjon av jernbane- og sporvognmateriell
+35.300	Produksjon og reparasjon av luftfartøyer og romfartøyer
+35.410	Produksjon av motorsykler
+35.420	Produksjon av sykler
+35.430	Produksjon av invalidevogner
+35.500	Produksjon av transportmidler ellers
+36.110	Produksjon av sittemøbler
+36.120	Produksjon av andre møbler for kontor og butikk
+36.130	Produksjon av andre kjøkkenmøbler
+36.140	Produksjon av møbler ellers
+36.150	Produksjon av madrasser
+36.210	Preging av mynter og medaljer
+36.220	Produksjon av smykker og varer av edle metaller, edelstener og halvedelstener
+36.300	Produksjon av musikkinstrumenter
+36.400	Produksjon av sportsartikler
+36.500	Produksjon av spill og leker
+36.610	Produksjon av bijouterivarer
+36.620	Produksjon av koster og børster
+36.630	Industriproduksjon ikke nevnt annet sted
+37.100	Gjenvinning av metallholdig avfall og skrap
+37.200	Gjenvinning av ikke-metallholdig avfall og skrap
+40.110	Produksjon av elektrisitet
+40.120	Overføring av elektrisitet
+40.130	Distribusjon og handel med elektrisitet
+40.210	Produksjon  av gass
+40.220	Distribusjon og handel med gass gjennom ledningsnett
+40.300	Damp- og varmtvannsforsyning
+41.000	Oppsamling, rensing og distribusjon av vann
+45.110	Riving av bygninger og flytting av masse
+45.120	Prøveboring
+45.211	Oppføring av bygninger
+45.212	Oppføring av andre konstruksjoner
+45.221	Blikkenslagerarbeid
+45.229	Takarbeid ellers
+45.230	Bygging av veier, flyplasser og idrettsanlegg
+45.240	Bygging av havne- og damanlegg
+45.250	Annen spesialisert bygge- og anleggsvirksomhet
+45.310	Elektrisk installasjonsarbeid
+45.320	Isolasjonsarbeid
+45.330	VVS-arbeid
+45.340	Annen bygginstallasjon
+45.410	Stukkatørarbeid og pussing
+45.420	Snekkerarbeid
+45.430	Gulvlegging og tapetsering
+45.441	Malerarbeid
+45.442	Glassarbeid
+45.450	Annen ferdiggjøring av bygninger
+45.500	Utleie av bygge- og anleggsmaskiner med personell
+50.101	Agentur- og engroshandel med motorvogner, unntatt motorsykler
+50.102	Detaljhandel med motorvogner, unntatt motorsykler
+50.200	Vedlikehold og reparasjon av motorvogner, unntatt motorsykler
+50.301	Agentur- og engroshandel med deler og utstyr til motorvogner, unnattt motorsykler
+50.302	Detaljhandel med deler og utstyr til motorvogner, unntatt motorsykler
+50.401	Agentur- og engroshandel med motorsykler, deler og utstyr
+50.402	Detaljhandel med motorsykler, deler og utstyr
+50.403	Vedlikehold og reparasjon av motorsykler
+50.500	Detaljhandel med drivstoff til motorvogner
+51.110	Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og innsatsvarer
+51.120	Agenturhandel med brensel, drivstoff, malm, metaller og industrikjemikalier
+51.130	Agenturhandel med tømmer, trelast og byggevarer
+51.140	Agenturhandel med maskiner, produksjonsutstyr, båter og luftfartøyer
+51.150	Agenturhandel med møbler, husholdningsvarer og jernvarer
+51.160	Agenturhandel med tekstiler, klær, skotøy og lærvarer
+51.170	Agenturhandel med nærings- og nytelsesmidler
+51.180	Agenturhandel med spesialisert vareutvalg ellers
+51.190	Agenturhandel med bredt vareutvalg
+51.210	Engroshandel med korn, såvarer og fôr
+51.220	Engroshandel med blomster og planter
+51.230	Engroshandel med levende dyr
+51.240	Engroshandel med huder, skinn og lær
+51.250	Engroshandel med råtobakk
+51.310	Engroshandel med frukt og grønnsaker
+51.320	Engroshandel med kjøtt og kjøttvarer
+51.330	Engroshandel med meierivarer, egg, matolje og -fett
+51.341	Engroshandel med vin og brennevin
+51.349	Engroshandel med drikkevarer ellers
+51.350	Engroshandel med tobakksvarer
+51.360	Engroshandel med sukker, sjokolade og sukkervarer
+51.370	Engroshandel med kaffe, te, kakao og krydder
+51.381	Engroshandel med fisk og skalldyr
+51.389	Engroshandel med spesialisert utvalg av nærings- og nytelsesmidler ikke nevnt annet sted
+51.390	Engroshandel med bredt utvalg av nærings- og nytelsesmidler
+51.410	Engroshandel med tekstiler og utstyrsvarer
+51.421	Engroshandel med klær
+51.422	Engroshandel med skotøy
+51.431	Engroshandel med belysningsutstyr
+51.432	Engroshandel med elektriske husholdningsapparater
+51.433	Engroshandel med radio og fjernsyn
+51.434	Engroshandel med plater, musikk- og videokassetter og CD- og DVD-plater
+51.441	Engroshandel med kjøkkenutstyr, glass og steintøy
+51.442	Engroshandel med tapeter og rengjøringsmidler
+51.450	Engroshandel med parfyme og kosmetikk
+51.460	Engroshandel med sykepleie- og apotekvarer
+51.471	Engroshandel med bøker, aviser og blader
+51.472	Engroshandel med møbler og innredningsartikler
+51.473	Engroshandel med gulvbelegg og gulvtepper
+51.474	Engroshandel med reiseeffekter og lærvarer
+51.475	Engroshandel med ur, foto- og optiske artikler
+51.476	Engroshandel med gull- og sølvvarer
+51.477	Engroshandel med sports- og fritidsutstyr, spill og leker
+51.479	Engroshandel med husholdningsvarer og varer til personlig bruk ikke nevnt annet sted
+51.510	Engroshandel med drivstoff og brensel
+51.520	Engroshandel med metaller og metallholdig malm
+51.531	Engroshandel med tømmer
+51.532	Engroshandel med trelast
+51.533	Engroshandel med fargevarer
+51.539	Engroshandel med byggevarer ikke nevnt annet sted
+51.540	Engroshandel med jernvarer, rørleggerartikler og oppvarmingsutstyr
+51.550	Engroshandel med kjemiske produkter
+51.561	Engroshandel med papir og papp
+51.569	Engroshandel med innsatsvarer ikke nevnt annet sted
+51.570	Engroshandel med avfall og skrap
+51.810	Engroshandel med maskinverktøy
+51.820	Engroshandel med maskiner og utstyr til bygge- og anleggsvirksomhet
+51.830	Engroshandel med maskiner og utstyr til tekstilproduksjon
+51.840	Engroshandel med datamaskiner, tilleggsutstyr til datamaskiner samt programvare
+51.850	Engroshandel med maskiner og utstyr til kontor ellers
+51.860	Engroshandel med elektroniske komponenter
+51.871	Engroshandel med maskiner og utstyr til kraftproduksjon og installasjon
+51.872	Engroshandel med skipsutstyr og fiskeredskap
+51.873	Engroshandel med maskiner og utstyr til olje- og gassutvinning, bergverksdrift og industri ellers
+51.874	Engroshandel med maskiner og utstyr til handel, transport og tjenesteyting ellers
+51.880	Engroshandel med maskiner og utstyr til jordbruk og skogbruk
+51.900	Engroshandel ikke nevnt annet sted
+52.110	Butikkhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler
+52.120	Butikkhandel med bredt vareutvalg ellers
+52.210	Butikkhandel med frukt og grønnsaker
+52.220	Butikkhandel med kjøtt og kjøttvarer
+52.230	Butikkhandel med fisk og skalldyr
+52.241	Butikkhandel med bakervarer og konditorvarer
+52.242	Butikkhandel med sjokolade og sukkervarer
+52.251	Butikkhandel med vin og brennevin
+52.252	Butikkhandel med drikkevarer ellers
+52.260	Butikkhandel med tobakksvarer
+52.271	Butikkhandel med helsekost
+52.272	Butikkhandel med kaffe og te
+52.279	Butikkhandel med nærings- og nytelsesmidler ikke nevnt annet sted
+52.310	Butikkhandel med apotekvarer
+52.320	Butikkhandel med medisinske og ortopediske artikler
+52.330	Butikkhandel med kosmetikk og toalettartikler
+52.410	Butikkhandel med tekstiler og utstyrsvarer
+52.420	Butikkhandel med klær
+52.431	Butikkhandel med skotøy
+52.432	Butikkhandel med reiseeffekter av lær og lærimitasjoner og varer av lær
+52.441	Butikkhandel med belysningsutstyr
+52.442	Butikkhandel med kjøkkenutstyr, glass og steintøy
+52.443	Butikkhandel med møbler
+52.449	Butikkhandel med innredningsartikler ikke nevnt annet sted
+52.451	Butikkhandel med elektriske husholdningsapparater, radio og fjernsyn
+52.452	Butikkhandel med plater, musikk- og videokassetter, CD- og DVD-plater
+52.453	Butikkhandel med musikkinstrumenter og noter
+52.461	Butikkhandel med bredt utvalg av jernvarer, fargevarer og andre byggevarer
+52.462	Butikkhandel med jernvarer
+52.463	Butikkhandel med fargevarer
+52.464	Butikkhandel med trelast
+52.469	Butikkhandel med byggevarer ikke nevnt annet sted
+52.471	Butikkhandel med bøker og papir
+52.472	Butikkhandel med aviser og blader
+52.481	Butikkhandel med ur, foto- og optiske artikler
+52.482	Butikkhandel med gull- og sølvvarer
+52.483	Butikkhandel med fritidsutstyr, spill og leker
+52.484	Butikkhandel med blomster og planter
+52.485	Butikkhandel med datamaskiner, kontormaskiner og telekommunikasjonsutstyr
+52.486	Butikkhandel med tapeter og gulvbelegg
+52.487	Butikkhandel med tepper
+52.489	Butikkhandel ikke nevnt annet sted
+52.501	Butikkhandel med antikviteter
+52.502	Butikkhandel med brukte klær
+52.509	Butikkhandel med brukte varer ellers
+52.611	Postordrehandel med bredt vareutvalg
+52.612	Postordrehandel med tekstiler, utstyrsvarer, klær, skotøy, reiseeffekter og lærvarer
+52.613	Postordrehandel med belysningsutstyr, kjøkkenutstyr, møbler og innredningsartikler
+52.614	Postordrehandel med elektriske husholdningsapparater, radio, fjernsyn, plater, kassetter og musikkinstrumenter
+52.615	Postordrehandel med bøker, papir, aviser og blader
+52.619	Postordrehandel med annet spesialisert vareutvalg
+52.620	Torghandel
+52.630	Detaljhandel utenom butikk ellers
+52.710	Reparasjon av skotøy og andre lærvarer
+52.720	Reparasjon av elektrisk husholdningsutstyr, radio og fjernsyn
+52.730	Reparasjon av ur og gull- og sølvvarer
+52.740	Reparasjon av husholdningsvarer og varer til personlig bruk ellers
+55.101	Drift av hoteller, pensjonater og moteller med restaurant
+55.102	Drift av hoteller, pensjonater og moteller uten restaurant
+55.210	Drift av vandrerhjem og turisthytter
+55.220	Drift av campingplasser
+55.230	Overnatting ellers
+55.301	Drift av restauranter og kafeer
+55.302	Drift av gatekjøkken, salatbarer og pølseboder
+55.401	Drift av puber
+55.402	Drift av kaffe- og tebarer
+55.510	Kantiner drevet som selvstendig virksomhet
+55.520	Cateringvirksomhet
+60.100	Jernbanetransport
+60.211	Rutebiltransport
+60.212	Transport med sporveis- og forstadsbane
+60.213	Transport med taubaner og kabelbaner
+60.220	Drosjebiltransport
+60.230	Landtransport med passasjerer ellers
+60.240	Godstransport på vei
+60.300	Rørtransport
+61.101	Utenriks sjøfart
+61.103	Innenriks godstransport
+61.104	Innenlandske kystruter
+61.106	Slepebåter og forsyningsskip
+61.109	Kysttrafikk i Norge ellers
+61.200	Transport på elver og innsjøer
+62.100	Ruteflyging
+62.200	Annen flyging
+62.300	Romfart
+63.110	Lasting og lossing
+63.120	Lagring
+63.211	Drift av gods- og transportsentraler
+63.212	Drift av parkeringsplasser og parkeringshus
+63.213	Drift av bomstasjoner
+63.219	Tjenester tilknyttet landtransport ellers
+63.221	Drift av havne- og kaianlegg
+63.223	Redningstjeneste
+63.224	Forsyningsbaser
+63.229	Tjenester tilknyttet sjøtransport ellers
+63.230	Andre tjenester tilknyttet lufttransport
+63.301	Reisebyråvirksomhet
+63.302	Turistkontorvirksomhet
+63.303	Reisearrangørvirksomhet
+63.304	Guider og reiseledere
+63.305	Opplevelses-, arrangements- og aktivitetsarrangørvirksomhet
+63.309	Turistrelaterte tjenester ikke nevnt annet sted
+63.401	Spedisjon
+63.402	Skipsmekling
+63.403	Flymekling
+63.409	Transportformidling ellers
+64.110	Posttjenester
+64.120	Budtjenester ellers
+64.210	Operatørvirksomhet på fasttelefoni
+64.220	Operatørvirksomhet på mobiltelefoni
+64.230	Operatørvirksomhet på internett
+64.240	Telekommunikasjonsvirksomhet ellers
+65.110	Sentralbankvirksomhet
+65.120	Bankvirksomhet ellers
+65.210	Finansiell leasing
+65.220	Annen kredittgiving
+65.231	Aksje-, obligasjons-, pengemarkeds- og høyrentefond
+65.238	Porteføljeinvesteringer
+65.239	Annen verdipapirforvaltning
+66.010	Livsforsikring
+66.020	Pensjonskasser
+66.030	Skadeforsikring
+67.110	Administrasjon av finansmarkeder
+67.120	Fonds- og aksjemekling
+67.130	Hjelpevirksomhet for finansiell tjenesteyting ellers
+67.200	Hjelpevirksomhet for forsikring og pensjonskasser
+70.111	Boligbyggelag
+70.112	Utvikling og salg av egen fast eiendom ellers
+70.120	Kjøp og salg av egen fast eiendom
+70.201	Borettslag
+70.202	Utleie av egen fast eiendom ellers
+70.310	Eiendomsmekling
+70.321	Eiendomsforvaltning
+70.322	Vaktmestertjenester
+71.100	Bilutleie
+71.210	Utleie av annet landtransportmateriell
+71.220	Utleie av sjøtransportmateriell
+71.230	Utleie av lufttransportmateriell
+71.310	Utleie av landbruksmaskiner
+71.320	Utleie av bygge- og anleggsmaskiner
+71.330	Utleie av kontor- og datamaskiner
+71.340	Utleie av maskiner og utstyr ellers
+71.400	Utleie av husholdningsvarer og varer til personlig bruk
+72.100	Konsulentvirksomhet tilknyttet maskinvare
+72.210	Utvikling av standard programvare
+72.220	Annen konsulentvirksomhet tilknyttet system- og programvare
+72.300	Databehandling
+72.400	Drift av databaser
+72.500	Vedlikehold og reparasjon av kontormaskiner og datamaskiner
+72.600	Annen databehandlingsvirksomhet
+73.100	Forskning og utviklingsarbeid innen naturvitenskap og teknikk
+73.200	Forskning og utviklingsarbeid innen samfunnsvitenskap og humanistiske fag
+74.110	Juridisk tjenesteyting
+74.121	Regnskap og bokføring
+74.122	Revisjon
+74.123	Skatterådgiving
+74.130	Markeds- og opinionsundersøkelser
+74.140	Bedriftsrådgiving
+74.150	Ikke-finansielle holdingselskaper
+74.201	Arkitektvirksomhet
+74.202	Byggeteknisk konsulentvirksomhet
+74.203	Geologiske undersøkelser
+74.209	Annen teknisk konsulentvirksomhet
+74.300	Teknisk prøving analyse
+74.400	Annonse- og reklamevirksomhet
+74.501	Formidling av arbeidskraft
+74.502	Utleie av arbeidskraft
+74.600	Etterforsking og vakttjenester
+74.700	Rengjøringsvirksomhet
+74.810	Fotografvirksomhet
+74.820	Pakkevirksomhet
+74.851	Kontorservice
+74.852	Oversettingsvirksomhet
+74.860	Callsentervirksomhet
+74.871	Inkasso- og kredittopplysningsvirksomhet
+74.872	Designvirksomhet
+74.873	Interiørarkitekt- og interiørkonsulentvirksomhet
+74.874	Takseringsvirksomhet
+74.875	Modellbyråvirksomhet
+74.876	Impressariovirksomhet
+74.877	Kongress-, messe- og utstillingsvirksomhet
+74.879	Annen forretningsmessig tjenesteyting ikke nevnt annet sted
+75.110	Generell (overordnet) offentlig administrasjon og økonomiforvaltning
+75.120	Offentlig administrasjon tilknyttet helsestell, sosial virksomhet, undervisning, kirke, kultur og miljøvern
+75.130	Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked
+75.140	Hjelpetjenester for offentlig administrasjon
+75.210	Utenrikssaker
+75.220	Forsvar
+75.230	Retts- og fengselsvesen
+75.240	Politi- og påtalemyndighet
+75.250	Brannvern
+75.300	Trygdeordninger underlagt offentlig forvaltning
+80.101	Førskoleundervisning
+80.102	Grunnskoleundervisning
+80.103	Spesialskoleundervisning for funksjonshemmede
+80.104	Kompetansesentra og annen spesialundervisning
+80.105	PP-tjenester
+80.210	Undervisning i allmennfag
+80.220	Undervisning i tekniske og andre yrkesrettede fag
+80.301	Undervisning ved universiteter
+80.302	Undervisning ved  statlige høgskoler
+80.303	Undervisning ved militære høgskoler
+80.309	Undervisning ved andre høgskoler
+80.410	Trafikkskoleundervisning
+80.421	Folkehøgskoleundervisning
+80.422	Arbeidsmarkedskurs
+80.423	Studieforbunds- og frivillige organisasjoners kurs
+80.424	Kommunal musikkskolevirksomhet
+80.425	Fond/legat som støtter undervisningsformål
+80.429	Annen undervisning
+85.111	Alminnelige somatiske sykehus
+85.112	Somatiske spesialsykehus
+85.113	Somatiske spesialsykehjem
+85.114	Rehabiliterings- og opptreningsinstitusjoner
+85.115	Andre somatiske spesialinstitusjoner
+85.116	Institusjoner for voksenpsykiatri
+85.117	Institusjoner for barne- og ungdompsykiatri
+85.118	Somatiske sykehjem
+85.121	Allmenn legetjeneste
+85.122	Spesialisert legetjeneste
+85.123	Somatiske poliklinikker
+85.124	Psykiatrisk legetjeneste
+85.125	Voksenpsykiatriske poliklinikker
+85.126	Barne- og ungdomspsykiatriske poliklinikker
+85.127	Rusmiddelpoliklinikker
+85.130	Tannhelsetjenester
+85.141	Hjemmesykepleie
+85.142	Fysioterapitjeneste
+85.143	Skole- og helsestasjonstjeneste
+85.144	Annen forebyggende helsetjeneste
+85.145	Klinisk psykologtjeneste
+85.146	Medisinske laboratorier
+85.147	Ambulansetjenester
+85.149	Andre helsetjenester
+85.151	Rusmiddelinstitusjoner innen spesialhelsetjenesten
+85.200	Veterinærtjenester
+85.311	Institusjoner for barne- og ungdomsvern
+85.312	Institusjoner for rusmisbrukere
+85.313	Omsorgsinstitusjoner for eldre og funksjonshemmede
+85.319	Omsorgsinstitujsoner ellers
+85.321	Hjemmehjelp
+85.322	Boliger/bokollektiv for eldre og funksjonshemmede med fast tilknyttet personell
+85.323	Barneverntjenester
+85.324	Sosialtjenester for rusmisbrukere utenfor institusjon
+85.325	Familieverntjenester
+85.326	Kommunale sosialkontortjenester
+85.327	Barnehager
+85.328	Barneparker
+85.331	Skolefritidsordninger
+85.332	Fritidsklubber for barn og ungdom
+85.333	Aktivitetssentra for eldre og funksjonshemmede
+85.334	Arbeidstrening for ordinært arbeidsmarked
+85.335	Varig vernet arbeid
+85.336	Sosiale velferdsorganisasjoner
+85.337	Asylmottak
+85.338	Sysselsetting/arbeidstrening under helse- og sosialetaten i kommunen
+85.339	Andre sosialtjenester utenfor institusjon
+85.340	Fond/legat som støtter sosiale formål
+90.010	Oppsamling og behandling av avløpsvann
+90.020	Innsamling og håndtering av annet avfall
+90.030	Ytre renhold, miljørydding, miljørensing og lignende virksomhet
+91.110	Næringslivs- og arbeidsgiverorganisasjoner
+91.120	Yrkessammenslutninger
+91.200	Arbeidstakerorganisasjoner
+91.310	Religiøse organisasjoner
+91.320	Partipolitiske organisasjoner
+91.330	Interesseorganisasjoner ellers
+92.110	Film- og videoproduksjon
+92.120	Distribusjon av film og video
+92.130	Filmframvisning
+92.200	Radio og fjernsyn
+92.310	Selvstendig kunstnerisk virksomhet
+92.320	Drift av etablissementer tilknyttet kunstnerisk virksomhet
+92.330	Drift av fornøyelsesetablissementer
+92.340	Underholdningsvirksomhet ellers
+92.400	Nyhetsbyråer
+92.510	Drift av biblioteker og arkiver
+92.521	Drift av museer
+92.522	Vern av historiske steder og bygninger
+92.530	Drift av botaniske og zoologiske hager og naturreservater
+92.610	Drift av idrettsanlegg
+92.621	Idrettslag og -klubber
+92.622	Sports- og idrettssentre
+92.629	Sport og idrett ellers
+92.710	Lotteri og totalisatorspill
+92.721	Aktivitets- og opplevelsesselskaper
+92.722	Fritidsetablissementer
+92.729	Fritidsvirksomhet ellers
+93.010	Vaskeri- og renserivirksomhet
+93.020	Frisering og annen skjønnhetspleie
+93.030	Begravelsesbyråvirksomhet og drift av kirkegårder og krematorier
+93.040	Helsestudio-, massasje- og solstudiovirksomhet
+93.050	Personlig tjenesteyting ellers
+95.000	Lønnet arbeid i private husholdninger
+99.000	Internasjonale organer og organisasjoner

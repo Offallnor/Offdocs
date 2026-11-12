@@ -1,0 +1,113 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/sluttdato for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 11322
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 11322
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "INNTEKT_FORSORGERFRADRAG@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Statistisk enhet er person (individ, enkeltmenenske)",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i RAIRD",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 11322
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "label": "Forsørgerfradrag",
+  "name": "INNTEKT_FORSORGERFRADRAG",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Forsørgerfradrag er et fradrag i skatt som automatisk gis til personlige skattytere i forbindelse med forsørgelse av barn fra og med det året barnet er født til og med det inntektsåret barnet fyller 18 år. Hvis forsørgerfradraget er større enn sum utlignet skatt og avgifter, utbetales differansen ved skatteoppgjøret.\n \n Variabelen omfatter forsørgerfradrag i løpet av kalenderåret. Forsørgerfradrag (opphørt fra og med inntektsåret 2001) trekkes direkte fra i skatten, eller utbetales som en overføring dersom vedkommende ikke er ilignet skatt. I inntektsregnskapet blir forsørgerfradraget betraktet som en overføring. Dette betyr at forsørgerfradraget her ikke blir regnet med under fradrag i skatt.",
+    "validPeriod": {
+     "start": 8401,
+     "stop": 11322
+    },
+    "valueDomain": {
+     "description": "Beløp.",
+     "unitOfMeasure": "NOK"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "INNTEKT_FORSORGERFRADRAG",
+ "populationDescription": "Variabelen omfatter bosatte per 31.12.ÅÅÅÅ. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Inntekt",
+  "Inntekt og forbruk"
+ ],
+ "temporalCoverage": {
+  "start": 8401,
+  "stop": 11322
+ },
+ "temporality": "ACCUMULATED",
+ "updatedAt": 1613034718,
+ "version": "59.0.0.0"
+}

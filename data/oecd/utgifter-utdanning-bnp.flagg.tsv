@@ -1,0 +1,1576 @@
+# Kilde: OECD, tabell OECD.EDU.IMEP,DSD_EAG_UOE_FIN@DF_UOE_INDIC_FIN_GDP
+# Tabell: Utgifter til utdanningsinstitusjoner, prosent av BNP (Education at a Glance)
+# Tall endret: 2026-11-12 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
+# OECD-tittel: Expenditure on educational institutions as a percentage of GDP
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.EDU.IMEP,DSD_EAG_UOE_FIN@DF_UOE_INDIC_FIN_GDP/.NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD......?startPeriod=2005&format=csvfilewithlabels
+# MEASURE (lik for alle rader): EXP=Expenditure on education
+# EXPENDITURE_TYPE (lik for alle rader): DIR_EXP=Expenditure for educational institutions
+# PRICE_BASE (lik for alle rader): _Z=Not applicable
+# UNIT_MEASURE (lik for alle rader): PT_B1GQ=Percentage of GDP
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# EDUCATION_LEV: ISCED11_0=Early childhood education; ISCED11_01=Early childhood educational development; ISCED11_02=Pre-primary education; ISCED11_1=Primary education; ISCED11_1T4=Primary to post-secondary non-tertiary education; ISCED11_1T8=Primary to tertiary education; ISCED11_2=Lower secondary education; ISCED11_24=Lower secondary general education; ISCED11_25=Lower secondary vocational education; ISCED11_2_3=Secondary education; ISCED11_3=Upper secondary education; ISCED11_34=Upper secondary general education; ISCED11_34_44=Upper secondary and post-secondary non-tertiary general programmes; ISCED11_35=Upper secondary vocational education; ISCED11_35_45=Upper secondary and post-secondary non-tertiary vocational programmes; ISCED11_3_4=Upper secondary and post-secondary non-tertiary all programmes; ISCED11_4=Post-secondary non-tertiary education; ISCED11_44=Post-secondary non-tertiary general education; ISCED11_45=Post-secondary non-tertiary vocational education; ISCED11_5=Short-cycle tertiary education; ISCED11_5T8=Tertiary education; ISCED11_6T8=Bachelor's, Master's and Doctoral or equivalent level
+# EXP_SOURCE: S13=General government; S1D_NON_EDU=Private sector (households and other non-educational private entities); S2=Rest of the world; _T=Total
+# EXP_DESTINATION: INST_EDU=All educational institutions; INST_EDU_PRIV=Private educational institutions; INST_EDU_PRIV_GOV=Government dependent private educational institutions; INST_EDU_PRIV_IND=Independent private educational institutions; INST_EDU_PUB=Public educational institutions
+REF_AREA	EDUCATION_LEV	EXP_SOURCE	EXP_DESTINATION	periode	flagg	betydning
+ISL	ISCED11_0	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_0	S13	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_0	S13	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_0	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_0	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_0	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_0	S13	INST_EDU_PUB	2020	W	Includes data from another category
+FIN	ISCED11_0	S1D_NON_EDU	INST_EDU	2012	W	Includes data from another category
+ISL	ISCED11_0	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_0	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_0	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_0	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_0	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_0	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_0	_T	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_0	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_0	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_0	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_0	_T	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_01	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_01	S13	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_01	S13	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_01	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_01	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_01	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_01	S13	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_01	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_01	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_01	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_01	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_01	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_01	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_01	_T	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_01	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_01	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_01	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_01	_T	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_02	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_02	S13	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_02	S13	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_02	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_02	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_02	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_02	S13	INST_EDU_PUB	2020	W	Includes data from another category
+FIN	ISCED11_02	S1D_NON_EDU	INST_EDU	2012	W	Includes data from another category
+ISL	ISCED11_02	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_02	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_02	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_02	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_02	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_02	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_02	_T	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_02	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_02	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_02	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_02	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1	S13	INST_EDU	2005	W	Includes data from another category
+NOR	ISCED11_1	S13	INST_EDU	2008	W	Includes data from another category
+NOR	ISCED11_1	S13	INST_EDU	2009	W	Includes data from another category
+NOR	ISCED11_1	S13	INST_EDU	2010	W	Includes data from another category
+NOR	ISCED11_1	S13	INST_EDU	2011	W	Includes data from another category
+SWE	ISCED11_1	S13	INST_EDU	2005	W	Includes data from another category
+SWE	ISCED11_1	S13	INST_EDU	2008	W	Includes data from another category
+SWE	ISCED11_1	S13	INST_EDU	2009	W	Includes data from another category
+SWE	ISCED11_1	S13	INST_EDU	2010	W	Includes data from another category
+SWE	ISCED11_1	S13	INST_EDU	2011	W	Includes data from another category
+DNK	ISCED11_1	S13	INST_EDU	2005	W	Includes data from another category
+DNK	ISCED11_1	S13	INST_EDU	2008	W	Includes data from another category
+DNK	ISCED11_1	S13	INST_EDU	2009	W	Includes data from another category
+DNK	ISCED11_1	S13	INST_EDU	2010	W	Includes data from another category
+DNK	ISCED11_1	S13	INST_EDU	2011	W	Includes data from another category
+FIN	ISCED11_1	S13	INST_EDU	2005	W	Includes data from another category
+FIN	ISCED11_1	S13	INST_EDU	2008	W	Includes data from another category
+FIN	ISCED11_1	S13	INST_EDU	2009	W	Includes data from another category
+FIN	ISCED11_1	S13	INST_EDU	2010	W	Includes data from another category
+FIN	ISCED11_1	S13	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU	2005	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU	2008	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU	2009	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU	2010	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU	2020	W	Includes data from another category
+GBR	ISCED11_1	S13	INST_EDU	2005	W	Includes data from another category
+GBR	ISCED11_1	S13	INST_EDU	2008	W	Includes data from another category
+GBR	ISCED11_1	S13	INST_EDU	2009	W	Includes data from another category
+GBR	ISCED11_1	S13	INST_EDU	2010	W	Includes data from another category
+GBR	ISCED11_1	S13	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1	S1D_NON_EDU	INST_EDU	2008	W	Includes data from another category
+NOR	ISCED11_1	S1D_NON_EDU	INST_EDU	2009	W	Includes data from another category
+NOR	ISCED11_1	S1D_NON_EDU	INST_EDU	2010	W	Includes data from another category
+NOR	ISCED11_1	S1D_NON_EDU	INST_EDU	2011	W	Includes data from another category
+SWE	ISCED11_1	S1D_NON_EDU	INST_EDU	2005	W	Includes data from another category
+SWE	ISCED11_1	S1D_NON_EDU	INST_EDU	2008	W	Includes data from another category
+SWE	ISCED11_1	S1D_NON_EDU	INST_EDU	2009	W	Includes data from another category
+SWE	ISCED11_1	S1D_NON_EDU	INST_EDU	2010	W	Includes data from another category
+SWE	ISCED11_1	S1D_NON_EDU	INST_EDU	2011	W	Includes data from another category
+DNK	ISCED11_1	S1D_NON_EDU	INST_EDU	2005	W	Includes data from another category
+DNK	ISCED11_1	S1D_NON_EDU	INST_EDU	2008	W	Includes data from another category
+DNK	ISCED11_1	S1D_NON_EDU	INST_EDU	2009	W	Includes data from another category
+DNK	ISCED11_1	S1D_NON_EDU	INST_EDU	2010	W	Includes data from another category
+DNK	ISCED11_1	S1D_NON_EDU	INST_EDU	2011	W	Includes data from another category
+FIN	ISCED11_1	S1D_NON_EDU	INST_EDU	2005	W	Includes data from another category
+FIN	ISCED11_1	S1D_NON_EDU	INST_EDU	2008	W	Includes data from another category
+FIN	ISCED11_1	S1D_NON_EDU	INST_EDU	2009	W	Includes data from another category
+FIN	ISCED11_1	S1D_NON_EDU	INST_EDU	2010	W	Includes data from another category
+FIN	ISCED11_1	S1D_NON_EDU	INST_EDU	2011	W	Includes data from another category
+FIN	ISCED11_1	S1D_NON_EDU	INST_EDU	2012	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU	2005	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU	2008	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU	2009	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU	2010	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+GBR	ISCED11_1	S1D_NON_EDU	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_1	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_1	S2	INST_EDU	2012	W	Includes data from another category
+ISL	ISCED11_1	S2	INST_EDU	2013	W	Includes data from another category
+ISL	ISCED11_1	S2	INST_EDU	2014	W	Includes data from another category
+ISL	ISCED11_1	S2	INST_EDU	2015	W	Includes data from another category
+NOR	ISCED11_1	_T	INST_EDU	2005	W	Includes data from another category
+NOR	ISCED11_1	_T	INST_EDU	2008	W	Includes data from another category
+NOR	ISCED11_1	_T	INST_EDU	2009	W	Includes data from another category
+NOR	ISCED11_1	_T	INST_EDU	2010	W	Includes data from another category
+NOR	ISCED11_1	_T	INST_EDU	2011	W	Includes data from another category
+SWE	ISCED11_1	_T	INST_EDU	2005	W	Includes data from another category
+SWE	ISCED11_1	_T	INST_EDU	2008	W	Includes data from another category
+SWE	ISCED11_1	_T	INST_EDU	2009	W	Includes data from another category
+SWE	ISCED11_1	_T	INST_EDU	2010	W	Includes data from another category
+SWE	ISCED11_1	_T	INST_EDU	2011	W	Includes data from another category
+DNK	ISCED11_1	_T	INST_EDU	2005	W	Includes data from another category
+DNK	ISCED11_1	_T	INST_EDU	2008	W	Includes data from another category
+DNK	ISCED11_1	_T	INST_EDU	2009	W	Includes data from another category
+DNK	ISCED11_1	_T	INST_EDU	2010	W	Includes data from another category
+DNK	ISCED11_1	_T	INST_EDU	2011	W	Includes data from another category
+FIN	ISCED11_1	_T	INST_EDU	2005	W	Includes data from another category
+FIN	ISCED11_1	_T	INST_EDU	2008	W	Includes data from another category
+FIN	ISCED11_1	_T	INST_EDU	2009	W	Includes data from another category
+FIN	ISCED11_1	_T	INST_EDU	2010	W	Includes data from another category
+FIN	ISCED11_1	_T	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU	2005	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU	2008	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU	2009	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU	2010	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU	2019	W	Includes data from another category
+GBR	ISCED11_1	_T	INST_EDU	2005	W	Includes data from another category
+GBR	ISCED11_1	_T	INST_EDU	2008	W	Includes data from another category
+GBR	ISCED11_1	_T	INST_EDU	2009	W	Includes data from another category
+GBR	ISCED11_1	_T	INST_EDU	2010	W	Includes data from another category
+GBR	ISCED11_1	_T	INST_EDU	2011	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1T4	S13	INST_EDU	2005	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2008	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2009	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2010	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2011	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU	2017	B	Time series break
+DEU	ISCED11_1T4	S13	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_1T4	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_1T4	S13	INST_EDU_PUB	2017	B	Time series break
+DEU	ISCED11_1T4	S13	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_1T4	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2008	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2009	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2010	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2011	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+ISL	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_1T4	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_1T4	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1T4	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU	2017	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_1T4	S2	INST_EDU_PUB	2017	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2005	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2008	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2009	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2010	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2011	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU	2017	B	Time series break
+ISL	ISCED11_1T4	_T	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_1T4	_T	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_1T4	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_1T4	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_1T4	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1T4	_T	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_1T4	_T	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_1T4	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1T8	S13	INST_EDU	2005	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2008	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2009	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2010	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2011	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_1T8	S13	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_1T8	S13	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_1T8	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_1T8	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_1T8	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_1T8	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_1T8	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1T8	S13	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_1T8	S13	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_1T8	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2008	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2009	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2010	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2011	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+ISL	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_1T8	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_1T8	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1T8	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU	2017	B	Time series break
+ISL	ISCED11_1T8	S2	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_1T8	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T8	S2	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_1T8	S2	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_1T8	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_1T8	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1T8	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_1T8	_T	INST_EDU	2008	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2009	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2010	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2011	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU	2017	B	Time series break
+ISL	ISCED11_1T8	_T	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_1T8	_T	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_1T8	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_1T8	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_1T8	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_1T8	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_1T8	_T	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_1T8	_T	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_1T8	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_2	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_2	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_2	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_2	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_2	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_2	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_2	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_2	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+ISL	ISCED11_2	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_2	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_2	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+NOR	ISCED11_2	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU	2017	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2	S2	INST_EDU_PUB	2017	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU	2017	B	Time series break
+ISL	ISCED11_2	_T	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_2	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_2	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_2	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_2	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_2	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_24	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_24	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_24	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_24	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_24	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_24	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_24	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_24	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_24	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+FIN	ISCED11_24	S1D_NON_EDU	INST_EDU	2012	W	Includes data from another category
+ISL	ISCED11_24	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_24	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_24	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+NOR	ISCED11_24	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU	2017	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_24	S2	INST_EDU_PUB	2017	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU	2017	B	Time series break
+ISL	ISCED11_24	_T	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_24	_T	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_24	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_24	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_24	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_24	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_24	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_24	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_2_3	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU	2017	B	Time series break
+FIN	ISCED11_2_3	S13	INST_EDU	2012	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2013	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2014	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2015	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_2_3	S13	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_2_3	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_2_3	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2_3	S13	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2012	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2013	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2014	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2015	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_2_3	S13	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_2_3	S13	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_2_3	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2012	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2013	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2014	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2015	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_2_3	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2013	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2014	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2015	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_2_3	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_2_3	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU	2017	B	Time series break
+FIN	ISCED11_2_3	S2	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_2_3	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2_3	S2	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_2_3	S2	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_2_3	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_2_3	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU	2017	B	Time series break
+FIN	ISCED11_2_3	_T	INST_EDU	2012	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2013	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2014	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2015	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_2_3	_T	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_2_3	_T	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_2_3	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_2_3	_T	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2012	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2013	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2014	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2015	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_2_3	_T	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_2_3	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_2_3	_T	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_2_3	_T	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_2_3	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU	2017	B	Time series break
+FIN	ISCED11_3	S13	INST_EDU	2012	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2013	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2014	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2015	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_3	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_3	S13	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_3	S13	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_3	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_3	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3	S13	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_3	S13	INST_EDU_PUB	2012	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2013	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2014	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2015	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_3	S13	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_3	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_3	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_3	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_3	S13	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_3	S13	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2012	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2013	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2014	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2015	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_3	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_3	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2013	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2014	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2015	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+DEU	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+DEU	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU	2017	B	Time series break
+FIN	ISCED11_3	S2	INST_EDU	2012	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU	2013	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU	2014	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_3	S2	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_3	S2	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_3	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3	S2	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_3	S2	INST_EDU_PUB	2012	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_3	S2	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_3	S2	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU	2017	B	Time series break
+FIN	ISCED11_3	_T	INST_EDU	2012	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2013	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2014	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2015	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2016	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2017	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_3	_T	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_3	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3	_T	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_3	_T	INST_EDU_PUB	2012	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2013	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2014	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2015	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2016	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2017	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_3	_T	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_3	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_3	_T	INST_EDU_PUB	2018	W	Includes data from another category
+DEU	ISCED11_3	_T	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_34	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34	S13	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU	2012	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU	2013	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU	2014	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU	2015	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU	2013	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU	2015	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_34	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_34	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_34	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34	S13	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_34	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_34	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_34	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_34	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_34	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+DEU	ISCED11_34	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+NOR	ISCED11_34	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34	S2	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34	S2	INST_EDU	2012	B	Time series break
+SWE	ISCED11_34	S2	INST_EDU	2013	B	Time series break
+SWE	ISCED11_34	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34	S2	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34	S2	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34	S2	INST_EDU	2017	B	Time series break
+NOR	ISCED11_34	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34	S2	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34	S2	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_34	S2	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_34	S2	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34	S2	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34	S2	INST_EDU_PUB	2017	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU	2012	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU	2013	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU	2014	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU	2015	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU	2013	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU	2015	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU	2017	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34	_T	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_34	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_34	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_34	_T	INST_EDU_PUB	2018	W	Includes data from another category
+NOR	ISCED11_34_44	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34_44	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34_44	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34_44	S13	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU	2012	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU	2013	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU	2014	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU	2015	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU	2013	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU	2015	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_34_44	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_34_44	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_34_44	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34_44	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34_44	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34_44	S13	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_34_44	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34_44	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_34_44	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_34_44	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_34_44	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_34_44	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+DEU	ISCED11_34_44	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+NOR	ISCED11_34_44	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34_44	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34_44	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34_44	S2	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34_44	S2	INST_EDU	2012	B	Time series break
+SWE	ISCED11_34_44	S2	INST_EDU	2013	B	Time series break
+SWE	ISCED11_34_44	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34_44	S2	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34_44	S2	INST_EDU	2013	B	Time series break
+FIN	ISCED11_34_44	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34_44	S2	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34_44	S2	INST_EDU	2017	B	Time series break
+NOR	ISCED11_34_44	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34_44	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34_44	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34_44	S2	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34_44	S2	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_34_44	S2	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_34_44	S2	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34_44	S2	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34_44	S2	INST_EDU_PUB	2017	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU	2017	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU	2012	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU	2013	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU	2014	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU	2015	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU	2012	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU	2013	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU	2014	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU	2015	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU	2017	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_34_44	_T	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_34_44	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_34_44	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_34_44	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_34_44	_T	INST_EDU_PUB	2018	W	Includes data from another category
+NOR	ISCED11_35	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35	S13	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU	2012	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU	2013	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU	2014	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU	2015	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU	2015	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU	2017	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_35	S13	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_35	S13	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_35	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_35	S13	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_35	S13	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_35	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_35	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35	S13	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_35	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_35	S13	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_35	S13	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_35	S13	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_35	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_35	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_35	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_35	S13	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_35	S13	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_35	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_35	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+DEU	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+DEU	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_35	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35	S2	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35	S2	INST_EDU	2012	B	Time series break
+SWE	ISCED11_35	S2	INST_EDU	2013	B	Time series break
+SWE	ISCED11_35	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU	2017	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_35	S2	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_35	S2	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_35	S2	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_35	S2	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_35	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35	S2	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35	S2	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_35	S2	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_35	S2	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_35	S2	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_35	S2	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_35	S2	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_35	S2	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_35	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35	_T	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU	2012	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU	2013	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU	2014	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU	2015	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU	2015	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU	2017	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU	2018	W	Includes data from another category
+FIN	ISCED11_35	_T	INST_EDU	2019	W	Includes data from another category
+FIN	ISCED11_35	_T	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_35	_T	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_35	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35	_T	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_35	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU_PUB	2017	B	Time series break
+FIN	ISCED11_35	_T	INST_EDU_PUB	2018	W	Includes data from another category
+FIN	ISCED11_35	_T	INST_EDU_PUB	2019	W	Includes data from another category
+FIN	ISCED11_35	_T	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_35	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_35	_T	INST_EDU_PUB	2018	W	Includes data from another category
+DEU	ISCED11_35	_T	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_35_45	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35_45	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35_45	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35_45	S13	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU	2012	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU	2013	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU	2014	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU	2015	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU	2015	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_35_45	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_35_45	S13	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_35_45	S13	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_35_45	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_35_45	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35_45	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35_45	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35_45	S13	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_35_45	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35_45	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_35_45	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_35_45	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_35_45	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_35_45	S13	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_35_45	S13	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35_45	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+DEU	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_35_45	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+DEU	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35_45	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_35_45	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35_45	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35_45	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35_45	S2	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35_45	S2	INST_EDU	2012	B	Time series break
+SWE	ISCED11_35_45	S2	INST_EDU	2013	B	Time series break
+SWE	ISCED11_35_45	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35_45	S2	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35_45	S2	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35_45	S2	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35_45	S2	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35_45	S2	INST_EDU	2017	B	Time series break
+ISL	ISCED11_35_45	S2	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_35_45	S2	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_35_45	S2	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_35_45	S2	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_35_45	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35_45	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35_45	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35_45	S2	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35_45	S2	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_35_45	S2	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_35_45	S2	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35_45	S2	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35_45	S2	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_35_45	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_35_45	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_35_45	S2	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_35_45	S2	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35_45	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_35_45	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_35_45	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_35_45	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_35_45	_T	INST_EDU	2017	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU	2012	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU	2013	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU	2014	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU	2015	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU	2012	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU	2013	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU	2014	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU	2015	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU	2016	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU	2017	B	Time series break
+DEU	ISCED11_35_45	_T	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_35_45	_T	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_35_45	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_35_45	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_35_45	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_35_45	_T	INST_EDU_PUB	2017	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU_PUB	2012	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU_PUB	2013	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU_PUB	2014	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU_PUB	2015	B	Time series break
+SWE	ISCED11_35_45	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU_PUB	2012	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU_PUB	2013	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU_PUB	2014	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU_PUB	2015	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU_PUB	2016	B	Time series break
+FIN	ISCED11_35_45	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_35_45	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_35_45	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_35_45	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_35_45	_T	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_35_45	_T	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_35_45	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3_4	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_3_4	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_3_4	S13	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_3_4	S13	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_3_4	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_3_4	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3_4	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_3_4	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_3_4	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_3_4	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_3_4	S13	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_3_4	S13	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3_4	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+FIN	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2012	W	Includes data from another category
+DEU	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_3_4	S1D_NON_EDU	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+DEU	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3_4	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3_4	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU	2017	B	Time series break
+ISL	ISCED11_3_4	S2	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_3_4	S2	INST_EDU	2020	W	Includes data from another category
+DEU	ISCED11_3_4	S2	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_3_4	S2	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_3_4	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3_4	S2	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_3_4	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_3_4	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_3_4	S2	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_3_4	S2	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3_4	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_3_4	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU	2017	B	Time series break
+DEU	ISCED11_3_4	_T	INST_EDU	2019	W	Includes data from another category
+DEU	ISCED11_3_4	_T	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_3_4	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_3_4	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_3_4	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_3_4	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_3_4	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_3_4	_T	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_3_4	_T	INST_EDU_PUB	2019	W	Includes data from another category
+DEU	ISCED11_3_4	_T	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_4	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_4	S13	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_4	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_4	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_4	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_4	S13	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_4	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_4	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_4	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_4	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_4	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_4	S2	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_4	S2	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_4	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_4	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_4	S2	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_4	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_4	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_4	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_4	_T	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_44	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_45	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_45	S13	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_45	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_45	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_45	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_45	S13	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_45	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_45	S1D_NON_EDU	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_45	S1D_NON_EDU	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_45	S1D_NON_EDU	INST_EDU_PUB	2020	W	Includes data from another category
+DEU	ISCED11_45	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_45	S2	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_45	S2	INST_EDU	2020	W	Includes data from another category
+ISL	ISCED11_45	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_45	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_45	S2	INST_EDU_PUB	2020	W	Includes data from another category
+ISL	ISCED11_45	_T	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_45	_T	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_45	_T	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_45	_T	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_5	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_5	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_5	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_5	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_5	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5	S13	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_5	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_5	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_5	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_5	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_5	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+DEU	ISCED11_5	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+NOR	ISCED11_5	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5	S2	INST_EDU	2017	B	Time series break
+ISL	ISCED11_5	S2	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_5	S2	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_5	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5	S2	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_5	S2	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5	S2	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_5	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_5	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_5	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_5	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5	_T	INST_EDU	2017	B	Time series break
+NOR	ISCED11_5	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5	_T	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_5	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5	_T	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_5	_T	INST_EDU_PUB	2017	W	Includes data from another category
+NOR	ISCED11_5T8	S13	INST_EDU	2005	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2008	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2009	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2010	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2011	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_5T8	S13	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_5T8	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_5T8	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5T8	S13	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_5T8	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_5T8	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_5T8	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_5T8	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2008	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2009	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2010	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2011	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_5T8	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5T8	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+NOR	ISCED11_5T8	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU	2017	B	Time series break
+ISL	ISCED11_5T8	S2	INST_EDU	2019	W	Includes data from another category
+NOR	ISCED11_5T8	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5T8	S2	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5T8	S2	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_5T8	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_5T8	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_5T8	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_5T8	_T	INST_EDU	2008	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2009	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2010	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2011	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU	2017	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_5T8	_T	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_5T8	_T	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_5T8	_T	INST_EDU_PUB	2017	W	Includes data from another category
+NOR	ISCED11_6T8	S13	INST_EDU	2012	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU	2013	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU	2014	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU	2015	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU	2016	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU	2017	B	Time series break
+ISL	ISCED11_6T8	S13	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_6T8	S13	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_6T8	S13	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_6T8	S13	INST_EDU_PUB	2017	B	Time series break
+ISL	ISCED11_6T8	S13	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_6T8	S13	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_6T8	S13	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_6T8	S13	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_6T8	S13	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU	2012	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU	2013	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU	2014	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU	2015	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU	2016	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU	2017	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2016	B	Time series break
+NOR	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2017	B	Time series break
+DNK	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2017	W	Includes data from another category
+DEU	ISCED11_6T8	S1D_NON_EDU	INST_EDU_PUB	2012	W	Includes data from another category
+NOR	ISCED11_6T8	S2	INST_EDU	2012	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU	2013	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU	2014	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU	2015	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU	2016	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU	2017	B	Time series break
+DNK	ISCED11_6T8	S2	INST_EDU	2012	W	Includes data from another category
+ISL	ISCED11_6T8	S2	INST_EDU	2019	W	Includes data from another category
+ISL	ISCED11_6T8	S2	INST_EDU	2020	W	Includes data from another category
+NOR	ISCED11_6T8	S2	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_6T8	S2	INST_EDU_PUB	2017	B	Time series break
+DNK	ISCED11_6T8	S2	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_6T8	S2	INST_EDU_PUB	2017	W	Includes data from another category
+ISL	ISCED11_6T8	S2	INST_EDU_PUB	2018	W	Includes data from another category
+ISL	ISCED11_6T8	S2	INST_EDU_PUB	2019	W	Includes data from another category
+ISL	ISCED11_6T8	S2	INST_EDU_PUB	2020	W	Includes data from another category
+NOR	ISCED11_6T8	_T	INST_EDU	2012	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU	2013	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU	2014	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU	2015	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU	2016	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU	2017	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU_PUB	2012	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU_PUB	2013	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU_PUB	2014	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU_PUB	2015	B	Time series break
+NOR	ISCED11_6T8	_T	INST_EDU_PUB	2017	B	Time series break
+DNK	ISCED11_6T8	_T	INST_EDU_PUB	2012	W	Includes data from another category
+ISL	ISCED11_6T8	_T	INST_EDU_PUB	2016	W	Includes data from another category
+ISL	ISCED11_6T8	_T	INST_EDU_PUB	2017	W	Includes data from another category

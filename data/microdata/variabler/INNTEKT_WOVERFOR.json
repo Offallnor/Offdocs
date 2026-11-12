@@ -1,0 +1,114 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "INNTEKT_WOVERFOR@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "label": "Overføringer",
+  "name": "INNTEKT_WOVERFOR",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "skattepliktige og skattefrie overføringer i løpet av kalenderåret.",
+    "validPeriod": {
+     "start": 8401,
+     "stop": 20088
+    },
+    "valueDomain": {
+     "description": "Beløp.",
+     "unitOfMeasure": "NOK"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "INNTEKT_WOVERFOR",
+ "populationDescription": "Variabelen omfatter bosatte per 31.12.ÅÅÅÅ. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Inntekt",
+  "Inntekt og forbruk",
+  "Inntekt og formue"
+ ],
+ "temporalCoverage": {
+  "start": 8401,
+  "stop": 20088
+ },
+ "temporality": "ACCUMULATED",
+ "updatedAt": 1771925041,
+ "version": "59.0.0.0"
+}

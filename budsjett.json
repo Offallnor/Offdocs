@@ -1,0 +1,37 @@
+{
+  "innboks": "budsjett/innboks",
+  "proposisjoner": [
+    {
+      "mappe": "prop-1-s-aid",
+      "navn": "Prop. 1 S for AID",
+      "kode": "aid",
+      "koder": [
+        "aid",
+        "asd"
+      ],
+      "departement": [
+        "arbeids- og inkluderingsdepartement",
+        "arbeids- og sosialdepartement"
+      ],
+      "kapitler": []
+    },
+    {
+      "mappe": "prop-1-s-kd",
+      "navn": "Prop. 1 S for KD",
+      "kode": "kd",
+      "koder": [
+        "kd"
+      ],
+      "departement": [
+        "kunnskapsdepartement"
+      ],
+      "kapitler": [
+        "200-299",
+        "2410",
+        "3200-3299",
+        "5310",
+        "5617"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+kode	kategori
+0	Ikke i familie med par (enslig/barn i familie med enslig)
+1	Ektefelle ulikekjønnet par
+2	Ektefelle likekjønnet par/registrert partner
+3	Samboer med felles barn
+5	Samboer uten felles barn, motsatt kjønn - uendret siden forrige årgang/(FOB2001)
+6	Samboer uten felles barn, motsatt kjønn - ny siden forrige årgang - samme flyttedato
+7	Samboer uten felles barn, motsatt kjønn - ny siden forrige årgang - ulik flyttedato
+8	Barn i familie med par
+u	Imputerte par av unge enslige
+p	Imputerte par på adresser med tre eller flere husholdninger som kobler til samme bolig

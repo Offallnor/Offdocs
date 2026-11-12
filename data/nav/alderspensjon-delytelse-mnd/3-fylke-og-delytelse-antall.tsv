@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Alderspensjon etter delytelse og tillegg, siste måned (PST022)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-26
+# Ark: 3. Fylke og delytelse antall
+# Alderspensjon etter delytelse. Kjønn og Alder. September 2026
+# Delytelse etter fylke. Antall
+rad		Antall med alderspensjon i alt		Antall med tilleggspensjon	Antall med særtillegg	Antall med skjermingstillegg	Antall med forsørgingstillegg barn	Antall med forsørgingstillegg ektefelle	Antall med inntektspensjon		Antall med garantipensjon
+I alt		1105754		1057951	30998	238074		*	420891		141574
+Østfold		64946		62475	1421	17987			24831		8943
+Akershus		124416		120335	1876	21920			47229		12945
+Oslo - Oslove		90386		87023	1604	16541			33567		11078
+Innlandet		88789		85777	2380	21513		*	33368		12923
+Buskerud		53665		51890	1147	10437			20310		6775
+Vestfold		55305		53409	1147	12880			21263		7420
+Telemark		39614		38028	974	10097			15174		5392
+Agder		61118		58684	1583	15533			23731		8542
+Rogaland		83729		80064	1768	15416			34444		10147
+Vestland		123056		118995	3051	22791			47072		14412
+Møre og Romsdal		57765		55994	1450	12468			22024		7013
+Trøndelag - Trööndelage		91997		89033	2302	22999			34717		11843
+Nordland - Nordlánnda		53400		51773	1472	15801			19883		6444
+Troms - Romsa - Tromssa		33272		32385	823	9587			12241		3792
+Finnmark - Finnmárku - Finmarkku		14568		14090	368	4214			5526		1878
+Utland		65635		54160	7262	7033		*	24707		11608
+Ukjent		4093		3836	370	857			804		419

@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.09.2017-2026 *). Beløp i kroner.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-gjennomsnittlig-arlig-pensjon-etter-kjonn-og-ytelse.pr.30.09.2017-2026-.belop-i-kroner
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: 1) Ektefelletillegg bortfaller fra 1. januar 2025
+# Merknad: 2) Personer med minsteytelse.
+# Merknad: 3) Uføretrygdet med gjenlevendetillegg
+# Merknad: *) Fra 2015 beregnes uføretrygden av 66 prosent av gjennomsnittsinntekten de 3 beste av de 5 siste årene før personen ble ufør (for årlig inntekt opptil seks ganger grunnbeløpet i folketrygden). Da uføretrygdede skattes som lønnsmottakere fra 2015, er størrelsen på pensjonen høyere enn tidligere. Gjenlevendetillegg er inkludert
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.09.2017-2026 *). Beløp i kroner.	I alt	252014	261066	268777	272973	286609	300169	319267	335971	352885	370448
+Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.09.2017-2026 *). Beløp i kroner.	Med forsørgingstillegg for ektefelle 1)	280557	282345	279989	274713	288720	291373	324946	343111	-	-
+Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.09.2017-2026 *). Beløp i kroner.	Med forsørgingstillegg for barn	242997	250640	256745	259914	272980	285866	303992	319635	336806	353226
+Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.09.2017-2026 *). Beløp i kroner.	Minsteytelse 2)	203944	210736	216632	219680	230406	241097	256152	272585	285831	299539
+Mottakere av uføretrygd, gjennomsnittlig årlig pensjon etter kjønn og ytelse. Pr. 30.09.2017-2026 *). Beløp i kroner.	Gjenlevendetillegg 3)	287153	296171	302560	306037	320069	333642	353288	367742	383350	399932
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner	I alt	237467	246772	254856	259648	273263	286831	305660	322405	339212	356701
+Kvinner	Med forsørgingstillegg for ektefelle 1)	273572	274756	271255	265598	266086	283227	301376	320678	-	-
+Kvinner	Med forsørgingstillegg for barn	232376	239818	246312	250092	262245	275144	293207	310428	327006	343936
+Kvinner	Minsteytelse 2)	204189	210605	216246	219259	229801	240243	255136	271309	284579	298253
+Kvinner	Gjenlevendetillegg 3)	287036	296204	302551	306007	320120	333641	353559	367972	383778	400409
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn	I alt	272162	280967	288250	291647	305364	318984	338570	355269	372414	390125
+Menn	Med forsørgingstillegg for ektefelle 1)	281207	283124	280980	275683	290885	292162	328160	346020	-	-
+Menn	Med forsørgingstillegg for barn	255538	264157	270424	273530	288044	301349	320165	333878	352112	368068
+Menn	Minsteytelse 2)	203282	211069	217571	220661	231775	242983	258355	275341	288484	302222
+Menn	Gjenlevendetillegg 3)	288966	295686	302691	306480	319301	333658	349575	364578	377455	393184

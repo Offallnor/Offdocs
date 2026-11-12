@@ -1,0 +1,113 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 13149,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 13149,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "INNTEKT_SKPLOVF@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 13149,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Double",
+  "label": "Skattepliktige overføringer",
+  "name": "INNTEKT_SKPLOVF",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Skattepliktige overføringer omfatter pensjoner fra folketrygden, inkludert uføretrygd og arbeidsavklaringspenger, tjenestepensjon, avtalefestet pensjon (AFP), dagpenger ved arbeidsledighet, sykepenger og foreldrepenger.\n \n Variabelen omfatter mottatte overføringer i løpet av kalenderåret. Fra og med inntektsåret 2006 trekkes sykepenger og fødselspenger fra yrkesinntekt og legges til skattepliktige overføringer i den offisielle statistikken.",
+    "validPeriod": {
+     "start": 13149,
+     "stop": 20088
+    },
+    "valueDomain": {
+     "description": "Beløp.",
+     "unitOfMeasure": "NOK"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "INNTEKT_SKPLOVF",
+ "populationDescription": "Variabelen omfatter  bosatte per 31.12.ÅÅÅÅ. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Inntekt",
+  "Inntekt og forbruk"
+ ],
+ "temporalCoverage": {
+  "start": 13149,
+  "stop": 20088
+ },
+ "temporality": "ACCUMULATED",
+ "updatedAt": 1771925041,
+ "version": "59.0.0.0"
+}

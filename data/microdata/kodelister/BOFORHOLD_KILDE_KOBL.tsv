@@ -1,0 +1,29 @@
+kode	kategori
+ANDR	Andre husholdninger (ikke privat)
+ENEN	Direkte kobling, én til én
+FLER	Flere husholdninger kobler til samme bolig, "tildelt" boligen
+NN01	Koblet i DNN, trinn 01
+NN02	Koblet i DNN, trinn 02
+NN03	Koblet i DNN, trinn 03
+NN04	Koblet i DNN, trinn 04
+NN05	Koblet i DNN, trinn 05
+NN06	Koblet i DNN, trinn 06
+NN07	Koblet i DNN, trinn 07
+NN08	Koblet i DNN, trinn 08
+NN09	Koblet i DNN, trinn 09
+NN10	Koblet i DNN, trinn 10
+NN11	Koblet i DNN, trinn 11
+NN12	Koblet i DNN, trinn 12
+NN13	Koblet i DNN, trinn 13
+NN14	Koblet i DNN, trinn 14
+NN15	Koblet i DNN, trinn 15
+NN16	Koblet i DNN, trinn 16
+NN17	Koblet i DNN, trinn 17
+NN18	Koblet i DNN, trinn 18
+NN19	Koblet i DNN, trinn 19
+NN20	Koblet i DNN, trinn 20
+STUD	Studenthusholdning koblet til studentbolig
+UKBO	Ukoblet bolig
+UKFL	Flere husholdninger kobler til samme bolig, ikke "tildelt" boligen
+UKHU	Ukoblet husholdning
+UTLA	I utlandet

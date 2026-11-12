@@ -1,0 +1,125 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 1704,
+      "stop": 19936
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 1704,
+      "stop": 19936
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "NUDB_KURS_UTFALL@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Kurs er en utdanningsaktivitet.",
+    "label": "Kurs",
+    "name": "KURS"
+   },
+   "label": "Kursidentifikator",
+   "name": "KURSID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for kurs i microdata",
+     "validPeriod": {
+      "start": 1704,
+      "stop": 19936
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og NUDB kursnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Utfall av utdanning, omkodet",
+  "name": "NUDB_KURS_UTFALL",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Utfall av utdanning, omkodet.",
+    "validPeriod": {
+     "start": 1734
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Kodet avbrutt i NUDB. Kurset har vært registrert som startet på en NUS-kode, men det er ikke registrert noen avslutning og heller ikke registrert som igangværende året etter på samme NUS-kode",
+       "code": "1"
+      },
+      {
+       "category": "Ikke fullført",
+       "code": "2"
+      },
+      {
+       "category": "Fullført",
+       "code": "8"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "NUDB_KURS_UTFALL",
+ "populationDescription": "Variabelen omfatter personer med en igangværende eller avsluttende registrering i universitet eller høgskole.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Utdanning",
+  "Utdanningsnivå"
+ ],
+ "temporalCoverage": {
+  "start": 1704,
+  "stop": 19936
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1760683763,
+ "version": "59.0.0.0"
+}

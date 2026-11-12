@@ -1,0 +1,123 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20756
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20756
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "ARBEIDSFORHOLD_PERSON@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "En jobb er en persons arbeidsforhold i en virksomhet. En person kan ha flere arbeidsforhold, også innenfor en periode.",
+    "label": "Jobb",
+    "name": "JOBB"
+   },
+   "label": "Jobbidentifikator",
+   "name": "JOBBID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for jobb i microdata",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20756
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og organisasjonsnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "format": "RandomUInt48",
+  "keyType": {
+   "description": "Person er et enkeltmenneske, individ.",
+   "label": "Person",
+   "name": "PERSON"
+  },
+  "label": "Arbeidsforhold, person",
+  "name": "ARBEIDSFORHOLD_PERSON",
+  "notPseudonym": false,
+  "representedVariables": [
+   {
+    "description": "Variabelen er en nøkkel som gir deg muligheten å koble person og arbeidsforhold.\n \n En person kan ha flere arbeidsforhold i en periode, men ikke i samme virksomhet. Dersom en person har flere arbeidsforhold innenfor én virksomhet slås disse sammen.",
+    "validPeriod": {
+     "start": -25567,
+     "stop": 20756
+    },
+    "valueDomain": {
+     "description": "Pseudonymisert personnummer",
+     "unitOfMeasure": "N/A"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "ARBEIDSFORHOLD_PERSON",
+ "populationDescription": "Variabelen omfatter alle arbeidsforhold meldt inn gjennom A-ordningen som SSB anser å være aktive i referanseperioden, uavhengig av alder og bosatt-status i Folkeregisteret. \n \n Arbeidsforhold innhentes også fra andre kilder (SKDs arbeidsforholds- og oppdragsregister (tidligere SFU) og vernepliktige). A-ordningen er hovedkilden til informasjon om arbeidsforhold.\n \n Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt. ",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Sysselsetting",
+  "Arbeid og lønn",
+  "A-ordningen",
+  "Arbeidsmarked",
+  "Lønn",
+  "Sykefravær"
+ ],
+ "temporalCoverage": {
+  "start": -25567,
+  "stop": 20756
+ },
+ "temporality": "FIXED",
+ "updatedAt": 1793790331,
+ "version": "59.0.0.0"
+}

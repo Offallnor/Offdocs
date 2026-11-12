@@ -1,0 +1,24 @@
+kode	kategori
+00	Ingen hindre påkjørt
+01	Skiltstolpe
+02	Signalstolpe
+03	Lysmast av tre
+04	Lysmast av stål
+05	Annen mast/stolpe
+06	Tre
+07	Gjerde
+08	Mur, bygning
+09	Stein, fjellvegg
+10	Kantstein
+11	Parkert kjøretøy
+12	Annen gjenstand i kjørebanen
+13	Større tamdyr (ku, m.m.)
+14	Mindre tamdyr (katt m.m)
+15	Elg
+16	Rein
+17	Rådyr, hjort
+18	Annet vilt
+19	Ukjent dyr
+88	Annet (grøft, vann etc)
+99	Ukjent
+-2	Uoppgitt

@@ -1,0 +1,22 @@
+# Kilde: OECD, tabell OECD.EDU.IMEP,DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_CLS
+# Tabell: Gjennomsnittlig klassestørrelse (Education at a Glance)
+# Tall endret: 2026-11-12 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
+# OECD-tittel: Average class size
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.EDU.IMEP,DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_CLS/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD..............?startPeriod=2005&format=csvfilewithlabels
+# MEASURE (lik for alle rader): CLS=Student classes
+# EDUCATION_TYPE (lik for alle rader): FE=Formal education, includes formal initial and formal adult education programmes
+# INTENSITY (lik for alle rader): _T=Total
+# EDUCATION_FIELD (lik for alle rader): _Z=Not applicable
+# GRADE (lik for alle rader): _Z=Not applicable
+# FREQ (lik for alle rader): A=Annual
+# ORIGIN (lik for alle rader): _Z=Not applicable
+# DESTINATION (lik for alle rader): _Z=Not applicable
+# MOBILITY (lik for alle rader): _Z=Not applicable
+# UNIT_MEASURE (lik for alle rader): ST_CL=Students per class
+# SEX (lik for alle rader): _T=Total
+# AGE (lik for alle rader): _T=Total
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# EDUCATION_LEV: ISCED11_1=Primary education; ISCED11_2=Lower secondary education
+# INST_TYPE_EDU: INST_EDU=All educational institutions; INST_EDU_PRIV=Private educational institutions; INST_EDU_PRIV_GOV=Government dependent private educational institutions; INST_EDU_PRIV_IND=Independent private educational institutions; INST_EDU_PUB=Public educational institutions
+REF_AREA	EDUCATION_LEV	INST_TYPE_EDU	periode	flagg	betydning
+NLD	ISCED11_1	INST_EDU_PUB	2015	W	Includes data from another category

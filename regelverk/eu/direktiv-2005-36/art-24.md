@@ -1,0 +1,29 @@
+# Yrkeskvalifikasjonsdirektivet artikkel 24
+
+**Basic medical training**
+
+**Kilde:** Yrkeskvalifikasjonsdirektivet (Direktiv 2005/36), EUR-Lex 02005L0036-20251029, språk EN.
+
+Dette er EU-tekst, ikke norsk lov- eller forskriftstekst. Hvilken versjon som gjelder i Norge, avgjøres av EØS-avtalen og norsk gjennomføring: se `regelverk/eu/direktiv-2005-36/VEIVISER.md`.
+
+---
+
+1. Admission to basic medical training shall be contingent upon possession of a diploma or certificate providing access, for the studies in question, to universities.
+
+[▼M9]
+
+2. Basic medical training shall comprise a total of at least five years of study, which may in addition be expressed with the equivalent ECTS credits, and shall consist of at least 5 500 hours of theoretical and practical training provided by, or under the supervision of, a university.
+
+For professionals who began their studies before 1 January 1972, the course of training referred to in the first subparagraph may comprise six months of full-time practical training at university level under the supervision of the competent authorities.
+
+[▼B]
+
+3. Basic medical training shall provide an assurance that the person in question has acquired the following knowledge and skills:
+
+(a) adequate knowledge of the sciences on which medicine is based and a good understanding of the scientific methods including the principles of measuring biological functions, the evaluation of scientifically established facts and the analysis of data;
+
+(b) sufficient understanding of the structure, functions and behaviour of healthy and sick persons, as well as relations between the state of health and physical and social surroundings of the human being;
+
+(c) adequate knowledge of clinical disciplines and practices, providing him with a coherent picture of mental and physical diseases, of medicine from the points of view of prophylaxis, diagnosis and therapy and of human reproduction;
+
+(d) suitable clinical experience in hospitals under appropriate supervision.

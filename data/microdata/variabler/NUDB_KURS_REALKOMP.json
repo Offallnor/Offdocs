@@ -1,0 +1,129 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 11231,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 11231,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "NUDB_KURS_REALKOMP@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Kurs er en utdanningsaktivitet.",
+    "label": "Kurs",
+    "name": "KURS"
+   },
+   "label": "Kursidentifikator",
+   "name": "KURSID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for kurs i microdata",
+     "validPeriod": {
+      "start": 11231,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og NUDB kursnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Opptakskompetanse for studenter",
+  "name": "NUDB_KURS_REALKOMP",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen angir om studenten har generell studiekompetanse, realkompetanse eller annen kompetanse.\n \n Registreres kun ved kurstilgang fra igangværende universitets- og høgskoleutdanning.",
+    "validPeriod": {
+     "start": 0
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Generell studiekompetanse",
+       "code": "0"
+      },
+      {
+       "category": "Realkompetanse",
+       "code": "1"
+      },
+      {
+       "category": "Annet, uoppgitt",
+       "code": "2"
+      },
+      {
+       "category": "Yrkesfaglig utdanning og relevant fag-/svennebrev",
+       "code": "3"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "NUDB_KURS_REALKOMP",
+ "populationDescription": "Variabelen er utfylt for personer som tar igangværende utdanning innen høgskole og universitet. Verdier for generell studiekompetanse, realkompetanse og annet/Uoppgitt utfylt fra 2000 og 2001. Verdier for yrkesfaglig utdanning og relevant fag-/svennebrev utfylt fra 2008.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Utdanning",
+  "Utdanningsnivå"
+ ],
+ "temporalCoverage": {
+  "start": 11231,
+  "stop": 19967
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1760683763,
+ "version": "59.0.0.0"
+}

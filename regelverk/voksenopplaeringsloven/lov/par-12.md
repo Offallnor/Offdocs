@@ -1,0 +1,11 @@
+# § 12. Reaksjonsformer
+
+**Kilde:** Voksenopplæringsloven § 12
+
+**1. ledd**
+
+Dersom det blir oppdaget forhold i strid med loven, med forskrifter gitt i medhold av loven eller med forutsetningene for godkjenningen, kan departementet gi pålegg om å rette på forholdet.
+
+**2. ledd**
+
+Departementet kan holde tilbake statstilskuddet eller trekke tilbake godkjenningen dersom vilkår i loven, vilkår i forskrifter gitt i medhold av loven eller forutsetningene for godkjenningen ikke blir oppfylt. Departementet kan også kreve tilbake for mye utbetalt tilskudd, og tilskuddsmidler som er brukt i strid med loven, forskrifter gitt i medhold av loven eller forutsetningene for godkjenningen.

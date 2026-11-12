@@ -1,0 +1,25 @@
+# Yrkeskvalifikasjonsdirektivet artikkel 18
+
+**Activities referred to in list II of Annex IV**
+
+**Kilde:** Yrkeskvalifikasjonsdirektivet (Direktiv 2005/36), EUR-Lex 02005L0036-20251029, språk EN.
+
+Dette er EU-tekst, ikke norsk lov- eller forskriftstekst. Hvilken versjon som gjelder i Norge, avgjøres av EØS-avtalen og norsk gjennomføring: se `regelverk/eu/direktiv-2005-36/VEIVISER.md`.
+
+---
+
+1. For the activities in list II of Annex IV, the activity in question must have been previously pursued:
+
+(a) for five consecutive years on a self-employed basis or as a manager of an undertaking, or
+
+(b) for three consecutive years on a self-employed basis or as a manager of an undertaking, where the beneficiary proves that he has received previous training of at least three years for the activity in question, evidenced by a certificate recognised by the Member State or judged by a competent professional body to be fully valid, or
+
+(c) for four consecutive years on a self-employed basis or as a manager of an undertaking, where the beneficiary can prove that he has received, for the activity in question, previous training of at least two years' duration, attested by a certificate recognised by the Member State or judged by a competent professional body to be fully valid, or
+
+(d) for three consecutive years on a self-employed basis or as a manager of an undertaking, if the beneficiary can prove that he has pursued the activity in question on an employed basis for at least five years, or
+
+(e) for five consecutive years on an employed basis, if the beneficiary can prove that he has received, for the activity in question, previous training of at least three years' duration, as attested by a certificate recognised by the Member State or judged by a competent professional body to be fully valid, or
+
+(f) for six consecutive years on an employed basis, if the beneficiary can prove that he has received previous training in the activity in question of at least two years' duration, as attested by a certificate recognised by the Member State or judged by a competent professional body to be fully valid.
+
+2. In cases (a) and (d), the activity must not have finished more than 10 years before the date on which the complete application was submitted by the person concerned to the competent authority referred to in Article 56.

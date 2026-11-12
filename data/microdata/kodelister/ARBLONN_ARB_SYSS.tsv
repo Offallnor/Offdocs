@@ -1,0 +1,12 @@
+kode	kategori
+1a	M/lønn, ikke-fiktive
+1b	M/lønn, fiktive
+2a	NAV-ytelser
+2b	U/lønn, permittert < 90d
+2c	U/lønn, permisjon < 90d
+3a	U/lønn, ny startdato
+3b	Kun lønn t-1
+4a	U/lønn og fravær, ordinært
+4b	U/lønn og fravær, frilanser
+5	Annet
+5b	Annet, ikke sysselsetting (nedjustert til stillingsprosent = 0 etter arbeidstidsopplegget)

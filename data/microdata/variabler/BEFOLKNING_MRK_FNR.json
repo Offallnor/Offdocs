@@ -1,0 +1,142 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20314
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20314
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "BEFOLKNING_MRK_FNR@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": -25567,
+      "stop": 20314
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Alle Personidenter",
+  "name": "BEFOLKNING_MRK_FNR",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser alle tilgjengelig personer i microdata.no med gyldige og ugyldige identer.",
+    "validPeriod": {
+     "start": -1918,
+     "stop": 8034
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Fødselsnummer",
+       "code": "1"
+      },
+      {
+       "category": "D-nummer",
+       "code": "2"
+      }
+     ],
+     "missingValues": []
+    }
+   },
+   {
+    "description": "Variabelen viser alle tilgjengelig personer i microdata.no med gyldige og ugyldige identer.",
+    "validPeriod": {
+     "start": 8035
+    },
+    "valueDomain": {
+     "delta": {
+      "insert": {
+       "2": {
+        "category": "Ugyldig identitet",
+        "code": "3"
+       }
+      },
+      "remove": [],
+      "reorder": [],
+      "replace": {}
+     },
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "BEFOLKNING_MRK_FNR",
+ "populationDescription": "Variabelen omfatter alle tilgjengelige personer i microdata.no",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Populasjon",
+  "Befolkning"
+ ],
+ "temporalCoverage": {
+  "start": -25567,
+  "stop": 20314
+ },
+ "temporality": "FIXED",
+ "updatedAt": 1755502381,
+ "version": "59.0.0.0"
+}

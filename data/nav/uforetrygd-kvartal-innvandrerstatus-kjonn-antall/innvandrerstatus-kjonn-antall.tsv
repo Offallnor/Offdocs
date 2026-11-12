@@ -1,0 +1,22 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 30.09.2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-innvandrerstatus-og-kjonn.pr.30.09.2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *) Innvandrer er definert som en person født i utlandet. I tillegg er begge foreldre født i utlandet eller en foreldre født i utlandet og den andre med ukjent fødeland, eller begge foreldre har ukjent fødeland.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 30.09.2017-2026. Antall.	I alt	322954	334184	348778	357161	359997	362525	365963	371170	374768	379319
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 30.09.2017-2026. Antall.	Ikke-innvandrer	291629	299681	310627	315828	316561	316768	317735	320246	321310	323068
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 30.09.2017-2026. Antall.	Innvandrer	31325	34503	38151	41333	43419	45609	47984	50924	53458	56247
+Mottakere av uføretrygd, etter innvandrerstatus *) og kjønn. Pr. 30.09.2017-2026. Antall.	Ukjent	-	-	-	-	17	148	244	-	-	4
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner.	I alt	187547	194494	203380	208426	210325	212139	214646	217951	220431	223304
+Kvinner.	Ikke-innvandrer	171815	176971	183877	187208	187998	188448	189540	191372	192403	193663
+Kvinner.	Innvandrer	15732	17523	19503	21218	22322	23629	24969	26579	28028	29640
+Kvinner.	Ukjent	-	-	-	-	5	62	137	-	-	1
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn	I alt	135407	139690	145398	148735	149672	150386	151317	153219	154337	156015
+Menn	Ikke-innvandrer	119814	122710	126750	128620	128563	128320	128195	128874	128907	129405
+Menn	Innvandrer	15593	16980	18648	20115	21097	21980	23015	24345	25430	26607
+Menn	Ukjent	-	-	-	-	12	86	107	-	-	3

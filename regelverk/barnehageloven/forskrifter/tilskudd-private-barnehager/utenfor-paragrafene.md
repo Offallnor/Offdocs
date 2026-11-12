@@ -1,0 +1,432 @@
+# Forskrift om tildeling av tilskudd til private barnehager: innhold utenfor paragrafene
+
+# Forskrift om tildeling av tilskudd til private barnehager
+
+## Vedlegg 1. Liste over private barnehager som omfattes av § 4b om særregel for pensjonstilskudd til private barnehager med historiske pensjonsforpliktelser basert på avtale om offentlig tjenestepensjon
+
+| Virksomhetsnr. | Navn |
+|---|---|
+| 916381689 | Aglo barnehage Eventyrhuset AS |
+| 916381662 | Aglo barnehage Sentrum AS |
+| 973445936 | Andungen barnehage 1. Sa |
+| 973597639 | Askeladden barnehage |
+| 975028852 | Bakklandet barnehage |
+| 975028860 | Barnas Hus barnehage |
+| 977010047 | Barnehagen Himmelblå |
+| 873893362 | BARNEHAGEN I BRYNE KYRKJE |
+| 974796732 | Bekkelaget Kirkes barnehage |
+| 914746620 | Berg barnehage |
+| 973470434 | Berg Barnehage SA |
+| 973454870 | Bergerkollektivet barnehage |
+| 975183408 | BETANIEN BARNEHAGE |
+| 930333263 | Betanien barnehage AS |
+| 973383531 | Bjørset barnehage AS |
+| 973383248 | BJØRKETUN BARNEHAGE |
+| 982367409 | Blå Kors barnehage Øvrebø AS |
+| 973346504 | BMB Barnehage AS |
+| 994875698 | BOGAFJELL ÅPNE BARNEHAGE |
+| 996006344 | Byggeklossen Open barnehage |
+| 975183874 | Byåsen Kirkes barnehage |
+| 975314456 | BØLER MENIGHETS BARNEHAGE |
+| 973782975 | Bøler åpen barnehage |
+| 995319101 | Den Tysk-Norske Barnehagen i Oslo A |
+| 875028642 | Diakonhjemmet Barnehage Borgenveien AS |
+| 975183823 | Domkirken barnehage |
+| 875183842 | Dronning Mauds Minne barnehage |
+| 974838028 | Eikely Barnehage as |
+| 988541222 | Engan Gårdsbarnehage AS |
+| 975266702 | ENGELSRUD BARNEHAGE |
+| 985773017 | Eplehagen Barnehage (Eidanger Barnehage as) |
+| 974703351 | Fagerborg menighetsbarnehage |
+| 973337491 | Festningsgata menighets-barnehage |
+| 973337459 | Fevik barnehage |
+| 988820628 | Fitjar Soknerådsbarnehage Stifting |
+| 975048179 | Fjelltun barnehage AS |
+| 973457497 | Fossekallen Barnehage Sti |
+| 975183939 | Fredly Barnehage AS |
+| 987532874 | FRIDALEN MENIGHETS ÅPNE BARNEHAGE |
+| 975183793 | Frydenberg barnehage |
+| 974294443 | Grefsen Kirkes barnehage |
+| 973471872 | Hagen barnehage SA |
+| 973382403 | Hasle Barnehage AS |
+| 973383191 | Haugar barnehage |
+| 973469207 | Helgerud Menighets barnehage |
+| 975315258 | Helse Bergen Hf Hunstad barnehage |
+| 975315096 | Helse Bergen Hf Ravnebjerget barnehage |
+| 974737760 | Helse Bergen Hf Vinterdalen barnehage |
+| 979468105 | Helse Bergen Hf Vognstolen barnehage |
+| 873885262 | Hem barnehage |
+| 973456636 | Hofmoen barnehage |
+| 873349352 | HOLMENTOPPEN BARNEHAGE |
+| 974102226 | Hvitsten Naturbarnehage SA |
+| 974305658 | Ihle Barnehage |
+| 974157187 | Imi barnehage |
+| 996005364 | JESSHEIM ÅPEN BARNEHAGE |
+| 973469819 | Jondalen barnehage |
+| 973454544 | Kirkestallen barnehage |
+| 874800082 | Kirketunet barnehage |
+| 973448706 | Kirketunet barnehage AS |
+| 973352377 | Klingen naturbarnehage SA |
+| 989536338 | KLYVE ÅPEN BARNEHAGE |
+| 973817493 | Knatten barnehage |
+| 982451361 | Knøttene åpen barnehage |
+| 974998394 | Lademoen barnehage |
+| 993131075 | Lekestua barnehage |
+| 994249622 | Lillefot barnehage |
+| 996000389 | LITEN OG STOR ÅPEN BARNEHAGE |
+| 974703009 | Ljan Kirkes barnehage |
+| 981232232 | Lommedalen Menighets barnehage |
+| 993804703 | Lovisenberg Diakonale barnehage AS |
+| 975325342 | Løkkan barnehage |
+| 973269852 | Mandal Sanitetsforenings barnehage |
+| 994915959 | MARIAKIRKEN ÅPEN BARNEHAGE |
+| 874116572 | Martina Hansens Hospital |
+| 973449133 | Maurtua Barnehage Bømlo SA |
+| 874998362 | Midtbyen barnehage |
+| 974156318 | Misjonshusets Barnehage |
+| 983214770 | Mølleplassen Spesialbarnehage |
+| 972209503 | Myre Bedriftsbarnehage AS |
+| 980098974 | Nedre Stabæk barnehage AS |
+| 973304143 | Nesttun Indremisjons barnehage |
+| 981133234 | Nidelven åpen barnehage |
+| 994947362 | NOA ÅPEN BARNEHAGE |
+| 920560504 | Noahs Ark barnehage AS |
+| 982926610 | NOAS ARK OPEN BARNEHAGE |
+| 974702843 | Nordberg menighetsbarnehage |
+| 973479881 | Nordstrand Kirkes barnehage |
+| 972138487 | AS Norrøna barnehage |
+| 994915274 | NYKIRKEN ÅPEN BARNEHAGE |
+| 973469983 | NØTTELITEN BARNEHAGE |
+| 996004783 | OLSVIK MENIGHETS ÅPEN BARNEHAGE |
+| 994902903 | Osøyro Open barnehage |
+| 972517038 | PETRINE BARNEHAGE |
+| 975185117 | Preg barnehager Botne as |
+| 874703362 | Rishaven menighetsbarnehage AS |
+| 973455710 | Rosenhagen Steinerbarnehage |
+| 974703386 | Røa menighetsbarnehage |
+| 995119560 | Sakkeus Åpen barnehage |
+| 974725142 | SCHAFTELØKKEN MENIGHETS BARNEHAGE |
+| 889857072 | Semsløkka barnehage |
+| 974224356 | Skjoldtun barnehage |
+| 979781857 | Skogstjerna Natur og menighetsbarnehage |
+| 974142740 | Solborg barnehage |
+| 931679007 | Sole Skog Barnehage AS |
+| 973448633 | Solvang barnehage SA |
+| 974857561 | Solvang barnehage Førde AS |
+| 973382322 | Solvangkirkens barnehage |
+| 993266361 | Starefossen barnehage |
+| 981098749 | Stiftelsen Gullhaugen steinerbarnehage |
+| 973489321 | Stiftelsen KF Ansattes Barnehage |
+| 973494368 | Stiftelsen Norby Gård barnehage |
+| 979740530 | Stiftelsen Sesam |
+| 996000540 | Stjernen Åpen barnehage |
+| 974798670 | Stiftelsen Håholen barnehage |
+| 973390953 | Stiftelsen Ullevålsletta barnehage |
+| 932792257 | Store Brevik barnehage AS |
+| 985917981 | STORHAUG ÅPEN BARNEHAGE |
+| 974197901 | Svartskog Friluftsbarnehage SA |
+| 973456458 | Sørbyen barnehage AS |
+| 987751894 | SØRNES ÅPEN BARNEHAGE |
+| 973535765 | Tananger Menighetsbarnehage |
+| 973772503 | TEIE KIRKES BARNEHAGE |
+| 996006158 | Torridal åpen barnehage |
+| 974194678 | Torvteigen barnehage AS |
+| 975266842 | TRIPP TRAPP ÅPEN BARNEHAGE |
+| 994274406 | Tripp-Trapp Åpen barnehage |
+| 974703408 | Ullern Menighetsbarnehage Holgerslyst |
+| 997019814 | Ulriken Kfuk-Kfum Åpen barnehage |
+| 974156458 | Ulset Barnehage |
+| 973334875 | Unneland barnehage |
+| 972339563 | VASSBAKKEN BARNEHAGE SA |
+| 983604560 | Vike Montessoribarnehage SA |
+| 973763881 | VONHEIM OPEN BARNEHAGE |
+| 973456466 | Østenstad Menighetsbarnehage |
+| 973458515 | Østerhus barnehage |
+| 990635498 | Øygarden Kfuk-Kfum avd åpen barnehage |
+| 990635285 | Øygarden Kfuk-Kfum avd Straume |
+| 991843876 | Øygarden Kfuk-Kfum avd Landro |
+| 973454528 | Øymark barnehage |
+| 972290920 | Åkebakke Barnehage |
+| 993481947 | ÅPEN BARNEHAGE FANA KM |
+| 973877070 | Åpen barnehage Haugesund |
+
+
+## Merknader til de enkelte bestemmelsene
+
+### Til § 1
+
+#### Første ledd
+
+Forskriften regulerer tilskudd til private barnehager. Med private barnehager menes i forskriften her alle ikke-kommunale barnehager. Det omfatter også statlige og fylkeskommunale barnehager. Barnehagen må være godkjent, jf. barnehageloven § 19 , jf. § 14 og § 15 .
+
+Kommunen skal fatte vedtak om tilskudd til private barnehager uten ugrunnet opphold én gang i året etter reglene som følger av forskriften. Fristen «uten ugrunnet opphold» samsvarer med forvaltningsloven § 11a første ledd. Kommunen skal etter å ha mottatt årsmelding fra barnehagen, beregne tilskuddet til barnehagen på bakgrunn av rapportert barnetall og sats fastsatt i medhold av § 3 , § 7 og § 8 . Kravet til «uten ugrunnet opphold» betyr at kommunen så raskt som mulig etter at barnetallet fra barnehagen foreligger, må fatte vedtak om tilskudd.
+
+#### Andre ledd
+
+Bestemmelsen slår fast at kommunen har plikt til å fatte nytt vedtak om tilskudd til private barnehager hvis det følger av «lokale retningslinjer» eller det foreligger «store aktivitetsendringer» etter § 12 andre og tredje ledd. Vedtakene er nye vedtak for tiden fremover, og ikke omgjøring av tidligere vedtak. Kommunen kan ikke fatte vedtak som gjøres gjeldende bakover i tid. For å utnytte ledig kapasitet i de private barnehagene vil det være en fordel med flere tellinger og vedtak i løpet av året. Ved ny beregning av tilskudd til den private barnehagen som følge av lokale retningslinjer eller «store aktivitetsendringer», skal det nye barnetallet ganges med satsene fastsatt i medhold av § 3 , jf. § 4 og § 5 , samt § 6 . Satsene for private familiebarnehager er fastsatt i § 7 , jf. § 4 og § 5 og for private åpne barnehager i § 8 , jf. § 4 og § 5 .
+
+#### Tredje ledd
+
+Tredje ledd fastslår at kommunen skal utbetale tilskudd til barnehager som skal motta tilskudd etter barnehageloven § 19 , forskuddsvis hvert kvartal inntil kommunen fatter vedtak om tilskudd etter første ledd. Bestemmelsen viderefører tidligere § 14 fjerde ledd i barnehageloven . Dette er kun en rettsteknisk endring. Endringen innebærer ingen endring av gjeldende rett.
+
+### Til § 2
+
+Bestemmelsen synliggjør kommunens plikter etter forvaltningsloven § 17 , § 18 , § 24 og § 25 . Kommunen må kunne vise til hvordan tilskuddet er beregnet og sette de private barnehagene i stand til å forstå resultatet av beregningen. Kommunen må vise til de faktiske forhold som vedtaket bygger på. Dette vil typisk være hvorfor utgifter er tatt med i beregningen eller ikke. Hvis kommuneregnskapet ikke gir tilstrekkelig grunnlag for de private barnehagene til å vurdere om alle relevante driftsutgifter er tatt med i beregningen, må kommunen konkretisere driftsutgiftene slik at det blir mulig.
+
+### Til § 3
+
+#### Første ledd
+
+Bestemmelsen fastsetter kommunens ansvar for utmåling av driftstilskudd til private ordinære barnehager. Dette tilskuddet skal beregnes ut fra gjennomsnittlige «ordinære driftsutgifter per heltidsplass i ordinære kommunale barnehager». Ordinære driftsutgifter knytter seg til de utgiftene kommunen har til basistilbudet.
+
+Administrasjonsutgiftene som skal trekkes ved beregning av tilskuddssatsen vil være både sektoravhengige og sektoruavhengige utgifter. Sektoravhengige utgifter vil være utgifter kommunen har til fellesadministrasjon av sine barnehager som f.eks. utgifter til enhetsledere. Sektoruavhengige utgifter vil være utgifter knyttet til administrasjonsoppgaver som f.eks. regnskapstjenester, revisjon, IKT mv.
+
+Driftsutgifter knyttet til barnehager i midlertidige lokaler skal inngå i beregningen av driftstilskudd. Utgift til bygging og rivning av midlertidige lokaler skal ikke regnes som en ordinær driftsutgift og vil derfor ikke være en del av beregningsgrunnlaget. Ut over dette vil innholdet i ordinære driftsutgifter etter denne forskriften være tilsvarende som tidligere forståelse av begrepet.
+
+Foreldrebetaling og kostpenger skal trekkes fra ved beregning av tilskuddssatsen
+
+#### Andre ledd
+
+Bestemmelsen legger til grunn at kommunen skal gi påslag for pensjonsutgifter og administrasjonsutgifter, jf. § 4 første ledd og § 5 .
+
+#### Tredje ledd
+
+Forskriften fastslår at kommunen skal beregne antallet heltidsplasser i ordinære kommunale barnehager. Dette kan gjøres på to måter. Kommunen kan beregne antallet ut fra et vektet gjennomsnitt av årsmeldingen fra året før regnskapsåret og årsmeldingen fra regnskapsåret. Årsmeldingen fra året før regnskapsåret vektes med 7/12, og årsmeldingen fra regnskapsåret vektes med 5/12. Dette tar hensyn til at det skjer flere endringer i barnetallet i barnehagene ved oppstart av nytt barnehageår i august.
+
+Den andre måten kommunen kan beregne barnetallet på, er gjennom egne tellinger av barn i kommunale barnehager. Ved egne tellinger skal barn som fyller tre år i regnskapsåret regnes som under tre år i regnskapsårets sju første måneder (våren), og over tre år i årets fem siste måneder (høsten). Barnetallet i årsmeldingen fra før regnskapsåret legges til grunn fra 1. januar i regnskapsåret, og frem til første telling på våren. Tellinger på våren legges til grunn fra telletidspunktet og frem til ny telling, eller ut juli dersom kommunen ikke har flere tellinger på våren. I perioden frem til første telling på høsten, legges siste telling fra våren til grunn. Fordi denne tellingen legges til grunn i beregningen for høsten, regnes barn som fyller tre i regnskapsåret som over tre år fra august.
+
+Hvis kommunen ikke har egne tellinger på høsten, skal barnetallet fra årsmeldingen i regnskapsåret legges til grunn for hele høsten i beregningen av barnetallet. Det innebærer at kommunen ikke skal bruke siste telling fra våren for høsten. Dette tar i likhet med et vektet gjennomsnitt av årsmeldingene, høyde for at det skjer flere endringer i barnetallet i barnehagene ved oppstart av nytt barnehageår i august.
+
+Kommunen må ta hensyn til at det skjer endringer i barnetallet i barnehagene ved oppstart av nytt barnehageår i august, når kommunen velger telletidspunkt.
+
+Kommunens tellinger gjelder fra telletidspunktet og frem til neste telling. Det betyr at en telling viser barnetallet for et visst antall dager i regnskapsåret. Kommunen må finne et vektet gjennomsnitt av tellingene. Dette viser gjennomsnittlig antall heltidsplasser i regnskapsåret.
+
+Kommunen skal fastsette tilskuddssatsene i samsvar med forholdstall for finansiering av plasser for barn under og over tre år. Barn under tre år skal vektes 1,8 ganger høyere enn barn over tre år.
+
+#### Fjerde ledd
+
+Bestemmelsen slår fast at kommunen skal fastsette én sats for barn over tre år og én sats for barn under tre år.
+
+#### Femte ledd
+
+Det følger av bestemmelsen at kommuner som ikke har kommunale ordinære barnehager, har plikt til å bruke satser fastsatt av departementet for utregning av driftstilskudd til private ordinære barnehager. Departementet fastsetter en sats per heltidsplass for barn over tre år og en sats per heltidsplass for barn under tre år. Departementet fastsetter egne satser for tiltakssonen i Finnmark og Nord-Troms og kommuner i sentralitetssone 5 og 6, se sjette og sjuende ledd.
+
+### Til § 4
+
+#### Første ledd
+
+Bestemmelsen fastslår at kommunen skal trekke ut kommunens pensjonsutgifter i grunnlaget for beregningen av driftstilskudd etter § 3 første ledd. Påslaget som kommunen skal gi for pensjonsutgiftene, er ti prosent av totale lønnsutgifter i kommunale barnehager, fratrukket pensjonsutgift og arbeidsgiveravgift på pensjonsutgiften. Kommunen skal legge til arbeidsgiveravgift på summen av påslaget.
+
+#### Andre ledd
+
+Bestemmelsen fastslår at kommunen skal trekke ut kommunens pensjonsutgifter i grunnlaget for beregningen av driftstilskudd til familiebarnehager, jf. § 7 første ledd. Kommunen skal så gi et påslag for pensjonsutgiftene på seks prosent av totale lønnsutgifter i kommunale familiebarnehager, fratrukket pensjonsutgift og arbeidsgiveravgift på pensjonsutgiften. Kommunen skal legge til arbeidsgiveravgift på summen av påslaget.
+
+#### Tredje ledd
+
+Bestemmelsen fastslår at kommunen skal trekke ut kommunens pensjonsutgifter i grunnlaget for beregningen av tilskudd til åpne barnehager, jf. § 8 første ledd. Kommunen skal så gi et påslag for pensjonsutgiftene på seks prosent av totale lønnsutgifter i kommunale åpne barnehager, fratrukket pensjonsutgift og arbeidsgiveravgift på pensjonsutgiften. Kommunen skal legge til arbeidsgiveravgift på summen av påslaget.
+
+### Til § 4a
+
+#### Første ledd
+
+Private barnehager som samlet over de tre siste årene har mer enn fem prosent høyere utgifter til pensjon enn det de får dekket gjennom hovedregelen om pensjonspåslag etter § 4 , har etter søknad krav på å få dekket utgiftene som overstiger dette. Det innebærer at kommunen skal vurdere barnehagens gjennomsnittlige utgifter over tre år. Begrensningen om at det er utgiftene som overstiger fem prosent som dekkes, innebærer at utgifter opp til fem prosent høyere enn påslaget ikke dekkes, slik at det kun er det overskytende som dekkes, opp til taket i tredje ledd.
+
+Både private ordinære, åpne og familiebarnehager kan søke. Barnehagen kan søke hvert år, basert på de forrige tre årene. Det innebærer at ved innføring av regelen i 2026 kan barnehagene søke basert på pensjonsutgiftene og pensjonstilskuddet i 2026, 2025 og 2024.
+
+Etter andre punktum skal kommunen ta hensyn til at barnehagen i ett eller flere av årene som skal vurderes etter første punktum, kan ha fått tilskudd gjennom denne søknadsordningen, eller gjennom søknadsordningen i tidligere § 4a . Dersom det er tilfelle, skal beløpet telle med i vurderingen av om barnehagene oppfyller vilkårene i første punktum.
+
+#### Andre ledd
+
+Etter andre ledd skal kommunen legge til grunn barnehagens pensjonsutgifter som fremgår av barnehagens regnskap. Når kommunen skal vurdere om vilkårene etter første ledd er oppfylt, må kommunen se på pensjonsutgiftene over tre år.
+
+Barnehagens faktiske pensjonsutgifter finner barnehagen i regnskapet. Barnehagen vil normalt finne pensjonsutgiftene i regnskapsskjemaets post 5945 Pensjonsforsikring for ansatte. De ansattes egenandel på post 5947 skal trekkes fra. Den private barnehagen må prisjustere sine pensjonsutgifter og arbeidsgiveravgiften av pensjonsutgiftene med kommunal deflator.
+
+Dersom barnehagen søker om dekning av pensjonstilskudd, og regnskapet for det siste året barnehagen søker for, ikke er avsluttet, må barnehagen kunne dokumentere pensjonsutgiftene for at kommunen kan ta stilling til om vilkårene er oppfylt. Pensjonsutgiftene kan dokumenteres med samlede fakturaer for innbetalte premier til sine pensjonsleverandører i løpet av det aktuelle året.
+
+Det skal ikke gjøres fratrekk for arbeidsgiveravgift på pensjonsutgiftene i beregningen her.
+
+#### Tredje ledd
+
+Etter tredje ledd har den private barnehagen ikke rett på å få dekket mer enn 13 prosent av barnehagens gjennomsnittlige pensjonsgivende lønn for de tre årene det søkes om. Kommunen må beregne den øvre grensen på 13 prosent for hver enkelt barnehage, hvert år barnehagen søker.
+
+Tredje ledd må ses i sammenheng med første ledd første punktum, som innebærer at det kun er utgiftene som overstiger frem prosent som dekkes, inntil taket på 13 prosent av barnehagens pensjonsgivende lønn.
+
+Barnehagen har etter tredje ledd andre punktum en plikt til å dokumentere samlet pensjonsgivende lønn for de årene barnehagen søker om dekning for, slik at kommunen kan beregne den øvre grensen i hver konkret sak.
+
+#### Fjerde ledd
+
+Både barnehagens pensjonstilskudd, lønn, pensjonsutgifter og innvilget søknadsbeløp for tidligere år skal indeksjusteres med kommunal deflator før kommunen beregner hva barnehagen har rett på å få dekket etter regelen.
+
+### Til § 4b
+
+#### Første ledd
+
+Private barnehager som ikke får dekket sine pensjonsutgifter etter hovedregelen, og som har eller har hatt avtale om offentlig tjenestepensjon, skal få dekket sine merutgifter til pensjon etter denne regelen. Samlet tilskudd er begrenset oppad til 20 prosent av pensjonsgivende lønn i barnehagen. Regelen gjelder for barnehager som til enhver tid er opplistet i vedlegg I. Tilskuddet skal være inkl. arbeidsgiveravgift.
+
+#### Andre ledd
+
+Dersom barnehagen har høyere pensjonsutgifter enn den får dekket gjennom pensjonstilskuddet, må den kunne dokumentere dette overfor kommunen. Dokumentasjon kan bestå av årsoppgave eller kontoutdrag fra pensjonsleverandør, eller av terminvise fakturaer.
+
+#### Tredje ledd
+
+Barnehagen må så snart den ikke lenger betaler premie basert på avtale om offentlig tjenestepensjon, melde fra om dette til departementet. Særregelen er forbeholdt et fåtall barnehager og er begrunnet i historiske avtaler om offentlig tjenestepensjon. Når barnehagen ikke lenger betaler på en slik avtale, kvalifiserer den ikke til å omfattes av særregelen, og skal tas ut av listen i vedlegg I.
+
+### Til § 5
+
+Kommunen skal gi et påslag for administrasjonsutgifter på 4,3 prosent av gjennomsnittlige driftsutgifter i kommunale ordinære-, familie- og åpne kommunale barnehager. Grunnlaget for beregningen av påslaget for administrasjonsutgifter skal være brutto driftsutgifter, medberegnet pensjonspåslaget etter § 4 .
+
+### Til § 6
+
+#### Første ledd
+
+Bestemmelsen slår fast at kommunen har plikt til å gi kapitaltilskudd til private ordinære barnehager per heltidsplass.
+
+#### Andre ledd
+
+Hvis den private barnehagen enten er «ny» eller har «stor økning i godkjent areal» fastsetter bestemmelsen at kommunen skal gi barnehagen kapitaltilskudd per heltidsplass for dette arealet ut fra barnehagens godkjenningsår. Det er barnehagens godkjenning etter barnehageloven § 14 som avgjør godkjenningsåret. Vilkåret er ment å sikre at barnehagens økte kapitalkostnader skyldes faktiske forhold med barnehagens lokaler. Typisk vil oppføring av nye bygg, totalrenoveringer av gamle bygg og lignende føre til at det bygget må godkjennes etter en konkret vurdering i henhold til barnehageloven § 14 . Godkjenningen knytter barnehagen til godkjenningsår i tabellen også for vedtak fremover i tid. Det betyr at hvis barnehagen har godkjenning fra 2018, så får barnehagen tilskudd for godkjenningsåret 2018 i årene fremover.
+
+### Til § 7
+
+#### Første ledd
+
+Bestemmelsen tilsvarer § 3 første ledd. Se merknadene til § 3 første ledd.
+
+#### Andre ledd
+
+Bestemmelsen legger til grunn at kommunen skal gi påslag for pensjonsutgifter og administrasjonsutgifter, jf. § 4 andre ledd og § 5 .
+
+#### Tredje ledd
+
+Bestemmelsen tilsvarer i det vesentlige § 3 tredje ledd. Barn under tre år skal imidlertid vektes 1,25 ganger høyere enn barn over tre år. Se for øvrig merknader til § 3 tredje ledd.
+
+#### Fjerde ledd
+
+Bestemmelsen slår fast at kommunen skal fastsette én sats for barn over tre år og én sats for barn under tre år.
+
+#### Femte ledd
+
+Det følger av bestemmelsen at kommuner som ikke har kommunale familiebarnehager, har plikt til å bruke satser fastsatt av departementet i utregningen av driftstilskudd til private familiebarnehager. Departementet fastsetter en sats per heltidsplass for barn over tre år og en sats per heltidsplass for barn under tre år. Departementet fastsetter egne satser for tiltakssonen i Finnmark og Nord-Troms og for kommuner i sentralitetssone 5 og 6, se sjette og sjuende ledd.
+
+#### Syvende ledd
+
+Bestemmelsen slår fast at kommunen skal gi kapitaltilskudd ut fra sats fastsatt av departementet. Reglene i forskriften § 6 om kapitaltilskudd gjelder ikke for familiebarnehager.
+
+#### Åttende ledd
+
+Bestemmelsen slår fast at kommunen skal gi kapitaltilskudd ut fra sats fastsatt av departementet.
+
+### Til § 8
+
+#### Første ledd
+
+Bestemmelsen slår fast at kommunen skal gi tilskudd til åpne barnehager per heltidsplass. Bestemmelsen tilsvarer § 3 første ledd.
+
+#### Andre ledd
+
+Bestemmelsen legger til grunn at kommunen skal gi påslag for pensjonsutgifter og administrasjonsutgifter, jf. § 4 tredje ledd og § 5 .
+
+#### Tredje ledd
+
+Bestemmelsen angir at kommunen skal fastsette én sats for barnehager som har en ukentlig åpningstid på mellom 6 til 15 timer og én sats for barnehager som har åpningstid over 15 timer. Satsen er felles for drift og kapital. Den skiller ikke på tilskudd til barn under og over tre år, slik som for ordinære barnehager og familiebarnehager. Reglene i forskriften § 6 om kapitaltilskudd gjelder ikke for åpne barnehager.
+
+#### Fjerde ledd
+
+Kommunen skal ta utgangspunkt i det antallet barn barnehagen er godkjent for, og som barnehagen skal rapportere om etter § 12 femte ledd.
+
+Hvor mange barn barnehagen er godkjent for, fastsettes av kommunen ut fra lokalenes størrelse og kravet om at personalet skal drive en tilfredsstillende pedagogisk virksomhet, jf. barnehageloven § 14 .
+
+Hvis det over tid viser seg at fremmøtet er vesentlig lavere enn det som følger av godkjenningen, kan kommunen legge et lavere barnetall til grunn ved beregningen av tilskudd. Kommunen kan gjøre dette ved å fastsette egne rapporteringstidspunkt for åpne barnehager, jf. § 12 andre ledd. Disse rapporteringene fra barnehagen kan være basert på føring av antall barn over en periode som er representativ for barnehagens aktivitetsnivå.
+
+#### Femte ledd
+
+Det følger av bestemmelsen at kommuner som ikke har kommunale åpne barnehager, har plikt til å bruke satser fastsatt av departementet i utregningen av tilskudd til private åpne barnehager.
+
+### Til § 9
+
+#### Første ledd
+
+Bestemmelsen fastslår at kommunen har plikt til å fatte vedtak om satser for tilskudd innen 31. oktober året før tilskuddsåret. Kommunene er likevel etter forvaltningsloven forpliktet til å fatte vedtak uten ugrunnet opphold.
+
+Vedtaket skal inneholde kommunens satsberegning eller opplyse om at kommunen vil benytte satser fastsatt av departementet. Det må fremkomme i vedtaket at den endelige satsen kan bli justert på bakgrunn av eventuelle endringer i kommunal deflator og maksimalprisen.
+
+#### Andre ledd
+
+Vedtaket følger reglene for enkeltvedtak etter forvaltningsloven , noe som blant annet innebærer klageadgang for de private barnehagene.
+
+### Til § 10
+
+Kommunen som fastsetter egne satser skal indeksregulere satsene etter § 3 , § 7 og § 8 med faktoren for forventet pris- og kostnadsvekst i kommunesektoren. For det første året er det den sist justerte deflatoren som brukes, og for det andre året er det den som kunngjøres i forbindelse med fremleggelsen av statsbudsjettet som brukes. Dette fastsettes av Finansdepartementet, og offentliggjøres årlig i Nasjonalbudsjettet
+
+### Til § 11
+
+Kommunen skal gjøre fratrekket etter første ledd før kommunen fatter vedtak om tilskuddet etter § 1 . Indirekte økonomisk støtte kan for eksempel være at barnehagen får gratis lokaler eller lokaler med husleie under markedsleie av kommunen.
+
+Tilskudd til for eksempel barn med særlige behov, eller annen økonomisk støtte som ikke går til det ordinære tilbudet i barnehagen, skal holdes utenfor beregningen av tilskudd etter § 1 og skal heller ikke trekkes fra ved tildeling av tilskudd.
+
+### Til § 12
+
+#### Første ledd
+
+Ingen merknader.
+
+#### Andre ledd
+
+Kommunen kan bestemme hyppigheten på rapporteringer i lokale retningslinjer. Det skal rapporteres om antall barn, barnas alder og oppholdstid. Kommunen kan bestemme at en økning eller reduksjon av et visst antall barn skal føre til at tilskuddet endres for tiden fremover. Det kan også fastsettes at en viss økning eller reduksjon av barn som er over eller under tre år, utløser endringer i tilskuddet.
+
+Dersom kommunen fastsetter lokale retningslinjer, skal disse fastsettes før tilskuddsåret begynner og ikke endres i løpet av tilskuddsåret.
+
+#### Tredje ledd
+
+Hvis den private barnehagen har «store aktivitetsendringer», medfører det at kommunen må beregne tilskuddet til barnehagen på nytt. I den konkrete vurderingen av om det foreligger «store aktivitetsendringer» må det tas høyde for barnehagens størrelse og barnetall. Opprettelse eller nedleggelse av avdeling eller større gruppe er eksempel på «store aktivitetsendringer». Kommunen kan ikke fastsette en fast grense for hva som er «store aktivitetsendringer», da dette er en konkret vurdering som skal gjøres på bakgrunn av den enkelte endringen.
+
+#### Fjerde ledd
+
+Hvis et barn som fyller tre år i tilskuddsåret, rapporteres i tilskuddsårets sju første måneder, utløser dette sats for småbarnsplass. Blir et barn som fyller tre år i tilskuddsåret, rapportert i årets fem siste måneder, utløser dette sats for storbarnsplass resten av året. Kommunen har ikke adgang til å fravike dette ved rapporteringer etter andre og tredje ledd.
+
+Der kommunene har flere rapporteringstidspunkter i lokale retningslinjer eller ved «store aktivitetsendringer», gjelder vedtakene som fattes fra det aktuelle tidspunktet og tiden fremover. Vedtakene er ikke omgjøring av tidligere vedtak.
+
+#### Femte ledd
+
+Bestemmelsen angir hva åpne barnehager skal rapportere om, mens § 8 angir hvordan kommunen beregner tilskuddet. I motsetning til ordinære barnehager og familiebarnehager, får åpne barnehager tilskudd med utgangspunkt i hvor mange barn det er plass til innenfor godkjenningen, se § 8 tredje ledd, og ikke antall barn med barnehageplass som går i barnehagen.
+
+På grunn av organiseringen som åpne barnehager har, blir rapporteringen etter § 12 første ledd annerledes for denne gruppen barnehager. De skal rapportere om ukentlig åpningstid og hvor mange barn det er plass til innenfor godkjenningen, jf. barnehageloven § 14 .
+
+Andre og tredje ledd gjelder for åpne barnehager så langt de passer. Det betyr at kommunen kan fastsette egne rapporteringstidspunkter etter andre ledd for åpne barnehager. Slike rapporteringer fra barnehagen kan være basert på føring av antall barn over en periode som er representativ for barnehagens aktivitetsnivå. Åpne barnehager plikter å melde fra om store aktivitetsendringer, jf. tredje ledd.
+
+### Til § 13
+
+Barnehagen har ikke rett til å beholde tilskudd den urettmessig har mottatt når dette skyldes feil fra barnehagens side. Slike feil kan for eksempel være feilrapportering av barnetall eller aldersfordeling av barn over og under tre år. Kommunen bestemmer om den vil fatte vedtak om tilbakebetaling.
+
+Bestemmelsen omfatter ikke for mye utbetalt tilskudd som alene skyldes feil fra kommunens side.
+
+### Til § 14
+
+Bestemmelsen i forskriften § 14 fastsetter at statsforvalteren er klageinstans på kommunens vedtak om tildeling av kommunalt tilskudd til private barnehager etter § 1 , vedtak om sats etter § 9 og vedtak om tilbakebetaling av tilskudd etter § 13 .
+
+Statsforvalteren er klageinstans for vedtak som gjelder søknad om økt tilskudd etter § 4a første ledd (pensjon) og § 6 andre ledd (kapital). Disse vedtakene kan, avhengig av når barnehagen søker og kommunens behandlingstid, være en del av vedtaket etter § 1 eller et eget vedtak.
+
+Bestemmelsen innebærer at det gjøres unntak fra hovedregelen i forvaltningsloven § 28 om at kommunens eget klageorgan er klageinstans. For øvrig gjelder reglene om enkeltvedtak i forvaltningsloven .
+
+### § 15 Refusjon for barn fra andre kommuner
+
+Kommuner som har private barnehager med barn som er folkeregistrert i en annen kommune, har rett til refusjon for barnehageplassen fra kommunen der barnet er folkeregistrert.
+
+Kommunen skal bruke satser for drift og kapital fastsatt av departementet i beregningen av refusjonskravet, og gjøre fratrekk etter § 11 første ledd.
+
+#### Første ledd
+
+Bestemmelsen regulerer tilfeller der barn som er folkeregistrert i én kommune, går i en privat barnehage i en annen kommune. Kommunen der barnet er folkeregistrert blir i slike tilfeller refusjonspliktig overfor kommunen der barnet faktisk går i barnehage (vertskommunen).
+
+Bestemmelsen om refusjon omhandler ikke tilfellene hvor barnet har plass i en kommunal barnehage i vertskommunen.
+
+#### Andre ledd
+
+Kommunen skal bruke satser fastsatt av departementet ved beregningen av refusjonskravet. Kommunen skal gjøre fratrekk etter reglene i § 11 første ledd.
+
+### Til § 16
+
+Bestemmelsen slår fast at kommuner som slår seg sammen, skal bruke de tidligere kommunenes regnskap og barnetall i tilskuddsberegningen til private barnehager frem til den nye kommunen har et eget regnskap og barnetall. Den nye kommunen har et eget regnskap og barnetall som kan brukes til tilskuddsberegning to år etter at kommunesammenslåingen er gjennomført.
+
+### Til § 17
+
+Ingen merknader.

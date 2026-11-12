@@ -1,0 +1,202 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 18262,
+      "stop": 20697
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 18262,
+      "stop": 20697
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "ELHUB_PERS_MALEPUNKTID_FNR@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Målepunkt er en innretning for måling av strømforbruk.",
+    "label": "Målepunkt",
+    "name": "MALEPUNKT"
+   },
+   "label": "Målepunktsidentifikator",
+   "name": "MALEPUNKT_ID",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for målepunkt i microdata",
+     "validPeriod": {
+      "start": 18262,
+      "stop": 20697
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og målepunktsid nummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "format": "RandomUInt48",
+  "keyType": {
+   "description": "Person er et enkeltmenneske, individ.",
+   "label": "Person",
+   "name": "PERSON"
+  },
+  "label": "Målepunktid, person",
+  "name": "ELHUB_PERS_MALEPUNKTID_FNR",
+  "notPseudonym": false,
+  "representedVariables": [
+   {
+    "description": "Variabelen omfatter strømkunden tilknyttet målepunktet avgrenset til privatpersoner per månedsslutt. Variabelen er en nøkkel som gir deg mulighet til å koble kunden registrert på målepunktet og person. En person kan være tilknyttet flere målepunkt i samme periode. Tverrsnittsdatoen gjenspeiler måneden målingen er foretatt.\n \n Det er kraftleverandør som innhenter informasjon om kundens fødselsnummer, d-nummer eller organisasjonsnummer som en del av kontraktinngåelsesprosessen.",
+    "validPeriod": {
+     "start": 18262,
+     "stop": 20697
+    },
+    "valueDomain": {
+     "description": "Pseudonymisert personnummer",
+     "unitOfMeasure": "N/A"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "ELHUB_PERS_MALEPUNKTID_FNR",
+ "populationDescription": "Variabelen omfatter kunden som er registrert på målepunktet avgrenset til privatpersoner per månedsslutt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Elhub",
+  "Energi og industri"
+ ],
+ "temporalCoverage": {
+  "start": 18262,
+  "stop": 20697
+ },
+ "temporalStatusDates": [
+  18262,
+  18293,
+  18322,
+  18353,
+  18383,
+  18414,
+  18444,
+  18475,
+  18506,
+  18536,
+  18567,
+  18597,
+  18628,
+  18659,
+  18687,
+  18718,
+  18748,
+  18779,
+  18809,
+  18840,
+  18871,
+  18901,
+  18932,
+  18962,
+  18993,
+  19024,
+  19052,
+  19083,
+  19113,
+  19144,
+  19174,
+  19205,
+  19236,
+  19266,
+  19297,
+  19327,
+  19358,
+  19389,
+  19417,
+  19448,
+  19478,
+  19509,
+  19539,
+  19570,
+  19601,
+  19631,
+  19662,
+  19692,
+  19723,
+  19754,
+  19783,
+  19814,
+  19844,
+  19875,
+  19905,
+  19936,
+  19967,
+  19997,
+  20028,
+  20058,
+  20089,
+  20120,
+  20148,
+  20179,
+  20209,
+  20240,
+  20270,
+  20301,
+  20332,
+  20362,
+  20393,
+  20423,
+  20454,
+  20485,
+  20513,
+  20544,
+  20574,
+  20605,
+  20635,
+  20666,
+  20697
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1793790331,
+ "version": "59.0.0.0"
+}

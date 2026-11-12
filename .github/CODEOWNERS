@@ -1,0 +1,99 @@
+# Lages av verktoy/fagansvar.py fra fagområdene i regelverk.json. Rediger ikke for hånd:
+# endre eieren under «fagomrader» i regelverk.json og kjør `python3 verktoy/fagansvar.py --skriv`.
+#
+# Eierne får beskjed når en pull request berører mappene deres, og må godkjenne før den
+# tas inn i main. Regelen virker først når «Require review from Code Owners» er slått på
+# for main (Settings → Branches eller Rules).
+
+# Felles filer og alt som ikke har egen eier
+*  @offallnor-bot
+
+# Arbeidsrett
+/regelverk/allmenngjoringsloven/      @offallnor-bot
+/regelverk/arbeidsmiljoloven/         @offallnor-bot
+/regelverk/arbeidstvistloven/         @offallnor-bot
+/regelverk/eu/direktiv-1999-70/       @offallnor-bot
+/regelverk/eu/direktiv-2001-23/       @offallnor-bot
+/regelverk/eu/direktiv-2002-14/       @offallnor-bot
+/regelverk/eu/direktiv-2003-88/       @offallnor-bot
+/regelverk/eu/direktiv-2008-104/      @offallnor-bot
+/regelverk/eu/direktiv-2008-94/       @offallnor-bot
+/regelverk/eu/direktiv-2014-67/       @offallnor-bot
+/regelverk/eu/direktiv-2019-1152/     @offallnor-bot
+/regelverk/eu/direktiv-2019-1158/     @offallnor-bot
+/regelverk/eu/direktiv-89-391/        @offallnor-bot
+/regelverk/eu/direktiv-96-71/         @offallnor-bot
+/regelverk/eu/direktiv-97-81/         @offallnor-bot
+/regelverk/eu/direktiv-98-59/         @offallnor-bot
+/regelverk/eu/forordning-492-2011/    @offallnor-bot
+/regelverk/ferieloven/                @offallnor-bot
+/regelverk/lonnsgarantiloven/         @offallnor-bot
+/regelverk/permitteringslonnsloven/   @offallnor-bot
+
+# Trygd og arbeidsmarked
+/regelverk/arbeidsmarkedsloven/      @offallnor-bot
+/regelverk/eu/forordning-883-2004/   @offallnor-bot
+/regelverk/eu/forordning-987-2009/   @offallnor-bot
+/regelverk/folketrygdloven/          @offallnor-bot
+/regelverk/nav-loven/                @offallnor-bot
+/regelverk/sosialtjenesteloven/      @offallnor-bot
+
+# Pensjon i offentlig sektor
+/regelverk/afp-loven/           @offallnor-bot
+/regelverk/aldersgrenseloven/   @offallnor-bot
+/regelverk/samordningsloven/    @offallnor-bot
+/regelverk/spk-loven/           @offallnor-bot
+
+# Statsansatte og tariff i staten
+/regelverk/hovedtariffavtalen/   @offallnor-bot
+/regelverk/karanteneloven/       @offallnor-bot
+/regelverk/statsansatteloven/    @offallnor-bot
+/regelverk/tjenestetvistloven/   @offallnor-bot
+
+# Likestilling og diskriminering
+/regelverk/diskrimineringsombudsloven/              @offallnor-bot
+/regelverk/eu/direktiv-2000-43/                     @offallnor-bot
+/regelverk/eu/direktiv-2000-78/                     @offallnor-bot
+/regelverk/eu/direktiv-2006-54/                     @offallnor-bot
+/regelverk/likestillings-og-diskrimineringsloven/   @offallnor-bot
+
+# Innvandring og integrering
+/regelverk/eu/direktiv-2004-38/   @offallnor-bot
+/regelverk/integreringsloven/     @offallnor-bot
+/regelverk/statsborgerloven/      @offallnor-bot
+/regelverk/tolkeloven/            @offallnor-bot
+/regelverk/utlendingsloven/       @offallnor-bot
+
+# Forvaltning og statsstyring
+/regelverk/arkivlova/                      @offallnor-bot
+/regelverk/eu/forordning-2016-679/         @offallnor-bot
+/regelverk/forvaltningsloven/              @offallnor-bot
+/regelverk/forvaltningsloven-2025/         @offallnor-bot
+/regelverk/offentleglova/                  @offallnor-bot
+/regelverk/personopplysningsloven/         @offallnor-bot
+/regelverk/spraklova/                      @offallnor-bot
+/regelverk/stortingets-forretningsorden/   @offallnor-bot
+/regelverk/utredningsinstruksen/           @offallnor-bot
+
+# Barnehage
+/regelverk/barnehageloven/   @offallnor-bot
+
+# Grunnopplæring og voksenopplæring
+/regelverk/folkehogskoleloven/       @offallnor-bot
+/regelverk/opplaeringslova/          @offallnor-bot
+/regelverk/privatskolelova/          @offallnor-bot
+/regelverk/voksenopplaeringsloven/   @offallnor-bot
+
+# Høyere utdanning, fagskole og forskning
+/regelverk/eu/direktiv-2005-36/             @offallnor-bot
+/regelverk/fagskoleloven/                   @offallnor-bot
+/regelverk/forskningsetikkloven/            @offallnor-bot
+/regelverk/studentsamskipnadsloven/         @offallnor-bot
+/regelverk/universitets-og-hoyskoleloven/   @offallnor-bot
+/regelverk/yrkeskvalifikasjonsloven/        @offallnor-bot
+
+# Utdanningsstøtte
+/regelverk/utdanningsstotteloven/   @offallnor-bot
+
+# Statens personalhåndbok (del av et annet regelverk)
+/regelverk/statsansatteloven/rundskriv/personalhandboka/   @offallnor-bot

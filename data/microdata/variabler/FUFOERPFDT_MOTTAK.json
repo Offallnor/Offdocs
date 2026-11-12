@@ -1,0 +1,117 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/sluttdato for hendelsen",
+     "validPeriod": {
+      "start": 8004,
+      "stop": 14974
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8004,
+      "stop": 14974
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "FUFOERPFDT_MOTTAK@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Statistisk enhet er person (individ, enkeltmenenske)",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i RAIRD",
+     "validPeriod": {
+      "start": 8004,
+      "stop": 14974
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Foreløpig uførestønad",
+  "name": "FUFOERPFDT_MOTTAK",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Omfatter personer som mottar attføringspenger i ventetid på uførepensjon i den angitte perioden. Fra og med 1994 heter ordningen foreløpig uførestønad. Når en person har satt frem krav om uførepensjon og det er sannsynlig at denne vil bli innvilget, så gis stønaden i ventetiden på søknadsbehandlingen. Kan personen dekke utgiftene til livsopphold ved hjelp av andre inntekter i perioden, ytes ikke stønaden. (dataverdien er '1' for alle observasjoner i datasettet)",
+    "validPeriod": {
+     "start": 0
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Mottar stønad/ytelse",
+       "code": "1"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "FUFOERPFDT_MOTTAK",
+ "populationDescription": "Hovedsakelig bosatte i Norge (fnr), men noen ikke-bosatte kan inngå (dnr)",
+ "sensitivityLevel": "PERSON_SPECIAL",
+ "subjectFields": [
+  "Sosiale forhold og kriminalitet",
+  "Trygd og stønad"
+ ],
+ "temporalCoverage": {
+  "start": 8004,
+  "stop": 14974
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1592485055,
+ "version": "59.0.0.0"
+}

@@ -1,0 +1,144 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/sluttdato for hendelsen",
+     "validPeriod": {
+      "start": 11277,
+      "stop": 16390
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 11277,
+      "stop": 16390
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "REGSYS_ORGFOR@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Statistisk enhet er person (individ, enkeltmenenske)",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i RAIRD",
+     "validPeriod": {
+      "start": 11277,
+      "stop": 16390
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "format": "RandomUInt48",
+  "keyType": {
+   "description": "Foretak er definert som den minste kombinasjonen av juridiske enheter som produserer varer eller tjenester, og som til ei viss grad har selvstendig beslutningsmyndighet.",
+   "label": "Foretak",
+   "name": "FORETAK"
+  },
+  "label": "Personens hovedarbeidsforhold - foretak",
+  "name": "REGSYS_ORGFOR",
+  "notPseudonym": false,
+  "representedVariables": [
+   {
+    "description": "Variabelen identifiserer foretaket til virksomheten der personen har sitt hovedarbeidsforhold (det er i hovedsak arbeidsforholdet med høyest avtalt arbeidstid). Identifikator er i de fleste tilfeller foretakets avidentifiserte organisasjonsnummer. Det forekommer også andre nummer, som fødselsnummer for enkeltmannsforetak og arbeidsgivernummer. \n \n For mer informasjon se [Om datagrunnlaget for registerbasert sysselsettingsstatistikk](https://www.ssb.no/omssb/tjenester-og-verktoy/data-til-forskning/arbeid/regsys). \n \n Denne variabelen erstattes med REGSYS_FRTK_ID_SSB fra og med 2015.\n \n Kilde for variabelen er registerbaserte sysselsettingsdata. Les dokumentasjonen om datagrunnlag, prosessering og definisjoner her:\n - [Sysselsetting, registerbasert](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/sysselsetting-registerbasert) \n - [Om datagrunnlaget for registerbasert sysselsettingsstatistikk](https://www.ssb.no/data-til-forskning/utlan-av-data-til-forskere/variabellister/a-ordningen/om-datagrunnlaget-for-registerbasert-sysselsettingsstatistikk) \n - [Registerbasert lønns- og sysselsettingsstatistikk basert på a-ordningen](https://www.ssb.no/arbeid-og-lonn/sysselsetting/artikler/registerbasert-lonns-og-sysselsettingsstatistikk-basert-pa-a-ordningen)",
+    "validPeriod": {
+     "start": 11277,
+     "stop": 16390
+    },
+    "valueDomain": {
+     "description": "N/A",
+     "unitOfMeasure": "N/A"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "REGSYS_ORGFOR",
+ "populationDescription": "Variabelen omfatter bosatte personer 15-74 år som er sysselsatt, hovedarbeidsforhold i november. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Sysselsetting",
+  "Arbeid og lønn",
+  "Virksomheter og foretak",
+  "Virksomheter, foretak og regnskap"
+ ],
+ "temporalCoverage": {
+  "start": 11277,
+  "stop": 16390
+ },
+ "temporalEnd": {
+  "description": "Variabelen oppdateres ikke.",
+  "successors": [
+   "REGSYS_FRTK_ID_SSB"
+  ]
+ },
+ "temporalStatusDates": [
+  14199,
+  15660,
+  12738,
+  11642,
+  16390,
+  13833,
+  13468,
+  15294,
+  12372,
+  13103,
+  12007,
+  14929,
+  16025,
+  14564,
+  11277
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1603982268,
+ "version": "59.0.0.0"
+}

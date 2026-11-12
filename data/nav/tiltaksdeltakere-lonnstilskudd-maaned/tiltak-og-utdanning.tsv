@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på lønnstilskudd, demografi, tidsserie måned (TILT110)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-11-09
+# Ark: Tiltak og utdanning
+# TILT110 Tiltaksdeltakere på lønnstilskudd. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og utdanning									Rapport oppdatert: 02.11.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober
+Januar 2026 - Oktober 2026	I alt midlertidig lønnstilskudd	5000	3316	3675	3989	4436	4962	5785	5650	5848	6028	6312
+Januar 2026 - Oktober 2026	Grunnskolenivå	1705	1106	1227	1330	1533	1708	2008	1951	1975	2023	2190
+Januar 2026 - Oktober 2026	Videregående skolenivå	1366	878	979	1049	1192	1319	1519	1596	1634	1665	1826
+Januar 2026 - Oktober 2026	Universitets- og høgskolenivå, kort inntil 4 år	893	581	627	684	804	879	972	1011	1082	1108	1180
+Januar 2026 - Oktober 2026	Universitets- og høgskolenivå, lang over 4 år	624	441	444	445	563	611	688	706	731	759	852
+Januar 2026 - Oktober 2026	Uoppgitt eller ingen fullført utdanning	413	310	398	481	344	445	598	386	426	473	264
+gruppe	rad	Gjennomsnitt hittil i år	Juni	Juli	August
+	I alt tilskudd til sommerjobb	71	326	343	45
+	Grunnskolenivå	52	253	237	33
+	Videregående skolenivå	7	22	41	6
+	Universitets- og høgskolenivå, kort inntil 4 år	*	9	13	*
+	Universitets- og høgskolenivå, lang over 4 år	*	*	*	*
+	Uoppgitt eller ingen fullført utdanning	10	42	51	*
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober
+	I alt varig lønnstilskudd	3779	3791	3784	3786	3783	3797	3792	3775	3765	3760	3758
+	Grunnskolenivå	1454	1456	1454	1456	1452	1459	1467	1453	1445	1453	1445
+	Videregående skolenivå	1434	1442	1443	1438	1440	1442	1424	1429	1430	1423	1424
+	Universitets- og høgskolenivå, kort inntil 4 år	596	598	592	596	596	602	603	596	597	589	588
+	Universitets- og høgskolenivå, lang over 4 år	245	241	242	243	244	244	247	249	244	246	251
+	Uoppgitt eller ingen fullført utdanning	51	54	53	53	51	50	51	48	49	49	50

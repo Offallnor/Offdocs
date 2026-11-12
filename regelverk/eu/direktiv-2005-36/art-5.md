@@ -1,0 +1,25 @@
+# Yrkeskvalifikasjonsdirektivet artikkel 5
+
+**Principle of the free provision of services**
+
+**Kilde:** Yrkeskvalifikasjonsdirektivet (Direktiv 2005/36), EUR-Lex 02005L0036-20251029, språk EN.
+
+Dette er EU-tekst, ikke norsk lov- eller forskriftstekst. Hvilken versjon som gjelder i Norge, avgjøres av EØS-avtalen og norsk gjennomføring: se `regelverk/eu/direktiv-2005-36/VEIVISER.md`.
+
+---
+
+1. Without prejudice to specific provisions of Community law, as well as to Articles 6 and 7 of this Directive, Member States shall not restrict, for any reason relating to professional qualifications, the free provision of services in another Member State:
+
+(a) if the service provider is legally established in a Member State for the purpose of pursuing the same profession there (hereinafter referred to as the Member State of establishment), and
+
+[▼M9]
+
+(b) where the service provider moves, if he has pursued that profession in one or several Member States for at least one year during the last 10 years preceding the provision of services when the profession is not regulated in the Member State of establishment. The condition of one year’s pursuit shall not apply if the profession or the education and training leading to the profession is regulated.
+
+[▼B]
+
+2. The provisions of this title shall only apply where the service provider moves to the territory of the host Member State to pursue, on a temporary and occasional basis, the profession referred to in paragraph 1.
+
+The temporary and occasional nature of the provision of services shall be assessed case by case, in particular in relation to its duration, its frequency, its regularity and its continuity.
+
+3. Where a service provider moves, he shall be subject to professional rules of a professional, statutory or administrative nature which are directly linked to professional qualifications, such as the definition of the profession, the use of titles and serious professional malpractice which is directly and specifically linked to consumer protection and safety, as well as disciplinary provisions which are applicable in the host Member State to professionals who pursue the same profession in that Member State.

@@ -1,0 +1,27 @@
+# Kilde: Nav
+# Tabell: Uføretrygdede etter kommune (tabell 20)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Ark: Fylke. Andel av befolkning
+# PST220 Mottakere av uføretrygd. Fylke og kommune. Antall og andel
+gruppe	rad	Fylke. Andel av befolkning							Rapport oppdatert: 13.10.2026
+gruppe	rad		Prosent av befolkningen 18-67 år***)			Endring fra året før
+gruppe	rad		September 2024	September 2025	September 2026		Prosent-poeng
+Fylke	I alt		10.481893	10.531791	10.616388		0.1
+Fylke	03 Oslo - Oslove		6.280465	6.319153	6.357983		0.1
+Fylke	11 Rogaland		8.994541	9.054646	9.09512		0
+Fylke	15 Møre og Romsdal		9.871491	9.974186	9.989195		0
+Fylke	18 Nordland - Nordlánnda		13.135171	13.065816	13.186939		0.1
+Fylke	31 Østfold		13.906487	13.897864	14.088955		0.2
+Fylke	32 Akershus		7.694109	7.727991	7.837616		0.1
+Fylke	33 Buskerud		10.994836	11.168835	11.399118		0.2
+Fylke	34 Innlandet		14.357368	14.434543	14.520306		0.1
+Fylke	39 Vestfold		12.775641	12.776628	12.818638		0
+Fylke	40 Telemark		13.948963	14.262602	14.473578		0.2
+Fylke	42 Agder		14.150886	14.265432	14.48411		0.2
+Fylke	46 Vestland		8.902055	8.930073	8.915521		0
+Fylke	50 Trøndelag - Trööndelage		11.174797	11.268555	11.33181		0
+Fylke	55 Troms - Romsa - Tromssa		10.975426	11.033545	11.030855		0
+Fylke	56 Finnmark - Finnmárku - Finmarkku		11.933751	11.893625	11.857463		0
+Fylke	98 Utland		*	*	*		*
+Fylke	Ukjent		*	*	*		*

@@ -1,0 +1,114 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 12432,
+      "stop": 19904
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 12432,
+      "stop": 19904
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "NUDB_UTVEKSL_SKOLEAAR@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 12432,
+      "stop": 19904
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "format": "YYYY",
+  "label": "Skoleåret opplysningene er meldt",
+  "name": "NUDB_UTVEKSL_SKOLEAAR",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen angir hvilket skoleår de rapporterte data gjelder for. For et skoleår vil angivelse av årgang, f.eks. 2015, referere til siste kalenderår i skoleåret, dvs. 2014/2015.",
+    "validPeriod": {
+     "start": 12432,
+     "stop": 19904
+    },
+    "valueDomain": {
+     "description": "År",
+     "unitOfMeasure": "År"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "NUDB_UTVEKSL_SKOLEAAR",
+ "populationDescription": "Variabelen gjelder for utvekslingsstudenter, dvs. innreisende og utreisende studenter på grunnlag av utvekslingsavtaler ved universiteter og høgskoler.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Utdanning",
+  "Høyere utdanning"
+ ],
+ "temporalCoverage": {
+  "start": 12432,
+  "stop": 19904
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1749816031,
+ "version": "59.0.0.0"
+}

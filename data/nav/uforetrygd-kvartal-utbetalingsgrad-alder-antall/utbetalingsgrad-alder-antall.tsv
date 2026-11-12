@@ -1,0 +1,28 @@
+# Kilde: Nav
+# Tabell: Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/mottakere-av-uforetrygd-etter-utbetalingsgrad-og-alder.pr.30.09.2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: Utbetalingsgrad: Når en uføretrygdet har inntekt over inntektsgrensen settes uføretrygden ned. Utbetalingsgrad er en betegnelse på hvor stor andel av uføretrygden som utbetales.
+# Merknad: Utbetalingsgrad: Når en uføretrygdet har inntekt over inntektsgrensen settes uføretrygden ned. Utbetalingsgrad er en betegnelse på hvor stor andel av uføretrygden som utbetales.
+gruppe	rad	I alt	Uoppgitt	Tom. 49	50	51-69	70-80	81-99	100
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	I alt	379319	253	7602	15248	18194	11598	16076	310348
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	18-29	22182	4	121	147	339	285	559	20727
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	30-39	46494	41	807	1112	1727	1248	1781	39778
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	40-44	29794	31	710	1134	1490	936	1286	24207
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	45-49	37220	31	998	1591	2081	1336	1732	29451
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	50-54	51505	35	1369	2500	3073	1849	2529	40150
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	55-59	71320	41	1686	3589	4157	2394	3341	56112
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	60-64	84310	49	1510	3817	4002	2575	3459	68898
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Antall.	65-67	36494	21	401	1358	1325	975	1389	31025
+gruppe	rad	I alt	Uoppgitt	Tom. 49	50	51-69	70-80	81-99	100
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	18-29	5.8	1.6	1.6	1.0	1.9	2.5	3.5	6.7
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	30-39	12.3	16.2	10.6	7.3	9.5	10.8	11.1	12.8
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	40-44	7.9	12.3	9.3	7.4	8.2	8.1	8.0	7.8
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	45-49	9.8	12.3	13.1	10.4	11.4	11.5	10.8	9.5
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	50-54	13.6	13.8	18.0	16.4	16.9	15.9	15.7	12.9
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	55-59	18.8	16.2	22.2	23.5	22.8	20.6	20.8	18.1
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	60-64	22.2	19.4	19.9	25.0	22.0	22.2	21.5	22.2
+Mottakere av uføretrygd, etter utbetalingsgrad og alder. Pr. 30.09.2026. Prosent.	65-67	9.6	8.3	5.3	8.9	7.3	8.4	8.6	10.0

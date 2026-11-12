@@ -1,0 +1,144 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 10591,
+      "stop": 20453
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 10591,
+      "stop": 20453
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "KJORETOY_AKSLER@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Kjøretøy er en innretning som er bestemt til å kjøre på bakken.",
+    "label": "Kjøretøy",
+    "name": "KJORETOY"
+   },
+   "label": "Kjøretøysidentifikator",
+   "name": "KJORETOY_ID",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for kjøretøy i microdata",
+     "validPeriod": {
+      "start": 10591,
+      "stop": 20453
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og registreringsnummer for kjøretøy",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "label": "Antall aksler",
+  "name": "KJORETOY_AKSLER",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser antall aksler totalt på kjøretøyet.",
+    "validPeriod": {
+     "start": 10591,
+     "stop": 20453
+    },
+    "valueDomain": {
+     "description": "Antall.",
+     "unitOfMeasure": "Antall"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "KJORETOY_AKSLER",
+ "populationDescription": "Variabelen omfatter registrerte kjøretøy per 31.12 for hvert år i variabelens gyldighetsperiode. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt. \n \n Variabler med enhetstype KJØRETØY er gitt ved kjøretøyets eierforhold. Enhetstypen er en kombinasjon av bilens registreringsnummer og eierens fødselsnunmmer.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Transport og reiseliv",
+  "Landtransport",
+  "Motorvogn",
+  "Kjøretøy"
+ ],
+ "temporalCoverage": {
+  "start": 10591,
+  "stop": 20453
+ },
+ "temporalStatusDates": [
+  10591,
+  10956,
+  11322,
+  11687,
+  12052,
+  12417,
+  12783,
+  13148,
+  13513,
+  13878,
+  14244,
+  14609,
+  14974,
+  15339,
+  15705,
+  16070,
+  16435,
+  17166,
+  17531,
+  17896,
+  18261,
+  18627,
+  18992,
+  19357,
+  19722,
+  20088,
+  20453
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1780040280,
+ "version": "59.0.0.0"
+}

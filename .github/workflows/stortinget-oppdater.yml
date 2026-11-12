@@ -1,0 +1,88 @@
+name: Oppdater Stortinget
+
+# Henter nye og endrede spørsmål, anmodningsvedtak og representantforslag fra data.stortinget.no
+# for inneværende sesjon, og saker, forslag og komitéhøringer for komiteene i STORTINGET_KOMITEER, og committer til main hvis noe er endret. Se stortinget/VEIVISER.md.
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+    inputs:
+      fra:
+        description: "Hent saker og komitéhøringer for alle sesjoner fra og med (f.eks. 2011-2012). Tom = vanlig nattkjøring."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: stortinget-oppdater
+  cancel-in-progress: false
+
+env:
+  # Komiteene som saker, forslag og komitéhøringer hentes for (Stortingets komité-id).
+  # ARBSOS: arbeids- og sosialkomiteen. UFO: utdannings- og forskningskomiteen (før 2017-18 KIRKE).
+  STORTINGET_KOMITEER: ARBSOS,UFO,KIRKE
+
+jobs:
+  oppdater:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Hent fra Stortinget
+        run: |
+          python3 stortinget/scripts/oppdater_inkrementell.py > "$RUNNER_TEMP/rapport.json"
+          # I oktober og november kan forrige sesjon fortsatt få statusendringer (bortfalt, utfall)
+          if [ "$(date +%m)" = "10" ] || [ "$(date +%m)" = "11" ]; then
+            python3 stortinget/scripts/oppdater_inkrementell.py --sesjon forrige > "$RUNNER_TEMP/rapport-forrige.json"
+            python3 stortinget/scripts/komitesaker.py --sesjon forrige > "$RUNNER_TEMP/komite-forrige.json"
+            python3 stortinget/scripts/horinger.py --sesjon forrige > /dev/null
+          fi
+          # Saker i komiteene over, forslag fra voteringene og enkeltsaker fra enkeltsaker.txt
+          python3 stortinget/scripts/komitesaker.py > "$RUNNER_TEMP/komite.json"
+          # Komitéhøringer (høringsliste og program) i de samme komiteene
+          if [ -n "${{ inputs.fra }}" ]; then
+            python3 stortinget/scripts/komitesaker.py --fra "${{ inputs.fra }}" > "$RUNNER_TEMP/komite.json"
+            python3 stortinget/scripts/horinger.py --fra "${{ inputs.fra }}" > "$RUNNER_TEMP/horinger.json"
+          else
+            python3 stortinget/scripts/horinger.py > "$RUNNER_TEMP/horinger.json"
+          fi
+
+      - name: Legg inn på main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A stortinget/data
+          git diff --cached --quiet && { echo "Ingen endringer fra Stortinget." >> "$GITHUB_STEP_SUMMARY"; exit 0; }
+          python3 - "$RUNNER_TEMP/rapport.json" "$RUNNER_TEMP/komite.json" "$RUNNER_TEMP/horinger.json" <<'PY'
+          import json, sys, datetime
+          r = json.load(open(sys.argv[1], encoding="utf-8"))
+          for f in sys.argv[2:]:
+              r.update(json.load(open(f, encoding="utf-8")))
+          r["dato"] = datetime.date.today().isoformat()
+          r.pop("dry_run", None)
+          json.dump(r, open("stortinget/siste-oppdatering.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+          PY
+          # Nye saker og nye svar, til varselet om nye stortingssaker
+          python3 stortinget/scripts/endringer.py
+          git add stortinget/siste-oppdatering.json stortinget/siste-endringer.json
+          git commit -q -m "Stortinget: oppdatering $(date +%F)"
+          cat stortinget/siste-oppdatering.json >> "$GITHUB_STEP_SUMMARY"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
+
+      - name: Varsle om feil
+        if: failure()
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Stortinget-oppdatering: feil"
+          tekst: "den nattlige oppdateringen fra Stortinget feilet. Se kjøringen, eller be Claude se på det."

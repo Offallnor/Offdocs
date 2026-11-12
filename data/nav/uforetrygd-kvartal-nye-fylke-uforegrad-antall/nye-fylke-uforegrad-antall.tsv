@@ -1,0 +1,63 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-mottakere-av-uforetrygd-etter-fylke-og-uforegrad.1.kvartal-3.kvartal-2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+# Merknad: *)Uføremottakere med uoppgitt uføregrad er inkl blant "Uføregrad 100"
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
+# Merknad: *) Uføretrygdede med uoppgitt grad er inkludert i "Uføregrad 100".
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	I alt	22959	25987	27146	22289	20584	20176	19742	22515	19521	22341
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	03 Oslo - Oslove	2030	2572	2966	2827	1955	2325	2040	2219	1837	2182
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	11 Rogaland	1868	2345	1963	1674	1727	1403	1505	1852	1697	1592
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	15 Møre og Romsdal	945	1123	1244	919	911	856	947	942	834	915
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	18 Nordland - Nordlánnda	1312	1558	1695	1374	1248	897	850	1086	999	1260
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	31 Østfold	1741	2280	1492	1114	1170	1094	1129	1253	1322	1574
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	32 Akershus	2292	2801	2609	2197	2061	2145	2121	2385	1960	2504
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	33 Buskerud	1287	1310	1436	1262	1142	1255	1034	1235	1095	1320
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	34 Innlandet	1813	1678	2230	1732	1781	1959	1692	2051	1636	1806
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	39 Vestfold	1293	1445	1341	1022	1046	964	973	1212	949	1045
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	40 Telemark	903	926	1111	787	678	704	737	826	802	845
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	42 Agder	1442	1710	2050	1750	1525	1339	1386	1508	1459	1702
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	46 Vestland	2297	2339	2563	1955	1861	1900	2123	2086	1611	1875
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	50 Trøndelag - Trööndelage	2208	2408	2597	1975	2085	1981	1907	2384	2040	2138
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	55 Troms - Romsa - Tromssa	741	640	1075	850	666	646	674	677	674	733
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	56 Finnmark - Finnmárku - Finmarkku	402	538	451	440	370	371	301	324	240	331
+Nye mottakere av uføretrygd, etter fylke og uføregrad. 1. kvartal-3. kvartal 2017-2026. Antall.	Bosatt i utlandet/Ukjent	385	314	323	411	358	337	323	475	366	519
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Uføregrad under 100.	I alt	5669	6560	7268	5765	5327	5044	4874	5140	4501	4921
+Uføregrad under 100.	03 Oslo - Oslove	379	503	665	575	397	499	390	351	332	349
+Uføregrad under 100.	11 Rogaland	455	595	513	425	432	320	365	399	392	358
+Uføregrad under 100.	15 Møre og Romsdal	252	329	400	266	269	246	303	256	231	258
+Uføregrad under 100.	18 Nordland - Nordlánnda	354	396	499	365	373	231	220	261	264	296
+Uføregrad under 100.	31 Østfold	350	522	317	281	274	267	264	253	265	272
+Uføregrad under 100.	32 Akershus	569	697	706	573	528	506	451	511	425	499
+Uføregrad under 100.	33 Buskerud	282	290	349	301	280	301	234	269	214	277
+Uføregrad under 100.	34 Innlandet	534	448	612	482	464	513	466	531	408	460
+Uføregrad under 100.	39 Vestfold	318	388	390	290	269	228	238	304	257	273
+Uføregrad under 100.	40 Telemark	234	262	339	231	202	203	214	222	186	193
+Uføregrad under 100.	42 Agder	365	443	567	446	431	365	392	385	353	412
+Uføregrad under 100.	46 Vestland	622	642	767	532	517	534	559	489	384	434
+Uføregrad under 100.	50 Trøndelag - Trööndelage	621	699	769	630	609	563	514	628	548	542
+Uføregrad under 100.	55 Troms - Romsa - Tromssa	216	191	264	223	164	171	168	184	148	176
+Uføregrad under 100.	56 Finnmark - Finnmárku - Finmarkku	80	120	75	99	82	74	68	63	52	69
+Uføregrad under 100.	Bosatt i utlandet/Ukjent	38	35	36	46	36	23	28	34	42	53
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Uføregrad 100 *).	I alt	17290	19427	19878	16524	15257	15132	14868	17375	15020	17420
+Uføregrad 100 *).	03 Oslo - Oslove	1651	2069	2301	2252	1558	1826	1650	1868	1505	1833
+Uføregrad 100 *).	11 Rogaland	1413	1750	1450	1249	1295	1083	1140	1453	1305	1234
+Uføregrad 100 *).	15 Møre og Romsdal	693	794	844	653	642	610	644	686	603	657
+Uføregrad 100 *).	18 Nordland - Nordlánnda	958	1162	1196	1009	875	666	630	825	735	964
+Uføregrad 100 *).	31 Østfold	1391	1758	1175	833	896	827	865	1000	1057	1302
+Uføregrad 100 *).	32 Akershus	1723	2104	1903	1624	1533	1639	1670	1874	1535	2005
+Uføregrad 100 *).	33 Buskerud	1005	1020	1087	961	862	954	800	966	881	1043
+Uføregrad 100 *).	34 Innlandet	1279	1230	1618	1250	1317	1446	1226	1520	1228	1346
+Uføregrad 100 *).	39 Vestfold	975	1057	951	732	777	736	735	908	692	772
+Uføregrad 100 *).	40 Telemark	669	664	772	556	476	501	523	604	616	652
+Uføregrad 100 *).	42 Agder	1077	1267	1483	1304	1094	974	994	1123	1106	1290
+Uføregrad 100 *).	46 Vestland	1675	1697	1796	1423	1344	1366	1564	1597	1227	1441
+Uføregrad 100 *).	50 Trøndelag - Trööndelage	1587	1709	1828	1345	1476	1418	1393	1756	1492	1596
+Uføregrad 100 *).	55 Troms - Romsa - Tromssa	525	449	811	627	502	475	506	493	526	557
+Uføregrad 100 *).	56 Finnmark - Finnmárku - Finmarkku	322	418	376	341	288	297	233	261	188	262
+Uføregrad 100 *).	Bosatt i utlandet/Ukjent	347	279	287	365	322	314	295	441	324	466

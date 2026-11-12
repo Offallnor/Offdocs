@@ -1,0 +1,26 @@
+kode	kategori
+1.1.1	Enpersonfamilie, person under 30 år
+1.1.2	Enpersonfamilie, person 30-44 år
+1.1.3	Enpersonfamilie, person 45-66 år
+1.1.4	Enpersonfamilie, person 67 år og over
+2.1.1	Ektepar med små barn (yngste barn 0-5 år)
+2.1.2	Samboerpar med små barn (yngste barn 0-5 år)
+2.2.1	Ektepar med store barn (yngste barn 6-17 år)
+2.2.2	Samboerpar med store barn (yngste barn 6-17 år)
+2.3.1	Mor med små barn (yngste barn 0-5 år)
+2.3.2	Far med små barn (yngste barn 0-5 år)
+2.4.1	Mor med store barn (yngste barn 6-17 år)
+2.4.2	Far med store barn (yngste barn 6-17 år)
+3.1.1	Ektepar uten barn, eldste person under 30 år
+3.1.2	Ektepar uten barn, eldste person 30-44 år
+3.1.3	Ektepar uten barn, eldste person 45-66 år
+3.1.4	Ektepar uten barn, eldste person 67 år og over
+3.1.5	Samboerpar uten barn, eldste person under 30 år
+3.1.6	Samboerpar uten barn, eldste person 30-44 år
+3.1.7	Samboerpar uten barn, eldste person 45-66 år
+3.1.8	Samboerpar uten barn, eldste person 67 år og over
+3.2.1	Ektepar med voksne barn (yngste barn 18 år og over)
+3.2.2	Samboerpar med voksne barn (yngste barn 18 år og over)
+3.3.1	Mor med voksne barn (yngste barn 18 år og over)
+3.3.2	Far med voksne barn (yngste barn 18 år og over)
+3.4.1	Andre familier

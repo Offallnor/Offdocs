@@ -1,0 +1,25 @@
+kode	kategori
+1.1.1	Aleneboende under 30 år
+1.1.2	Aleneboende 30-44 år
+1.1.3	Aleneboende 45-66 år
+1.1.4	Aleneboende 67 år og over
+1.2.1	Par uten barn, eldste person under 30 år
+1.2.2	Par uten barn, eldste person 30-44 år
+1.2.3	Par uten barn, eldste person 45-66 år
+1.2.4	Par uten barn, eldste person 67 år og over
+1.3.1	Gifte par med små barn (yngste barn 0-5 år)
+1.3.2	Samboerpar med små barn (yngste barn 0-5 år)
+1.4.1	Gifte par med store barn (yngste barn 6-17 år)
+1.4.2	Samboerpar med store barn (yngste barn 6-17 år))
+1.5.1	Mor med små barn (yngste barn 0-5 år)
+1.5.2	Far med små barn (yngste barn 0-5 år)
+1.6.1	Mor med store barn (yngste barn 6-17 år)
+1.6.2	Far med store barn (yngste barn 6-17 år)
+1.7.1	Gifte par med voksne barn (yngste barn 18 år og over)
+1.7.2	Samboerpar med voksne barn (yngste barn 18 år og over)
+1.7.3	Mor med voksne barn (yngste barn 18 år og over)
+1.7.4	Far med voksne barn (yngste barn 18 år og over)
+2.1.1	Husholdninger med to eller flere enpersonfamilier
+2.1.2	Andre flerfamiliehusholdninger uten barn 0-17 år
+2.2.0	Flerfamiliehusholdninger med små barn (yngste barn under 0-5 år)
+2.3.0	Flerfamiliehusholdninger med store barn (yngste barn 6-17 år)

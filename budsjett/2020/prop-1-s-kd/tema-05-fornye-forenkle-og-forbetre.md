@@ -1,0 +1,29 @@
+<!-- Kilde: prp201920200001_kdddddocx.docx. Generert av verktoy/budsjett.py, skal ikke redigeres for hånd. -->
+
+# Fornye, forenkle og forbetre
+
+Kunnskapsdepartementet jobbar kontinuerleg med tiltak som vil forenkle, modernisere og betre gjennomføringskrafta i sektoren. I dette kapittelet vil vi presentere dei mest sentrale tiltaka som er planlagde eller starta opp allereie. I tillegg er det mykje kontinuerleg arbeid og småskalatiltak i departementet og i sektoren som del av utviklinga av den ordinære verksemda.
+
+#### Enklare og betre brukartenester
+
+I kunnskapssektoren blir det tilbode eit breitt utval tenester for ein stor del av befolkninga. Mange av dei underliggande verksemdene til Kunnskapsdepartementet har i dei siste åra arbeidd for å forenkle tenestene og få ei meir effektiv saksbehandling. Utdanning.no er ein nasjonal nettstad med informasjon om utdanning og yrke, med oversikt over det norske utdanningstilbodet. I 2018 blei det gjennomført 7,7 mill. økter på Utdanning.no. For betre å kunne nytte tenesta som del av kompetansepolitikken i framtida flyttar departementet forvaltninga av utdanning.no frå Utdanningsdirektoratet til Kompetanse Noreg. For nærare omtale, sjå kap. 256.
+
+I dei siste åra er Feide innført som nasjonal fellesløysing for sikker pålogging i grunnopplæringa. Ved slutten av 2018 var Feide tilgjengeleg for 99,9 pst. av elevane ved offentlege skular, med over 123 mill. påloggingar. Feide blir levert av UNINETT, som samarbeider med Utdanningsdirektoratet og Unit om forvaltninga av tenesta. Regjeringa vil etablere ei ny løysing for gjennomføring av eksamenar og prøvar i grunnopplæringa. Tiltaket skal føre til at alle eksamenar og prøvar kan utviklast og gjennomførast innanfor ei ny, felles digital løysing. Sjå meir omtale av løysinga under kap. 226, post 21.
+
+Lånekassen jobbar kontinuerleg med modernisering av søknadsbehandling og elektroniske arbeidsflater for å forenkle systema. Talet på saker som blir behandla av maskinar i Lånekassen, held fram med å auke, og ein stor del av Lånekassens søknader blir no behandla heilmaskinelt. I 2018 utgjorde dette 73 pst. av søknadene om utdanningsstøtte og 88 pst. av søknadene om betalingsutsetjing. Dette reduserer behandlingstida for stadig fleire av kundane i Lånekassen. Kundar med heilmaskinelt behandla søknader får ofte vedtaket berre nokre timar etter at søknaden er sendt inn.
+
+I regjeringa sin digitaliseringsstrategi for offentleg sektor er Ny i Noreg vald ut som 1 av 6 livshendingar der det skal utviklast samanhengande tenester med brukaren i sentrum. Utvikling av samanhengande tenester for flyktningar og innvandrarar skal gi ei meir brukarvennleg, effektiv og sikker forvaltning både for brukarane, IMDi, og for andre aktørar i integreringsarbeidet, mellom anna kommunane.
+
+For å forenkle kommunanes arbeid med introduksjonsprogram for nykomne innvandrarar vil regjeringa innføre standardiserte element til bruk i programmet. Elementa skal gjere det enklare å tilby differensierte program av god kvalitet til deltakarane.
+
+Det offentlege tenestetilbodet skal utviklast slik at brukaren blir sett i sentrum, mellom anna ved at brukarar ikkje skal måtte føre opp informasjon igjen dersom det offentlege allereie har denne informasjonen. Tenestekjeder kan utviklast når ei brukarreise spenner over fleire aktørar. Dette utfordrar tradisjonell tenesteutvikling, og samarbeid mellom aktørar er ein føresetnad for å lykkast. Som eit ledd i arbeidet med forenkling og forbetring har Kunnskapsdepartementet oppretta ei faggruppe for tenestekjeder i sektoren, med deltakarar frå dei ni verksemdene med sentraladministrative oppgåver som er underlagde departementet. Faggruppa skal vere eit fagleg forum for å gjennomgå, kvalitetssikre og kome med forslag til tenestekjeder.
+
+#### Open tilgang til vitskaplege artiklar og underliggande forskingsdata
+
+I Granavolden-plattforma slår regjeringa fast at forskinga skal gjerast meir tilgjengeleg ved å stimulere til meir open forskingsformidling og meir opne data. Open tilgang saman med kunstig intelligens gir nye moglegheiter for analyse og er ønskeleg for verksemdene i den omstillinga vi står overfor. Open tilgang er også naudsynt for livslang læring. Studentane skal kunne ta med seg dei gode vanane med å lese faglitteratur frå studietida og halde fram med å vere oppdaterte og bruke ny kunnskap også i arbeidslivet.
+
+Plan S er eit initiativ som blei lansert i september 2018 for å gjere all offentleg finansiert forsking ope tilgjengeleg. Kjernen i Plan S er at forskingsfinansiørane som deltek, frå og med 2021 skal krevje at alle artiklar som er resultat av den forskinga dei finansierer, er tilgjengelege frå det tidspunktet dei blir publiserte.
+
+Målet med politikken for open tilgang til forskingsartiklar er å gå vekk frå å betale abonnement for å lese forskingsresultat og i staden betale for koordinering av kvalitetssikring og redaksjonelt arbeid, helst i form av såkalla publiser-og-les-avtalar. Fordelen med slike avtalar er at forskarane ikkje vil merke forskjell frå dagens system, fordi dei ikkje treng å tenke på å betale artikkelavgifter. Som første land i verda har Noreg inngått ein publiser-og-les-avtale med storforlaget Elsevier. Tilsvarande avtalar er inngått med dei store forlaga Wiley, Taylor & Francis og Springer Nature.
+
+Kunnskapsdepartementet har sett i gang eit arbeid for å utbetre infrastrukturen for tilgjengeleggjering av data i kunnskapssektoren. Dette inneber data som dannar grunnlaget for statistikkpublisering, analyse og tilgjengeleggjering av data gjennom ulike kanalar. Formålet med tiltaket er at analysar, kunnskap og statistikk blir meir opne og tilgjengelege, slik at det blir enklare å få tilgang til og bruke kunnskapsdata. Moglegheiter for kopling til data og statistikk om andre sektorar er også eit viktig omsyn.

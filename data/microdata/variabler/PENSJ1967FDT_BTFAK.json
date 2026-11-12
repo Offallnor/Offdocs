@@ -1,0 +1,139 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/sluttdato for hendelsen",
+     "validPeriod": {
+      "start": -732,
+      "stop": 7669
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": -732,
+      "stop": 7669
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "PENSJ1967FDT_BTFAK@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Statistisk enhet er person (individ, enkeltmenenske)",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i RAIRD",
+     "validPeriod": {
+      "start": -732,
+      "stop": 7669
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "label": "Pensjon, barnetillegsfaktor",
+  "name": "PENSJ1967FDT_BTFAK",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Viser et fast tall for forsørgingstillegget for barn som stønadsmottakeren har krav på, beregnet på årsbasis som andel av aktuelt grunnbeløp. Dette er hele beløpet som stønadsmottakeren får utbetalt for barn (inkludert garantitillegg og særkullsbarn). Angitt med 5 desimaler. Erstattet med beløp f.o.m. 2009. Kan bestilles fra miniregister",
+    "validPeriod": {
+     "start": -732,
+     "stop": 7669
+    },
+    "valueDomain": {
+     "description": "Faktor",
+     "unitOfMeasure": "N/A"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "PENSJ1967FDT_BTFAK",
+ "populationDescription": "Hovedsakelig bosatte i Norge (fnr), men noen ikke-bosatte kan inngå (dnr)",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Sosiale forhold og kriminalitet",
+  "Trygd og stønad"
+ ],
+ "temporalCoverage": {
+  "start": -732,
+  "stop": 7669
+ },
+ "temporalStatusDates": [
+  5478,
+  -732,
+  -366,
+  1825,
+  6573,
+  2921,
+  5843,
+  2190,
+  7669,
+  6208,
+  -1,
+  6939,
+  2556,
+  729,
+  3651,
+  4017,
+  7304,
+  1095,
+  4747,
+  3286,
+  1460,
+  5112,
+  4382,
+  364
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1592485055,
+ "version": "59.0.0.0"
+}

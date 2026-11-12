@@ -1,0 +1,150 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 16344,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 16344,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "NUDB_KURS_ORGANISERING@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Kurs er en utdanningsaktivitet.",
+    "label": "Kurs",
+    "name": "KURS"
+   },
+   "label": "Kursidentifikator",
+   "name": "KURSID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for kurs i microdata",
+     "validPeriod": {
+      "start": 16344,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og NUDB kursnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Organisering av undervisning",
+  "name": "NUDB_KURS_ORGANISERING",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser organisering av undervisning ved universiteter, høgskoler og fagskoler.",
+    "validPeriod": {
+     "start": 0,
+     "stop": 18870
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Undervisning ved institusjon (på campus, gjelder også \"samlingsstudenter\")",
+       "code": "1"
+      },
+      {
+       "category": "Desentralisert undervisning (Undervisning utenfor ordinære campuslokaliteter)",
+       "code": "2"
+      },
+      {
+       "category": "Nettbasert undervisning ved universitet og høgskoler (med eller uten samlinger)",
+       "code": "3"
+      }
+     ],
+     "missingValues": []
+    }
+   },
+   {
+    "description": "Variabelen viser organisering av undervisning ved universiteter, høgskoler og fagskoler.",
+    "validPeriod": {
+     "start": 18871
+    },
+    "valueDomain": {
+     "delta": {
+      "insert": {
+       "3": {
+        "category": "Nettbasert undervisning ved fagskoler",
+        "code": "4"
+       },
+       "4": {
+        "category": "Nettbasert undervisning med samlinger ved fagskoler",
+        "code": "5"
+       }
+      },
+      "remove": [],
+      "reorder": [],
+      "replace": {}
+     },
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "NUDB_KURS_ORGANISERING",
+ "populationDescription": "Variabelen omfatter alle personer registrert med en utdanning fra universitet, høgskole og fagskole.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Utdanning",
+  "Høyere utdanning"
+ ],
+ "temporalCoverage": {
+  "start": 16344,
+  "stop": 19967
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1760683763,
+ "version": "59.0.0.0"
+}

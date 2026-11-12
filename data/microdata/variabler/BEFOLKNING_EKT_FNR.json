@@ -1,0 +1,173 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 1826,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 1826,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "BEFOLKNING_EKT_FNR@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 1826,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "format": "RandomUInt48",
+  "keyType": {
+   "description": "Person er et enkeltmenneske, individ.",
+   "label": "Person",
+   "name": "PERSON"
+  },
+  "label": "Fødselsnummer ektefelle",
+  "name": "BEFOLKNING_EKT_FNR",
+  "notPseudonym": false,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser ektefelle per 1.1.åååå fødselsnummer. Ment for bruk som koblingsnøkkel.\n \n For mer informasjon om grunnlaget for ektefeller se [Data om familie, samboere og ektefeller](https://www.ssb.no/data-til-forskning/utlan-av-data-til-forskere/variabellister/befolkning/data-om-familie-samboere-og-ektefeller).",
+    "validPeriod": {
+     "start": 1826,
+     "stop": 20089
+    },
+    "valueDomain": {
+     "description": "Pseudonymisert personnummer",
+     "unitOfMeasure": "N/A"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "BEFOLKNING_EKT_FNR",
+ "populationDescription": "Variabelen omfatter ektefeller til bosatte, begrenset til personer med kode 2, 5, 6 og 7 i variabelen SVISTANDFDT_SIVSTAND.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Befolkning",
+  "Barn, Familie og husholdninger",
+  "Ekteskap og skilsmisser"
+ ],
+ "temporalCoverage": {
+  "start": 1826,
+  "stop": 20089
+ },
+ "temporalStatusDates": [
+  1826,
+  2191,
+  2557,
+  2922,
+  3287,
+  3652,
+  4018,
+  4383,
+  4748,
+  5113,
+  5479,
+  5844,
+  6209,
+  6574,
+  6940,
+  7305,
+  7670,
+  8035,
+  8401,
+  8766,
+  9131,
+  9496,
+  9862,
+  10227,
+  10592,
+  10957,
+  11323,
+  11688,
+  12053,
+  12418,
+  12784,
+  13149,
+  13514,
+  13879,
+  14245,
+  14610,
+  14975,
+  15340,
+  15706,
+  16071,
+  16436,
+  16801,
+  17167,
+  17532,
+  17897,
+  18262,
+  18628,
+  18993,
+  19358,
+  19723,
+  20089
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1774604284,
+ "version": "59.0.0.0"
+}

@@ -1,0 +1,58 @@
+# Kilde: Nav
+# Tabell: Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/avgang-mottakere-av-uforetrygd-etter-kjonn-og-alder.1.kvartal-3.kvartal-2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	I alt	18258	17681	17639	18138	17996	18603	18224	17974	17791	17940
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	18-39	282	323	301	375	427	615	611	539	556	546
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	40-49	580	572	633	641	749	901	758	729	706	704
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	50-59	1255	1242	1258	1309	1369	1593	1450	1542	1406	1355
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	60-61	391	378	380	405	349	413	390	422	401	407
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	62-64	945	919	958	983	897	896	906	852	820	774
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	65-66	556	559	524	542	566	605	554	585	592	514
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Antall.	67	14249	13688	13585	13883	13639	13580	13555	13305	13310	13640
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner.	Kvinner i alt	10227	9947	10026	10265	10180	10546	10204	10087	9901	10042
+Kvinner.	18-39	86	127	121	160	176	254	250	232	255	231
+Kvinner.	40-49	249	289	318	309	393	497	375	366	351	346
+Kvinner.	50-59	576	572	578	630	640	745	722	752	672	642
+Kvinner.	60-61	165	155	166	169	166	208	175	183	174	187
+Kvinner.	62-64	473	467	487	513	414	448	430	420	386	377
+Kvinner.	65-66	259	267	239	244	250	271	259	274	257	218
+Kvinner.	67	8419	8070	8117	8240	8141	8123	7993	7860	7806	8041
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn.	Menn i alt	8031	7734	7613	7873	7816	8057	8020	7887	7890	7898
+Menn.	18-39	196	196	180	215	251	361	361	307	301	315
+Menn.	40-49	331	283	315	332	356	404	383	363	355	358
+Menn.	50-59	679	670	680	679	729	848	728	790	734	713
+Menn.	60-61	226	223	214	236	183	205	215	239	227	220
+Menn.	62-64	472	452	471	470	483	448	476	432	434	397
+Menn.	65-66	297	292	285	298	316	334	295	311	335	296
+Menn.	67	5830	5618	5468	5643	5498	5457	5562	5445	5504	5599
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	I alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	18-39	1.5	1.8	1.7	2.1	2.4	3.3	3.4	3.0	3.1	3.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	40-49	3.2	3.2	3.6	3.5	4.2	4.8	4.2	4.1	4.0	3.9
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	50-59	6.9	7.0	7.1	7.2	7.6	8.6	8.0	8.6	7.9	7.6
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	60-61	2.1	2.1	2.2	2.2	1.9	2.2	2.1	2.3	2.3	2.3
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	62-64	5.2	5.2	5.4	5.4	5.0	4.8	5.0	4.7	4.6	4.3
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	65-66	3.0	3.2	3.0	3.0	3.1	3.3	3.0	3.3	3.3	2.9
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	67	78.0	77.4	77.0	76.5	75.8	73.0	74.4	74.0	74.8	76.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	Kvinner i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	18-39	0.8	1.3	1.2	1.6	1.7	2.4	2.5	2.3	2.6	2.3
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	40-49	2.4	2.9	3.2	3.0	3.9	4.7	3.7	3.6	3.5	3.4
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	50-59	5.6	5.8	5.8	6.1	6.3	7.1	7.1	7.5	6.8	6.4
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	60-61	1.6	1.6	1.7	1.6	1.6	2.0	1.7	1.8	1.8	1.9
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	62-64	4.6	4.7	4.9	5.0	4.1	4.2	4.2	4.2	3.9	3.8
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	65-66	2.5	2.7	2.4	2.4	2.5	2.6	2.5	2.7	2.6	2.2
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	67	82.3	81.1	81.0	80.3	80.0	77.0	78.3	77.9	78.8	80.1
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	Menn i alt	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	18-39	2.4	2.5	2.4	2.7	3.2	4.5	4.5	3.9	3.8	4.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	40-49	4.1	3.7	4.1	4.2	4.6	5.0	4.8	4.6	4.5	4.5
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	50-59	8.5	8.7	8.9	8.6	9.3	10.5	9.1	10.0	9.3	9.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	60-61	2.8	2.9	2.8	3.0	2.3	2.5	2.7	3.0	2.9	2.8
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	62-64	5.9	5.8	6.2	6.0	6.2	5.6	5.9	5.5	5.5	5.0
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	65-66	3.7	3.8	3.7	3.8	4.0	4.1	3.7	3.9	4.2	3.7
+Avgang mottakere av uføretrygd, etter kjønn og alder. 1. kvartal-3. kvartal 2017-2026. Prosent.	67	72.6	72.6	71.8	71.7	70.3	67.7	69.4	69.0	69.8	70.9

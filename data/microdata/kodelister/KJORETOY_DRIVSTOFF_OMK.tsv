@@ -1,0 +1,23 @@
+kode	kategori
+01	Bensin
+02	Diesel
+03	Parafin
+04	Gass
+05	Elektrisk
+06	Hydrogen
+07	Bensin hybrid
+08	Diesel hybrid
+09	Annet drivstoff
+10	Biodiesel
+11	Biobensin
+12	LPG-gass
+13	CNG-gass
+14	Metanol
+15	Etanol
+16	LPG A
+17	LPG B
+18	CNG 20
+19	CNG 25
+20	Komprimert luft
+21	LNG
+22	CNG og LNG

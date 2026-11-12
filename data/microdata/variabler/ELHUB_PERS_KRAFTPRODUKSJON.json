@@ -1,0 +1,113 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 18262,
+      "stop": 20726
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 18262,
+      "stop": 20726
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "ELHUB_PERS_KRAFTPRODUKSJON@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Målepunkt er en innretning for måling av strømforbruk.",
+    "label": "Målepunkt",
+    "name": "MALEPUNKT"
+   },
+   "label": "Målepunktsidentifikator",
+   "name": "MALEPUNKT_ID",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for målepunkt i microdata",
+     "validPeriod": {
+      "start": 18262,
+      "stop": 20726
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og målepunktsid nummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Double",
+  "label": "Kraftproduksjon",
+  "name": "ELHUB_PERS_KRAFTPRODUKSJON",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser nettoproduksjon i kWh registrert på målepunktet. Verdien er akummulert per måned.",
+    "validPeriod": {
+     "start": 18262,
+     "stop": 20726
+    },
+    "valueDomain": {
+     "description": "Kilowattime.",
+     "unitOfMeasure": "kWh"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "ELHUB_PERS_KRAFTPRODUKSJON",
+ "populationDescription": "Variabelen omfatter alle målepunkt registrert på personer i Norge. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Elhub",
+  "Energi og industri"
+ ],
+ "temporalCoverage": {
+  "start": 18262,
+  "stop": 20726
+ },
+ "temporality": "ACCUMULATED",
+ "updatedAt": 1793790331,
+ "version": "59.0.0.0"
+}

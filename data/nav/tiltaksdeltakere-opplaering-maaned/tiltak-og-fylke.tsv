@@ -1,0 +1,170 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-11-09
+# Ark: Tiltak og fylke
+# TILT130 Tiltaksdeltakere på opplæring. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og fylke									Rapport oppdatert: 02.11.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober
+Januar 2026 - Oktober 2026	I alt amo enkeltplass	2784	2709	2960	3105	3275	3317	2024	1444	2499	3155	3351
+Januar 2026 - Oktober 2026	03 Oslo - Oslove	732	604	711	785	860	929	424	302	719	965	1023
+Januar 2026 - Oktober 2026	11 Rogaland	132	126	138	141	142	149	104	75	130	169	147
+Januar 2026 - Oktober 2026	15 Møre og Romsdal	177	176	193	193	202	207	144	88	156	201	214
+Januar 2026 - Oktober 2026	18 Nordland - Nordlánnda	182	196	196	212	239	234	116	69	140	193	226
+Januar 2026 - Oktober 2026	31 Østfold	98	107	107	105	116	118	81	59	86	95	103
+Januar 2026 - Oktober 2026	32 Akershus	257	240	267	273	276	274	192	160	255	302	335
+Januar 2026 - Oktober 2026	33 Buskerud	137	112	126	136	142	140	113	92	139	175	195
+Januar 2026 - Oktober 2026	34 Innlandet	123	110	141	151	140	139	106	81	109	124	132
+Januar 2026 - Oktober 2026	39 Vestfold	168	228	250	249	253	245	80	65	87	111	113
+Januar 2026 - Oktober 2026	40 Telemark	86	78	94	93	96	91	80	54	93	91	89
+Januar 2026 - Oktober 2026	42 Agder	141	168	156	149	159	149	107	71	107	163	178
+Januar 2026 - Oktober 2026	46 Vestland	232	277	281	303	287	275	179	125	175	205	216
+Januar 2026 - Oktober 2026	50 Trøndelag - Trööndelage	180	180	185	194	205	191	173	124	168	183	198
+Januar 2026 - Oktober 2026	55 Troms - Romsa - Tromssa	93	72	79	86	111	126	79	49	89	123	113
+Januar 2026 - Oktober 2026	56 Finnmark - Finnmárku - Finmarkku	39	29	33	33	44	45	44	28	36	43	54
+Januar 2026 - Oktober 2026	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - Oktober 2026	Ukjent	6	5	*	*	*	5	*	*	10	12	15
+	I alt amo enkeltplass, forsøk	*	*	*	*	*	*	*	*	*	*	*
+	03 Oslo - Oslove	*	*	*	*	*	*	*	*	*	*	*
+	11 Rogaland	*	*	*	*	*	*	*	*	*	*	*
+	15 Møre og Romsdal	*	*	*	*	*	*	*	*	*	*	*
+	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*	*
+	31 Østfold	*	*	*	*	*	*	*	*	*	*	*
+	32 Akershus	*	*	*	*	*	*	*	*	*	*	*
+	33 Buskerud	*	*	*	*	*	*	*	*	*	*	*
+	34 Innlandet	*	*	*	*	*	*	*	*	*	*	*
+	39 Vestfold	*	*	*	*	*	*	*	*	*	*	*
+	40 Telemark	*	*	*	*	*	*	*	*	*	*	*
+	42 Agder	*	*	*	*	*	*	*	*	*	*	*
+	46 Vestland	*	*	*	*	*	*	*	*	*	*	*
+	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*	*
+	55 Troms - Romsa - Tromssa	*	*	*	*	*	*	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt amo kurs	4315	3919	4154	4351	4476	4357	3523	3011	4394	5396	5565
+	03 Oslo - Oslove	707	755	649	688	722	630	720	565	648	851	837
+	11 Rogaland	248	264	239	258	249	241	180	157	252	325	316
+	15 Møre og Romsdal	214	156	173	222	238	213	147	123	244	314	309
+	18 Nordland - Nordlánnda	136	178	207	191	167	150	34	29	52	163	190
+	31 Østfold	308	286	327	336	326	307	218	165	335	389	390
+	32 Akershus	717	563	631	658	678	728	733	652	800	848	883
+	33 Buskerud	141	129	141	141	153	132	130	133	135	160	155
+	34 Innlandet	253	258	235	300	286	281	153	117	247	314	334
+	39 Vestfold	159	99	124	110	131	128	119	107	206	274	288
+	40 Telemark	146	166	126	151	123	115	95	91	154	225	213
+	42 Agder	395	399	407	399	405	419	354	308	397	399	466
+	46 Vestland	571	356	592	596	670	656	336	302	651	768	782
+	50 Trøndelag - Trööndelage	198	171	176	180	204	230	184	163	172	243	256
+	55 Troms - Romsa - Tromssa	69	71	65	66	70	64	66	56	57	81	95
+	56 Finnmark - Finnmárku - Finmarkku	39	53	51	38	38	45	42	33	29	28	34
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	14	15	11	17	16	18	12	10	15	14	16
+	I alt høyere utdanning	4798	5058	5086	5098	5069	5019	4191	3344	4692	5150	5272
+	03 Oslo - Oslove	746	745	767	776	789	784	674	539	732	811	839
+	11 Rogaland	352	362	366	366	368	353	303	250	354	392	403
+	15 Møre og Romsdal	229	240	240	239	240	241	213	169	218	238	248
+	18 Nordland - Nordlánnda	213	227	226	225	222	222	202	160	207	219	216
+	31 Østfold	299	318	321	321	317	308	260	213	290	314	323
+	32 Akershus	465	490	492	498	496	491	414	322	447	494	510
+	33 Buskerud	185	186	193	197	192	192	156	118	188	211	219
+	34 Innlandet	297	330	327	332	328	319	259	208	263	298	302
+	39 Vestfold	228	235	239	238	238	234	197	168	232	247	250
+	40 Telemark	194	213	214	211	210	210	179	135	181	191	191
+	42 Agder	403	428	428	422	417	415	337	273	411	446	452
+	46 Vestland	525	553	545	544	535	541	445	367	536	588	595
+	50 Trøndelag - Trööndelage	313	347	345	348	340	337	242	163	302	345	356
+	55 Troms - Romsa - Tromssa	260	275	277	276	274	273	236	189	252	268	276
+	56 Finnmark - Finnmárku - Finmarkku	90	106	102	101	98	94	72	68	78	87	91
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	4	4	*	*	*	*	*
+	I alt høyere utdanning, forsøk	14	19	19	19	19	17	13	8	9	6	6
+	03 Oslo - Oslove	*	*	*	*	*	*	*	*	*	*	*
+	11 Rogaland	*	*	*	*	*	*	*	*	*	*	*
+	15 Møre og Romsdal	*	*	*	*	*	*	*	*	*	*	*
+	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*	*
+	31 Østfold	*	*	*	*	*	*	*	*	*	*	*
+	32 Akershus	*	*	*	*	*	*	*	*	*	*	*
+	33 Buskerud	*	*	*	*	*	*	*	*	*	*	*
+	34 Innlandet	*	*	*	*	*	*	*	*	*	*	*
+	39 Vestfold	*	*	*	*	*	*	*	*	*	*	*
+	40 Telemark	*	*	*	*	*	*	*	*	*	*	*
+	42 Agder	6	8	8	8	8	7	6	4	5	*	*
+	46 Vestland	*	*	*	*	*	*	*	*	*	*	*
+	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*	*
+	55 Troms - Romsa - Tromssa	*	*	*	*	*	*	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt opplæringstiltak av lengre varighet, forsøk	53	50	50	67	68	68	52	52	55	37	35
+	03 Oslo - Oslove	11	*	*	17	18	18	19	19	18	*	*
+	11 Rogaland	*	*	*	*	*	*	*	*	*	*	*
+	15 Møre og Romsdal	*	*	*	*	*	*	*	*	*	*	*
+	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*	*
+	31 Østfold	*	6	6	6	6	6	*	*	*	*	*
+	32 Akershus	17	21	21	21	21	21	10	10	14	14	12
+	33 Buskerud	*	*	*	*	*	*	*	*	*	*	*
+	34 Innlandet	*	*	*	*	*	*	*	*	*	*	*
+	39 Vestfold	*	*	*	*	*	*	*	*	*	*	*
+	40 Telemark	*	*	*	*	*	*	*	*	*	*	*
+	42 Agder	*	*	*	*	*	*	*	*	*	*	*
+	46 Vestland	23	23	23	23	23	23	23	23	23	22	22
+	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*	*
+	55 Troms - Romsa - Tromssa	*	*	*	*	*	*	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt vgs/yrkesfaglig utdanning	671	757	773	747	747	759	403	286	643	800	793
+	03 Oslo - Oslove	92	102	97	81	84	84	62	61	85	130	129
+	11 Rogaland	38	51	49	48	47	47	*	*	46	46	46
+	15 Møre og Romsdal	34	42	41	42	42	43	7	7	28	44	39
+	18 Nordland - Nordlánnda	69	67	69	69	68	87	81	58	54	69	70
+	31 Østfold	56	57	57	57	50	48	26	25	77	79	79
+	32 Akershus	51	42	49	45	45	40	19	15	69	95	90
+	33 Buskerud	13	19	19	16	15	14	14	*	*	15	15
+	34 Innlandet	*	*	*	*	*	*	*	*	*	*	*
+	39 Vestfold	14	18	18	18	18	16	*	*	15	16	16
+	40 Telemark	35	31	49	48	45	44	16	16	17	39	42
+	42 Agder	32	48	48	49	53	50	17	9	13	17	18
+	46 Vestland	155	170	168	170	169	168	146	81	154	163	156
+	50 Trøndelag - Trööndelage	43	53	50	46	44	44	*	*	71	60	61
+	55 Troms - Romsa - Tromssa	22	19	19	19	27	34	15	14	14	26	30
+	56 Finnmark - Finnmárku - Finmarkku	20	37	39	39	40	40	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt vgs/yrkesfaglig utdanning enkeltplass	3898	4296	4363	4410	4405	4358	3116	2408	3316	4051	4255
+	03 Oslo - Oslove	355	359	383	392	406	404	259	175	308	412	453
+	11 Rogaland	535	561	567	590	588	582	452	372	476	564	596
+	15 Møre og Romsdal	122	130	142	143	145	143	99	83	95	115	121
+	18 Nordland - Nordlánnda	185	201	202	205	201	199	161	134	169	186	187
+	31 Østfold	276	326	323	329	326	323	224	170	227	254	261
+	32 Akershus	323	389	382	384	385	371	261	188	247	302	319
+	33 Buskerud	153	164	162	163	163	161	114	86	141	177	201
+	34 Innlandet	248	287	294	290	281	280	183	140	200	258	268
+	39 Vestfold	184	220	218	213	209	208	155	112	154	169	181
+	40 Telemark	133	158	157	160	161	153	115	77	96	123	130
+	42 Agder	394	410	419	424	424	426	347	302	351	411	425
+	46 Vestland	423	447	455	456	451	449	308	245	414	499	502
+	50 Trøndelag - Trööndelage	390	440	452	448	449	448	304	229	319	398	413
+	55 Troms - Romsa - Tromssa	116	145	143	145	146	142	84	61	78	104	116
+	56 Finnmark - Finnmárku - Finmarkku	57	55	59	63	64	64	46	30	36	74	77
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	4	*	4	4	5	4	*	*	4	4	4
+	I alt vgs/yrkesfaglig utdanning enkeltplass, forsøk	15	27	23	21	20	18	12	8	7	6	5
+	03 Oslo - Oslove	*	*	*	*	*	*	*	*	*	*	*
+	11 Rogaland	*	*	*	*	*	*	*	*	*	*	*
+	15 Møre og Romsdal	*	*	*	*	*	*	*	*	*	*	*
+	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*	*
+	31 Østfold	*	*	*	*	*	*	*	*	*	*	*
+	32 Akershus	*	*	*	*	*	*	*	*	*	*	*
+	33 Buskerud	*	*	*	*	*	*	*	*	*	*	*
+	34 Innlandet	*	4	4	4	4	*	*	*	*	*	*
+	39 Vestfold	*	*	*	*	*	*	*	*	*	*	*
+	40 Telemark	*	*	*	*	*	*	*	*	*	*	*
+	42 Agder	4	8	7	6	6	6	5	*	*	*	*
+	46 Vestland	*	*	*	*	*	*	*	*	*	*	*
+	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*	*
+	55 Troms - Romsa - Tromssa	*	6	5	*	*	*	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*

@@ -1,0 +1,30 @@
+---
+name: "felles-regelverk"
+description: "Felles regelverksbase for norsk lov og forskrift. Bruk ved spørsmål om hva norsk lov eller forskrift sier (f.eks. arbeidsmiljøloven, folketrygdloven, offentleglova, forvaltningsloven, opplæringslova, barnehageloven, universitets- og høyskoleloven, utdanningsstøtteloven), hovedtariffavtalen i staten og EU-rettsakter - paragrafer, hjemmel, vilkår, rettigheter, unntak, eller om noe er lovlig eller påkrevd - også uten fagord. Dekker også Stortinget: anmodningsvedtak, skriftlige spørsmål, interpellasjoner og spørretimespørsmål, representantforslag og utfallet av dem («har parti X foreslått Y», «hva skjedde med forslaget om Z»), fra 2013-2014, og saker og komitéhøringer på arbeids- og utdanningsområdet, Regjeringens plan for Norge og retningslinjene for saker til statsråd og r-konferanse (kongelig resolusjon, r-notat, oppmelding, frister). Last den før du svarer, og svar ikke fra hukommelsen. Også når brukeren spør hva basen inneholder, eller har funnet feil eller mangler."
+---
+
+# Regelverksbasen
+
+**Versjon 2026-11-12.** Hent også `https://raw.githubusercontent.com/Offallnor/offdocs/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Står det et driftsvarsel der for et område svaret bygger på, si kort aller først i svaret, før selve svaret, at det nyeste fra kilden kan mangle. Feiler hentingen, la det være.
+
+Lov- og forskriftsteksten ligger ikke i denne skillen. Den ligger i et felles repo på GitHub og hentes ved hvert oppslag, så den alltid er oppdatert. Hva basen dekker, står i basen.
+
+## Fremgangsmåte
+
+1. Hent `https://raw.githubusercontent.com/Offallnor/offdocs/main/CLAUDE.md` med `curl -sL` i kodeverktøyet, eller med hentverktøyet ditt. Følg den.
+2. Sjekk tabellen over regelverk i CLAUDE.md mot spørsmålet.
+   - **Dekket:** åpne veiviseren og paragrafene, og svar med kilde.
+   - **Ikke dekket:** følg regelen i CLAUDE.md for regelverk som ikke er dekket.
+3. **Gjelder spørsmålet Stortinget** (anmodningsvedtak, skriftlige spørsmål, interpellasjoner, spørretimespørsmål, representantforslag eller saker): hent `stortinget/VEIVISER.md` og søk med skriptet der, før du bruker andre kilder. Ikke gå rett til `data.stortinget.no` eller nettsøk, heller ikke når du kjenner kilden fra før. Finner du ikke det du leter etter i basen, si det og oppgi datoen for siste oppdatering (`stortinget/siste-oppdatering.json`). Gå til `data.stortinget.no` bare for det veiviseren sier skal hentes der, som et konkret svar fra statsråden, eller hvis noe kan ha kommet etter siste oppdatering.
+4. **Spør brukeren hva basen inneholder, eller har brukeren funnet en feil eller noe som mangler,** hent `https://raw.githubusercontent.com/Offallnor/offdocs/main/OM-BASENE.md` og følg den. Meldinger om feil, mangler og ønsker går på e-post til redaktøren for basene. Adressen står i skillen `felles-intern`.
+5. Hvis hentingen feiler: se «Hvis hentingen feiler» under.
+
+## Hvis hentingen feiler
+
+Svar ikke fra hukommelsen. Ser feilen ut som en sperre (for eksempel 403, «not allowed», «blocked» eller nektet tilkobling), si dette, med nettstedet fra adressen som feilet:
+
+«Jeg fikk ikke hentet lovteksten, fordi Claude ikke har lov til å hente fra nettstedet [nettsted]. Du kan åpne for det selv: Gå til Innstillinger → Funksjoner. Under «Kodekjøring og filoppretting i skyen» skroller du ned til «Tillatelsesliste for domener» og legger til [nettsted]. Spør meg igjen etterpå, gjerne i en ny samtale. Har du Claude på engelsk, si fra, så får du navnene på engelsk.»
+
+Ber brukeren om engelske navn, eller skriver brukeren på engelsk, bruk Settings → Capabilities, «Code execution and file creation» og listen over tillatte domener lenger ned på siden. Nettstedsnavnet er det eneste tekniske ordet som skal stå i svaret.
+
+Ved andre feil: «Jeg fikk ikke hentet lovteksten nå. Prøv igjen litt senere.»

@@ -1,0 +1,139 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 16436,
+      "stop": 19723
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 16436,
+      "stop": 19723
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "BOFORHOLD_EIE_LEIE@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 16436,
+      "stop": 19723
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Eierstatus",
+  "name": "BOFORHOLD_EIE_LEIE",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Denne variabelen viser til typen eie-/leieforhold husholdningen har til boligen. Som eiere regnes selveiere og eiere gjennom borettslag eller aksjeselskap. Personer som er eiere av obligasjon i obligasjonsselskap regnes å ha et leieforhold til boligen. Husholdningen regnes som eier av boligen dersom minst én av personene i husholdningen står som eier.",
+    "validPeriod": {
+     "start": 16436
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Selveier",
+       "code": "1"
+      },
+      {
+       "category": "Andels- eller aksjeeier",
+       "code": "2"
+      },
+      {
+       "category": "Leier",
+       "code": "3"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "BOFORHOLD_EIE_LEIE",
+ "populationDescription": "Variabelen omfatter bosatte per 01.01.ÅÅÅÅ, avgrenset til privathusholdninger og husholdning koblet til bolig. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Sosiale forhold og kriminalitet",
+  "Levekår",
+  "Husholdning",
+  "Boforhold"
+ ],
+ "temporalCoverage": {
+  "start": 16436,
+  "stop": 19723
+ },
+ "temporalStatusDates": [
+  16436,
+  16801,
+  17167,
+  17532,
+  17897,
+  18262,
+  18628,
+  18993,
+  19358,
+  19723
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1742560855,
+ "version": "59.0.0.0"
+}

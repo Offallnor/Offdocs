@@ -1,0 +1,58 @@
+name: Hent adresse (tunnel)
+
+# Manuell jobb som henter en adresse fra en tillatt vert og skriver svaret til loggen.
+# Brukes når Claude ikke selv når kilden (Eurostat, Nav, SSB, Lovdata, Stortinget, DFØ, regjeringen.no, OECD, microdata.no, Lånekassen, Udir, HK-dir, NOKUT, DBH, Samordna opptak, NIFU). Lagrer ingenting i repoet.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Adressen som skal hentes (https, tillatt vert)"
+        required: true
+      maks_kb:
+        description: "Maks antall kB av svaret som skrives til loggen"
+        required: false
+        default: "200"
+      filter:
+        description: "Valgfritt regulært uttrykk: vis bare linjer som treffer (svaret deles ved < og mellomrom først)"
+        required: false
+        default: ""
+      metode:
+        description: "GET eller HEAD"
+        required: false
+        default: "GET"
+
+permissions:
+  contents: read
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent
+        env:
+          URL: ${{ inputs.url }}
+          MAKS_KB: ${{ inputs.maks_kb }}
+          METODE: ${{ inputs.metode }}
+          FILTER: ${{ inputs.filter }}
+        run: |
+          set -u
+          host=$(printf '%s' "$URL" | sed -nE 's#^https://([^/:?]+)([:/?].*)?$#\1#p' | tr 'A-Z' 'a-z')
+          case "$host" in
+            ec.europa.eu|www.nav.no|data.ssb.no|www.ssb.no|lovdata.no|api.lovdata.no|lovtidend.no|data.norge.no|www.stortinget.no|stortinget.no|data.stortinget.no|www.dfo.no|dfo.no|www.statsregnskapet.no|statsregnskapet.no|www.regjeringen.no|sdmx.oecd.org|www.microdata.no|microdata.no|statisticsnorway.github.io|docs.sikt.no|lanekassen.no|www.lanekassen.no|www.udir.no|udir.no|hkdir.no|www.hkdir.no|dbh.hkdir.no|api.statistikkbanken.udir.no|statistikkbanken.udir.no|data.udir.no|www.samordnaopptak.no|nokut.no|www.nokut.no|nifu.no|www.nifu.no) ;;
+            *) echo "Verten '$host' er ikke tillatt."; exit 1 ;;
+          esac
+          case "$METODE" in GET|HEAD) ;; *) echo "Ugyldig metode"; exit 1 ;; esac
+          [[ "$MAKS_KB" =~ ^[0-9]+$ ]] || { echo "Ugyldig maks_kb"; exit 1; }
+          args=(-sL --max-redirs 3 --proto =https --proto-redir =https -m 60 -A "Mozilla/5.0 (regelverksbasen; Offallnor/offdocs)" -D headers.txt -o svar.bin -w "%{http_code} %{content_type} %{size_download} %{url_effective}\n")
+          [ "$METODE" = HEAD ] && args+=(-I)
+          curl "${args[@]}" "$URL" | tee status.txt
+          echo "=== HODER"; head -12 headers.txt
+          if [ -n "$FILTER" ]; then
+            echo "=== TREFF PÅ FILTER (unike, maks 600 linjer)"
+            tr '<> ' '\n\n\n' < svar.bin | grep -E -- "$FILTER" | sort -u | head -600 || true
+          else
+            echo "=== SVAR (opptil ${MAKS_KB} kB av $(wc -c < svar.bin) byte)"
+            head -c $((MAKS_KB * 1024)) svar.bin
+          fi
+          echo
+          echo "=== SLUTT"

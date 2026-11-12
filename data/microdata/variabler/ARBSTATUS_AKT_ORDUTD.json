@@ -1,0 +1,141 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 14153,
+      "stop": 19997
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 14153,
+      "stop": 19997
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "ARBSTATUS_AKT_ORDUTD@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 14153,
+      "stop": 19997
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Ordinær utdanning",
+  "name": "ARBSTATUS_AKT_ORDUTD",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Fulltellingsvariabel (ARBSTATUS_AKT_ORDUTD= '1') for personer under ordinær utdanning. Omtales også som personer med igangværende utdanning. \n \n Dette er elever og studenter som er registrert per 1. oktober ved utdanningsinstitusjoner som videregående skoler (inkluderer også lærlinger/lærekandidater), fagskoler, universiteter og høgskoler i Norge, samt studenter som tar hele utdanningen sin i utlandet (gradsstudenter). \n \n Informasjonen hentes fra Nasjonal utdanningsdatabase (NUDB). Siden SSB ikke har opplysninger om igangværende utdanning på ungdomsskolenivå, gjøres følgende bearbeidinger av grunndataene:\n - 15- og 16-åringer som mangler igangværende utdanning og som ikke har fullført ungdomsskole, settes som i gang med utdanning. Dette vil medføre at noen 15–16-åringer feilaktig klassifiseres som i gang med utdanning, hvis de har droppet ut av ungdomsskolen. Ettersom det er opplæringsplikt fra og med året man fyller 6 år i Norge, er det likevel rimelig å anta at alle barn i grunnskolealder er under ordinær utdanning.\n - 15- og 16-åringer som mangler igangværende utdanning og som har fullført ungdomsskole, settes som ikke i gang med utdanning.\n \n Variablene med prefiks «NUDB» viser forløp, mens ARBSTATUS_ AKT_ORDUTD som nevnt angir status per 1. oktober. Se følgende dokumentasjon for mer informasjon om Nasjonal utdanningsdatabase (NUDB): [Variabelområdet utdanning](https://www.ssb.no/data-til-forskning/utlan-av-data-til-forskere/variabellister/utdanning).\n \n Variabelen ARBSTATUS_AKT_ORDUTD inngår i prioriteringen av status i variabelen ARBSTATUS_PERS_STATUS8.",
+    "validPeriod": {
+     "start": 13879
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Ikke under ordinær utdanning (igangværende)",
+       "code": "0"
+      },
+      {
+       "category": "Under ordinær utdanning (igangværende)",
+       "code": "1"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "ARBSTATUS_AKT_ORDUTD",
+ "populationDescription": "Variabelen omfatter alle bosatte personer 15 år eller eldre og samsvarer med populasjonen i statistikken [Tilknytning til arbeid, utdanning og velferdsordninger](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/tilknytning-til-arbeid-utdanning-og-velferdsordninger) (arbstatus). Se [Om statistikken](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/tilknytning-til-arbeid-utdanning-og-velferdsordninger#om-statistikken) for mer informasjon. \n \n Det er noen færre personer med i populasjonen i microdata.no sammenlignet med i [statistikkbanken](https://www.ssb.no/statbank/list/arbstatus). Det skyldes manglende eller ugyldige fødselsnummer i datagrunnlaget som dermed ikke kan brukes til kobling mot andre variabler i microdata.no, og er derfor utelatt. For de fleste årgangene er det i underkant av 200 færre i microdata.no, mens det for 2022-årgangen er i overkant av 1 000 færre personer. \n \n System for persondata (SFP) er kilde for både variabelen og statistikken. Denne grunnlagsfilen inkluderer i tillegg til bosatte personer 15 år og eldre, også noen grupper ikke-bosatte. Les mer i [dokumentasjonen](https://www.ssb.no/arbeid-og-lonn/artikler-og-publikasjoner/_attachment/430138?_ts=17433b4b920) om datagrunnlag, prosessering og definisjoner.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Sysselsetting",
+  "Arbeid og lønn",
+  "Tilknytning til arbeid, utdanning og velferdsordninger"
+ ],
+ "temporalCoverage": {
+  "start": 14153,
+  "stop": 19997
+ },
+ "temporalStatusDates": [
+  14153,
+  14518,
+  14883,
+  15248,
+  15614,
+  15979,
+  16344,
+  16709,
+  17075,
+  17440,
+  17805,
+  18170,
+  18536,
+  18901,
+  19266,
+  19631,
+  19997
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1772621947,
+ "version": "59.0.0.0"
+}

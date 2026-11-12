@@ -1,0 +1,32 @@
+# § 1-7. Opplæring i framandspråk, fordjuping eller arbeidslivsfag på 8. til 10. trinn
+
+**Kilde:** Forskrift til privatskolelova (privatskoleforskrifta) § 1-7
+
+**1. ledd**
+
+Elevar på 8. til 10. trinn skal i tillegg til opplæringa i engelsk ha opplæring i eit framandspråk, fordjuping i engelsk, norsk, samisk eller matematikk, eller opplæring i arbeidslivsfag.
+
+**2. ledd**
+
+Skolen må tilby opplæring i
+
+a. minst eitt av språka tysk, fransk, spansk eller russisk etter læreplanen i framandspråk på nivå I, eller etter den læreplanen som skolen har fått godkjend.
+b. arbeidslivsfag, etter den læreplanen som skolen har fått godkjend.
+
+**3. ledd**
+
+Elevane skal ha det faget dei har valt, frå 8. til 10. trinn. Dei kan likevel byte fag det første halvåret i samråd med skolen. Skolen kan godkjenne fagbyte på eit seinare tidspunkt dersom særlege grunnar taler for det.
+
+**4. ledd**
+
+Elevane kan ikkje krevje å halde fram med det same faget dersom dei byter skole.
+
+**5. ledd**
+
+Kravet i andre ledd bokstav b gjeld ikkje for internasjonale skolar, jf. privatskolelova § 2-1 andre ledd bokstav c .
+
+---
+
+**Endringshistorikk:**
+
+- Endra ved forskrift 18 feb 2026 nr. 235 (i kraft 1 aug 2026).

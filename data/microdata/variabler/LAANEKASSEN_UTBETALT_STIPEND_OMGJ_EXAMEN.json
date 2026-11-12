@@ -1,0 +1,112 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 17897,
+      "stop": 19722
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 17897,
+      "stop": 19722
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "LAANEKASSEN_UTBETALT_STIPEND_OMGJ_EXAMEN@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 17897,
+      "stop": 19722
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "label": "Utbetalt stipend - Omgjøring eksamen",
+  "name": "LAANEKASSEN_UTBETALT_STIPEND_OMGJ_EXAMEN",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser stipend etter omgjøring fra lån til stipend for fullført eksamen fra Lånekassen.\n \n For studenter som er omfattet av ordningen med gradsomgjøring, kan inntil 25 prosent av basisstøtten kan gjøres om fra lån til stipend etter fullført og bestått eksamen, avhengig av borteboerstatus, inntekt/formue og studieprosent. For studenter som ikke er omfattet av gradsomgjøringsordningen kan inntil 40 prosent av basisstøtte gjøres om fra lån til stipend. \n Stipendet blir utbetalt som lån, og gjort om til stipend etter rapportert beståtte eksamener til Lånekassen og behovsprøving av inntekt og formue. Variabelen viser summen som har blitt gjort om til stipend per januar to kalenderår etter utbetalt kalenderår.",
+    "validPeriod": {
+     "start": 17897,
+     "stop": 19722
+    },
+    "valueDomain": {
+     "description": "Beløp.",
+     "unitOfMeasure": "NOK"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "LAANEKASSEN_UTBETALT_STIPEND_OMGJ_EXAMEN",
+ "populationDescription": "Variabelen omfatter bosatte per 31.12.ÅÅÅÅ. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Lånekassen"
+ ],
+ "temporalCoverage": {
+  "start": 17897,
+  "stop": 19722
+ },
+ "temporality": "ACCUMULATED",
+ "updatedAt": 1763646904,
+ "version": "59.0.0.0"
+}

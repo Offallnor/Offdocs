@@ -1,0 +1,364 @@
+# Statsbudsjettet – veiviser
+
+Denne mappen har statsbudsjettdokumenter for arbeids- og inkluderingsområdet og kunnskapsområdet (Prop. 1 S for AID og Prop. 1 S for KD), dokumentene som gjelder alle departementer, og Stortingets vedtak og statsregnskapet for alle kapitler. Dokumentene er delt opp slik at du kan gå rett til et kapittel eller en post. Dokumentene er offentlige og hentet fra regjeringen.no. Word- og Excel-filene lastes opp manuelt, fordi regjeringen.no ikke slipper til automatisk henting.
+
+## Budsjettprosessen og bevilgningsreglementet
+
+Spørsmål om hvordan budsjettet lages og gjennomføres, og om reglene for bevilgninger, besvares fra Finansdepartementets *Veileder i statlig budsjettarbeid* (juni 2023). Den ligger i `veiledere/statlig-budsjettarbeid/` med bevilgningsreglementet og rundskriv R-110 som vedlegg. Start i `veiledere/VEIVISER.md`. Det gjelder for eksempel budsjettkonferansene, rammebudsjettering, stikkordene «kan overføres» og «overslagsbevilgning», merinntektsfullmakter, budsjettendringer i løpet av året og nysalderingen.
+
+## Kjente feller
+
+- **Prop. 1 S er regjeringens forslag, ikke vedtatt budsjett.** Stortinget vedtar budsjettet i desember, etter budsjettforliket og innstillingene fra komiteene. Tilleggsproposisjoner (Prop. 1 S Tillegg) kan endre forslaget. Si alltid at tallene er forslag, og fra hvilket dokument.
+- **Ulike enheter.** Tabellene i proposisjonen er i 1 000 kroner. `gul-bok-bevilgninger.tsv` er i kroner.
+- **Tall for alle departementer finner du raskest i `gul-bok-bevilgninger.tsv`.** `gul-bok/forslag-til-vedtak.md` er stor (alle departementers vedtaksforslag), så les den bare når du trenger vedtaksteksten.
+- **Anslag er anslag.** Tall for 2026 og 2027 i Nasjonalbudsjettet er Finansdepartementets anslag fra oktober 2026. Si det når du bruker dem.
+- **Nynorsk.** Prop. 1 S for AID er skrevet på nynorsk. Siter på nynorsk, men svar på brukerens språk.
+- **Overslagsløyvingar.** Poster merket «overslagsløyving» (f.eks. dagpenger) er anslag. Utgiftene følger regelverket, ikke beløpet.
+- **«Spørsmål» er ikke alltid budsjettspørsmål.** Svar på budsjettspørsmål (under) er spørsmål fra partienes fraksjoner i finanskomiteen om statsbudsjettet eller revidert nasjonalbudsjett. Skriftlige spørsmål, interpellasjoner og spørretimespørsmål til statsrådene er noe annet og ligger i `stortinget/VEIVISER.md`. Sier brukeren bare «spørsmål», uten «budsjett», «RNB», «finanskomiteen» eller et partinummer, gjelder det oftest skriftlige spørsmål. Er det uklart, søk i begge og si hvilken samling treffet kommer fra.
+- **Kapittelnumrene sier hva slags kapittel det er.** Kap. 600–699 er ordinære utgiftskapitler, 2470 er Statens pensjonskasse, 2541–2686 er folketrygden, 3000-kapitlene er inntekter som hører til 600-kapitlene, og 5000-kapitlene er andre inntekter og utgifter (f.eks. 5470 Statens pensjonskasse og 5705 Refusjon av dagpengar). Se programkategori-filene for inndelingen.
+- **Tidsserier over flere år: sjekk poststrukturen.** Kapitler og poster blir opprettet, lagt ned, flyttet mellom departementer og gitt nye numre. Før du sammenligner en post over flere år, slå opp kapitlet og posten i `budsjett/poststruktur.tsv` (se under). Har posten en endring i perioden, si det i svaret. Er koblingen merket `sikker` eller `omtalt`, kan du slå sammen tallene for gammel og ny post, men si hva du har slått sammen. Er den merket `mulig`, eller finnes ingen kobling, foreslå koblingen for brukeren i stedet for å slå sammen.
+
+## Satser (`budsjett/satser/`)
+
+Satstabeller over flere år, lagt inn for hånd. Oppgi kilden og datoen når du bruker dem.
+
+| Fil | Innhold | Kilde |
+|---|---|---|
+| `grunnstonad.tsv` | Årlige satser for grunnstønad (folketrygdloven § 6-3), sats 1–6, i nominelle kroner, 2021–2026 og regjeringens forslag for 2027 | Svar på spørsmål nr. 233 fra Senterpartiet til statsbudsjettet 2027 (tabell 1). Departementets kilder: Arbeids- og velferdsdirektoratet (vedlegg 1 til rundskrivet til folketrygdloven § 6-3) og Arbeids- og inkluderingsdepartementet. Lagt inn 19. oktober 2026. |
+| `hjelpestonad.tsv` | Årlige satser for hjelpestønad (folketrygdloven §§ 6-4 og 6-5), sats 1–4, i nominelle kroner, 2021–2026 og regjeringens forslag for 2027 | Svar på spørsmål nr. 232 fra Senterpartiet til statsbudsjettet 2027 (tabell 1). Departementets kilder: Arbeids- og velferdsdirektoratet (rundskrivet til folketrygdloven, vedlegg 2 til § 6-4 og vedlegg 3 til § 6-5) og Arbeids- og inkluderingsdepartementet. Lagt inn 19. oktober 2026. |
+
+Feller:
+
+- **2023 er et gjennomsnitt.** Satsene ble endret 1. juli 2023. Tallet for 2023 er gjennomsnittet av satsene per 1. januar og per 1. juli, ikke en sats som gjaldt.
+- **2027 er et forslag.** Satsene for 2027 er regjeringens forslag i Prop. 1 S (2026–2027), ikke vedtatt.
+- **Årsbeløp.** Satsene er per år. Prop. 1 S oppgir ofte satsen per måned (sats 1 for grunnstønad er 752 kroner per måned i 2027, altså 9 024 kroner per år).
+
+## Svar på budsjettspørsmål fra Stortinget (`budsjett/ÅR/sporsmal/RUNDE/`)
+
+Spørsmål fra partienes fraksjoner i finanskomiteen og svarene fra departementene, sendt via Finansdepartementet. `RUNDE` er `stb` (statsbudsjettet, Prop. 1 S) eller `rnb` (revidert nasjonalbudsjett). Et utvalg av svarene fra og med 2021 er lagt inn. Tekst og tabeller er hentet fra regjeringen.no (`verktoy/budsjett_sporsmal_json.py`). Kapittel og post, kategori og departement kommer fra en egen oversikt som ikke ligger i basen. Bare svar som er publisert på regjeringen.no, legges inn. Svarsiden for hver runde står i `budsjett/sporsmal-sider.tsv` og brukes til lenkene.
+
+| Fil | Innhold |
+|---|---|
+| `sporsmal.tsv` | Ett svar per rad: parti, spørsmålsnummer, dato, kategori, departement, kapittel og post slik spørsmålet oppgir det, kapittelnumrene (`kapitler`, skilt med semikolon), undertittel, antall tabeller og filnavn. Deretter feltene fra `felt.tsv`, se under. Start her og filtrer på `kapitler`, `type` eller `familie`, eller søk i `undertittel` og `tema`. |
+| `felt.tsv` | Publiseringsdato, versjoner og lenke fylles ut ved innleggingen. De andre feltene er håndført (foreløpig for 2021–2026). Kobles inn i `sporsmal.tsv` ved hvert bygg: `type` (kostnad, statistikk, anslag, tildeling, tekst, henvisning), `tema`, `aar` (året eller perioden tallene gjelder), `forutsetninger` (G, prisnivå, innføringsdato og liknende), `grunnlag` (hvem som har laget tallene), `familie` (svar som regner på samme ordning, fra den faste listen i `budsjett/sporsmal-familier.tsv`), `se_ogsa` (beslektede svar), `publisert` (dato på regjeringen.no), `versjoner` (over 1 betyr at svaret er publisert flere ganger, ofte rettet) og `lenke` til svaret på regjeringen.no. |
+| `PARTI-NR.md` | Hele spørsmålet og svaret, med tabellene som Markdown-tabeller. |
+
+Feller:
+
+- **Nummeret gjelder per parti.** Høyre og Rødt kan begge ha et spørsmål nr. 1. Oppgi alltid parti og nummer, for eksempel «svar på spørsmål nr. 1014 fra Høyre til statsbudsjettet 2026».
+- **Anslagene gjelder da svaret ble gitt.** Svarene bygger på forslaget og anslagene på svartidspunktet. Senere vedtak og nye anslag kan gi andre tall.
+- **Svarene er ikke regjeringens politikk.** De beregner virkningen av partienes egne forslag. Si at det er et svar på et spørsmål fra partiet.
+- **Svarene er ikke uavhengige tidsserier.** Et kostnadsanslag gjelder forutsetningene i `forutsetninger` (G, prisnivå, innføringsdato). Statistikk i svar fra ulike år kan være revidert. Hent serien fra eieren av tallene (oftest Nav eller SSB) før svaret brukes som serie, og bruk `familie` for å finne andre svar som regner på det samme.
+- **`grunnlag` som begynner med «antatt:», er et beste anslag** på hvem som har laget tallene, når svaret ikke sier det selv. Oppgi det ikke som kilde.
+- **Lenk til svaret på regjeringen.no** med `lenke` når brukeren skal kunne kontrollere tallene. Er `versjoner` over 1, er det den nyeste versjonen som ligger i basen.
+- **Tabeller fra regjeringen.no kan mangle sammenslåtte celler.** En radoverskrift som gjelder flere rader, står bare på den første. Les tabellen i sammenheng, eller åpne svaret med `lenke`.
+- **Kapittel og post er partiets egen angivelse** og kan være upresis («D», «1.1», «Generelt»). `kapitler` er tom når feltet ikke har et kapittelnummer.
+
+Svar på kunnskapsområdet er valgt ut fordi svarteksten sier at spørsmålet er «forelagt Kunnskapsdepartementet», og har `departement` = Kunnskapsdepartementet. For dem gjelder i tillegg:
+
+- **Kategori, kapittel og post mangler.** Kolonnene `kategori`, `kap_post` og `kapitler` er tomme, og de håndførte feltene (`type`, `tema`, `forutsetninger`, `grunnlag`, `familie`) er ikke fylt ut. Finn svar på et kapittel ved å søke etter kapittelnummeret eller ordningen i svarfilene.
+- **Ikke alle svar på området er med.** Svar som Finansdepartementet har gitt selv, uten å forelegge spørsmålet, og svar der teksten ikke sier hvem spørsmålet er forelagt, kommer ikke med.
+- **Integrering lå hos KD i 2021 og 2022.** Svar om kap. 290–292 fra disse årene gjelder integrering.
+
+## Stortingets vedtak (`budsjett/ÅR/stortinget/`)
+
+Hentes automatisk fra data.stortinget.no hver mandag (`verktoy/stortinget_budsjett.py`). Gjelder alle departementer, fra og med sesjonen 2021–2022. For 2021 er bare ny saldering med. Alle beløp gjelder budsjettåret i mappenavnet.
+
+| Fil | Innhold |
+|---|---|
+| `vedtak.tsv` | Beløp per kapittel og post i komiteens tilråding, i kroner. Kolonnen `fase` er `saldert` (vedtatt budsjett i desember, fagkomiteenes budsjettinnstillinger), `rnb` (revidert nasjonalbudsjett i juni), `endring` (andre endringsproposisjoner i budsjettåret) eller `nysaldering` (høsten i budsjettåret). For endringer er `belop` beløpet etter vedtaket, `endring` er endringen og `fra` beløpet før. |
+| `rammevedtak.tsv` | Rammevedtakene i Innst. 2 S: sum per rammeområde, i kroner. |
+| `partiforslag.tsv` | Sammenligningstabellene i fagkomiteenes budsjettinnstillinger, i tusen kroner: Prop. 1 S og hvert partis forslag per post. Bare poster der minst ett parti foreslår noe annet enn regjeringen er med. `flertall=ja` markerer partiene bak tilrådingen, altså budsjettforliket. `endring` er forliket eller partiets forslag minus Prop. 1 S. |
+| `anmodningsvedtak.tsv` | Vedtak Stortinget har registrert som anmodningsvedtak i budsjettsakene, med vedtaksnummer, hvem som fremmet forslaget og vedtaksteksten. Anmodningsvedtakene fra budsjettforliket ligger under Innst. 2 S. |
+| `kilder.tsv` | Innstillingene som er brukt, med lenke, saker og om tilrådingen ble vedtatt ved votering. |
+
+Feller:
+
+- **Tilråding, ikke vedtakstekst.** Beløpene er lest fra komiteens tilråding. `kilder.tsv` viser om tilrådingen ble vedtatt. Står det `nei` eller `ukjent`, sjekk vedtaket på stortinget.no.
+- **Budsjettforliket per post** finnes i `partiforslag.tsv` (flertallets kolonne) eller som forskjellen mellom `saldert` i `vedtak.tsv` og Prop. 1 S. Selve avtaleteksten ligger bare som PDF-vedlegg til Innst. 2 S.
+- **Feil i kildene.** Noen innstillinger oppgir «fra kr … til kr …» som ikke stemmer med endringen. Da står det i `merknad`, og `belop` er tallet innstillingen oppgir.
+- **Post 24 Driftsresultat** for forvaltningsbedrifter (f.eks. kap. 2470) har underposter uten eget beløp. De er ikke med.
+- **Saldert budsjett for kapitlene i Prop. 1 S for AID** er kontrollert mot kolonnen «Saldert budsjett» i neste års Prop. 1 S for 2022–2025, uten avvik.
+
+## Statsregnskapet (`budsjett/ÅR/statsregnskap/`)
+
+Regnskapet for alle departementer, per kapittel og post, fra 2014. Kilden er DFØs rådatauttrekk fra statsregnskapet.dfo.no. `ÅR` er regnskapsåret. `budsjett/statsregnskap.tsv` viser hvilke år som ligger inne, siste måned for hvert år og når de ble lagt inn. Et år som ikke er avsluttet, har `helt_aar=nei` og gir regnskap hittil i året. Beløpene er i kroner.
+
+| Fil | Innhold |
+|---|---|
+| `poster.tsv` | Regnskap per kapittel og post for året, med departement, programområde, programkategori og posttype. Start her. |
+| `maaned.tsv` | Regnskap per kapittel og post per måned (`maaned` 01–12). Summen av månedene er årstallet. |
+| `artskonto.tsv` | Regnskap per kapittel, post og artskonto, altså hva pengene er brukt til (lønn, kjøp av tjenester, tilskudd til kommuner og liknende). Artskontoene følger standard kontoplan for staten. |
+| `virksomhet.tsv` | Regnskap per kapittel, post og virksomheten som har ført beløpet, med organisasjonsnummer. En virksomhet kan føre på et annet departements kapitler når den har fullmakt til det. |
+
+Feller:
+
+- **Inntekter er negative.** DFØ fører inntekter med minus, for eksempel kap. 5700 post 71 Trygdeavgift. Proposisjonene viser inntekter som positive tall. Snu fortegnet når du sammenligner.
+- **Kroner, ikke tusen kroner.** Prop. 1 S oppgir regnskapet i 1 000 kroner.
+- **Kapittel og post slik de var det året.** Når et område er flyttet mellom departementer, har det ofte fått nye kapittelnumre. Integrering lå for eksempel under kap. 290–292 hos Kunnskapsdepartementet i 2021, mens Prop. 1 S for 2023 viser 2021-regnskapet under de nye kap. 670–672. Søk på postnavnet når et kapittel ikke finnes.
+- **Bare bevilgningsregnskapet.** Føringer på statskontoer utenfor kapittel og post (mellomværende og avregninger) er ikke med. Antallet slike rader står i `budsjett/statsregnskap.tsv`.
+- **Kontrollert mot Prop. 1 S.** Årstallene for kapitlene i Prop. 1 S for AID er kontrollert mot kolonnen «Rekneskap» i proposisjonen to år senere, for 2019–2025. Alle poster stemmer på tusen kroner, med to unntak: kap. 635 post 1 for 2020 (6 084 i DFØs tall, 12 168 i proposisjonen) og kap. 5470 post 30 for 2022 (0 i DFØs tall, 33 917 i proposisjonen). Bruk proposisjonen og si fra om avviket når en av disse postene er aktuell.
+- **Regnskap er ikke budsjett.** Vedtatt budsjett står i `budsjett/ÅR/stortinget/vedtak.tsv` og forslaget i Prop. 1 S. Avvik mellom budsjett og regnskap kan skyldes overføringer mellom år og merinntektsfullmakter, som ikke er med her.
+
+## Endringer i poststrukturen (`budsjett/poststruktur.tsv`)
+
+Nøkkel over endringer i kapitler og poster fra år til år for alle departementer, fra 2015. Den lages av `verktoy/poststruktur.py` ut fra hvilke poster som finnes i statsregnskapet, Stortingets vedtak og Gul bok hvert år, og oppdateres når de dataene oppdateres. `aar` er budsjettåret endringen gjelder fra.
+
+| `hendelse` | Betyr |
+|---|---|
+| `ny` | Posten finnes ikke de to foregående årene. |
+| `borte` | Posten fantes året før, men ikke dette året eller året etter. |
+| `flyttet` | Forslag til hvor en ny post kommer fra: en post som ble borte samme år, med likt eller nesten likt post- og kapittelnavn (`fra_kap`, `fra_post`). `sikkerhet` er `sikker` når navnene er like, ellers `mulig`. |
+| `omtalt` | Prop. 1 S i basen sier at midler er flyttet fra eller til en annen post («flytta frå kap. X, post Y»). Fil og sitat står i `kilde`. Bare for proposisjonene som ligger her. |
+| `nytt_postnavn`, `nytt_kapittelnavn`, `nytt_departement` | Samme nummer, men nytt navn eller annet departement. Et postnummer kan være brukt på nytt til noe annet. |
+
+Feller:
+
+- **Koblingene er forslag.** `flyttet` bygger på like navn, ikke på proposisjonsteksten. En flytting kan også være delvis: bare en del av pengene følger med til den nye posten. Sjekk omtalen i Prop. 1 S når beløpet betyr noe.
+- **Ingen føringer er ikke det samme som nedlagt.** En post uten føringer i statsregnskapet et år, men med bevilgning, finnes i vedtaket eller Gul bok. Det inneværende året har regnskap bare for noen måneder. Det siste året bygger bare på Gul bok, og der kan poster som kommer til i revidert budsjett, mangle.
+- **2015 har mange `borte`.** Regnskapet for 2014 har flere poster med restføringer enn senere år.
+
+## Partienes alternative budsjetter (`budsjett/ÅR/alternative-budsjett/`)
+
+Opposisjonspartiene legger fram egne alternative statsbudsjetter i november, før budsjettforliket. Tabellene er hentet fra partienes egne PDF-dokumenter og lagt inn for hånd. Foreløpig gjelder det 2027, fra SV (side 56–85 i dokumentet), Senterpartiet (side 44–64) og MDG. Fra MDG er bare radene på Arbeids- og inkluderingsdepartementets kapitler og kap. 490 Utlendingsdirektoratet lagt inn (side 47–48). MDGs øvrige forslag står i partiets dokument. Partier som kommer til, legges inn for hånd i de samme filene. Alle beløp er endringer fra regjeringens forslag i Prop. 1 S, i millioner kroner.
+
+| Fil | Innhold |
+|---|---|
+| `tiltak.tsv` | Ett tiltak per rad: parti, side i partiets dokument, departement, kapittel, post, tiltak og endring (`endring_mill`, bokført). `palopt_mill` er fylt ut bare der partiet oppgir påløpt beløp. `gruppe` er partiets egen inndeling (satsinger, innsparinger, inndekning, 90-poster), og `rammeomrade` er SVs og MDGs inndeling. MDG oppgir ikke departement, så `dep` er satt etter kapittelet. Søk på `kap` for å se hva partiene foreslår på et kapittel, eller i `tiltak` for ord som «AAP» eller «Nav». |
+| `skatter-og-avgifter.tsv` | Skatte- og avgiftsforslagene, med bokført og påløpt beløp. Positive tall er skjerpelser, negative tall er lettelser. |
+
+Feller:
+
+- **Dokumentene er partienes egne, ikke formelle forslag i Stortinget.** Det partiene fremmer i komiteene, kan avvike. De formelle forslagene per post kommer inn i `budsjett/ÅR/stortinget/partiforslag.tsv` av seg selv når budsjettinnstillingene foreligger i desember. Bruk dem når de finnes, og si at tallene her er fra partiets alternative budsjett.
+- **Bruk radene, ikke partienes egne summer.** Summer for rammeområder, departementer og skatter i partienes dokumenter kan avvike fra summen av radene. Regn ut summen av radene selv, og oppgi siden når du siterer en sum fra dokumentet.
+- **90-poster (lånetransaksjoner) er med som rader,** men partiene holder dem utenfor summene. Se `merknad`.
+- **Beløp som gjelder flere tiltak.** I SVs skattetabell står beløpet for formuesskatt og for inntektsskatt (trinnskatt, utbytte og frikort) bare på den siste linjen i blokken. Se `merknad`.
+- **Senterpartiets tabell for kultur** har feil overskrift i dokumentet (Klima- og miljødepartementet). Den er lagt inn som Kultur- og likestillingsdepartementet (KUD).
+- **SV skriver «statsbudsjett 2026» i innledningen til tabellene.** Tabellene gjelder forslaget for 2027.
+
+<!-- AUTO-START budsjettår: genereres av verktoy/budsjett_innboks.py, ikke rediger for hånd -->
+## Budsjettår i basen
+
+Hvert budsjettår har sin egen mappe. Tall (datagrunnlaget) kan gå lenger tilbake enn tekst (proposisjonene). Oppgi alltid budsjettår og dokument i svaret, og husk at Prop. 1 S er forslag, ikke vedtatt budsjett.
+
+- **2027:** Prop. 1 S for AID (`budsjett/2027/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2027/prop-1-s-kd/`), Gul bok (`budsjett/2027/gul-bok/`), Nasjonalbudsjettet (`budsjett/2027/nasjonalbudsjettet/`), partienes alternative budsjetter (`budsjett/2027/alternative-budsjett/`), svar på budsjettspørsmål, statsbudsjettet (646 svar, `budsjett/2027/sporsmal/stb/`), datagrunnlag (`budsjett/2027/gul-bok-bevilgninger.tsv`)
+- **2026:** Prop. 1 S for AID (`budsjett/2026/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2026/prop-1-s-kd/`), Stortingets vedtak (`budsjett/2026/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (143 svar, `budsjett/2026/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (599 svar, `budsjett/2026/sporsmal/stb/`), statsregnskapet (`budsjett/2026/statsregnskap/`), datagrunnlag (`budsjett/2026/gul-bok-bevilgninger.tsv`)
+- **2025:** Prop. 1 S for AID (`budsjett/2025/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2025/prop-1-s-kd/`), Stortingets vedtak (`budsjett/2025/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (126 svar, `budsjett/2025/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (556 svar, `budsjett/2025/sporsmal/stb/`), statsregnskapet (`budsjett/2025/statsregnskap/`), datagrunnlag (`budsjett/2025/gul-bok-bevilgninger.tsv`)
+- **2024:** Prop. 1 S for AID (`budsjett/2024/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2024/prop-1-s-kd/`), Stortingets vedtak (`budsjett/2024/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (90 svar, `budsjett/2024/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (454 svar, `budsjett/2024/sporsmal/stb/`), statsregnskapet (`budsjett/2024/statsregnskap/`), datagrunnlag (`budsjett/2024/gul-bok-bevilgninger.tsv`)
+- **2023:** Prop. 1 S for AID (`budsjett/2023/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2023/prop-1-s-kd/`), Gul bok (`budsjett/2023/gul-bok/`), Stortingets vedtak (`budsjett/2023/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (97 svar, `budsjett/2023/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (443 svar, `budsjett/2023/sporsmal/stb/`), statsregnskapet (`budsjett/2023/statsregnskap/`)
+- **2022:** Prop. 1 S for AID (`budsjett/2022/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2022/prop-1-s-kd/`), Prop. 1 S Tillegg 1 (alle departementer) (`budsjett/2022/prop-1-s-tillegg-1/`), Gul bok (`budsjett/2022/gul-bok/`), Stortingets vedtak (`budsjett/2022/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (84 svar, `budsjett/2022/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (401 svar, `budsjett/2022/sporsmal/stb/`), statsregnskapet (`budsjett/2022/statsregnskap/`)
+- **2021:** Prop. 1 S for AID (`budsjett/2021/prop-1-s-aid/`), Prop. 1 S for KD (`budsjett/2021/prop-1-s-kd/`), Stortingets vedtak (`budsjett/2021/stortinget/`), svar på budsjettspørsmål, revidert nasjonalbudsjett (259 svar, `budsjett/2021/sporsmal/rnb/`), svar på budsjettspørsmål, statsbudsjettet (770 svar, `budsjett/2021/sporsmal/stb/`), statsregnskapet (`budsjett/2021/statsregnskap/`)
+- **2020:** Prop. 1 S for KD (`budsjett/2020/prop-1-s-kd/`), statsregnskapet (`budsjett/2020/statsregnskap/`)
+- **2019:** Prop. 1 S for KD (`budsjett/2019/prop-1-s-kd/`), statsregnskapet (`budsjett/2019/statsregnskap/`)
+- **2018:** Prop. 1 S for KD (`budsjett/2018/prop-1-s-kd/`), statsregnskapet (`budsjett/2018/statsregnskap/`)
+- **2017:** Prop. 1 S for KD (`budsjett/2017/prop-1-s-kd/`), statsregnskapet (`budsjett/2017/statsregnskap/`)
+- **2016:** Prop. 1 S for KD (`budsjett/2016/prop-1-s-kd/`), statsregnskapet (`budsjett/2016/statsregnskap/`)
+- **2015:** Prop. 1 S for KD (`budsjett/2015/prop-1-s-kd/`), statsregnskapet (`budsjett/2015/statsregnskap/`)
+- **2014:** Prop. 1 S for KD (`budsjett/2014/prop-1-s-kd/`), statsregnskapet (`budsjett/2014/statsregnskap/`)
+- **2013:** Prop. 1 S for KD (`budsjett/2013/prop-1-s-kd/`)
+<!-- AUTO-SLUTT budsjettår -->
+
+## Budsjettår 2027
+
+| Dokument | Sti | Innhold |
+|---|---|---|
+| Prop. 1 S (2026–2027) for AID | `budsjett/2027/prop-1-s-aid/` | Hele proposisjonen, én fil per kapittel |
+| Prop. 1 S (2026–2027) for KD | `budsjett/2027/prop-1-s-kd/` | Hele proposisjonen, én fil per kapittel (nynorsk) |
+| Prop. 1 S (2026–2027) Gul bok | `budsjett/2027/gul-bok/` | Hele statsbudsjettet: hovedtall, oljepengebruk, utgiftsvekst, budsjettkonsekvenser 2028–2030, statens lånebehov, vedlegg. Én fil per delkapittel |
+| Meld. St. 1 (2026–2027) Nasjonalbudsjettet | `budsjett/2027/nasjonalbudsjettet/` | Økonomiske utsikter og anslag (arbeidsmarked, priser, lønn), budsjettpolitikk, velferd og fordeling. Én fil per delkapittel. `vedlegg-05-…` har historiske tabeller og detaljerte anslagstall |
+| Nasjonalbudsjettet, figurdata | `budsjett/2027/nasjonalbudsjettet/figurdata/` | Tallene bak 148 figurer, én TSV per figur. `innhold.tsv` lister figurtitlene |
+| Gul bok, datagrunnlag | `budsjett/2027/gul-bok-bevilgninger.tsv` | Alle departementers bevilgningsforslag per kapittel og post (kroner). Kolonner: gdep_nr, avs_nr, gdep_navn, avs_navn, fdep_nr, fdep_navn, omr_nr, kat_nr, omr_navn, kat_navn, kap_nr, post_nr, kap_navn, post_navn, stikkord, beløp |
+
+### Slik finner du fram i Prop. 1 S for AID
+
+- Vet du kapittelet, gå rett til `kap-NNNN.md` (fire sifre, f.eks. `kap-2541.md` for dagpenger).
+- `poster.tsv` viser hvilken fil hver post står i.
+- Første del (`del-1-*.md`) har mål, profil og satsinger, utviklingstrekk, oppmodingsvedtak og oversiktstabeller.
+- `programkategori-*.md` har innledningen til hver programkategori, med samlet oversikt.
+- `tema-*.md` har særlige temaer (bl.a. likestilling, samfunnssikkerhet, fordrevne fra Ukraina).
+- `forslag-til-vedtak.md` har vedtaksforslagene og fullmaktene.
+
+Filer i proposisjonen:
+
+| Fil | Tittel |
+|---|---|
+| `budsjettforslag-innleiing.md` | Arbeids- og inkluderingsdepartementets budsjettforslag for 2027 |
+| `del-1-01-mal-for-arbeids-inkluderings-og-velferdspolitikken.md` | Mål for arbeids-, inkluderings- og velferdspolitikken |
+| `del-1-02-profil-og-satsingsomrade.md` | Profil og satsingsområde |
+| `del-1-03-sentrale-utviklingstrekk.md` | Sentrale utviklingstrekk |
+| `del-1-04-oppmodingsvedtak.md` | Oppmodingsvedtak |
+| `del-1-05-oversiktstabellar.md` | Oversiktstabellar |
+| `forslag-til-vedtak.md` |  |
+| `kap-0600.md` | Kap. 600 Arbeids- og inkluderingsdepartementet |
+| `kap-0601.md` | Kap. 601 Utgreiingsverksemd, forsking m.m. |
+| `kap-0604.md` | Kap. 604 Utviklingstiltak i arbeids- og velferdsforvaltninga |
+| `kap-0605.md` | Kap. 605 Arbeids- og velferdsetaten |
+| `kap-0606.md` | Kap. 606 Trygderetten |
+| `kap-0611.md` | Kap. 611 Pensjonar frå statskassa |
+| `kap-0612.md` | Kap. 612 Tilskot til Statens pensjonskasse |
+| `kap-0613.md` | Kap. 613 Arbeidsgivaravgift til folketrygda |
+| `kap-0621.md` | Kap. 621 Tilskot til sosiale tenester og sosial inkludering |
+| `kap-0634.md` | Kap. 634 Arbeidsmarknadstiltak |
+| `kap-0635.md` | Kap. 635 Ventelønn |
+| `kap-0640.md` | Kap. 640 Arbeidstilsynet |
+| `kap-0643.md` | Kap. 643 Statens arbeidsmiljøinstitutt |
+| `kap-0646.md` | Kap. 646 Pionerdykkarar i Nordsjøen |
+| `kap-0647.md` | Kap. 647 Kompensasjonsordning for oljepionerane |
+| `kap-0648.md` | Kap. 648 Arbeidsretten, Riksmeklaren m.m. |
+| `kap-0660.md` | Kap. 660 Krigspensjon |
+| `kap-0664.md` | Kap. 664 Pensjonsordninga for arbeidstakarar til sjøs |
+| `kap-0665.md` | Kap. 665 Pensjonstrygda for fiskarar |
+| `kap-0666.md` | Kap. 666 Avtalefesta pensjon (AFP) |
+| `kap-0667.md` | Kap. 667 Supplerande stønad |
+| `kap-0670.md` | Kap. 670 Integrerings- og mangfaldsdirektoratet |
+| `kap-0671.md` | Kap. 671 Busetting av flyktningar og tiltak for innvandrarar |
+| `kap-0672.md` | Kap. 672 Opplæring i norsk og samfunnskunnskap for vaksne innvandrarar |
+| `kap-2470.md` | Kap. 2470 Statens pensjonskasse |
+| `kap-2541.md` | Kap. 2541 Dagpengar |
+| `kap-2542.md` | Kap. 2542 Statsgaranti for lønnskrav ved konkurs m.m. |
+| `kap-2620.md` | Kap. 2620 Stønad til einsleg mor eller far |
+| `kap-2650.md` | Kap. 2650 Sjukepengar m.m. |
+| `kap-2651.md` | Kap. 2651 Arbeidsavklaringspengar m.m. |
+| `kap-2652.md` | Kap. 2652 Eit enklare Nav – forsøk med aktivitetspengar for unge |
+| `kap-2655.md` | Kap. 2655 Uføretrygd m.m. |
+| `kap-2661.md` | Kap. 2661 Grunn- og hjelpestønad, hjelpemiddel m.m. |
+| `kap-2670.md` | Kap. 2670 Alderdom |
+| `kap-2680.md` | Kap. 2680 Etterlatne |
+| `kap-2686.md` | Kap. 2686 Stønad ved gravferd |
+| `kap-3605.md` | Kap. 3605 Arbeids- og velferdsetaten |
+| `kap-3635.md` | Kap. 3635 Ventelønn m.m. |
+| `kap-3640.md` | Kap. 3640 Arbeidstilsynet |
+| `kap-3670.md` | Kap. 3670 Integrerings- og mangfaldsdirektoratet |
+| `kap-3671.md` | Kap. 3671 Busetting av flyktningar og tiltak for innvandrarar |
+| `kap-3672.md` | Kap. 3672 Opplæring i norsk og samfunnskunnskap for vaksne innvandrarar |
+| `kap-5470.md` | Kap. 5470 Statens pensjonskasse |
+| `kap-5701.md` | Kap. 5701 Diverse inntekter |
+| `kap-5704.md` | Kap. 5704 Statsgaranti for lønnskrav ved konkurs |
+| `kap-5705.md` | Kap. 5705 Refusjon av dagpengar |
+| `programkategori-09-00.md` | Programkategori 09.00 Administrasjon |
+| `programkategori-09-10.md` | Programkategori 09.10 Administrasjon av arbeids- og velferdspolitikken |
+| `programkategori-09-20.md` | Programkategori 09.20 Tiltak for betra levekår m.m. |
+| `programkategori-09-30.md` | Programkategori 09.30 Arbeidsmarknad |
+| `programkategori-09-40.md` | Programkategori 09.40 Arbeidsmiljø og sikkerheit |
+| `programkategori-09-50.md` | Programkategori 09.50 Pensjonar m.m. under Statens pensjonskasse |
+| `programkategori-09-60.md` | Programkategori 09.60 Kontantytingar |
+| `programkategori-09-70.md` | Programkategori 09.70 Integrering og mangfald |
+| `programkategori-29-20.md` | Programkategori 29.20 Einslege forsørgarar |
+| `programkategori-29-50.md` | Programkategori 29.50 Inntektssikring ved sjukdom, arbeidsavklaring og uførleik |
+| `programkategori-29-60.md` | Programkategori 29.60 Kompensasjon for meirutgifter ved nedsett funksjonsevne m.m. |
+| `programkategori-29-70.md` | Programkategori 29.70 Alderdom |
+| `programkategori-29-80.md` | Programkategori 29.80 Forsørgartap m.m. |
+| `programkategori-29-90.md` | Programkategori 29.90 Diverse inntekter |
+| `programkategori-33-30.md` | Programkategori 33.30 Arbeidsliv |
+| `tema-01-innspel-fra-pensjonistorganisasjonane-til-utforminga-av-eldr.md` | Innspel frå pensjonistorganisasjonane til utforminga av eldrepolitikken |
+| `tema-02-fordrivne-fra-ukraina.md` | Fordrivne frå Ukraina |
+| `tema-03-fns-berekraftsmal.md` | FNs berekraftsmål |
+| `tema-04-likestilling-og-mangfald.md` | Likestilling og mangfald |
+| `tema-05-samfunnstryggleik.md` | Samfunnstryggleik |
+| `tema-06-standardiserte-nokkeltal-for-nettobudsjetterte-verksemder-st.md` | Standardiserte nøkkeltal for nettobudsjetterte verksemder – STAMI |
+| `tema-07-nye-internasjonale-standardar-fra-ilo.md` | Nye internasjonale standardar frå ILO |
+
+### Slik finner du fram i Prop. 1 S for KD
+
+Prop. 1 S for KD ligger under `budsjett/ÅR/prop-1-s-kd/` fra 2013. Filene har samme form som for AID:
+
+| Fil | Innhold |
+|---|---|
+| `del-1-NN-….md` | Del I: innleiing, hovudprioriteringar, oversiktstabellar og oppmodingsvedtak |
+| `programkategori-….md` | Innleiinga til kvar programkategori |
+| `kap-NNNN.md` | Eitt budsjettkapittel med postane som underoverskrifter |
+| `forslag-til-vedtak.md` | Forslag til vedtak |
+| `vedlegg-NN-….md` | Vedlegga, blant anna løyvinga per universitet og høgskule over kap. 260, byggtabellar og nøkkeltal for nettobudsjetterte verksemder |
+| `poster.tsv` | Alle postar med kapittel, post, posttittel og fil |
+
+Feller for kunnskapsområdet:
+
+- **Nynorsk.** Prop. 1 S for KD er skrevet på nynorsk. Siter på nynorsk, men svar på brukerens språk.
+- **Postnavn på to målformer.** Proposisjonen bruker nynorsk («overslagsløyving», «kan nyttast»), mens vedtakene og statsregnskapet bruker bokmål («overslagsbevilgning», «kan nyttes»). Søk på kapittel og post, ikke på postnavn, når du kobler kildene.
+- **Lånekassen er tre kapitler.** Kap. 2410 har utgiftene (drift, stipend, rentestøtte, avskrivninger, tap og post 90 Auka lån og rentegjeld), kap. 5310 inntektene (gebyrer, post 90 Redusert lån og rentegjeld og post 93 Omgjøring av utdanningslån til stipend) og kap. 5617 renter fra Lånekassen. Postene for stipend, rentestøtte og lån er overslagsløyvingar: beløpet er et anslag, og regnskapet kan avvike mye uten at bevilgningen er brutt. Post 90 på kap. 2410 og kap. 5310 er lånetransaksjoner, ikke utgifter og inntekter i vanlig forstand. Ta den ikke med i summer for «hva området koster» uten å si det.
+- **Kap. 260 er ett kapittel for alle universiteter og høyskoler.** Post 50 er de statlige og post 70 de private, og de kan nyttes under hverandre. Fordelingen per institusjon står i vedlegget om løyving eller tildeling til universitet og høgskular (`vedlegg-02-….md` fra 2015, «Nøkkeltal for universitet og høgskolar» i 2013–2014), ikke i vedtaket eller regnskapet. Tallene er regjeringens forslag i 1 000 kroner. DBH tabell 902 viser statstilskuddet slik institusjonene har rapportert det, og tallene er ikke de samme.
+- **Integrering lå hos KD i en periode.** Kap. 290–292 (IMDi, bosetting og norskopplæring for innvandrere) står i Prop. 1 S for KD 2019–2022 og i statsregnskapet for KD 2018–2021. Fra og med regnskapsåret 2022 ligger området i Prop. 1 S for AID med nye kapittelnumre.
+- **Kapitler bytter navn og innhold.** Eksempler: kap. 270 het «Internasjonal mobilitet og sosiale formål for studenter» til 2019 og «Studentvelferd» fra 2020. Kap. 271–275 (bl.a. NOKUT, Universitetssenteret på Svalbard og tiltak for høyere utdanning) er egne kapitler fra 2020, kap. 280–281 er borte fra 2020 og kap. 287 fra 2025. Sammenlign derfor per post og år, og søk på postnavnet når et kapittel ikke finnes.
+- **2022 har to forslag.** Prop. 1 S (2021–2022) er Solberg-regjeringens forslag. Støre-regjeringen la fram Prop. 1 S Tillegg 1 (2021–2022), som er ett felles dokument for alle departementer.
+
+### Gul bok
+
+| Fil | Tittel |
+|---|---|
+| `01-01-hovedtrekk.md` | Hovedtrekk |
+| `01-02-regjeringens-hovedprioriteringer.md` | Regjeringens hovedprioriteringer |
+| `01-03-omprioriteringer-og-bedre-ressursbruk.md` | Omprioriteringer og bedre ressursbruk |
+| `02-01-hovedtall-i-budsjettet.md` | Hovedtall i budsjettet |
+| `02-02-statsbudsjettets-inntekter-og-utgifter-utenom-petroleumsvirk.md` | Statsbudsjettets inntekter og utgifter utenom petroleumsvirksomhet og lånetransaksjoner |
+| `02-03-statsbudsjettets-lanetransaksjoner-og-finansieringsbehov.md` | Statsbudsjettets lånetransaksjoner og finansieringsbehov |
+| `02-04-oversikt-over-utgifter-under-de-ulike-departementene.md` | Oversikt over utgifter under de ulike departementene |
+| `02-05-folketrygdens-utgifter-og-inntekter.md` | Folketrygdens utgifter og inntekter |
+| `02-06-forslag-til-vedtak.md` | Forslag til vedtak |
+| `03-01-budsjettets-samlede-inntekter-og-utgifter.md` | Budsjettets samlede inntekter og utgifter |
+| `03-02-gruppering-av-statsbudsjettets-inntekter.md` | Gruppering av statsbudsjettets inntekter |
+| `03-03-gruppering-av-budsjettets-utgifter.md` | Gruppering av budsjettets utgifter |
+| `03-04-petroleumsvirksomhetens-inntekter-og-utgifter.md` | Petroleumsvirksomhetens inntekter og utgifter |
+| `03-05-oppsummering-saldering-av-statsbudsjettet-og-finansieringsbe.md` | Oppsummering. Saldering av statsbudsjettet og finansieringsbehov |
+| `04-01-innledning.md` | Innledning |
+| `04-02-samlet-utgiftsvekst-for-statsbudsjettet.md` | Samlet utgiftsvekst for statsbudsjettet |
+| `04-03-realvekst-pa-statsbudsjettets-utgiftsomrader.md` | Realvekst på statsbudsjettets utgiftsområder |
+| `04-04-utvikling-i-statsbudsjettets-utgifter-i-forhold-til-bnp-veks.md` | Utvikling i statsbudsjettets utgifter i forhold til BNP-veksten |
+| `04-05-realvekst-i-folketrygdens-utgifter.md` | Realvekst i folketrygdens utgifter |
+| `04-06-bevilgninger-over-statsbudsjettet-til-forskning-og-utvikling.md` | Bevilgninger over statsbudsjettet til forskning og utvikling |
+| `05-01-forventet-handlingsrom-2028-2030.md` | Forventet handlingsrom 2028–2030 |
+| `05-02-flerarige-budsjettkonsekvenser-2028-2030.md` | Flerårige budsjettkonsekvenser 2028–2030 |
+| `05-03-ovrige-planer-og-ambisjoner.md` | Øvrige planer og ambisjoner |
+| `06-00-gjennomforingen-av-innevaerende-ars-budsjett.md` | Gjennomføringen av inneværende års budsjett |
+| `06-01-anslag-pa-regnskap-for-2026.md` | Anslag på regnskap for 2026 |
+| `06-02-statsregnskapet-for-forste-halvar-2026.md` | Statsregnskapet for første halvår 2026 |
+| `07-01-fullmakt-til-a-ta-opp-statslan-o-a.md` | Fullmakt til å ta opp statslån o.a. |
+| `07-02-sammensetningen-av-statsgjelden.md` | Sammensetningen av statsgjelden |
+| `07-03-statens-lanebehov-og-behovet-for-lanefullmakter.md` | Statens lånebehov og behovet for lånefullmakter |
+| `08-01-budsjettprosessen-status-for-arbeidet-med-endringer.md` | Budsjettprosessen – status for arbeidet med endringer |
+| `08-02-innforing-av-felles-regnskapsstandarder-i-statlige-virksomhe.md` | Innføring av felles regnskapsstandarder i statlige virksomheter |
+| `08-03-standardisering-av-regnskapsforingen-av-eksternfinansierte-p.md` | Standardisering av regnskapsføringen av eksternfinansierte prosjekter (EFP) |
+| `forslag-til-vedtak.md` | Forslag til vedtak |
+| `vedlegg-01-oversikt-over-utgifter-og-inntekter-i-statsbudsjettet-for-bu.md` | Vedlegg Oversikt over utgifter og inntekter i statsbudsjettet for budsjetterminen 2027 |
+| `vedlegg-02-statsbudsjettet.md` | Vedlegg Statsbudsjettet |
+| `vedlegg-03-bevilgningsregnskapet.md` | Vedlegg Bevilgningsregnskapet |
+| `vedlegg-04-virksomheter-med-saerskilte-fullmakter-nettobudsjetterte-for.md` | Vedlegg Virksomheter med særskilte fullmakter (nettobudsjetterte forvaltningsorganer) |
+| `vedlegg-05-bestillingsfullmakt-tilsagnsfullmakt-og-garantifullmakt.md` | Vedlegg Bestillingsfullmakt, tilsagnsfullmakt og garantifullmakt |
+
+### Nasjonalbudsjettet
+
+| Fil | Tittel |
+|---|---|
+| `01-00-hovedlinjer-i-den-okonomiske-politikken-og-utsiktene-for-nor.md` | Hovedlinjer i den økonomiske politikken og utsiktene for norsk økonomi |
+| `02-01-internasjonal-okonomi.md` | Internasjonal økonomi |
+| `02-02-norsk-okonomi.md` | Norsk økonomi |
+| `02-03-risikobildet.md` | Risikobildet |
+| `02-04-naermere-om-arbeidsmarkedet.md` | Nærmere om arbeidsmarkedet |
+| `03-00-budsjettpolitikken.md` | Budsjettpolitikken |
+| `03-01-innretning-av-budsjettpolitikken-2027.md` | Innretning av budsjettpolitikken 2027 |
+| `03-02-oppdatert-informasjon-om-budsjettpolitikken-i-2026.md` | Oppdatert informasjon om budsjettpolitikken i 2026 |
+| `03-03-handlingsrommet-i-finanspolitikken-fremover.md` | Handlingsrommet i finanspolitikken fremover |
+| `03-04-det-okonomiske-opplegget-for-kommunesektoren.md` | Det økonomiske opplegget for kommunesektoren |
+| `03-05-utviklingen-i-offentlige-finanser-og-sammenligning-med-andre.md` | Utviklingen i offentlige finanser og sammenligning med andre land |
+| `04-01-pengepolitikken.md` | Pengepolitikken |
+| `04-02-finansiell-stabilitet.md` | Finansiell stabilitet |
+| `04-03-sysselsettingspolitikken-og-det-inntektspolitiske-samarbeide.md` | Sysselsettingspolitikken og det inntektspolitiske samarbeidet |
+| `04-04-forvaltningen-av-statens-pensjonsfond.md` | Forvaltningen av Statens pensjonsfond |
+| `04-05-statens-gjeldsforvaltning.md` | Statens gjeldsforvaltning |
+| `04-06-klimapolitikken.md` | Klimapolitikken |
+| `05-01-betydningen-av-effektiv-ressursbruk.md` | Betydningen av effektiv ressursbruk |
+| `05-02-sysselsetting.md` | Sysselsetting |
+| `05-03-produktivitet.md` | Produktivitet |
+| `05-04-faktorer-som-pavirker-produktiviteten.md` | Faktorer som påvirker produktiviteten |
+| `05-05-offentlig-tjenesteproduksjon.md` | Offentlig tjenesteproduksjon |
+| `05-06-hovedtrekk-i-regjeringens-tiltak-for-bedre-bruk-av-samfunnet.md` | Hovedtrekk i regjeringens tiltak for bedre bruk av samfunnets ressurser |
+| `06-00-velferd-fordeling-og-ulikhet.md` | Velferd, fordeling og ulikhet |
+| `06-01-maling-av-velferd-livskvalitet-og-levekar.md` | Måling av velferd, livskvalitet og levekår |
+| `06-02-okonomisk-ulikhet-i-norge.md` | Økonomisk ulikhet i Norge |
+| `forslag-til-vedtak.md` | Forslag til vedtak |
+| `vedlegg-01-beregning-av-strukturell-oljekorrigert-budsjettbalanse.md` | Vedlegg Beregning av strukturell oljekorrigert budsjettbalanse |
+| `vedlegg-02-beskrivelse-av-budsjetteffektberegningene.md` | Vedlegg Beskrivelse av budsjetteffektberegningene |
+| `vedlegg-05-historiske-tabeller-og-detaljerte-anslagstall.md` | Vedlegg Historiske tabeller og detaljerte anslagstall |
+
+## Oppdatering
+
+Nye år legges inn ved å laste opp Word- og Excel-filene i `budsjett/innboks/` (se `budsjett/innboks/README.md`). Da kjører `verktoy/budsjett_innboks.py` automatisk. Manuelt: filene i `prop-1-s-aid/` lages med `python3 verktoy/budsjett.py <prop.docx> budsjett/ÅR/prop-1-s-aid "<kildenavn>"` og skal ikke redigeres for hånd. Gul bok og Nasjonalbudsjettet deles med samme skript og valget `--generell`. Gul bok-datagrunnlaget og figurdataene er Excel-filene fra regjeringen.no gjort om til TSV.

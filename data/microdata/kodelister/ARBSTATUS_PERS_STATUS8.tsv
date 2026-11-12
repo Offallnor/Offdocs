@@ -1,0 +1,246 @@
+kode	kategori
+08080000	Kun lønnstaker heltid
+08083208	Lønnstaker heltid og Ordinære tiltak (ikke nedsatt arbeidsevne)
+08083216	Lønnstaker heltid og Individstønad/tiltakspenger
+08083224	Lønnstaker heltid og Dagpenger
+08083240	Lønnstaker heltid og Introduksjonsprogram
+08084008	Lønnstaker heltid og Ordinær utdanning
+08084808	Lønnstaker heltid og Sykepenger fra folketrygden
+08084816	Lønnstaker heltid og Nedsatt arbeidsevne, på tiltak
+08084848	Lønnstaker heltid og Arbeidsavklaringspenger (AAP) 
+08084864	Lønnstaker heltid og Varig uførepensjon/uføretrygd
+08085608	Lønnstaker heltid og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+08085616	Lønnstaker heltid og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+08085624	Lønnstaker heltid og Supplerende stønad
+08085632	Lønnstaker heltid og Alderspensjon
+08085640	Lønnstaker heltid og Pensjoner fra andre enn Nav/Folketrygden
+08086408	Lønnstaker heltid og Kontantstøtte
+08086416	Lønnstaker heltid og Overgangsstønad
+08086424	Lønnstaker heltid og Sosialhjelp
+08086432	Lønnstaker heltid og Nedsatt arbeidsevne, ikke på tiltak
+08160000	Kun lønnstaker deltid
+08163208	Lønnstaker deltid og Ordinære tiltak (ikke nedsatt arbeidsevne)
+08163216	Lønnstaker deltid og Individstønad/tiltakspenger
+08163224	Lønnstaker deltid og Dagpenger
+08163240	Lønnstaker deltid og Introduksjonsprogram
+08164008	Lønnstaker deltid og Ordinær utdanning
+08164808	Lønnstaker deltid og Sykepenger fra folketrygden
+08164816	Lønnstaker deltid og Nedsatt arbeidsevne, på tiltak
+08164848	Lønnstaker deltid og Arbeidsavklaringspenger (AAP) 
+08164864	Lønnstaker deltid og Varig uførepensjon/uføretrygd
+08165608	Lønnstaker deltid og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+08165616	Lønnstaker deltid og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+08165624	Lønnstaker deltid og Supplerende stønad
+08165632	Lønnstaker deltid og Alderspensjon
+08165640	Lønnstaker deltid og Pensjoner fra andre enn Nav/Folketrygden
+08166408	Lønnstaker deltid og Kontantstøtte
+08166416	Lønnstaker deltid og Overgangsstønad
+08166424	Lønnstaker deltid og Sosialhjelp
+08166432	Lønnstaker deltid og Nedsatt arbeidsevne, ikke på tiltak
+08320000	Kun frilanser, oppdragstaker mv.
+08323208	Frilanser, oppdragstaker mv. og Ordinære tiltak (ikke nedsatt arbeidsevne)
+08323216	Frilanser, oppdragstaker mv. og Individstønad/tiltakspenger
+08323224	Frilanser, oppdragstaker mv. og Dagpenger
+08323240	Frilanser, oppdragstaker mv. og Introduksjonsprogram
+08324008	Frilanser, oppdragstaker mv. og Ordinær utdanning
+08324808	Frilanser, oppdragstaker mv. og Sykepenger fra folketrygden
+08324816	Frilanser, oppdragstaker mv. og Nedsatt arbeidsevne, på tiltak
+08324848	Frilanser, oppdragstaker mv. og Arbeidsavklaringspenger (AAP) 
+08324864	Frilanser, oppdragstaker mv. og Varig uførepensjon/uføretrygd
+08325608	Frilanser, oppdragstaker mv. og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+08325616	Frilanser, oppdragstaker mv. og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+08325624	Frilanser, oppdragstaker mv. og Supplerende stønad
+08325632	Frilanser, oppdragstaker mv. og Alderspensjon
+08325640	Frilanser, oppdragstaker mv. og Pensjoner fra andre enn Nav/Folketrygden
+08326408	Frilanser, oppdragstaker mv. og Kontantstøtte
+08326416	Frilanser, oppdragstaker mv. og Overgangsstønad
+08326424	Frilanser, oppdragstaker mv. og Sosialhjelp
+08326432	Frilanser, oppdragstaker mv. og Nedsatt arbeidsevne, ikke på tiltak
+16080000	Kun selvstendig næringsdrivende
+16083208	Selvstendig næringsdrivende og Ordinære tiltak (ikke nedsatt arbeidsevne)
+16083216	Selvstendig næringsdrivende og Individstønad/tiltakspenger
+16083224	Selvstendig næringsdrivende og Dagpenger
+16083240	Selvstendig næringsdrivende og Introduksjonsprogram
+16084008	Selvstendig næringsdrivende og Ordinær utdanning
+16084808	Selvstendig næringsdrivende og Sykepenger fra folketrygden
+16084816	Selvstendig næringsdrivende og Nedsatt arbeidsevne, på tiltak
+16084848	Selvstendig næringsdrivende og Arbeidsavklaringspenger (AAP) 
+16084864	Selvstendig næringsdrivende og Varig uførepensjon/uføretrygd
+16085608	Selvstendig næringsdrivende og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+16085616	Selvstendig næringsdrivende og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+16085624	Selvstendig næringsdrivende og Supplerende stønad
+16085632	Selvstendig næringsdrivende og Alderspensjon
+16085640	Selvstendig næringsdrivende og Pensjoner fra andre enn Nav/Folketrygden
+16086408	Selvstendig næringsdrivende og Kontantstøtte
+16086416	Selvstendig næringsdrivende og Overgangsstønad
+16086424	Selvstendig næringsdrivende og Sosialhjelp
+16086432	Selvstendig næringsdrivende og Nedsatt arbeidsevne, ikke på tiltak
+24080000	Kun registrert helt arbeidsledig
+24083216	Registrert helt arbeidsledig og Individstønad/tiltakspenger
+24083224	Registrert helt arbeidsledig og Dagpenger
+24083240	Registrert helt arbeidsledig og Introduksjonsprogram
+24084008	Registrert helt arbeidsledig og Ordinær utdanning
+24084808	Registrert helt arbeidsledig og Sykepenger fra folketrygden
+24084848	Registrert helt arbeidsledig og Arbeidsavklaringspenger (AAP) 
+24084864	Registrert helt arbeidsledig og Varig uførepensjon/uføretrygd
+24085608	Registrert helt arbeidsledig og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+24085616	Registrert helt arbeidsledig og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+24085624	Registrert helt arbeidsledig og Supplerende stønad
+24085632	Registrert helt arbeidsledig og Alderspensjon
+24085640	Registrert helt arbeidsledig og Pensjoner fra andre enn Nav/Folketrygden
+24086408	Registrert helt arbeidsledig og Kontantstøtte
+24086416	Registrert helt arbeidsledig og Overgangsstønad
+24086424	Registrert helt arbeidsledig og Sosialhjelp
+32080000	Kun ordinære tiltak (ikke nedsatt arbeidsevne)
+32083216	Ordinære tiltak (ikke nedsatt arbeidsevne) og Individstønad/tiltakspenger
+32083224	Ordinære tiltak (ikke nedsatt arbeidsevne) og Dagpenger
+32083240	Ordinære tiltak (ikke nedsatt arbeidsevne) og Introduksjonsprogram
+32084008	Ordinære tiltak (ikke nedsatt arbeidsevne) og Ordinær utdanning
+32084808	Ordinære tiltak (ikke nedsatt arbeidsevne) og Sykepenger fra folketrygden
+32084848	Ordinære tiltak (ikke nedsatt arbeidsevne) og Arbeidsavklaringspenger (AAP) 
+32084864	Ordinære tiltak (ikke nedsatt arbeidsevne) og Varig uførepensjon/uføretrygd
+32085608	Ordinære tiltak (ikke nedsatt arbeidsevne) og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+32085616	Ordinære tiltak (ikke nedsatt arbeidsevne) og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+32085632	Ordinære tiltak (ikke nedsatt arbeidsevne) og Alderspensjon
+32085640	Ordinære tiltak (ikke nedsatt arbeidsevne) og Pensjoner fra andre enn Nav/Folketrygden
+32086408	Ordinære tiltak (ikke nedsatt arbeidsevne) og Kontantstøtte
+32086416	Ordinære tiltak (ikke nedsatt arbeidsevne) og Overgangsstønad
+32086424	Ordinære tiltak (ikke nedsatt arbeidsevne) og Sosialhjelp
+32160000	Kun individstønad/tiltakspenger
+32163240	Individstønad/tiltakspenger og Introduksjonsprogram
+32164008	Individstønad/tiltakspenger og Ordinær utdanning
+32164808	Individstønad/tiltakspenger og Sykepenger fra folketrygden
+32164816	Individstønad/tiltakspenger og Nedsatt arbeidsevne, på tiltak
+32164864	Individstønad/tiltakspenger og Varig uførepensjon/uføretrygd
+32165616	Individstønad/tiltakspenger og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+32165640	Individstønad/tiltakspenger og Pensjoner fra andre enn Nav/Folketrygden
+32166408	Individstønad/tiltakspenger og Kontantstøtte
+32166416	Individstønad/tiltakspenger og Overgangsstønad
+32166424	Individstønad/tiltakspenger og Sosialhjelp
+32166432	Individstønad/tiltakspenger og Nedsatt arbeidsevne, ikke på tiltak
+32240000	Kun dagpenger
+32243240	Dagpenger og Introduksjonsprogram
+32244008	Dagpenger og Ordinær utdanning
+32244808	Dagpenger og Sykepenger fra folketrygden
+32244816	Dagpenger og Nedsatt arbeidsevne, på tiltak
+32244864	Dagpenger og Varig uførepensjon/uføretrygd
+32245608	Dagpenger og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+32245616	Dagpenger og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+32245632	Dagpenger og Alderspensjon
+32245640	Dagpenger og Pensjoner fra andre enn Nav/Folketrygden
+32246408	Dagpenger og Kontantstøtte
+32246416	Dagpenger og Overgangsstønad
+32246424	Dagpenger og Sosialhjelp
+32246432	Dagpenger og Nedsatt arbeidsevne, ikke på tiltak
+32400000	Kun introduksjonsprogram
+32404008	Introduksjonsprogram og Ordinær utdanning
+32404808	Introduksjonsprogram og Sykepenger fra folketrygden
+32404816	Introduksjonsprogram og Nedsatt arbeidsevne, på tiltak
+32404848	Introduksjonsprogram og Arbeidsavklaringspenger (AAP) 
+32404864	Introduksjonsprogram og Varig uførepensjon/uføretrygd
+32405608	Introduksjonsprogram og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+32405624	Introduksjonsprogram og Supplerende stønad
+32405632	Introduksjonsprogram og Alderspensjon
+32405640	Introduksjonsprogram og Pensjoner fra andre enn Nav/Folketrygden
+32406408	Introduksjonsprogram og Kontantstøtte
+32406416	Introduksjonsprogram og Overgangsstønad
+32406424	Introduksjonsprogram og Sosialhjelp
+32406432	Introduksjonsprogram og Nedsatt arbeidsevne, ikke på tiltak
+40080000	Kun ordinær utdanning
+40084808	Ordinær utdanning og Sykepenger fra folketrygden
+40084816	Ordinær utdanning og Nedsatt arbeidsevne, på tiltak
+40084848	Ordinær utdanning og Arbeidsavklaringspenger (AAP) 
+40084864	Ordinær utdanning og Varig uførepensjon/uføretrygd
+40085608	Ordinær utdanning og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+40085616	Ordinær utdanning og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+40085624	Ordinær utdanning og Supplerende stønad
+40085632	Ordinær utdanning og Alderspensjon
+40085640	Ordinær utdanning og Pensjoner fra andre enn Nav/Folketrygden
+40086408	Ordinær utdanning og Kontantstøtte
+40086416	Ordinær utdanning og Overgangsstønad
+40086424	Ordinær utdanning og Sosialhjelp
+40086432	Ordinær utdanning og Nedsatt arbeidsevne, ikke på tiltak
+48080000	Kun sykepenger fra folketrygden
+48084816	Sykepenger fra folketrygden og Nedsatt arbeidsevne, på tiltak
+48084848	Sykepenger fra folketrygden og Arbeidsavklaringspenger (AAP) 
+48084864	Sykepenger fra folketrygden og Varig uførepensjon/uføretrygd
+48085608	Sykepenger fra folketrygden og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+48085616	Sykepenger fra folketrygden og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+48085632	Sykepenger fra folketrygden og Alderspensjon
+48085640	Sykepenger fra folketrygden og Pensjoner fra andre enn Nav/Folketrygden
+48086408	Sykepenger fra folketrygden og Kontantstøtte
+48086416	Sykepenger fra folketrygden og Overgangsstønad
+48086424	Sykepenger fra folketrygden og Sosialhjelp
+48086432	Sykepenger fra folketrygden og Nedsatt arbeidsevne, ikke på tiltak
+48160000	Kun nedsatt arbeidsevne, på tiltak
+48164848	Nedsatt arbeidsevne, på tiltak og Arbeidsavklaringspenger (AAP) 
+48164864	Nedsatt arbeidsevne, på tiltak og Varig uførepensjon/uføretrygd
+48165608	Nedsatt arbeidsevne, på tiltak og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+48165616	Nedsatt arbeidsevne, på tiltak og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+48165632	Nedsatt arbeidsevne, på tiltak og Alderspensjon
+48165640	Nedsatt arbeidsevne, på tiltak og Pensjoner fra andre enn Nav/Folketrygden
+48166408	Nedsatt arbeidsevne, på tiltak og Kontantstøtte
+48166416	Nedsatt arbeidsevne, på tiltak og Overgangsstønad
+48166424	Nedsatt arbeidsevne, på tiltak og Sosialhjelp
+48480000	Kun arbeidsavklaringspenger (AAP) 
+48484864	Arbeidsavklaringspenger (AAP)  og Varig uførepensjon/uføretrygd
+48485608	Arbeidsavklaringspenger (AAP)  og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+48485616	Arbeidsavklaringspenger (AAP)  og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+48485632	Arbeidsavklaringspenger (AAP)  og Alderspensjon
+48485640	Arbeidsavklaringspenger (AAP)  og Pensjoner fra andre enn Nav/Folketrygden
+48486408	Arbeidsavklaringspenger (AAP)  og Kontantstøtte
+48486416	Arbeidsavklaringspenger (AAP)  og Overgangsstønad
+48486424	Arbeidsavklaringspenger (AAP)  og Sosialhjelp
+48486432	Arbeidsavklaringspenger (AAP)  og Nedsatt arbeidsevne, ikke på tiltak
+48640000	Kun varig uførepensjon/uføretrygd
+48645608	Varig uførepensjon/uføretrygd og Etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+48645616	Varig uførepensjon/uføretrygd og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+48645624	Varig uførepensjon/uføretrygd og Supplerende stønad
+48645632	Varig uførepensjon/uføretrygd og Alderspensjon
+48645640	Varig uførepensjon/uføretrygd og Pensjoner fra andre enn Nav/Folketrygden
+48646408	Varig uførepensjon/uføretrygd og Kontantstøtte
+48646416	Varig uførepensjon/uføretrygd og Overgangsstønad
+48646424	Varig uførepensjon/uføretrygd og Sosialhjelp
+48646432	Varig uførepensjon/uføretrygd og Nedsatt arbeidsevne, ikke på tiltak
+56080000	Kun etterlatte-/gjenlevendepensjon, inkl. barnepensjon
+56085616	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Avtalefestet pensjon (AFP i offentlig/privat sektor)
+56085624	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Supplerende stønad
+56085632	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Alderspensjon
+56085640	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Pensjoner fra andre enn Nav/Folketrygden
+56086408	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Kontantstøtte
+56086416	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Overgangsstønad
+56086424	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Sosialhjelp
+56086432	Etterlatte-/gjenlevendepensjon, inkl. barnepensjon og Nedsatt arbeidsevne, ikke på tiltak
+56160000	Kun avtalefestet pensjon (AFP i offentlig/privat sektor)
+56165624	Avtalefestet pensjon (AFP i offentlig/privat sektor) og Supplerende stønad
+56165632	Avtalefestet pensjon (AFP i offentlig/privat sektor) og Alderspensjon
+56165640	Avtalefestet pensjon (AFP i offentlig/privat sektor) og Pensjoner fra andre enn Nav/Folketrygden
+56166408	Avtalefestet pensjon (AFP i offentlig/privat sektor) og Kontantstøtte
+56166424	Avtalefestet pensjon (AFP i offentlig/privat sektor) og Sosialhjelp
+56166432	Avtalefestet pensjon (AFP i offentlig/privat sektor) og Nedsatt arbeidsevne, ikke på tiltak
+56240000	Kun supplerende stønad
+56245632	Supplerende stønad og Alderspensjon
+56245640	Supplerende stønad og Pensjoner fra andre enn Nav/Folketrygden
+56246424	Supplerende stønad og Sosialhjelp
+56320000	Kun alderspensjon
+56325640	Alderspensjon og Pensjoner fra andre enn Nav/Folketrygden
+56326408	Alderspensjon og Kontantstøtte
+56326416	Alderspensjon og Overgangsstønad
+56326424	Alderspensjon og Sosialhjelp
+56326432	Alderspensjon og Nedsatt arbeidsevne, ikke på tiltak
+56400000	Kun pensjoner fra andre enn Nav/Folketrygden
+56406408	Pensjoner fra andre enn Nav/Folketrygden og Kontantstøtte
+56406416	Pensjoner fra andre enn Nav/Folketrygden og Overgangsstønad
+56406424	Pensjoner fra andre enn Nav/Folketrygden og Sosialhjelp
+56406432	Pensjoner fra andre enn Nav/Folketrygden og Nedsatt arbeidsevne, ikke på tiltak
+64080000	Kun kontantstøtte
+64086416	Kontantstøtte og Overgangsstønad
+64086424	Kontantstøtte og Sosialhjelp
+64086432	Kontantstøtte og Nedsatt arbeidsevne, ikke på tiltak
+64160000	Kun overgangsstønad
+64166424	Overgangsstønad og Sosialhjelp
+64166432	Overgangsstønad og Nedsatt arbeidsevne, ikke på tiltak
+64240000	Kun sosialhjelp
+64246432	Sosialhjelp og Nedsatt arbeidsevne, ikke på tiltak
+64320000	Kun nedsatt arbeidsevne, ikke på tiltak
+72080000	Ukjent status

@@ -1,0 +1,10 @@
+.cache/
+.lovdata/
+__pycache__/
+data-innboks-rapport.txt
+grunnbelop-rapport.txt
+nav-hent-rapport.txt
+nav-webtabell-rapport.txt
+oversetting-navn-rapport.txt
+r45-rapport.txt
+rundskriv-rapport.txt

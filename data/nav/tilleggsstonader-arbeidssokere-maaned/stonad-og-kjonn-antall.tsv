@@ -1,0 +1,40 @@
+# Kilde: Nav
+# Tabell: Mottakere av tilleggsstønader for arbeidssøkere, tidsserie måned (ARBS057)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-11-09
+# Ark: Stønad og kjønn. Antall
+# Mottakere av tilleggsstønader for arbeidssøkere. Tidsserie, måned
+gruppe	rad	Stønad og kjønn. Antall							Rapport oppdatert: 02.11.2026
+gruppe	rad	I alt	Arbeidssøker	Mottaker av dagpenger	Mottaker av tiltakspenger	Ukjent
+Januar - Oktober 2026	Oktober 2026	2303	1982	35	223	*	63
+Januar - Oktober 2026	September 2026	2091	26	58	318	1675	14
+Januar - Oktober 2026	August 2026	2089	18	79	361	1616	15
+Januar - Oktober 2026	Juli 2026	2005	19	77	405	1492	12
+Januar - Oktober 2026	Juni 2026	2946	11	227	995	1698	15
+Januar - Oktober 2026	Mai 2026	3244	20	306	1427	1476	15
+Januar - Oktober 2026	April 2026	3310	12	366	1641	1275	16
+Januar - Oktober 2026	Mars 2026	3429	12	443	1942	1011	21
+Januar - Oktober 2026	Februar 2026	3278	14	488	2191	570	15
+Januar - Oktober 2026	Januar 2026	2982	10	478	2106	376	12
+gruppe	rad	I alt Kvinner	Arbeidssøker	Mottaker av dagpenger	Mottaker av tiltakspenger	Ukjent
+	Oktober 2026	1341	1158	13	147	*	23
+	September 2026	1159	8	19	199	929	4
+	August 2026	1124	10	31	205	875	*
+	Juli 2026	1079	6	29	231	810	*
+	Juni 2026	1674	5	86	646	933	4
+	Mai 2026	1823	9	104	886	819	5
+	April 2026	1867	*	135	1015	708	6
+	Mars 2026	1942	6	186	1177	563	10
+	Februar 2026	1839	5	205	1324	296	9
+	Januar 2026	1671	4	213	1289	159	6
+gruppe	rad	I alt Menn	Arbeidssøker	Mottaker av dagpenger	Mottaker av tiltakspenger	Ukjent
+	Oktober 2026	962	824	22	76	*	40
+	September 2026	932	18	39	119	746	10
+	August 2026	965	8	48	156	741	12
+	Juli 2026	926	13	48	174	682	9
+	Juni 2026	1272	6	141	349	765	11
+	Mai 2026	1421	11	202	541	657	10
+	April 2026	1443	9	231	626	567	10
+	Mars 2026	1487	6	257	765	448	11
+	Februar 2026	1439	9	283	867	274	6
+	Januar 2026	1311	6	265	817	217	6

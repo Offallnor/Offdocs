@@ -1,0 +1,60 @@
+# Kilde: Nav
+# Tabell: Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-mottakere-av-uforetrygd-etter-fylke-og-kjonn.1.kvartal-3.kvartal-2017-2026.antall
+# Arkivside: https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd
+# Lagt inn: 2026-11-10
+# Webtabell hos Nav (ikke xlsx). Kolonnen «gruppe» er overskriften over hver deltabell.
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	I alt	22959	25987	27146	22289	20584	20176	19742	22515	19521	22341
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	03 Oslo - Oslove	2030	2572	2966	2827	1955	2325	2040	2219	1837	2182
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	11 Rogaland	1868	2345	1963	1674	1727	1403	1505	1852	1697	1592
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	15 Møre og Romsdal	945	1123	1244	919	911	856	947	942	834	915
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	18 Nordland - Nordlánnda	1312	1558	1695	1374	1248	897	850	1086	999	1260
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	31 Østfold	1741	2280	1492	1114	1170	1094	1129	1253	1322	1574
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	32 Akershus	2292	2801	2609	2197	2061	2145	2121	2385	1960	2504
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	33 Buskerud	1287	1310	1436	1262	1142	1255	1034	1235	1095	1320
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	34 Innlandet	1813	1678	2230	1732	1781	1959	1692	2051	1636	1806
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	39 Vestfold	1293	1445	1341	1022	1046	964	973	1212	949	1045
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	40 Telemark	903	926	1111	787	678	704	737	826	802	845
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	42 Agder	1442	1710	2050	1750	1525	1339	1386	1508	1459	1702
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	46 Vestland	2297	2339	2563	1955	1861	1900	2123	2086	1611	1875
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	50 Trøndelag - Trööndelage	2208	2408	2597	1975	2085	1981	1907	2384	2040	2138
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	55 Troms - Romsa - Tromssa	741	640	1075	850	666	646	674	677	674	733
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	56 Finnmark - Finnmárku - Finmarkku	402	538	451	440	370	371	301	324	240	331
+Nye mottakere av uføretrygd, etter fylke og kjønn. 1. kvartal-3. kvartal 2017-2026. Antall.	Bosatt i utlandet/Ukjent	385	314	323	411	358	337	323	475	366	519
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Kvinner.	I alt	13109	15123	15742	12867	11876	11602	11460	12960	11158	12800
+Kvinner.	03 Oslo - Oslove	1114	1446	1687	1568	1072	1256	1101	1173	984	1167
+Kvinner.	11 Rogaland	1071	1392	1107	955	1015	827	903	1087	990	948
+Kvinner.	15 Møre og Romsdal	571	710	751	562	558	507	603	571	496	592
+Kvinner.	18 Nordland - Nordlánnda	753	908	993	826	735	523	505	686	617	731
+Kvinner.	31 Østfold	1001	1261	850	617	676	623	610	710	755	884
+Kvinner.	32 Akershus	1386	1681	1541	1313	1221	1251	1269	1407	1126	1460
+Kvinner.	33 Buskerud	723	762	847	749	672	739	594	721	624	777
+Kvinner.	34 Innlandet	1042	989	1318	1007	1019	1115	968	1202	970	1085
+Kvinner.	39 Vestfold	749	838	772	592	610	549	555	697	542	579
+Kvinner.	40 Telemark	521	536	680	466	366	373	434	463	438	475
+Kvinner.	42 Agder	753	967	1164	985	870	785	807	869	859	969
+Kvinner.	46 Vestland	1338	1379	1510	1130	1106	1142	1253	1189	920	1071
+Kvinner.	50 Trøndelag - Trööndelage	1315	1462	1531	1200	1261	1212	1179	1446	1169	1268
+Kvinner.	55 Troms - Romsa - Tromssa	433	375	642	509	371	387	407	401	406	425
+Kvinner.	56 Finnmark - Finnmárku - Finmarkku	212	306	248	233	203	198	167	172	147	184
+Kvinner.	Bosatt i utlandet/Ukjent	127	111	101	155	121	115	105	166	115	185
+gruppe	rad	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Menn.	I alt	9850	10864	11404	9422	8708	8574	8282	9555	8363	9541
+Menn.	03 Oslo - Oslove	916	1126	1279	1259	883	1069	939	1046	853	1015
+Menn.	11 Rogaland	797	953	856	719	712	576	602	765	707	644
+Menn.	15 Møre og Romsdal	374	413	493	357	353	349	344	371	338	323
+Menn.	18 Nordland - Nordlánnda	559	650	702	548	513	374	345	400	382	529
+Menn.	31 Østfold	740	1019	642	497	494	471	519	543	567	690
+Menn.	32 Akershus	906	1120	1068	884	840	894	852	978	834	1044
+Menn.	33 Buskerud	564	548	589	513	470	516	440	514	471	543
+Menn.	34 Innlandet	771	689	912	725	762	844	724	849	666	721
+Menn.	39 Vestfold	544	607	569	430	436	415	418	515	407	466
+Menn.	40 Telemark	382	390	431	321	312	331	303	363	364	370
+Menn.	42 Agder	689	743	886	765	655	554	579	639	600	733
+Menn.	46 Vestland	959	960	1053	825	755	758	870	897	691	804
+Menn.	50 Trøndelag - Trööndelage	893	946	1066	775	824	769	728	938	871	870
+Menn.	55 Troms - Romsa - Tromssa	308	265	433	341	295	259	267	276	268	308
+Menn.	56 Finnmark - Finnmárku - Finmarkku	190	232	203	207	167	173	134	152	93	147
+Menn.	Bosatt i utlandet/Ukjent	258	203	222	256	237	222	218	309	251	334

@@ -1,0 +1,34 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på oppfølging, demografi, tidsserie måned (TILT140)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-11-09
+# Ark: Arbeidsmarkedsstatus og tiltak
+# TILT140 Tiltaksdeltakere på oppfølging. Demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og tiltak									Rapport oppdatert: 02.11.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober
+Januar 2026 - Oktober 2026	I alt Arbeidssøkere på tiltak	5705	5413	5632	5768	5944	5573	5485	5171	5709	6023	6334
+Januar 2026 - Oktober 2026	Arbeid med støtte	1044	1092	1086	1082	1066	1081	1067	1036	990	973	971
+Januar 2026 - Oktober 2026	Digital oppfølging/jobbklubb	975	962	983	1024	1093	838	908	846	1018	1018	1060
+Januar 2026 - Oktober 2026	Individuell jobbstøtte	302	301	311	311	301	308	311	292	289	294	301
+Januar 2026 - Oktober 2026	Individuell Karrierestøtte (IPS Ung)	33	37	37	38	30	30	29	30	30	35	35
+Januar 2026 - Oktober 2026	Jobbklubb	649	562	706	781	800	619	455	350	601	774	839
+Januar 2026 - Oktober 2026	Mentor	9	12	6	9	10	10	13	4	8	6	14
+Januar 2026 - Oktober 2026	Oppfølging	2693	2447	2503	2523	2644	2687	2701	2612	2772	2922	3114
+Januar 2026 - Oktober 2026	Utvidet oppfølging i opplæring	*	*	*	*	*	*	*	*	*	*	*
+	I alt Nedsatt arbeidsevne, på tiltak	15058	15094	15088	15009	15108	14972	15175	15130	14952	15043	15006
+	Arbeid med støtte	5278	5402	5373	5246	5236	5231	5317	5481	5247	5176	5068
+	Digital oppfølging/jobbklubb	98	87	91	117	115	93	107	97	96	94	82
+	Individuell jobbstøtte	3122	3066	3089	3143	3149	3121	3158	3158	3092	3075	3165
+	Individuell Karrierestøtte (IPS Ung)	515	552	536	524	520	514	529	517	496	474	484
+	Jobbklubb	247	226	252	274	283	231	212	149	215	323	303
+	Mentor	197	172	179	200	202	203	218	185	196	199	211
+	Oppfølging	5557	5557	5531	5466	5560	5537	5581	5488	5556	5641	5654
+	Utvidet oppfølging i opplæring	46	32	37	39	43	42	53	55	54	61	39
+	I alt Andre på tiltak	1324	1166	1206	1185	1222	1291	1412	1434	1460	1455	1405
+	Arbeid med støtte	315	310	308	293	291	276	325	366	358	321	304
+	Digital oppfølging/jobbklubb	53	46	60	48	60	47	63	54	41	52	62
+	Individuell jobbstøtte	282	252	274	283	277	288	294	311	294	270	281
+	Individuell Karrierestøtte (IPS Ung)	46	38	43	39	48	52	46	44	51	50	49
+	Jobbklubb	71	51	66	61	56	68	77	69	77	94	88
+	Mentor	25	18	23	22	20	26	29	26	31	27	32
+	Oppfølging	531	451	432	439	470	534	578	564	608	641	589

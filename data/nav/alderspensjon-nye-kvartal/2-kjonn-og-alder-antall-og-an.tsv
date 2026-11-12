@@ -1,0 +1,38 @@
+# Kilde: Nav
+# Tabell: Nye alderspensjonister, kvartal (PST071)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-26
+# Ark: 2. Kjønn og alder. Antall og an
+# Merknad: Alder og kjønn. Antall og andel av nye alderspensjonister
+gruppe	rad	Kilde: NAV			Nye alderspensjonister. Kjønn og alder. 1. - 3. kvartal 2026
+gruppe	rad			Antall personer			Andel(%)
+Kvinner		I alt		29084			1
+Kvinner		62		5349			0.183916
+Kvinner		63		1557			0.053535
+Kvinner		64		1098			0.037753
+Kvinner		65		1412			0.048549
+Kvinner		66		905			0.031117
+Kvinner		67		17585			0.604628
+Kvinner		68		412			0.014166
+Kvinner		69		256			0.008802
+Kvinner		70		201			0.006911
+Kvinner		71		68			0.002338
+Kvinner		72		46			0.001582
+Kvinner		73		24			0.000825
+Kvinner		74		10			0.000344
+Kvinner		75 år eller mer		161			0.005536
+Menn		I alt		29448			1
+Menn		62		9036			0.306846
+Menn		63		1654			0.056167
+Menn		64		1463			0.049681
+Menn		65		1680			0.05705
+Menn		66		1305			0.044315
+Menn		67		12494			0.424273
+Menn		68		678			0.023024
+Menn		69		412			0.013991
+Menn		70		345			0.011716
+Menn		71		108			0.003667
+Menn		72		80			0.002717
+Menn		73		33			0.001121
+Menn		74		21			0.000713
+Menn		75 år eller mer		139			0.00472

@@ -1,0 +1,12 @@
+# Kilde: OECD, tabell OECD.ELS.SAE,DSD_LFS@DF_LFS_INDIC
+# Tabell: Sysselsetting, yrkesdeltakelse og ledighet etter kjønn og alder
+# Tall endret: 2026-10-19 (datoen den ukentlige hentingen sist fant endrede tall hos OECD)
+# OECD-tittel: Employment and unemployment by five-year age group and sex - indicators
+# Spørring: https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_LFS@DF_LFS_INDIC/NOR+SWE+DNK+FIN+ISL+DEU+NLD+GBR+USA+OECD....Y15T24+Y25T54+Y55T64+Y15T64+Y20T64+Y15T74+Y65T69.?startPeriod=2005&format=csvfilewithlabels
+# REF_AREA: DEU=Germany; DNK=Denmark; FIN=Finland; GBR=United Kingdom; ISL=Iceland; NLD=Netherlands; NOR=Norway; OECD=OECD; SWE=Sweden; USA=United States
+# MEASURE: EMP_RATIO=Employment to population ratio; LF_RATE=Labour force participation rate; UNE_RATE=Unemployment rate
+# UNIT_MEASURE: PT_LF_SUB=Percentage of labour force in the same subgroup; PT_POP_SUB=Percentage of population in the same subgroup
+# SEX: F=Female; M=Male; _T=Total
+# AGE: Y15T24=From 15 to 24 years; Y15T64=From 15 to 64 years; Y15T74=From 15 to 74 years; Y20T64=From 20 to 64 years; Y25T54=From 25 to 54 years; Y55T64=From 55 to 64 years; Y65T69=From 65 to 69 years
+# LABOUR_FORCE_STATUS: EMP=Employment; LF=Labour force; UNE=Unemployment
+REF_AREA	MEASURE	UNIT_MEASURE	SEX	AGE	LABOUR_FORCE_STATUS	periode	flagg	betydning

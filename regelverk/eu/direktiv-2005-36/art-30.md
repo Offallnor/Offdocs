@@ -1,0 +1,15 @@
+# Yrkeskvalifikasjonsdirektivet artikkel 30
+
+**Acquired rights specific to general practitioners**
+
+**Kilde:** Yrkeskvalifikasjonsdirektivet (Direktiv 2005/36), EUR-Lex 02005L0036-20251029, språk EN.
+
+Dette er EU-tekst, ikke norsk lov- eller forskriftstekst. Hvilken versjon som gjelder i Norge, avgjøres av EØS-avtalen og norsk gjennomføring: se `regelverk/eu/direktiv-2005-36/VEIVISER.md`.
+
+---
+
+1. Each Member State shall determine the acquired rights. It shall, however, confer as an acquired right the right to pursue the activities of a general practitioner in the framework of its national social security system, without the evidence of formal qualifications referred to in Annex V, point 5.1.4, on all doctors who enjoy this right as of the reference date stated in that point by virtue of provisions applicable to the medical profession giving access to the professional activities of doctor with basic training and who are established as of that date on its territory, having benefited from the provisions of Articles 21 or 23.
+
+The competent authorities of each Member State shall, on demand, issue a certificate stating the holder's right to pursue the activities of general practitioner in the framework of their national social security systems, without the evidence of formal qualifications referred to in Annex V, point 5.1.4, to doctors who enjoy acquired rights pursuant to the first subparagraph.
+
+2. Every Member State shall recognise the certificates referred to in paragraph 1, second subparagraph, awarded to nationals of Member States by the other Member States, and shall give such certificates the same effect on its territory as evidence of formal qualifications which it awards and which permit the pursuit of the activities of a general practitioner in the framework of its national social security system.

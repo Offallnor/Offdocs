@@ -1,0 +1,11 @@
+# § 31. Praksisopphold eller studietur i utlandet for søkere som omfattes av del 3 og som tar en utdanning som ikke er universitets- og høyskoleutdanning eller fagskoleutdanning
+
+**Kilde:** Forskrift om utdanningsstøtte § 31
+
+**1. ledd**
+
+En søker som omfattes av del 3 og som tar en utdanning som ikke er universitets- og høyskoleutdanning eller fagskoleutdanning, har rett til lån og stipend til praksisopphold eller studietur i utlandet dersom praksisoppholdet eller studieturen er en godkjent del av utdanningen som søkeren har begynt på i Norge. Praksisoppholdet eller studieturen kan vare i inntil 1 år, men kan ikke overstige halvparten av utdanningens samlede varighet.
+
+**2. ledd**
+
+Søkere som tar et praksisopphold eller en studietur i utlandet, har ikke rett til lån og stipend til dekning av skolepenger i utlandet eller til reiser. En søker som bor sammen med foreldrene under utdanningen i Norge, regnes som å bo sammen med foreldrene også under praksisoppholdet eller studieturen.

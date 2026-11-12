@@ -1,0 +1,202 @@
+kode	kategori
+P1111	1111 Politikere
+P1112	1112 Toppledere i offentlig administrasjon
+P1114	1114 Toppledere i interesseorganisasjoner
+P1120	1120 Administrerende direktører
+P12XX	1211-1223 Ledere av administrative enheter, salg og forskning
+P13XX	1311-1439 Ledere for vareproduksjon og tjenesteyting
+P2111	2111 Fysikere og astronomer
+P2112	2112 Meteorologer
+P2113	2113 Kjemikere
+P2114	2114 Geologer og geofysikere
+P2120	2120 Matematikere, statistikere mv.
+P2131	2131 Biologer, botanikere, zoologer mv.
+P2132	2132 Sivilagronomer mv.
+P213X	2133-2153 Sivilingeniører mv.
+P216X	2161-2166 Arkitekter mv.
+P221X	2211-2212 Leger
+P222X	2221-2224 Sykepleiere mv.
+P2250	2250 Veterinærer
+P2261	2261 Tannleger
+P2262	2262 Farmasøyter
+P2266	2266 Audiografer og logopeder
+P226X	2265 Ernæringsfysiologer
+P226Y	2264,2267,2269 Fysioterapeuter mv.
+P2310	2310 Universitets-og høyskolelektorer/-lærere
+P2320	2320 Yrkesfaglærere
+P2330	2330 Lektorer mv. (videregående skole)
+P2341	2341 Grunnskolelærere
+P2342	2342 Førskolelærere
+P2352	2352 Spesiallærere / spesialpedagoger
+P235X	2351,2353-59 Øvrige pedagogiske yrker
+P2411	2411 Revisorer, regnskapsrådgivere
+P241X	2412-2413 Øvrige finansrådgivere
+P2422	2422 Høyere saksbehandlere i offentlig og privat virksomhet
+P242X	2421,2423-24,2431-32 Øvrige administrasjonsrådgivere
+P261X	2611-2619 Advokater og dommere mv.
+P262X	2621-2622 Bibliotekarer, arkivarer mv.
+P2634	2634 Psykologer
+P2636	2636 Geistlige yrker
+P263X	2361-2633,2635 Samfunnsvitere
+P2643	2643 Oversettere, tolker mv.
+P264X	2641-42,2656 Forfattere, journalister mv.
+P265X	2651,2659 Designere, tegnere, malere mv.
+P265Y	2652-2653 Musikere, sangere, dansere mv.
+P265Z	2654-2655 Skuespillere, regissører
+P3118	3118 Tekniske tegnere
+P311X	3112-17,3119-39 Ingeniører mv.
+P3142	3142 Agroteknikere
+P3143	3143 Skogteknikere
+P3151	3151 Skipsmaskinister
+P3152	3152 Dekksoffiserer og loser
+P3153	3153 Flygere
+P315X	3154-3155 Flygeledere mv.
+P3211	3211 Radiografer mv.
+P3213	3213 Reseptarer
+P3214	3214 Protese-og tannteknikere
+P321X	3141,3212 Bioingeniører mv.
+P3230	3230 Yrker innen alternativ medisin
+P3240	3240 Dyrepleiere
+P3251	3251 Tannpleiere
+P3254	3254 Optikere
+P3256	3256 Helsesekretærer
+P325X	3257,2263 Helse- og miljøarbeidere
+P325Y	3258-3259 Ambulansepersonell og andre
+P3311	3311 Finansmeglere
+P3312	3312 Kundebehandlere lån og kreditt
+P3313	3313 Regnskapsførere
+P3315	3315 Takstmenn
+P3321	3321 Forsikringsagenter
+P3323	3323 Innkjøpere
+P3324	3324 Handels-og skipsmeglere
+P332X	2433-34,3322 Salgskonsulenter
+P3331	3331 Speditører og befraktere
+P3332	3332 Konferanse-og arrangementsplanleggere mv.
+P3333	3333 Arbeidsformidlere
+P3334	3334 Eiendomsmeglere og -forvaltere
+P3339	3339 Andre yrker innen forretningstjenester
+P334X	3341-3343 Sekretærer mv
+P3351	3351 Tollere
+P3355	3355 Politibetjenter mv.
+P335X	335 Yrker innen offentlig forvaltning
+P3412	3412 Miljøarbeidere innen sosiale fagfelt
+P3413	3413 Religiøse yrker
+P342X	3421-3423 Idrettsyrker
+P3431	3431 Fotografer og filmfotografer
+P343X	3432-3439 Yrker innen estetiske fag
+P351X	2511-29,3511-14 IKT-yrker
+P352X	3521-3522 Operatører lyd/bilde mv.
+P411X	4110,413,4312 Kontormedarbeidere mv.
+P4211	4211 Kundebehandlere, bank og postkontor
+P4212	4212 Bingoverter, bookmakere mv.
+P421X	4213-4214 Inkassomedarbeidere mv.
+P4221	4221 Reisebyråmedarbeidere mv.
+P4223	4223 Sentralbordoperatører
+P4227	4227 Intervjuere
+P422X	4222,4224-26,4229 Øvrige kundeservicemedarbeidere mv.
+P431X	4311,4313 Regnskapsmedarbeidere mv.
+P4321	4321 Lagermedarbeidere og material-forvaltere
+P4322	4322 Logistikkmedarbeidere
+P4323	4323 Transportfunksjonærer
+P4411	4411 Bibliotekassistenter
+P4412	4412 Postbud og postsorterere
+P441X	4413-4416 Andre arkiv- og personalassistenter
+P5113	5113 Reiseledere og guider
+P511X	5111-5112 Kabinpersonale, konduktører mv.
+P5120	5120 Kokker
+P513X	5131-5132 Servitører mv.
+P514X	5141-5142 Frisører mv.
+P5153	5153 Vaktmestre
+P515X	5151-5152 Renholdsledere
+P5163	5163 Begravelsesbyrå-og krematoriearbeidere
+P5164	5164 Dyrepassere og -trenere mv.
+P5165	5165 Kjøreskolelærere
+P516X	3411,5161,5169 Øvrige personlige tjenesteytere
+P5211	5211 Torghandlere
+P522X	5221-23,5245 Butikkmedarbeidere mv.
+P5230	5230 Billettselgere
+P5246	5246 Gatekjøkken- og kafémedarbeidere mv.
+P524X	5241-44,5249 Øvrige salgsmedarbeidere
+P531X	5311-5312 Barnehage- og skolefritidsassistenter mv.
+P532X	5321-5329 Helsefagarbeidere mv.
+P5411	5411 Brannkonstabler
+P5413	5413 Fengselsbetjenter
+P5414	5414 Vektere
+P5419	5419 Andre sikkerhetsarbeidere
+P611X	6111-30,7513-15 Bønder, avløsere, mv.
+P6210	6210 Skogbrukere
+P6221	6221 Havbruksarbeidere
+P622X	6222-6224 Fiskere og fangsfolk
+P7112	7112 Murere
+P7113	7113 Steinhoggere mv.
+P7115	7115 Tømrere og snekkere
+P711X	7114,7119 Øvrige bygningsarbeidere
+P7121	7121 Taktekkere
+P7124	7124 Isolatører mv.
+P7125	7125 Glassarbeidere
+P712X	7122-7123 Gulv- og flisleggere mv.
+P712Y	7126-7127 Rørleggere og VVS-montører mv
+P7133	7133 Feiere, fasaderenholdere mv.
+P713X	7131-7132 Malere og byggtapetserere mv.
+P7211	7211 Støpere
+P7212	7212 Sveisere
+P7213	7213 Kopper-og blikkenslagere
+P7214	7214 Platearbeidere
+P7215	7215 Riggere og spleisere
+P7221	7221 Smeder
+P722X	7222-7224 Verktøymakere mv.
+P7231	7231 Bilmekanikere
+P7232	7232 Mekanikere innen flytekniske fag
+P723X	7233-7334 Anleggsmaskin- og industrimekanikere mv.
+P7311	7311 Presisjonsinstrumentmakere og -reparatører
+P7312	7312 Musikkinstrumentmakere og -stemmere
+P7313	7313 Gull-og sølvsmeder, gravører mv.
+P731X	7314-7319 Øvrige kunsthåndverkere
+P732X	7321-7323 Grafiske arbeidere
+P7411	7411 Elektrikere
+P7412	7412 Automatikere
+P7413	7413 Energimontører
+P7421	7421 Serviceelektronikere
+P7422	7422 Tele-og IKT-installatører
+P7511	7511 Slaktere, fiskehandlere mv.
+P7512	7512 Bakere, konditorer mv.
+P7522	7522 Møbelsnekkere
+P7534	7534 Møbeltapetserere mv.
+P753X	7531-32,7535-36 Skreddere mv.
+P7541	7541 Yrkesdykkere
+P7542	7542 Skytebaser og sprengningsarbeidere
+P754X	7543-7549 Øvrige håndverkere
+P8113	8113 Operatører innen boring mv.
+P8114	8114 Operatører innen produksjon av betong mv.
+P811X	8111-8112 Bergfagarbeidere mv.
+P812X	8121-8122 Operatører metallproduksjon
+P8131	8131 Operatører innen kjemisk industri
+P813X	8132-8143 Operatører innen plastprodukter mv.
+P8157	8157 Renseri-og vaskerimaskinoperatører
+P815X	8151-56,8158-59 Industrisyere mv.
+P8160	8160 Operatører innen næringsmiddelproduksjon
+P8171	8171 Operatører innen treforedling
+P8172	8172 Operatører innen trelastproduksjon
+P8181	8181 Operatører innen glass-og keramisk produksjon
+P8183	8183 Pakke-, tappe-og etikettmaskinoperatører
+P818X	8182,8189 Øvrige stasjonære maskinoperatører
+P821X	8211-8219 Montører
+P8311	8311 Lokomotiv og T-baneførere
+P8312	8312 Skiftekonduktører mv
+P8322	8322 Bil-, drosje-og varebilførere
+P8331	8331 Bussjåfører og trikkeførere
+P8332	8332 Lastebil-og trailersjåfører
+P8343	8343 Kran-og heisførere mv.
+P8344	8344 Truckførere
+P834X	8341-8342 Anleggsmaskinførere mv.
+P8350	8350 Dekks-og maskinmannskap (skip)
+P911X	9111-9112 Renholdere
+P911Y	9122-9129 Vinduspussere,bilvaskere mv.
+P92XX	92 Hjelpearbeidere i jordbruk, skogbruk og fiske
+P931X	931 Hjelpearbeidere i bergverk, bygg og anlegg
+P932X	932 Hjelpearbeidere i industri
+P933X	933 Hjelpearbeidere innen transport og lager
+P9412	9412 Kjøkkenassistenter
+P951X	9621-29,9510 Øvrige hjelpearbeidere
+P961X	961 Renovasjons-og gjenvinningsarbeidere
+POXXX	0110-0310 Militære yrker

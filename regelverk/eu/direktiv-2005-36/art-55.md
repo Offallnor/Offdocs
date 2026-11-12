@@ -1,0 +1,11 @@
+# Yrkeskvalifikasjonsdirektivet artikkel 55
+
+**Approval by health insurance funds**
+
+**Kilde:** Yrkeskvalifikasjonsdirektivet (Direktiv 2005/36), EUR-Lex 02005L0036-20251029, språk EN.
+
+Dette er EU-tekst, ikke norsk lov- eller forskriftstekst. Hvilken versjon som gjelder i Norge, avgjøres av EØS-avtalen og norsk gjennomføring: se `regelverk/eu/direktiv-2005-36/VEIVISER.md`.
+
+---
+
+Without prejudice to Article 5(1) and Article 6, first subparagraph, point (b), Member States which require persons who acquired their professional qualifications in their territory to complete a preparatory period of in-service training and/or a period of professional experience in order to be approved by a health insurance fund, shall waive this obligation for the holders of evidence of professional qualifications of doctor and dental practitioner acquired in other Member States.

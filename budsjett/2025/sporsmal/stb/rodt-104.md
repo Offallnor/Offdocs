@@ -1,0 +1,32 @@
+# Spørsmål nr. 104 fra Rødt til STB 2025
+
+- **Parti:** Rødt
+- **Spørsmålsnr:** 104
+- **Dato på spørsmålet:** 07.10.2024
+- **Departement:** Kunnskapsdepartementet
+- **Tittel:** Svar på spørsmål 104 fra Finanskomiteen/Rødts fraksjon av 7.10.2024
+
+## Kostnad for flere ABLU-plasser
+
+Hva vil det koste å øke antallet studieplasser for arbeidsplassbasert barnehagelærerutdanning (ABLU) til a) 100 plasser per kull b) 150 plasser per kull c) 180 plasser per kull
+
+## Svar
+
+Spørsmålet er forelagt Kunnskapsdepartementet, som har gitt følgende svar:
+
+«Utdanningsdirektoratet finansierer i dag 100 studieplasser i arbeidsplassbasert barnehagelærerutdanning (ABLU), over kap. 231 post 21. Disse vil bli vurdert flyttet til rammebevilgningen til universiteter og høyskoler når dagens avtaler utløper. I tillegg til dette har Kunnskapsdepartementet i 2024 tildelt midler til 100 nye studieplasser fra høsten 2024, og i budsjettforslaget for 2025 foreslår regjeringen midler til ytterligere 165 studieplasser fra 2025. Midlene for de 265 studieplassene for perioden 2024-25 er i 2025 foreslått tildelt som del av rammebevilgningen til universiteter og høyskoler, over kap. 260 post 50 og 70. Kunnskapsdepartementet legger til grunn at ev. ytterligere midler til flere studieplasser i ABLU i 2025 også tildeles over kap. 260 og med samme forutsetninger som de nye studieplassene regjeringen har foreslått for 2025.
+
+Regjeringens budsjettforslag for 2025 innebærer altså en opptakskapasitet til ABLU på 365 studieplasser, noe som overstiger antallet det her bes om kostnadsvurdering av. I det følgende redegjøres derfor for kostnad per nye studieplass.
+
+De foreslåtte midlene til nye studieplasser i ABLU i 2025 omfatter 1) midler til institusjoner som kan flytte ledig kapasitet fra ordinær barnehagelærerutdanning til ABLU og 2) midler til institusjoner som øke den samlede kapasiteten i barnehagelærerutdanning gjennom å opprette nye studieplasser på ABLU. I alternativ 1) blir plassene tildelt med en sats på 50 000 kroner per år per plass i fire år (deltidsstudium over fire år). I alternativ 2) blir plassene tildelt med en sats på 100 000 kroner per plass i fire år. I begge alternativer blir midlene trappet opp over 4 år. Det gir følgende kostnad per studieplass per år:
+
+|  | 2025 | 2026 | 2027 | 2028 |
+|---|---|---|---|---|
+| Alternativ 1 | 50 000 | 100 000 | 150 000 | 200 000 |
+| Alternativ 2 | 100 000 | 200 000 | 300 000 | 400 000 |
+
+Institusjonene har meldt inn til Kunnskapsdepartementet hvor mange nye studieplasser de har mulighet for å opprette. Utover regjeringens budsjettforslag for 2025 er det basert på innmeldt kapasitet mulighet for følgende antall nye studieplasser:
+
+- Alternativ 1: 175 plasser
+
+- Alternativ 2: 130 plasser»

@@ -1,0 +1,25 @@
+# Kilde: Nav
+# Tabell: Alderspensjonister etter kjønn, alder og fylke, tidsserie (PST010)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-26
+# Ark: 3. Fylke
+gruppe	rad	Kilde: NAV		Alderspensjonister. Kjønn, fylke og alder. September 2016 - 2026
+gruppe	rad			2016	2017	2018	2019	2020	2021	2022	2023	2024	2025		2026
+Antall alderspensjonister fordelt på fylke	I alt			889043	912061	933432	953873	977084	997940	1014774	1035642	1056638	1079309		1105754
+Antall alderspensjonister fordelt på fylke	Østfold			51895	53330	54662	55863	57299	58515	59557	60724	61967	63317		64946
+Antall alderspensjonister fordelt på fylke	Akershus			98066	100815	103182	105590	108409	110680	112802	115235	117980	121037		124416
+Antall alderspensjonister fordelt på fylke	Oslo - Oslove			76918	78005	79395	80652	82041	82769	83731	84815	86525	88314		90386
+Antall alderspensjonister fordelt på fylke	Innlandet			75574	77217	78422	79592	81111	82425	83244	84657	85760	87040		88789
+Antall alderspensjonister fordelt på fylke	Buskerud			44634	45657	46638	47634	48586	49455	50163	51002	51803	52673		53665
+Antall alderspensjonister fordelt på fylke	Vestfold			43277	44477	45535	46625	48054	49315	50307	51528	52676	53969		55305
+Antall alderspensjonister fordelt på fylke	Telemark			32919	33690	34387	35119	35856	36550	37133	37790	38290	38840		39614
+Antall alderspensjonister fordelt på fylke	Agder			48210	49545	50762	52060	53428	54790	55852	57263	58336	59553		61118
+Antall alderspensjonister fordelt på fylke	Rogaland			64382	66544	68566	70514	72580	74292	75873	77616	79334	81477		83729
+Antall alderspensjonister fordelt på fylke	Vestland			100422	102841	105302	107833	110222	112352	114020	115954	118055	120333		123056
+Antall alderspensjonister fordelt på fylke	Møre og Romsdal			47283	48564	49721	50835	52141	53067	53906	54851	55758	56649		57765
+Antall alderspensjonister fordelt på fylke	Trøndelag - Trööndelage			75350	77080	78981	80658	82559	84275	85438	86996	88561	89980		91997
+Antall alderspensjonister fordelt på fylke	Nordland - Nordlánnda			45249	46243	47207	48035	48990	49769	50379	51200	51940	52549		53400
+Antall alderspensjonister fordelt på fylke	Troms - Romsa - Tromssa			27440	28279	29011	29598	30262	30789	31242	31846	32286	32772		33272
+Antall alderspensjonister fordelt på fylke	Finnmark - Finnmárku - Finmarkku			12345	12700	12969	13203	13424	13666	13625	13834	14109	14250		14568
+Antall alderspensjonister fordelt på fylke	Utland			43492	45458	47312	48755	50416	51774	53313	55662	59246	62546		65635
+Antall alderspensjonister fordelt på fylke	Ukjent			1587	1616	1380	1307	1706	3457	4189	4669	4012	4010		4093

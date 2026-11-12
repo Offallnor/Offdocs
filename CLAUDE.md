@@ -1,0 +1,231 @@
+# Regelverksbasen
+
+Dette repoet er en felles base med lover og forskrifter. Du (Claude) kommer hit fordi en bruker har stilt et spørsmål som kan kreve regelverk, og peker-skillen har sendt deg hit.
+
+## Slik henter du filer
+
+Alle stier i basen er relative til rotadressen:
+
+```
+https://raw.githubusercontent.com/Offallnor/offdocs/main/
+```
+
+Hent med `curl -sL <adresse>` i kodeverktøyet hvis du har det, ellers med nettleser- eller hentverktøyet ditt. Hent bare filene du trenger. Hvis hentingen feiler, si det til brukeren og svar ikke fra hukommelsen.
+
+## Slik finner du fram
+
+Repoet har sju deler. Skriveregler og nynorsk ligger under `sprak/` (start i `sprak/VEIVISER.md`). Lover, forskrifter, tariffavtaler og EU-rettsakter ligger under `regelverk/`, og resten av denne filen gjelder dem. Statsbudsjettet ligger under `budsjett/` (start i `budsjett/VEIVISER.md`), og en katalog over hvor tall og statistikk finnes ligger under `data/` (start i `data/VEIVISER.md`). Stortingets anmodningsvedtak, spørsmål, interpellasjoner og representantforslag ligger under `stortinget/` (start i `stortinget/VEIVISER.md`, og bruk søkeskriptet der). Dette gjelder også når du kjenner `data.stortinget.no`: eksporten viser ikke alltid alle statuser, så et direkte oppslag kan gi feil resultat uten at det synes. Politiske grunnlagsdokumenter, som Regjeringens plan for Norge, ligger under `politikk/` (start i `politikk/VEIVISER.md`). De er regjeringens prioriteringer, ikke lov eller vedtak. Si det i svaret. Statsministerens kontors retningslinjer «Om Kongen i statsråd» og «Om r-konferanser» ligger under `veiledere/` (start i `veiledere/VEIVISER.md`). De gjelder forberedelse og utforming av saker til statsråd og regjeringskonferanse, og er retningslinjer, ikke lov. Si det i svaret. Finansdepartementets *Veileder i statlig budsjettarbeid*, med bevilgningsreglementet og rundskriv R-110, ligger også under `veiledere/`.
+
+Basen har tre nivåer. Gå ikke dypere enn nødvendig.
+
+1. **Denne filen**: hvilke regelverk som finnes, og reglene for svar.
+2. **`regelverk/<regelverk>/VEIVISER.md`**: hva regelverket gjelder, kjente feller, hvilke merknader som finnes, og en liste over alle paragrafer med stien til filen.
+3. **Paragraffilene**: selve lov- og forskriftsteksten, én fil per paragraf.
+
+Noen regelverk har også `rundskriv/` (rundskriv, veiledere, kommentarer og uttalelser fra blant annet Nav, Arbeidstilsynet, Utdanningsdirektoratet, IMDi, Statens pensjonskasse, Lånekassen, NOKUT, HK-dir og Sivilombudet), `rettspraksis/` (Høyesteretts avgjørelser fra november 2021) og `merknader/` (hjelpetekst for bestemte temaer). Hvilke tolkningskilder som finnes for et regelverk, står under «Tolkningskilder i basen» øverst i veiviseren. Statens personalhåndbok ligger under `regelverk/statsansatteloven/rundskriv/personalhandboka/` og dekker også hovedtariffavtalen, ferie, permisjoner, reiser og pensjon i staten. Rundskriv er ikke lov- eller forskriftstekst. Si fra i svaret når du bygger på et rundskriv, og oppgi det med navn. Høyesteretts avgjørelser ligger under `rettspraksis/hoyesterett/` med en `oversikt.md` per lov. De er rettspraksis, ikke rundskriv. Bygg på teksten under «Avgjørelsen». Høyesteretts omtale øverst i filen er ikke en del av avgjørelsen. Merknadene er ikke en kilde, se regel 9.
+
+Basen har også to typer kilder som ikke er norsk lov eller forskrift, se tabellene under regelverkslisten:
+
+- **Tariffavtaler** (`regelverk/hovedtariffavtalen/`): avtaletekst. Si at svaret bygger på tariffavtalen.
+- **EU-rettsakter** (`regelverk/eu/`): EU-tekst fra EUR-Lex, oftest på engelsk. Veiviseren for hver rettsakt sier hvilken versjon som ligger i basen og om den er kontrollert mot EØS-avtalen. En EU-versjon kan inneholde endringer som ennå ikke gjelder i Norge. Si fra om det når det kan ha betydning, og oversett selv når du forklarer på norsk. Veiviserne til lovene lister hvilke EU-rettsakter lov- og forskriftsteksten viser til.
+
+Vedtatte lov- og forskriftsendringer som ikke er i kraft ennå, hentes fra Norsk Lovtidend ved hvert bygg. De står i veiviseren under «Vedtatte endringer som ikke er i kraft», som et varsel øverst i hver paragraffil som berøres, og med ny ordlyd i `regelverk/<regelverk>/vedtatte-endringer/`.
+
+Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks.tsv` har alle paragrafer i basen med sti, og kan brukes til å søke på tvers av regelverkene.
+
+## Regelverk i basen
+
+<!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
+| Regelverk | Veiviser | Sist endret i kraft |
+|---|---|---|
+| Offentleglova | `regelverk/offentleglova/VEIVISER.md` | 2026-07-01 |
+| AFP-loven for medlemmer av Statens pensjonskasse | `regelverk/afp-loven/VEIVISER.md` | 2026-01-01 |
+| Aldersgrenseloven for statsansatte | `regelverk/aldersgrenseloven/VEIVISER.md` | 2026-01-01 |
+| Allmenngjøringsloven | `regelverk/allmenngjoringsloven/VEIVISER.md` | 2025-07-01 |
+| Arbeidsmarkedsloven | `regelverk/arbeidsmarkedsloven/VEIVISER.md` | 2024-12-20 |
+| Arbeidsmiljøloven | `regelverk/arbeidsmiljoloven/VEIVISER.md` | 2026-07-01 |
+| Arbeidstvistloven | `regelverk/arbeidstvistloven/VEIVISER.md` | 2024-01-01 |
+| Arkivlova | `regelverk/arkivlova/VEIVISER.md` | 2026-01-01, Kongen fastset |
+| Diskrimineringsombudsloven | `regelverk/diskrimineringsombudsloven/VEIVISER.md` | 2026-01-01 |
+| Ferieloven | `regelverk/ferieloven/VEIVISER.md` | 2024-01-01 |
+| Folketrygdloven | `regelverk/folketrygdloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
+| Forvaltningsloven | `regelverk/forvaltningsloven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
+| Forvaltningsloven 2025 (ny lov, ikke i kraft) | `regelverk/forvaltningsloven-2025/VEIVISER.md` | Ikke i kraft (Kongen bestemmer) |
+| Integreringsloven | `regelverk/integreringsloven/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
+| Karanteneloven | `regelverk/karanteneloven/VEIVISER.md` | 2025-07-01 |
+| Likestillings- og diskrimineringsloven | `regelverk/likestillings-og-diskrimineringsloven/VEIVISER.md` | 2024-07-01 |
+| Lov om Statens pensjonskasse | `regelverk/spk-loven/VEIVISER.md` | 2026-01-01 · **vedtatte endringer venter** |
+| Lønnsgarantiloven | `regelverk/lonnsgarantiloven/VEIVISER.md` | 2026-01-01 |
+| NAV-loven | `regelverk/nav-loven/VEIVISER.md` | 2026-01-01 |
+| Opplæringslova | `regelverk/opplaeringslova/VEIVISER.md` | 2026-08-01 · **vedtatte endringer venter** |
+| Permitteringslønnsloven | `regelverk/permitteringslonnsloven/VEIVISER.md` | 2022-03-01 |
+| Personopplysningsloven | `regelverk/personopplysningsloven/VEIVISER.md` | 2022-01-01 |
+| Samordningsloven | `regelverk/samordningsloven/VEIVISER.md` | 2026-01-01 |
+| Sosialtjenesteloven | `regelverk/sosialtjenesteloven/VEIVISER.md` | 2026-01-01 |
+| Språklova | `regelverk/spraklova/VEIVISER.md` | 2025-07-01 |
+| Statsansatteloven | `regelverk/statsansatteloven/VEIVISER.md` | 2026-01-01 |
+| Statsborgerloven | `regelverk/statsborgerloven/VEIVISER.md` | 2024-12-20 |
+| Tjenestetvistloven | `regelverk/tjenestetvistloven/VEIVISER.md` | 2012-03-01 |
+| Tolkeloven | `regelverk/tolkeloven/VEIVISER.md` | 2022-06-15 |
+| Universitets- og høyskoleloven | `regelverk/universitets-og-hoyskoleloven/VEIVISER.md` | 2026-08-01 · **vedtatte endringer venter** |
+| Utlendingsloven | `regelverk/utlendingsloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
+| Utredningsinstruksen | `regelverk/utredningsinstruksen/VEIVISER.md` | 2024-11-01 |
+| Stortingets forretningsorden | `regelverk/stortingets-forretningsorden/VEIVISER.md` | 2025-10-01 |
+| Barnehageloven | `regelverk/barnehageloven/VEIVISER.md` | 2026-08-01 · **vedtatte endringer venter** |
+| Privatskolelova | `regelverk/privatskolelova/VEIVISER.md` | 2026-08-01 · **vedtatte endringer venter** |
+| Folkehøgskoleloven | `regelverk/folkehogskoleloven/VEIVISER.md` | 2026-06-19 |
+| Voksenopplæringsloven | `regelverk/voksenopplaeringsloven/VEIVISER.md` | 2021-01-01 |
+| Fagskoleloven | `regelverk/fagskoleloven/VEIVISER.md` | 2025-08-01 · **vedtatte endringer venter** |
+| Studentsamskipnadsloven | `regelverk/studentsamskipnadsloven/VEIVISER.md` | 2026-01-01 |
+| Forskningsetikkloven | `regelverk/forskningsetikkloven/VEIVISER.md` | 2024-08-01 |
+| Yrkeskvalifikasjonsloven | `regelverk/yrkeskvalifikasjonsloven/VEIVISER.md` | 2021-08-01 |
+| Utdanningsstøtteloven | `regelverk/utdanningsstotteloven/VEIVISER.md` | 2026-08-01 |
+<!-- AUTO-SLUTT -->
+
+## Tariffavtaler og EU-rettsakter i basen
+
+<!-- AUTO-START andre kilder: genereres av verktoy/bygg.py, ikke rediger for hånd -->
+**Tariffavtaler** (ikke lov eller forskrift)
+
+| Avtale | Veiviser | Periode |
+|---|---|---|
+| Hovedtariffavtalen i staten | `regelverk/hovedtariffavtalen/VEIVISER.md` | 1. mai 2026 – 30. april 2028 |
+
+**EU-rettsakter** (EU-tekst fra EUR-Lex, ikke norsk lov; se veiviseren om hvilken versjon som gjelder i EØS)
+
+| Rettsakt | Nummer | Veiviser | EØS-versjon |
+|---|---|---|---|
+| Trygdeforordningen | (EF) nr. 883/2004 | `regelverk/eu/forordning-883-2004/VEIVISER.md` | kontrollert |
+| Gjennomføringsforordningen til trygdeforordningen | (EF) nr. 987/2009 | `regelverk/eu/forordning-987-2009/VEIVISER.md` | kontrollert |
+| Forordningen om fri bevegelighet for arbeidstakere | (EU) nr. 492/2011 | `regelverk/eu/forordning-492-2011/VEIVISER.md` | ikke kontrollert |
+| Personvernforordningen (GDPR) | (EU) 2016/679 | `regelverk/eu/forordning-2016-679/VEIVISER.md` | kontrollert |
+| Rammedirektivet for helse, miljø og sikkerhet | 89/391/EØF | `regelverk/eu/direktiv-89-391/VEIVISER.md` | ikke kontrollert |
+| Utsendingsdirektivet | 96/71/EF | `regelverk/eu/direktiv-96-71/VEIVISER.md` | ikke kontrollert |
+| Deltidsdirektivet | 97/81/EF | `regelverk/eu/direktiv-97-81/VEIVISER.md` | ikke kontrollert |
+| Masseoppsigelsesdirektivet | 98/59/EF | `regelverk/eu/direktiv-98-59/VEIVISER.md` | ikke kontrollert |
+| Direktivet om midlertidig ansettelse | 1999/70/EF | `regelverk/eu/direktiv-1999-70/VEIVISER.md` | ikke kontrollert |
+| Direktivet om likebehandling uavhengig av rase eller etnisk opprinnelse | 2000/43/EF | `regelverk/eu/direktiv-2000-43/VEIVISER.md` | ikke kontrollert |
+| Rammedirektivet om likebehandling i arbeidslivet | 2000/78/EF | `regelverk/eu/direktiv-2000-78/VEIVISER.md` | ikke kontrollert |
+| Virksomhetsoverdragelsesdirektivet | 2001/23/EF | `regelverk/eu/direktiv-2001-23/VEIVISER.md` | ikke kontrollert |
+| Direktivet om informasjon og konsultasjon | 2002/14/EF | `regelverk/eu/direktiv-2002-14/VEIVISER.md` | ikke kontrollert |
+| Arbeidstidsdirektivet | 2003/88/EF | `regelverk/eu/direktiv-2003-88/VEIVISER.md` | ikke kontrollert |
+| Bevegelsesdirektivet (unionsborgerdirektivet) | 2004/38/EF | `regelverk/eu/direktiv-2004-38/VEIVISER.md` | ikke kontrollert |
+| Likebehandlingsdirektivet (kjønn i arbeidslivet) | 2006/54/EF | `regelverk/eu/direktiv-2006-54/VEIVISER.md` | ikke kontrollert |
+| Insolvensdirektivet (lønnsgaranti) | 2008/94/EF | `regelverk/eu/direktiv-2008-94/VEIVISER.md` | ikke kontrollert |
+| Vikarbyrådirektivet | 2008/104/EF | `regelverk/eu/direktiv-2008-104/VEIVISER.md` | ikke kontrollert |
+| Håndhevingsdirektivet til utsendingsdirektivet | 2014/67/EU | `regelverk/eu/direktiv-2014-67/VEIVISER.md` | ikke kontrollert |
+| Direktivet om tydelige og forutsigbare arbeidsvilkår | (EU) 2019/1152 | `regelverk/eu/direktiv-2019-1152/VEIVISER.md` | ikke kontrollert |
+| Direktivet om balanse mellom arbeid og privatliv | (EU) 2019/1158 | `regelverk/eu/direktiv-2019-1158/VEIVISER.md` | ikke kontrollert |
+| Yrkeskvalifikasjonsdirektivet | 2005/36/EF | `regelverk/eu/direktiv-2005-36/VEIVISER.md` | ikke kontrollert |
+<!-- AUTO-SLUTT andre kilder -->
+
+## Temaer i hverdagsspråk
+
+Brukere spør ofte uten fagord. Denne listen kobler vanlige formuleringer til riktig regelverk.
+
+| Brukeren spør om | Regelverk |
+|---|---|
+| innsyn, få se dokumenter, offentlig journal, unnta fra offentlighet, sladde, merinnsyn, pressen ber om et dokument, organinterne dokumenter, klage på avslag om innsyn | Offentleglova |
+| AFP i offentlig sektor, offentlig AFP, AFP i staten, gå av med AFP som statsansatt | AFP-loven for medlemmer av Statens pensjonskasse |
+| hvor lenge man kan jobbe i staten, må slutte ved en viss alder, gå av tidlig i yrker med lavere aldersgrense, særaldersgrense | Aldersgrenseloven for statsansatte |
+| minstelønn i en bransje, lovlig lønn for bygningsarbeidere eller renholdere, hva utenlandske arbeidstakere skal ha betalt, ansvar for lønn hos underleverandør, sjekke at innleide får riktig lønn, allmenngjort tariffavtale, Tariffnemnda, sosial dumping | Allmenngjøringsloven |
+| hva slags tiltak NAV kan tilby, komme i arbeid med hjelp fra NAV, tilrettelagt jobb ved nedsatt arbeidsevne, melde fra om oppsigelser, utestengt fra NAV-tiltak, drive bemanningsbyrå, penger mens man er på tiltak, reiseutgifter eller barnepass under tiltak | Arbeidsmarkedsloven |
+| sagt opp, oppsigelsestid, midlertidig ansatt eller vikariat, fast jobb, innleie, overtid, hvor mye man kan jobbe, nattarbeid, pauser, turnus, permisjon, sykt barn, varsling, mobbing, tilrettelegging, overvåking av ansatte, arbeidstaker eller oppdragstaker, Arbeidstilsynet | Arbeidsmiljøloven |
+| når man har lov til å streike, lønnsoppgjøret, mekling mellom partene, ulovlig streik, lockout, uenighet om en tariffavtale, fredsplikt, Riksmekleren, Arbeidsretten | Arbeidstvistloven |
+| hvor mange feriedager, når man kan ta ferie, sjefen bestemmer ferien, syk i ferien, overføre ferie, feriepenger, ferie når man slutter, ferie første året i ny jobb, feriepenger av sykepenger eller foreldrepenger, femte ferieuke | Ferieloven |
+| er jeg medlem av folketrygden, jobbe eller bo i utlandet og beholde trygderettigheter, hva grunnbeløpet er nå, G-regulering, trygdetid, pensjonspoeng, poeng for å være hjemme med barn | Folketrygdloven |
+| mistet jobben og trenger penger, dagpenger, permittert fra jobben, hvor lenge man kan få dagpenger, sagt opp selv og konsekvenser for stønad, meldekort, må søke jobber for å få støtte, arbeidsgiver gikk konkurs | Folketrygdloven |
+| sykmeldt, sykepenger, egenmelding, langtidssykmeldt, mister inntekt fordi man er syk, hjemme med sykt barn, pleiepenger, alvorlig eller kronisk sykt barn, permisjon for å følge opp et sykt barn, ekspertbistand ved langvarig eller hyppig sykefravær | Folketrygdloven |
+| arbeidsavklaringspenger, AAP, kommer ikke tilbake i jobb pga. sykdom eller skade, blir avklart for arbeid, deltar på tiltak fra NAV, utgifter til reise, flytting eller barnetilsyn under tiltak | Folketrygdloven |
+| uføretrygd, blir aldri frisk nok til å jobbe igjen, varig syk eller skadet, kan ikke jobbe lenger pga. helsen, permanent nedsatt arbeidsevne, barnetillegg til uføretrygd | Folketrygdloven |
+| skadet seg på jobb, yrkesskade, blitt syk av arbeidet, ulykke i arbeidstiden, erstatning for varig men, menerstatning, sykdom av kjemikalier eller støy på arbeidsplassen | Folketrygdloven |
+| foreldrepenger, permisjon med penger når man får barn, hvor lenge man kan være hjemme med baby, pappaperm, adoptere barn og få stønad, engangsstønad, gravid og kan ikke jobbe i jobben sin | Folketrygdloven |
+| alene med barn og trenger støtte, aleneforsørger og økonomi, overgangsstønad, må jobbe eller studere for å få stønad, samboer og hvordan det påvirker stønaden, utgifter til barnepass | Folketrygdloven |
+| ektefellen døde og økonomien, omstillingsstønad, støtte til begravelse, gravferdsstønad, barnepensjon til barn som har mistet forelder, samboer død og hvilke rettigheter man har, flytte kiste til hjemstedet | Folketrygdloven |
+| når man kan ta ut pensjon, alderspensjon fra folketrygden, ta ut pensjon og jobbe samtidig, hvor mye pensjon man får, tidlig pensjon fra 62, hvilke pensjonsregler som gjelder for min årgang | Folketrygdloven |
+| ekstrautgifter pga. sykdom eller funksjonsnedsettelse, grunnstønad, hjelpestønad, kronisk sykt barn som trenger mye tilsyn, diagnose (f.eks. Downs syndrom, diabetes, astma) og hva den utløser av støtte | Folketrygdloven |
+| hjelpemidler, trenger utstyr hjemme eller på jobb pga. funksjonsnedsettelse, høreapparat, trenger bil pga. bevegelseshemning, trenger tolk eller ledsager, servicehund, briller til barn | Folketrygdloven |
+| klage på vedtak fra NAV, anke til Trygderetten, hvor man klager videre, hvor lang tid NAV kan bruke, hva man plikter å opplyse om til NAV, NAV har fått feil opplysninger | Folketrygdloven |
+| NAV krever penger tilbake, fått for mye utbetalt, tilbakekreving, hvor langt tilbake NAV kan kreve, trekk i ytelsen, når pengene fra NAV kommer, arbeidsgivers plikt til å melde til Aa-registeret | Folketrygdloven |
+| introduksjonsprogram, introduksjonsstønad, nyankommet flyktning, penger mens man går i program, hva kommunen plikter å tilby flyktninger, fordrevne fra Ukraina, norskkurs, læreplan i norsk, språknivå A1–C1, norskprøve, samfunnskunnskap | Integreringsloven |
+| bedriften har gått konkurs, ikke fått lønn, få dekket lønn og feriepenger etter konkurs, hvor mye staten dekker når arbeidsgiver ikke kan betale, lønnsgarantiordningen, NAV Lønnsgaranti | Lønnsgarantiloven |
+| hvem bestemmer hva på NAV-kontoret, hva NAV har lov å dele av opplysninger, rett til å få vurdert behovet sitt hos NAV, uenighet mellom kommunen og staten om NAV-kontoret, plan som samordner tjenester fra flere instanser | NAV-loven |
+| blir permittert, hvem betaler lønn ved permittering, hvor lenge arbeidsgiver må betale, arbeidsgiverperiode, permitteringsvarsel, permitteringslønn, delvis permittering | Permitteringslønnsloven |
+| hvorfor blir tjenestepensjonen redusert, trekk i pensjonen fra staten når jeg får pensjon fra NAV, to offentlige pensjoner samtidig, pensjon fra flere offentlige arbeidsgivere, avkorting av pensjon ved uføretrygd eller etterlatteytelse | Samordningsloven |
+| har ikke penger til mat eller husleie, søke sosialhjelp, få NAV til å hjelpe med regninger, krav om å jobbe for å få sosialhjelp, akutt bostedsløs, program for å komme i jobb med fast stønad | Sosialtjenesteloven |
+| pensjon som statsansatt, pensjonen fra jobben i staten, pensjon fra tidligere statlig arbeidsgiver, statsansatt som blir ufør, pensjon fra staten når ektefellen dør, pensjon til barn etter statsansatt forelder, jobbe ved siden av uførepensjon fra staten | Lov om Statens pensjonskasse |
+| bli norsk statsborger, hvor lenge man må ha bodd i Norge, to statsborgerskap, om barn blir norske automatisk, miste statsborgerskap ved å bo i utlandet, straff og statsborgerskap, søke statsborgerskap for barn, statsborgerprøven | Statsborgerloven |
+| streik i staten, lønnsoppgjøret i staten, tariffavtaler for statsansatte, hovedsammenslutninger, Statens lønnsutvalg | Tjenestetvistloven |
+| når det offentlige må skaffe tolk, bruke familie eller barn som tolk, krav for å jobbe som tolk, klage på en tolk, tolk over skjerm eller telefon, kvalifisert tolk, Nasjonalt tolkeregister, statsautorisert tolk | Tolkeloven |
+| skolen, grunnskole, videregående skole, rett til videregående opplæring, lærling og lærekontrakt, fag- og svennebrev, skolemiljø og mobbing i skolen, tilpasset opplæring, spesialundervisning, skoleskyss, voksenopplæring, grunnskole eller videregående for voksne, realkompetansevurdering, privatist, godkjenning av utenlandsk fagbrev, skolemiljø og mobbing, individuelt tilrettelagt opplæring, SFO, eksamen og klage på karakter i skolen | Opplæringslova |
+| universitet og høyskole, studier, opptak til høyere utdanning, Samordna opptak, generell studiekompetanse, studiekompetanse med utenlandsk utdanning, godkjenning av utenlandsk høyere utdanning eller utdanning uten dokumentasjon, eksamen og klage på karakter, fusk, studentrettigheter, skolepenger for studenter utenfor EØS, NOKUT, ansettelse som professor eller stipendiat, godkjenning av utenlandsk høyere utdanning | Universitets- og høyskoleloven |
+| ansette noen fra land utenfor EU, flytte til Norge for å jobbe, arbeidstillatelse, registrere seg som EU-borger, jobbe i Norge som svenske eller danske, oppholdstillatelse, oppholdsrett, asyl, familiegjenforening, visum, utvisning | Utlendingsloven |
+| ansatt i staten, statsansatt, tilsetting i staten, kvalifikasjonsprinsippet, prøvetid i staten, oppsigelse eller avskjed i staten, suspensjon, ordensstraff, midlertidig ansettelse i staten, embetsmann, innstillingsråd, tilsettingsråd, fortrinnsrett i staten, ventelønn | Statsansatteloven |
+| karantene når man slutter i staten, saksforbud, gå fra staten til privat sektor, informasjonsplikt om ny jobb, Karantenenemnda | Karanteneloven |
+| enkeltvedtak, forhåndsvarsel, begrunnelse for vedtak, klagefrist, klage på vedtak fra forvaltningen, partsinnsyn, inhabilitet, habilitet, taushetsplikt i forvaltningen, veiledningsplikt, forskrift og høring av forskrift, omgjøring av vedtak | Forvaltningsloven |
+| ny forvaltningslov, når den nye forvaltningsloven trer i kraft, endringer i saksbehandlingsreglene | Forvaltningsloven 2025 (ny lov, ikke i kraft) |
+| journalføring, arkivplikt, arkivere e-post, bevare dokumenter, kassasjon, slette arkiv, arkivdanning, Arkivverket | Arkivlova |
+| utredning av tiltak, konsekvensutredning, utredningsinstruksen, seks spørsmål i utredningsinstruksen, samfunnsøkonomisk analyse, høringsfrist for statlige tiltak | Utredningsinstruksen |
+| frist for statsråden å svare på skriftlig spørsmål eller interpellasjon, spørretimen, representanters dokumentinnsyn, statsrådens uttalelse om representantforslag, komitébehandling, komitéhøring, saksordfører, innstilling, budsjettbehandlingen i Stortinget, avstemning i Stortinget, Stortingets regler for møter og debatter | Stortingets forretningsorden |
+| har Stortinget bedt regjeringen om noe, anmodningsvedtak, er det stilt spørsmål om et tema, skriftlig spørsmål, spørsmål eller interpellasjon til en statsråd (ikke budsjettspørsmål fra finanskomiteen, se `budsjett/VEIVISER.md`), representantforslag, hva skjedde med forslaget om X, har et parti foreslått noe, ble forslaget vedtatt eller nedstemt, har Stortinget vedtatt noe om skole, barnehage, høyere utdanning eller forskning, hvem fikk ordet i komitéhøringen, hva foreslo partiene i saken, spørsmål til kunnskapsministeren eller forsknings- og høyere utdanningsministeren, anmodningsvedtak på utdanningsområdet | Stortinget (`stortinget/VEIVISER.md`) |
+| hva regjeringen vil, regjeringens mål og prioriteringer, regjeringens plan for Norge, regjeringsplattform, hva regjeringen har lovet, satsinger i stortingsperioden, 150 000 flere i jobb, Ungdomsløftet | Regjeringens plan for Norge (`politikk/VEIVISER.md`) |
+| kongelig resolusjon, kgl.res., statsråd, forberedende statsråd, statsrådsliste, melde opp sak til statsråd, frist for oppmelding til statsråd, foredrag og tilråding, sanksjon av lov, ikraftsetting eller delt ikraftsetting av lov, delegering av Kongens myndighet, forskrift fastsatt av Kongen, utnevning eller beskikkelse i statsråd, oppnevning av utvalg ved kongelig resolusjon, settestatsråd, rette feil i kongelig resolusjon, Offisielt fra statsråd, tilrådingspost og stadfesting i proposisjon | Om Kongen i statsråd (`veiledere/VEIVISER.md`) |
+| r-konferanse, regjeringskonferanse, r-notat, regjeringsnotat, hva som må til regjeringen, foreleggelse for andre departementer, frist for foreleggelse, merknader fra andre statsråder, oppmelding til r-konferanse, felles regjeringsnotat, tilleggsnotat, Rødt hefte | Om r-konferanser (`veiledere/VEIVISER.md`) |
+| bevilgningsreglementet, budsjettprosessen i staten, budsjettkonferanse, rammebudsjettering, «kan overføres», overslagsbevilgning, merinntektsfullmakt, overskride en bevilgning, bestillingsfullmakt eller tilsagnsfullmakt, budsjettendringer i løpet av året, nysaldering, R-110, ettårsprinsippet, bruttoprinsippet, forvaltningsbedrift | Veileder i statlig budsjettarbeid (`veiledere/VEIVISER.md`) |
+| nynorsk og bokmål i staten, språkkrav i offentlige dokumenter, klarspråk, målbruk, 25 prosent nynorsk, språkform i svar til innbyggere | Språklova |
+| diskriminering, likestilling, forskjellsbehandling på grunn av kjønn, etnisitet, religion, funksjonsnedsettelse, seksuell orientering eller alder, trakassering, seksuell trakassering, aktivitetsplikt, universell utforming, lik lønn for arbeid av lik verdi | Likestillings- og diskrimineringsloven |
+| Likestillings- og diskrimineringsombudet, Diskrimineringsnemnda, klage på diskriminering, oppreisning fra nemnda | Diskrimineringsombudsloven |
+| personvern, personopplysninger, GDPR, behandlingsgrunnlag, innsyn i egne opplysninger, sletting, personvernombud, avvik og brudd på personopplysningssikkerheten, Datatilsynet, kameraovervåking | Personopplysningsloven og personvernforordningen (EU) |
+| hovedtariffavtalen, HTA, lønn i staten, lønnstrinn, lokale forhandlinger, overtid i staten, ubekvem arbeidstid, beredskapsvakt, reisetid, velferdspermisjon, permisjon med lønn, ferie i staten, femte ferieuke, fellesbestemmelsene, særavtaler | Hovedtariffavtalen i staten |
+| EU-direktiv, EU-forordning, EØS-regler, hva sier direktivet, arbeidstidsdirektivet, vikarbyrådirektivet, utsendingsdirektivet, trygdeforordningen, fri bevegelighet for arbeidstakere | EU-rettsakter (`regelverk/eu/`) |
+| bor eller jobber i et annet EØS-land og trygd, EØS-rundskrivet, R45, lovvalg i EØS, eksport av ytelser, sammenlegging av trygdetid, attest A1, EØS-pensjon, Navs EØS-rundskriv | Trygdeforordningen med Navs rundskriv R45-00 (`regelverk/eu/forordning-883-2004/VEIVISER.md`) |
+| barnehageplass, rett til plass, opptak i barnehage, foreldrebetaling, søskenmoderasjon, gratis kjernetid, bemanningsnorm, pedagognorm, rammeplan, tilskudd til private barnehager, godkjenning av barnehage, barnehagemiljø og mobbing i barnehagen, spesialpedagogisk hjelp før skolealder | Barnehageloven |
+| privatskole, friskole, godkjenning av friskole, statstilskudd til friskoler, skolepenger i friskole, Steinerskole, Montessori, internasjonal skole | Privatskolelova |
+| folkehøgskole, tilskudd til folkehøgskoler | Folkehøgskoleloven |
+| studieforbund, tilskudd til studieforbund, kurs for voksne utenfor skoleverket, nettskoler | Voksenopplæringsloven |
+| fagskole, høyere yrkesfaglig utdanning, akkreditering av fagskoleutdanning, studentrettigheter i fagskolen | Fagskoleloven |
+| studentsamskipnad, studentboliger, velferdstilbud for studenter, semesteravgift | Studentsamskipnadsloven |
+| forskningsetikk, uredelighet i forskning, fabrikkering, plagiat i forskning, granskingsutvalg, De nasjonale forskningsetiske komiteene | Forskningsetikkloven |
+| godkjenning av yrkeskvalifikasjoner fra et annet EØS-land, lovregulert yrke, utenlandsk lærer eller sykepleier som vil jobbe i Norge, europeisk yrkeskort, yrkeskvalifikasjonsdirektivet (2005/36/EF) | Yrkeskvalifikasjonsloven og yrkeskvalifikasjonsdirektivet (EU) |
+| studielån, stipend, Lånekassen, omgjøring av lån til stipend, tilbakebetaling, rentefritak, sletting av studielån, støtte til utenlandsstudier | Utdanningsstøtteloven |
+
+## Kjente regelverk som ikke er i basen
+
+Følgende er ikke dekket. Spørsmål om dem skal ikke besvares fra hukommelsen, se regel 4 under: barnetrygdloven, kontantstøtteloven, trygderettsloven, yrkesskadeforsikringsloven, straffeloven, domstolloven og skatteloven. Listen er ikke uttømmende. Er regelverket ikke i tabellen over, er det ikke i basen.
+
+## Regler for svar
+
+1. **Åpne alltid kildefilene før du svarer.** Svar ikke på regelverksspørsmål fra generell kunnskap. Les veiviseren og de paragrafene som er relevante, også unntak og henvisninger til andre paragrafer.
+2. **Oppgi kilde i svaret:** regelverk, paragraf og ledd, f.eks. «offentleglova § 14 første ledd». Brukeren skal kunne kontrollere svaret selv.
+3. **Skill mellom kildetypene.** Si om en regel står i lov, forskrift, instruks, tariffavtale, EU-rettsakt eller retningslinjer fra Statsministerens kontor, eller om den følger av en avgjørelse fra Høyesterett.
+4. **Når regelverket ikke er i basen.** Basen bygges ut gradvis.
+   - Finnes det en egen skill for regelverket, bruk den.
+   - Finnes det ingen, si tydelig at regelverket ikke er dekket. Nevn hvilket regelverk som trolig gjelder, og vis til Lovdata (lovdata.no). Ikke konkluder på spørsmålet.
+   - Er regelverket i basen, men paragrafene svarer ikke på spørsmålet, si det. Skriv «ingen bestemmelse funnet i det jeg har gått gjennom», ikke «finnes ikke». Gi aldri et selvsikkert svar uten kilde.
+5. **Ordrett gjengivelse når brukeren ber om lovteksten.** Gjengi filen i sin helhet, med ledd, bokstavpunkter og overskrifter slik de står. Lovtekst på nynorsk siteres på nynorsk. Ellers svarer du på brukerens språk.
+6. **Oppgi hvor oppdatert teksten er** når det kan ha betydning, med datoen for «sist endret i kraft» fra veiviseren.
+7. **Si fra om vedtatte endringer.** Har en paragraf du bygger på et varsel om vedtatt endring, eller viser veiviseren en vedtatt endring som berører spørsmålet, skal svaret si det: hva som endres, når endringen trer i kraft (eller at Kongen ikke har bestemt tidspunktet ennå), og at svaret bygger på teksten som gjelder i dag. Les den nye ordlyden i `vedtatte-endringer/` før du beskriver endringen.
+8. **Basen er ikke en offisiell tolkning.** Veiviserne og merknadene er hjelp til deg for å finne fram og unngå vanlige feil. Ved tvil om tolkning skal brukeren vises til forarbeider, veiledere og fagmiljøet som forvalter regelverket.
+9. **Snakk om kildene, ikke om basen.** Brukeren kjenner ikke oppbygningen av basen.
+   - Oppgi kilder med sitt eget navn: lov, forskrift og paragraf, «NAVs rundskriv til § 4-4 (R04-00)», «departementets kommentar til fellesbestemmelsene § 22 i Hovedtariffavtalen i staten», «Arbeidstilsynets kommentar til forskrift om utførelse av arbeid § 2-1», «Statens personalhåndbok punkt 10.1», «Utdanningsdirektoratets rundskriv om skyss, punkt 7.2», «Sivilombudets uttalelse 30.10.2026 (2026/749)», «Høyesteretts dom 25. september 2026 (HR-2026-2054-A) avsnitt 30». Vis til avsnittsnummeret i avgjørelsen, og lenk til avgjørelsen på domstol.no (`kilde:` øverst i filen). En kjennelse eller beslutning fra Høyesteretts ankeutvalg har mindre vekt enn en dom fra avdeling eller storkammer. Sivilombudets uttalelser er ikke bindende, men tillegges stor vekt i forvaltningen. Teksten fra Statens pensjonskasse er informasjon til medlemmene, ikke tolkning av loven. Rundskriv og departementets kommentarer er offisielle kilder og skal oppgis eksplisitt.
+   - Ordene veiviser, merknad, indeks, AUTO-blokk og filstier skal ikke stå i svaret.
+   - Merknadene er skrevet som hjelpetekst og er ikke godkjent av noe fagmiljø. De oppgis ikke som kilde. Står et poeng bare i en merknad, finn det i lov-, forskrifts- eller rundskrivteksten før du bruker det, eller si at det er din vurdering. En merknad som har eier og dato i toppen (`eier:`), er skrevet av et fagmiljø og kan oppgis med eier og dato.
+   - Kall basen «regelverksbasen» når dekningen betyr noe for svaret, for eksempel «Barnetrygdloven er ikke med i regelverksbasen jeg har tilgang til. Se lovdata.no.» eller «Forarbeider og avgjørelser fra lagmannsrettene er ikke med i regelverksbasen.» Ikke nevn regelverksbasen ellers.
+
+## For redaktører
+
+- Rundskriv legges i `regelverk/innboks/`, så legges de inn automatisk under riktig lov. Se `regelverk/innboks/README.md`. Navs rundskriv skal ikke legges i innboksen: de hentes hver uke fra Lovdata med `verktoy/rundskriv_hent.py` for alle lover i basen, og status står i `regelverk/nav-rundskriv.tsv`. Rundskriv som Lovdata har fjernet, slettes av samme jobb.
+- Arbeidstilsynets kommentarer til forskriftene i basen hentes hver uke fra arbeidstilsynet.no med `verktoy/arbeidstilsynet_hent.py` og går rett i main. Status står i `regelverk/arbeidstilsynet-kommentarer.tsv`. En forskrift kobles på navnet, så en ny forskrift i `regelverk.json` får kommentarene ved neste kjøring.
+- Statens personalhåndbok hentes hver uke fra Lovdata med `verktoy/personalhandbok_hent.py` og går rett i main. Lovdata oppgir ikke endringsdato, så endrede punkter finnes med sjekksum (`regelverk/personalhandboka.tsv`), og bare de skrives på nytt.
+- Rundskriv, veiledere og informasjonssider fra Utdanningsdirektoratet, IMDi, Statens pensjonskasse, Lånekassen, NOKUT og HK-dir hentes hver uke med `verktoy/nettsider_hent.py`, Sivilombudets uttalelser fra 2010 med `verktoy/sivilombudet_hent.py` og Høyesteretts avgjørelser fra 1. november 2021 med `verktoy/hoyesterett_hent.py`. Alle går rett i main, og status står i `regelverk/nettsider.tsv`, `regelverk/sivilombudet.tsv` og `regelverk/hoyesterett.tsv`. Hvilke sider som hentes, står under `nettsider` i `tolkningskilder.json`. Andre navn lovene omtales med (til Sivilombudet og Høyesterett) står under `andre_navn`, og Navs hovednummer under `nav_hovednummer`. En uttalelse fra Sivilombudet legges under loven den viser oftest til med paragraf, og de andre lovene står i `lover:` øverst i filen. Det samme gjelder Høyesteretts avgjørelser. Fra Høyesteretts omtale tas ikke parter og advokater med, og omtalen av en avgjørelse som er yngre enn tre måneder og ser ut til å inneholde personnavn, holdes tilbake til fristen er ute (Høyesterett fjerner slike navn innen tre måneder).
+- Merknader, EØS-tekster og rundskriv som ble flyttet fra de gamle skillene, redigeres for hånd. De oppdateres ikke automatisk, så oppgi dato når de hentes på nytt.
+- **Repoet er åpent for alle.** Skriv ikke departementsnavn eller «departementet» som avsender eller eier, verken i filer, commit-meldinger eller PR-tekster. Dokumentnavnet «Prop. 1 S for AID» og lovtekstens egen bruk av ordet er greit. Kontroller av andres forslag, svar som ikke er publisert og innhold fra interne dokumenter legges ikke her, selv om de bygger på offentlige fakta.
+- `verktoy/sjekk_tekst.py` kontrollerer håndskrevet tekst ved hver pull request og hver endring på main: at stiene finnes, at ingen tekst sier at et regelverk i basen «ikke er i basen», og at ingen tekst har departementsnavn som avsender. PR-tittel, PR-tekst og commit-meldinger sjekkes for avsendernavn med `--fritekst`. Funn på main gir en sak med etiketten `driftsvarsel`. Hva som er i basen, står bare i tabellene over og i «Tolkningskilder i basen» i hver veiviser, som lages fra mappene ved hvert bygg. Skriv det ikke i merknadene eller i den håndskrevne delen av veiviseren. En ny tolkningskilde i en egen mappe under `rundskriv/` (eller `rettspraksis/` for avgjørelser fra en domstol) får navnet sitt i `TOLKNINGSKILDER` i `verktoy/bygg.py`, ellers stopper `sjekk_tekst.py` den.
+- Størrelsen på repoet kontrolleres hver mandag (`repo-storrelse.yml`). Passerer repoet med historikk 500 MB, eller en fil på main 25 MB, gir det et driftsvarsel. GitHub anbefaler under 1 GB og avviser filer over 100 MB, så ikke legg PDF-er eller Word-filer i basen.
+- Budsjettdokumenter (Prop. 1 S, Gul bok, Nasjonalbudsjettet og datagrunnlaget) legges i `budsjett/innboks/` med filnavn etter mønsteret i `budsjett/innboks/README.md`, og legges da inn under `budsjett/<år>/`.
+- Hovedtariffavtalen legges inn ved å laste opp Word-filen fra regjeringen.no i `regelverk/innboks/` med filnavn som begynner på `hovedtariffavtale`. Gjør det ved hvert hovedoppgjør og mellomoppgjør. Word-filen slettes etter oppdelingen, og bygget åpner en sak i GitHub når det er tid for ny utgave.
+- EU-rettsakter legges til under `eu` i `regelverk.json` med en låst versjon. Feltet `eos` fylles bare ut når versjonen er kontrollert mot EØS-avtalen. `regelverk/eu/nevnte-rettsakter.md` viser hvilke rettsakter norsk tekst i basen viser til, men som ikke er lagt inn.
+- Lov- og forskriftstekst bygges fra Lovdata med `verktoy/bygg.py` og skal aldri redigeres for hånd. Blokker mellom `AUTO-START` og `AUTO-SLUTT` overskrives ved hvert bygg. Nattbygget legges rett i main når dekningskontrollen består og ingen regelverk mister mer enn fem paragraffiler (`verktoy/byggoppsummering.py`). Ellers kommer det som pull request med et driftsvarsel, og feil i bygget gir også et driftsvarsel. Får en lov som står som «ikke i kraft» i `regelverk.json`, dato for ikrafttredelse, lager nattbygget også et driftsvarsel (`verktoy/ikraft_sjekk.py`).
+- Nytt regelverk legges til i `regelverk.json`. Skriv deretter den håndskrevne delen av `VEIVISER.md`, og legg til en linje i temalisten over.
+- Hvert regelverk har et fagområde (`fagomrade` i `regelverk.json`), og hvert fagområde har én eier under `fagomrader`. `.github/CODEOWNERS` lages fra dette med `python3 verktoy/fagansvar.py --skriv` og redigeres ikke for hånd. Eieren må godkjenne pull requests som berører området, og får hver morgen en sak med etiketten `regelverksendring` for hvert regelverk som er endret på main siste døgn, også endringer som gikk rett inn (`varsle-fagansvar.yml`). En mappe inne i et regelverk kan få eget fagområde under `delmapper` i `regelverk.json`, slik Statens personalhåndbok har. Skriv brukernavn eller team med nøytralt navn, ikke personnavn.
+- Endringer gjøres som pull request og godkjennes av eieren av mappen, se `.github/CODEOWNERS`.

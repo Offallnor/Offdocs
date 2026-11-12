@@ -1,0 +1,15 @@
+# § 4-8. Godkjenning av tidlegare bestått opplæring
+
+**Kilde:** Forskrift til privatskolelova (privatskoleforskrifta) § 4-8
+
+**1. ledd**
+
+Elevar som tidlegare har bestått eit fag i Noreg eller i utlandet, kan søkje skolen om å få godkjent faget som bestått etter skolens læreplan. Søknaden skal godkjennast dersom faget er likeverdig med eller meir omfattande enn faget etter skolens læreplan.
+
+**2. ledd**
+
+Elevar som tidlegare har bestått eit skoleår i utlandet, kan søkje skolen om å få godkjent det som tilsvarande vidaregåande trinn 1 eller vidaregåande trinn 2. Søknaden skal godkjennast dersom skoleåret er likeverdig med eller meir omfattande enn skoleåret etter skolens læreplan. Skolen kan gi førehandsgodkjenning på vilkår før elevane dreg til utlandet. Det er ikkje eit krav at den utanlandske opplæringa skal innehalde alle faga i det aktuelle utdanningsprogrammet, men opplæringa må ha hovudvekt på fagkrinsen i det tilsvarande norske skoleåret.
+
+**3. ledd**
+
+Elevar må sjølve leggje fram nødvendig dokumentasjon når dei søkjer om godkjenning. Avgjerd etter første og andre ledd er eit enkeltvedtak. Statsforvaltaren er klageinstans.

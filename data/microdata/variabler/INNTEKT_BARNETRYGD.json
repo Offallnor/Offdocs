@@ -1,0 +1,113 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "INNTEKT_BARNETRYGD@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20088
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Long",
+  "label": "Barnetrygd",
+  "name": "INNTEKT_BARNETRYGD",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Barnetrygd omfatter ordinær barnetrygd, småbarnstillegg, ekstra barnetrygd til enslige forsørgere og småbarnstillegg for personer bosatt i Nord-Troms og Finnmark. \n \n Variabelen omfatter barnetrygd i løpet av kalenderåret. Barnetrygd er en skattefri trygdeytelse som utbetales månedlig. For 1998 ble beløpet beregnet på bakgrunn av opplysninger om antall barn, husholdningstype og bosted. Fra og med 1999 blir beløpet innhentet fra Rikstrygdeverket. Barnetrygden er registrert på den som står som mottaker av stønaden, i de fleste tilfeller barnets mor.",
+    "validPeriod": {
+     "start": 8401,
+     "stop": 20088
+    },
+    "valueDomain": {
+     "description": "Beløp.",
+     "unitOfMeasure": "NOK"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "INNTEKT_BARNETRYGD",
+ "populationDescription": "Variabelen omfatter bosatte per 31.12.ÅÅÅÅ. Observasjoner med verdiene 0 og uoppgitt (missing) er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Inntekt",
+  "Inntekt og forbruk"
+ ],
+ "temporalCoverage": {
+  "start": 8401,
+  "stop": 20088
+ },
+ "temporality": "ACCUMULATED",
+ "updatedAt": 1771925041,
+ "version": "59.0.0.0"
+}

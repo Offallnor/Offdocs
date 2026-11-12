@@ -1,0 +1,13 @@
+{
+  "nettsider": {
+    "bufdir": {
+      "base": "https://www.bufdir.no",
+      "utgiver": "Bufdir",
+      "navn": "Bufdirs veiledere",
+      "innhold": ["main article", "article", "main"],
+      "dokumenter": [{"dokument": "/fagstotte/eksempel-veileder/", "lov": "barnevernsloven"}]
+    }
+  },
+  "nav_hovednummer": {"30": "regelverk/nav-loven"},
+  "andre_navn": {"regelverk/barnevernsloven": ["barnevernloven", "bvl."]}
+}

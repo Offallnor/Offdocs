@@ -1,0 +1,129 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 18170,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 18170,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "NUDB_KURS_KONTRAKTSTYPE@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Kurs er en utdanningsaktivitet.",
+    "label": "Kurs",
+    "name": "KURS"
+   },
+   "label": "Kursidentifikator",
+   "name": "KURSID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for kurs i microdata",
+     "validPeriod": {
+      "start": 18170,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og NUDB kursnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Kontraktstype",
+  "name": "NUDB_KURS_KONTRAKTSTYPE",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser type kontrakt som beskriver kompetansemål og opplæringsløp hos lærlinger som går yrkesfagsløp i vgs. Startdato for variabelen er satt av NUDB-variabelen KONTRAKTSYPE_DATO.",
+    "validPeriod": {
+     "start": 0
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Fagbrev på jobb",
+       "code": "B"
+      },
+      {
+       "category": "Fagopplæring i skole",
+       "code": "E"
+      },
+      {
+       "category": "Lærekontrakt",
+       "code": "L"
+      },
+      {
+       "category": "Opplæringskontrakt",
+       "code": "O"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "NUDB_KURS_KONTRAKTSTYPE",
+ "populationDescription": "Variabelen er utfylt for personer som har inngått kontrakt som leder mot fagbrev, dette er altså en undergruppe av elevene som tar yrkesfag på vgs.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Utdanning",
+  "Utdanningsnivå"
+ ],
+ "temporalCoverage": {
+  "start": 18170,
+  "stop": 19967
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1760683763,
+ "version": "59.0.0.0"
+}

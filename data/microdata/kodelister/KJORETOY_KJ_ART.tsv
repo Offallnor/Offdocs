@@ -1,0 +1,37 @@
+kode	kategori
+00	Ukjent
+10	Egentransport
+11	Egentransport Diplomat
+12	Egentransport Forsvaret
+13	Egentransport Politiet
+14	Egentransport Nato
+15	Egentransport Kongehuset
+16	Egentransport Funksjonshemmet
+17	Kjøretøy som kun skal brukes på Svalbard
+18	Egentransport Den nordiske investeringsbanken
+19	Egentransport, annet enn angitt i 10-16
+20	Rutevogn
+21	Rutevogn persontransport registrert på løyvehaver
+22	Rutevogn persontransport registrert på andre enn løyvehaver
+23	Rutevogn kombinert transport registrert på løyvehaver
+24	Rutevogn kombinert transport registrert på andre enn løyvehaver
+25	Rutevogn demonstrasjonsbuss
+26	Reservebuss
+30	Drosje, Selskapsvogn
+31	Drosje registrert på løyvehaver
+32	Drosje registrert på andre enn løyvehaver
+33	Reserve- og Erstatningsdrosje
+34	Selskapsvogn
+40	Leievogn
+50	Utleievogn
+60	Lærevogn
+70	Hotellvogn
+71	Motorsport
+72	Utenfor offentligvei
+80	Turvogn
+81	Turvogn registrert på løyvehaver
+82	Turvogn registrert på andre enn løyvehaver
+90	Annen ervervsmessig kjøring
+91	Annen ervervsmessig kjøring Funksjonshemmede
+92	Annen ervervsmessig kjøring Likbil
+99	Annen ervervsmessig kjøring enn angitt i 91-92

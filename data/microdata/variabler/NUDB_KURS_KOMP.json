@@ -1,0 +1,133 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 9709,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 9709,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "NUDB_KURS_KOMP@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Kurs er en utdanningsaktivitet.",
+    "label": "Kurs",
+    "name": "KURS"
+   },
+   "label": "Kursidentifikator",
+   "name": "KURSID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for kurs i microdata",
+     "validPeriod": {
+      "start": 9709,
+      "stop": 19967
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert kombinasjon av personnummer og NUDB kursnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Kompetanse i videregående opplæring",
+  "name": "NUDB_KURS_KOMP",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Kompetansekoden gir oversikt over ulike typer av kompetanse fra videregående opplæring. I videregående opplæring skilles det mellom studieforberedende og yrkesfaglig opplæring. Den studieforberedende opplæringen legger mest vekt på teoretisk kunnskap og fører frem til studiekompetanse, mens den yrkesfaglige opplæringen fører frem til et yrke og gir yrkeskompetanse med vitnemål eller fag-/svennebrev. Gjelder 3. og eventuelt 4. år av videregående opplæring, fra og med Reform 94.",
+    "validPeriod": {
+     "start": 0
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Generell studiekompetanse",
+       "code": "1"
+      },
+      {
+       "category": "Yrkeskompetanse dokumentert med svennebrev eller fagbrev, læretid normalt etter to år i skole",
+       "code": "2"
+      },
+      {
+       "category": "Yrkeskompetanse dokumentert med vitnemål",
+       "code": "3"
+      },
+      {
+       "category": "Underveis til yrkeskompetanse, tredje år i skole før læretid",
+       "code": "4"
+      },
+      {
+       "category": "Yrkeskompetanse dokumentert med svennebrev eller fagbrev, læretid etter tre år i skole",
+       "code": "5"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "NUDB_KURS_KOMP",
+ "populationDescription": "Variabelen omfatter personer med en igangværende eller avsluttende registrering i videregående opplæring. Kompetansekoden er kun påført fra og med avslutta 1996/97 og igang 1997 og kun på utdanninger som omfattes av Reform94. Fra oktober 1999 har alle fra videregående utfylt komp, det vil også si at alle er kodet med utdanningskode fra Reform 94. Observasjoner med verdiene missing eller verdier utenfor kodelisten er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Utdanning",
+  "Utdanningsnivå"
+ ],
+ "temporalCoverage": {
+  "start": 9709,
+  "stop": 19967
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1760683763,
+ "version": "59.0.0.0"
+}

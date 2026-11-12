@@ -1,0 +1,40 @@
+# Kilde: Nav
+# Tabell: Mottakere av tilleggsstønader for arbeidssøkere, tidsserie måned (ARBS057)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
+# Lagt inn: 2026-11-09
+# Ark: Mottakergruppe og stønad. Antal
+# Mottakere av tilleggsstønader for arbeidssøkere. Tidsserie, måned
+gruppe	rad	Mottakergruppe og stønad. Antall						Rapport oppdatert: 02.11.2026
+gruppe	rad	I alt Arbeidssøker	Daglig reise arbeidssøkere	Flytting arbeidssøkere	Reisestønader til arbeidssøkere
+Januar - Oktober 2026	Oktober 2026	1982	1968	4	10
+Januar - Oktober 2026	September 2026	26	*	19	7
+Januar - Oktober 2026	August 2026	18	*	10	8
+Januar - Oktober 2026	Juli 2026	19	*	4	15
+Januar - Oktober 2026	Juni 2026	11	*	*	8
+Januar - Oktober 2026	Mai 2026	20	*	8	12
+Januar - Oktober 2026	April 2026	12	*	5	7
+Januar - Oktober 2026	Mars 2026	12	*	*	9
+Januar - Oktober 2026	Februar 2026	14	*	8	6
+Januar - Oktober 2026	Januar 2026	10	*	*	9
+gruppe	rad	I alt Mottaker av dagpenger	Daglig reise arbeidssøkere	Reisestønader til arbeidssøkere	Reise til obligatorisk samling arbeidssøkere	Reise ved start/slutt aktivitet og hjemreiser arbeidssøkere
+	Oktober 2026	35	34	*	*	*
+	September 2026	58	54	*	*	*
+	August 2026	79	72	*	4	*
+	Juli 2026	77	74	*	*	*
+	Juni 2026	227	220	*	6	*
+	Mai 2026	306	302	*	*	*
+	April 2026	366	363	*	*	*
+	Mars 2026	443	438	*	*	*
+	Februar 2026	488	484	*	4	*
+	Januar 2026	478	472	*	4	*
+gruppe	rad	I alt Mottaker av tiltakspenger	Daglig reise arbeidssøkere	Reisestønader til arbeidssøkere	Reise til obligatorisk samling arbeidssøkere	Reise ved start/slutt aktivitet og hjemreiser arbeidssøkere
+	Oktober 2026	223	218	*	4	*
+	September 2026	318	308	*	4	5
+	August 2026	361	347	*	11	*
+	Juli 2026	405	398	*	4	*
+	Juni 2026	995	994	*	*	*
+	Mai 2026	1427	1419	*	*	6
+	April 2026	1641	1632	*	4	5
+	Mars 2026	1942	1936	*	5	*
+	Februar 2026	2191	2184	*	4	*
+	Januar 2026	2106	2102	*	*	*

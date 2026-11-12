@@ -1,0 +1,123 @@
+kode	kategori
+01	Forberedende prøver
+02	Lavere nivås utdanning
+03	Andre ettårige studier, grunnutdanning
+04	Høgskolekandidat, toårig
+05	Ingeniørutdanning, toårig grunnutdanning
+05H	Høgskolekandidat, ingeniørfag, toårig
+06	Andre toårige studier, grunnutdanninger
+07	Høgskolekandidat, treårig
+08	Allmenn-/grunnskolelærer, fireårig
+08B	Bachelor, lærerutdanning
+09	Førskolelærer, grunnutdanning
+09B	Bachelor, førskole-/barnehagelærerutdanning
+10	Fag- og yrkesfaglærer, grunnutdanning
+10B	Bachelor, fag- og yrkesfaglærerutdanning
+11	Ingeniørutdanning, treårig grunnutdanning
+11B	Bachelor, ingeniørfag
+12	Sykepleieutdanning, grunnutdanning
+12B	Bachelor, sykepleieutdanning
+13	Helsefagutdanning, 3-4 år grunnutdanning, ikke sykepleier
+13B	Bachelor, helsefagutdanning, ikke sykepleier
+14	Høgskolekandidat, fireårig
+14B	Bachelor, fireårig
+15	Etatsutdanning
+16	Andre tre- og fireårige grunnutdanninger (ikke høgskolekandidat)
+17	Cand.mag.utdanning
+18	Videreutdanning i ledelse/organisasjon/administrasjon/økonomi
+19	Videreutdanning for ingeniører
+20	Videreutdanning for sykepleiere
+21	Videreutdanning for annet helsepersonell enn sykepleiere
+22	Annen videreutdanning, til og med to år
+23	Praktisk-pedagogisk utdanning (PPU)
+24	Siviløkonomutdanning, fireårig
+25B	Bachelor, allmenne fag
+26B	Bachelor, humanistiske og estetiske fag (ikke fireårig)
+27B	Bachelor, lærerutdanninger og utdanninger i pedagogikk, ikke allmenn-/grunnskole-, førskole-, fag- og yrkesfaglærer)
+28B	Bachelor, samfunnsfag og juridiske fag
+29B	Bachelor, økonomiske og administrative fag
+30B	Bachelor, naturvitenskapelige fag, håndverksfag og tekniske fag (ikke ingeniør)
+31	Høyere nivås utdanning
+32	Cand.philol.-utdanning
+33	Cand.polit.-utdanning
+34	Cand.scient/Cand.real. - utdanning
+35	Cand.jur. -utdanning
+35M	Master, rettsvitenskap
+36	Cand.med. -utdanning
+37	Cand.agric. -utdanning
+38	Cand.musicae. -utdanning
+39	Cand.theol. -utdanning
+40	Cand.san. -utdanning
+41	Cand.oecon. -utdanning
+42	Cand.psychol. -utdanning
+43	Cand.sociol. -utdanning
+44	Cand.sosion. -utdanning
+45	Cand.act. -utdanning
+45M	Master, aktuarfag
+46	Cand.techn. -utdanning
+47	Cand.pharm. -utdanning
+47M	Master, farmasi-utdanning
+48	Cand.med.vet. -utdanning
+49	Cand.merc. -utdanning
+50	Cand.odont. -utdanning
+50M	Master, odontologi-utdanning
+51	Cand.ed-/Cand.paed.-/Cand.paed.spec. -utdanning
+52	Hovedfagskandidat
+53	Magisterutdanning
+54	Siviløkonomutdanning, CEMS-master
+54M	Siviløkonom-/Master-utdanning
+55	Sivilingeniørutdanning
+55M	Master, teknologifag
+56	Master of Science
+56M	Master of Science
+57	Master of Philosophy
+57M	Master of Philosophy
+58	Master of Arts
+58M	Master of Arts
+59	Master of International Business
+59M	Master of International Business
+60	Master of Business Administration
+60M	Master of Business Administration
+61	Master of Management
+61M	Master of Management
+62	Master of Technology Management
+62M	Master of Technology Management
+63	Andre mastergradutdanninger
+63M	Andre mastergradutdanninger
+64	Master of Laws
+64M	Master of Laws
+65	Annen utdanning på nivå 7, ikke videreutdanning/påbygging
+66	Videreutdanning/påbygging, -inntil to år
+67	Spesialistutdanning for leger og tannleger
+68	Videreutdanning for sykepleiere på nivå 7
+69M	Master, ettårig, lavere nivå
+70	Ph.d.
+71M	Master, allmenne fag
+72M	Master, humanistiske og estetiske fag
+73M	Master, lærerutdanninger og utdanninger i pedagogikk
+74M	Master, samfunnsfag og juridiske fag (ikke rettsvitenskap)
+75M	Master, økonomiske og administrative fag (ikke siviløkonom)
+76M	Master, naturvitenskapelige fag, håndverksfag og tekniske fag (ikke sivilingeniør/master i teknologi)
+77M	Master, helse-, sosial- og idrettsfag (ikke farmasi og odontologi)
+78M	Master, primærnæringsfag
+79M	Master, samferdsels- og sikkerhetsfag og andre sevicefag
+80M	Master, uoppgitt fagfelt
+81	Dr. philos.
+82	Dr.polit.
+83	Dr.scient
+84	Dr.juris./Dr.legis
+85	Dr.med.
+86	Dr.theol
+87	Dr.techn.
+88	Dr.odont.
+89	Dr.med.vet.
+90	Dr.agric.
+91	Dr.oecon
+92	Dr.ing.
+93	Dr.art.
+94	Dr.psychol.
+95	Andre forskerutdanninger, lisensiater
+96B	Bachelor, helse-, sosial- og idrettsfag (ikke sykepleier og helsefag som inngår i UH-gruppe 13B)
+97B	Bachelor, primærnæringsfag
+98B	Bachelor, samferdsels- og sikkerhetsfag og andre sevicefag
+99B	Bachelor, uoppgitt fagfelt

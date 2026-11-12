@@ -1,0 +1,150 @@
+name: Bygg regelverk fra Lovdata og EUR-Lex
+
+on:
+  # Når byggeverktøyet eller listen over regelverk endres på en bygg/-gren,
+  # bygges lovteksten og legges inn på samme gren.
+  push:
+    branches: ["bygg/**"]
+    paths: ["verktoy/**", "regelverk.json", ".github/workflows/bygg-regelverk.yml"]
+  # Hver natt, og ved behov: bygg fra main og foreslå endringer som pull request.
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  bygg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: |
+          pip install beautifulsoup4==4.12.3 lxml==5.3.0
+
+      - name: Sjekk Lovdatas åpne datasett
+        run: curl -sS https://api.lovdata.no/v1/publicData/list | head -c 3000; echo
+
+      - name: Bygg fra Lovdatas åpne datasett og EUR-Lex
+        run: python3 verktoy/bygg.py
+
+      # Bare til loggen: forskrifter med hjemmel i lovene som ikke er tatt med.
+      - name: Forskrifter med hjemmel i lovene som ikke er med
+        if: github.event_name == 'push' && !cancelled()
+        continue-on-error: true
+        run: python3 verktoy/finn_forskrifter.py --kilde .lovdata --alle
+
+      # Tariffavtalene bygges av innboksen. Her åpnes bare en sak når det er tid for ny utgave.
+      - name: Varsle om ny utgave av tariffavtalene
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 verktoy/avtale.py --varsle
+
+      # Politiske grunnlagsdokumenter legges inn for hånd. Her åpnes bare en sak når ny utgave ventes.
+      - name: Varsle om ny utgave av politiske grunnlagsdokumenter
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 verktoy/politikk.py --varsle
+
+      # Legges inn også når dekningskontrollen feiler, så feilene kan undersøkes
+      # på grenen. Jobben er likevel rød, og grenen skal ikke flettes før den er grønn.
+      - name: Legg inn på grenen
+        if: github.event_name == 'push' && !cancelled()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Ingen endringer i lovteksten."
+          else
+            git commit -q -m "Bygg lovtekst fra Lovdata"
+            git push
+          fi
+
+      - name: Oppsummer endringene
+        id: oppsummer
+        if: github.event_name != 'push'
+        run: |
+          git add -A
+          python3 verktoy/byggoppsummering.py --ut "$RUNNER_TEMP/endringer.md"
+          { echo "Automatisk bygget fra Lovdatas åpne datasett (NLOD 2.0)."; echo; cat "$RUNNER_TEMP/endringer.md"; } > "$RUNNER_TEMP/oppsummering.md"
+          cat "$RUNNER_TEMP/oppsummering.md" >> "$GITHUB_STEP_SUMMARY"
+          git reset -q
+
+      # Bygget har allerede bestått dekningskontrollen (ellers stopper jobben før dette).
+      # Mister ingen regelverk mange paragraffiler, legges endringen rett i main.
+      - name: Legg rett i main
+        if: >-
+          github.event_name != 'push' && github.ref_name == 'main'
+          && steps.oppsummer.outputs.endret == 'true' && steps.oppsummer.outputs.trygg == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -F - <<'MELDING'
+          Oppdater lovtekst fra Lovdata
+
+          Automatisk bygget fra Lovdatas åpne datasett (NLOD 2.0).
+          MELDING
+          for i in 1 2 3; do
+            git push origin "HEAD:main" && exit 0
+            git pull --rebase -q origin main
+          done
+          exit 1
+
+      # Store slettinger skyldes oftere feil i datasettet eller bygget enn at en lov er opphevet.
+      - name: Foreslå oppdatering som pull request
+        id: pr
+        if: >-
+          github.event_name != 'push' && steps.oppsummer.outputs.endret == 'true'
+          && (steps.oppsummer.outputs.trygg != 'true' || github.ref_name != 'main')
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          branch: bygg/lovdata-oppdatering
+          commit-message: "Oppdater lovtekst fra Lovdata"
+          title: "Oppdatert lovtekst fra Lovdata"
+          body-path: ${{ runner.temp }}/oppsummering.md
+          delete-branch: true
+
+      - name: Varsle om stor endring
+        if: steps.pr.outcome == 'success' && github.ref_name == 'main'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Lovdata-bygget: stor endring venter"
+          tekst: "nattbygget fjerner mange paragrafer i minst ett regelverk og er lagt fram som pull request i stedet for å gå rett i main. Se gjennom før fletting, eller be Claude se på det."
+          fil: ${{ runner.temp }}/oppsummering.md
+
+      # En ny lov som står som «ikke i kraft» i regelverk.json, har fått ikrafttredelse.
+      - name: Se etter lover som er satt i kraft
+        id: ikraft
+        if: github.event_name != 'push' && github.ref_name == 'main'
+        run: |
+          python3 verktoy/ikraft_sjekk.py --ut "$RUNNER_TEMP/ikraft.md"
+          if [ -s "$RUNNER_TEMP/ikraft.md" ]; then echo "funn=true" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Varsle om lov satt i kraft
+        if: steps.ikraft.outputs.funn == 'true'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Ny lov er satt i kraft"
+          tekst: "en lov som står som «ikke i kraft» i regelverk.json, har fått dato for ikrafttredelse. Endre navnet i regelverk.json, temalisten i CLAUDE.md og veiviserne, og merk eller flytt kilder som gjelder den gamle loven, som Sivilombudets uttalelser om forvaltningsloven (se paragrafnøkkelen). Be Claude om hjelp."
+          fil: ${{ runner.temp }}/ikraft.md
+
+      - name: Varsle om feil
+        if: failure() && github.event_name != 'push' && github.ref_name == 'main'
+        uses: ./.github/actions/driftsvarsel
+        with:
+          tittel: "Lovdata-bygget: feil"
+          tekst: "nattbygget fra Lovdata feilet, f.eks. i dekningskontrollen. Ingenting er lagt inn. Se kjøringen, eller be Claude se på det."

@@ -1,0 +1,233 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 12784,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 12784,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "BEFOLKNING_REGSTAT_HUSHTYP@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 12784,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Husholdningstype detaljert inndeling",
+  "name": "BEFOLKNING_REGSTAT_HUSHTYP",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser en detaljert inndeling av husholdningstyper for privathusholdninger etter Standard for gruppering av familier og husholdninger (NOS C 677) og standard for husholdningstyper av 2006.",
+    "validPeriod": {
+     "start": 12784
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Aleneboende under 30 år",
+       "code": "1.1.1"
+      },
+      {
+       "category": "Aleneboende 30-44 år",
+       "code": "1.1.2"
+      },
+      {
+       "category": "Aleneboende 45-66 år",
+       "code": "1.1.3"
+      },
+      {
+       "category": "Aleneboende 67 år og over",
+       "code": "1.1.4"
+      },
+      {
+       "category": "Par uten barn, eldste person under 30 år",
+       "code": "1.2.1"
+      },
+      {
+       "category": "Par uten barn, eldste person 30-44 år",
+       "code": "1.2.2"
+      },
+      {
+       "category": "Par uten barn, eldste person 45-66 år",
+       "code": "1.2.3"
+      },
+      {
+       "category": "Par uten barn, eldste person 67 år og over",
+       "code": "1.2.4"
+      },
+      {
+       "category": "Gifte par med små barn (yngste barn 0-5 år)",
+       "code": "1.3.1"
+      },
+      {
+       "category": "Samboerpar med små barn (yngste barn 0-5 år)",
+       "code": "1.3.2"
+      },
+      {
+       "category": "Gifte par med store barn (yngste barn 6-17 år)",
+       "code": "1.4.1"
+      },
+      {
+       "category": "Samboerpar med store barn (yngste barn 6-17 år))",
+       "code": "1.4.2"
+      },
+      {
+       "category": "Mor med små barn (yngste barn 0-5 år)",
+       "code": "1.5.1"
+      },
+      {
+       "category": "Far med små barn (yngste barn 0-5 år)",
+       "code": "1.5.2"
+      },
+      {
+       "category": "Mor med store barn (yngste barn 6-17 år)",
+       "code": "1.6.1"
+      },
+      {
+       "category": "Far med store barn (yngste barn 6-17 år)",
+       "code": "1.6.2"
+      },
+      {
+       "category": "Gifte par med voksne barn (yngste barn 18 år og over)",
+       "code": "1.7.1"
+      },
+      {
+       "category": "Samboerpar med voksne barn (yngste barn 18 år og over)",
+       "code": "1.7.2"
+      },
+      {
+       "category": "Mor med voksne barn (yngste barn 18 år og over)",
+       "code": "1.7.3"
+      },
+      {
+       "category": "Far med voksne barn (yngste barn 18 år og over)",
+       "code": "1.7.4"
+      },
+      {
+       "category": "Husholdninger med to eller flere enpersonfamilier",
+       "code": "2.1.1"
+      },
+      {
+       "category": "Andre flerfamiliehusholdninger uten barn 0-17 år",
+       "code": "2.1.2"
+      },
+      {
+       "category": "Flerfamiliehusholdninger med små barn (yngste barn under 0-5 år)",
+       "code": "2.2.0"
+      },
+      {
+       "category": "Flerfamiliehusholdninger med store barn (yngste barn 6-17 år)",
+       "code": "2.3.0"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "BEFOLKNING_REGSTAT_HUSHTYP",
+ "populationDescription": "Variabelen omfatter bosatte per 1.1.ÅÅÅÅ, avgrenset til privathusholdninger.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Husholdning",
+  "Befolkning",
+  "Barn, Familie og husholdninger"
+ ],
+ "temporalCoverage": {
+  "start": 12784,
+  "stop": 20089
+ },
+ "temporalStatusDates": [
+  12784,
+  13149,
+  13514,
+  13879,
+  14245,
+  14610,
+  14975,
+  15340,
+  15706,
+  16071,
+  16436,
+  16801,
+  17167,
+  17532,
+  17897,
+  18262,
+  18628,
+  18993,
+  19358,
+  19723,
+  20089
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1760683763,
+ "version": "59.0.0.0"
+}

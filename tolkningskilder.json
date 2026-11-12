@@ -1,0 +1,313 @@
+{
+  "andre_navn": {
+    "regelverk/spk-loven": [
+      "pensjonskasseloven",
+      "lov om statens pensjonskasse"
+    ],
+    "regelverk/nav-loven": [
+      "nav-loven",
+      "arbeids- og velferdsforvaltningsloven"
+    ],
+    "regelverk/likestillings-og-diskrimineringsloven": [
+      "likestillings- og diskrimineringsloven"
+    ],
+    "regelverk/universitets-og-hoyskoleloven": [
+      "universitets- og høyskoleloven",
+      "universitets- og høgskolelova",
+      "uhl.",
+      "uh-loven"
+    ],
+    "regelverk/folketrygdloven": [
+      "folketrygdloven",
+      "ftrl."
+    ],
+    "regelverk/forvaltningsloven": [
+      "forvaltningsloven",
+      "fvl."
+    ],
+    "regelverk/offentleglova": [
+      "offentleglova",
+      "offl."
+    ],
+    "regelverk/opplaeringslova": [
+      "opplæringslova",
+      "opplæringsloven",
+      "oppll."
+    ],
+    "regelverk/utlendingsloven": [
+      "utlendingsloven",
+      "utl."
+    ],
+    "regelverk/statsansatteloven": [
+      "statsansatteloven"
+    ],
+    "regelverk/arbeidsmiljoloven": [
+      "arbeidsmiljøloven",
+      "aml."
+    ],
+    "regelverk/barnehageloven": [
+      "barnehagelova",
+      "bhgl."
+    ],
+    "regelverk/privatskolelova": [
+      "privatskoleloven",
+      "friskolelova",
+      "friskoleloven",
+      "friskolel."
+    ],
+    "regelverk/folkehogskoleloven": [
+      "folkehøgskolelova",
+      "folkehøyskoleloven"
+    ],
+    "regelverk/voksenopplaeringsloven": [
+      "vaksenopplæringslova"
+    ],
+    "regelverk/fagskoleloven": [
+      "fagskolelova"
+    ],
+    "regelverk/studentsamskipnadsloven": [
+      "studentsamskipnadslova"
+    ],
+    "regelverk/forskningsetikkloven": [
+      "forskingsetikklova"
+    ],
+    "regelverk/yrkeskvalifikasjonsloven": [
+      "yrkeskvalifikasjonslova"
+    ],
+    "regelverk/utdanningsstotteloven": [
+      "utdanningsstøttelova"
+    ]
+  },
+  "nav_hovednummer": {
+    "1": "regelverk/folketrygdloven",
+    "2": "regelverk/folketrygdloven",
+    "3": "regelverk/folketrygdloven",
+    "4": "regelverk/folketrygdloven",
+    "5": "regelverk/folketrygdloven",
+    "6": "regelverk/folketrygdloven",
+    "7": "regelverk/folketrygdloven",
+    "8": "regelverk/folketrygdloven",
+    "9": "regelverk/folketrygdloven",
+    "10": "regelverk/folketrygdloven",
+    "11": "regelverk/folketrygdloven",
+    "12": "regelverk/folketrygdloven",
+    "13": "regelverk/folketrygdloven",
+    "14": "regelverk/folketrygdloven",
+    "15": "regelverk/folketrygdloven",
+    "16": "regelverk/folketrygdloven",
+    "17": "regelverk/folketrygdloven",
+    "18": "regelverk/folketrygdloven",
+    "19": "regelverk/folketrygdloven",
+    "20": "regelverk/folketrygdloven",
+    "21": "regelverk/folketrygdloven",
+    "22": "regelverk/folketrygdloven",
+    "23": "regelverk/folketrygdloven",
+    "24": "regelverk/folketrygdloven",
+    "25": "regelverk/folketrygdloven",
+    "26": "regelverk/folketrygdloven",
+    "30": "regelverk/nav-loven",
+    "36": "regelverk/forvaltningsloven",
+    "37": "regelverk/permitteringslonnsloven",
+    "62": "regelverk/afp-loven",
+    "67": "regelverk/lonnsgarantiloven",
+    "76": "regelverk/arbeidsmarkedsloven",
+    "80": "regelverk/samordningsloven",
+    "83": "regelverk/personopplysningsloven"
+  },
+  "nettsider": {
+    "udir": {
+      "base": "https://www.udir.no",
+      "utgiver": "Utdanningsdirektoratet",
+      "navn": "Udirs rundskriv og veiledere",
+      "innhold": [
+        "main article",
+        "article",
+        "main"
+      ],
+      "dokumenter": [
+        {
+          "under": "/regelverk-og-tilsyn/skole-og-opplaring/",
+          "lov": "opplaeringslova"
+        },
+        {
+          "under": "/regelverk-og-tilsyn/barnehage/",
+          "lov": "barnehageloven"
+        }
+      ]
+    },
+    "imdi": {
+      "base": "https://www.imdi.no",
+      "utgiver": "IMDi",
+      "navn": "IMDis veiledere",
+      "innhold": [
+        "div.report-read-content",
+        "main article",
+        "article",
+        "main"
+      ],
+      "dokumenter": [
+        {
+          "dokument": "/regelverk/integreringsloven/veileder-til-integreringsloven/",
+          "lov": "integreringsloven"
+        },
+        {
+          "dokument": "/regelverk/integreringsloven/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a2/",
+          "lov": "integreringsloven"
+        },
+        {
+          "dokument": "/regelverk/regler-for-planlegging-og-gjennomforing-av-introduksjonsprogrammet/",
+          "lov": "integreringsloven"
+        },
+        {
+          "dokument": "/regelverk/regelverk-kvalifisering/",
+          "lov": "integreringsloven"
+        },
+        {
+          "dokument": "/regelverk/tolkeloven/",
+          "lov": "tolkeloven"
+        }
+      ],
+      "utelat": "lenker-til-lovdata"
+    },
+    "spk": {
+      "base": "https://www.spk.no",
+      "utgiver": "Statens pensjonskasse",
+      "navn": "Informasjon fra Statens pensjonskasse",
+      "innhold": [
+        "main article",
+        "article",
+        "main"
+      ],
+      "dokumenter": [
+        {
+          "dokument": "/alderspensjon/",
+          "lov": "spk-loven"
+        },
+        {
+          "dokument": "/uforepensjon/",
+          "lov": "spk-loven"
+        },
+        {
+          "dokument": "/etterlattepensjon/",
+          "lov": "spk-loven"
+        },
+        {
+          "dokument": "/medlemskap-i-spk/",
+          "lov": "spk-loven"
+        },
+        {
+          "dokument": "/tidligere-medlem/",
+          "lov": "spk-loven"
+        },
+        {
+          "dokument": "/yrkesskadeforsikring/",
+          "lov": "spk-loven"
+        },
+        {
+          "dokument": "/avtalefestet-pensjon-afp/",
+          "lov": "afp-loven"
+        }
+      ],
+      "utelat": "pensjonskalkulator|/nyheter/|/aktuelt"
+    },
+    "lanekassen": {
+      "base": "https://lanekassen.no",
+      "utgiver": "Lånekassen",
+      "navn": "Informasjon fra Lånekassen",
+      "innhold": [
+        "main article",
+        "article",
+        "main"
+      ],
+      "lenker": true,
+      "maks_sider": 400,
+      "dokumenter": [
+        {
+          "dokument": "/nb-NO/stipend-og-lan/",
+          "lov": "utdanningsstotteloven"
+        },
+        {
+          "dokument": "/nb-NO/gjeld-og-betaling/",
+          "lov": "utdanningsstotteloven"
+        }
+      ],
+      "utelat": "/soknad/|/dinesider|/du/"
+    },
+    "nokut": {
+      "base": "https://www.nokut.no",
+      "utgiver": "NOKUT",
+      "navn": "NOKUTs veiledning",
+      "innhold": [
+        "main article",
+        "article",
+        "main"
+      ],
+      "dokumenter": [
+        {
+          "under": "/fagskule--hogare-yrkesfagleg-utdanning/regelverk-for-fagskoler/",
+          "lov": "fagskoleloven"
+        },
+        {
+          "dokument": "/fagskule--hogare-yrkesfagleg-utdanning/veileder-om-krav-til-institusjonsakkreditering-for-fagskoler/",
+          "lov": "fagskoleloven"
+        },
+        {
+          "dokument": "/fagskule--hogare-yrkesfagleg-utdanning/veiledning-for-krav-til-kvalitetssystem-og-kvalitetsarbeid/",
+          "lov": "fagskoleloven"
+        },
+        {
+          "dokument": "/hogare-utdanning/klagerett/",
+          "lov": "universitets-og-hoyskoleloven"
+        },
+        {
+          "dokument": "/hogare-utdanning/endringer-i-studier-akkreditert-av-nokut--vanlige-sporsmal/",
+          "lov": "universitets-og-hoyskoleloven"
+        },
+        {
+          "dokument": "/hogare-utdanning/akkreditering--hogare-utdanning/",
+          "lov": "universitets-og-hoyskoleloven"
+        },
+        {
+          "dokument": "/utdanningskvalitet/nokut-akkrediterer-og-forer-tilsyn/tilsyn-med-det-systematiske-kvalitetsarbeidet--hoyere-utdanning/om-forskriften/",
+          "lov": "universitets-og-hoyskoleloven"
+        },
+        {
+          "pdf_fra": "/hogare-utdanning/rettleiingar-og-skjema/",
+          "monster": "^/siteassets/.*veileder-[^/]*\\.pdf$",
+          "lov": "universitets-og-hoyskoleloven"
+        }
+      ]
+    },
+    "hkdir": {
+      "base": "https://hkdir.no",
+      "utgiver": "HK-dir",
+      "navn": "Informasjon fra HK-dir",
+      "innhold": [
+        "main article",
+        "article",
+        "main"
+      ],
+      "lenker": true,
+      "maks_sider": 300,
+      "dokumenter": [
+        {
+          "dokument": "/hoyere-utdanning-og-forskning/forskrifter-og-klagebehandling/",
+          "lov": "universitets-og-hoyskoleloven"
+        },
+        {
+          "dokument": "/hoyere-utdanning-og-forskning/opptak-og-kandidatvurdering/",
+          "lov": "universitets-og-hoyskoleloven"
+        },
+        {
+          "dokument": "/utdanning-fra-utlandet/jeg-har-utdanning-fra-utlandet/",
+          "lov": "universitets-og-hoyskoleloven"
+        },
+        {
+          "dokument": "/utdanning-fra-utlandet/jeg-vil-jobbe-i-et-regulert-yrke-i-norge-eller-utlandet/",
+          "lov": "yrkeskvalifikasjonsloven"
+        }
+      ],
+      "utelat": "\\?|/aktuelt|/arrangementer"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-11-09
+# Ark: Tiltak og fødeland innvandrere
+# TILT130 Tiltaksdeltakere på opplæring. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og fødeland innvandrere									Rapport oppdatert: 02.11.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober
+Januar 2026 - Oktober 2026	I alt amo enkeltplass	2784	2709	2960	3105	3275	3317	2024	1444	2499	3155	3351
+Januar 2026 - Oktober 2026	Afrika	330	289	331	372	396	414	238	154	306	382	414
+Januar 2026 - Oktober 2026	Asia	545	506	579	605	644	663	354	252	498	648	698
+Januar 2026 - Oktober 2026	Europa	1810	1823	1949	2017	2124	2124	1366	988	1597	2001	2113
+Januar 2026 - Oktober 2026	Nord-Amerika, SørAmerika og Oceania	89	84	95	99	102	107	63	49	83	101	110
+Januar 2026 - Oktober 2026	Ukjent	10	7	6	12	9	9	*	*	15	23	16
+	I alt amo enkeltplass, forsøk	*	*	*	*	*	*	*	*	*	*	*
+	Asia	*	*	*	*	*	*	*	*	*	*	*
+	Europa	*	*	*	*	*	*	*	*	*	*	*
+	I alt amo kurs	4315	3919	4154	4351	4476	4357	3523	3011	4394	5396	5565
+	Afrika	474	469	460	445	484	454	387	318	490	594	637
+	Asia	935	859	875	908	971	927	789	691	936	1176	1221
+	Europa	2755	2466	2687	2846	2863	2822	2217	1886	2805	3439	3523
+	Nord-Amerika, SørAmerika og Oceania	129	110	115	128	133	132	114	99	137	156	162
+	Ukjent	22	15	17	24	25	22	16	17	26	31	22
+	I alt høyere utdanning	4798	5058	5086	5098	5069	5019	4191	3344	4692	5150	5272
+	Afrika	199	202	204	204	203	199	180	141	200	224	233
+	Asia	411	429	430	435	434	426	356	270	403	454	476
+	Europa	4005	4237	4260	4264	4237	4199	3495	2804	3907	4277	4365
+	Nord-Amerika, SørAmerika og Oceania	182	189	191	194	194	194	159	128	180	193	197
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt høyere utdanning, forsøk	14	19	19	19	19	17	13	8	9	6	6
+	Europa	14	19	19	19	19	17	13	8	9	6	6
+	I alt opplæringstiltak av lengre varighet, forsøk	53	50	50	67	68	68	52	52	55	37	35
+	Afrika	18	17	17	22	22	22	18	18	20	14	13
+	Asia	31	29	29	40	41	41	30	30	31	20	19
+	Europa	*	*	*	*	*	*	*	*	*	*	*
+	Nord-Amerika, SørAmerika og Oceania	*	*	*	*	*	*	*	*	*	*	*
+	I alt vgs/yrkesfaglig utdanning	671	757	773	747	747	759	403	286	643	800	793
+	Afrika	115	117	129	124	129	130	83	66	96	143	136
+	Asia	131	152	154	141	141	142	91	69	110	156	152
+	Europa	400	457	459	451	448	457	218	145	413	474	479
+	Nord-Amerika, SørAmerika og Oceania	25	31	31	31	29	30	11	6	24	27	26
+	I alt vgs/yrkesfaglig utdanning enkeltplass	3898	4296	4363	4410	4405	4358	3116	2408	3316	4051	4255
+	Afrika	408	444	453	473	498	486	296	221	312	429	469
+	Asia	597	672	686	696	696	693	459	316	468	611	668
+	Europa	2743	3028	3062	3070	3039	3013	2234	1775	2411	2854	2946
+	Nord-Amerika, SørAmerika og Oceania	148	152	161	170	168	162	124	93	122	154	170
+	Ukjent	*	*	*	*	4	4	*	*	*	*	*
+	I alt vgs/yrkesfaglig utdanning enkeltplass, forsøk	15	27	23	21	20	18	12	8	7	6	5
+	Europa	14	25	21	19	18	16	10	8	7	6	5
+	Nord-Amerika, SørAmerika og Oceania	*	*	*	*	*	*	*	*	*	*	*

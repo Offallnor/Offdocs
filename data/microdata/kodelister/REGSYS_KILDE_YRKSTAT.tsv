@@ -1,0 +1,19 @@
+kode	kategori
+0	Ikke registrert i kilderegistrene
+1	Koblet lønnstakerforhold, AA-registeret koblet med LTO
+2	Ukoblet arbeidstakerforhold, kun registrert i AA-registeret
+3	Helt ledig (annen definisjon enn i statistikken over arbeidsledige, se dokumentasjonen)
+3A	Ukoblet lønnsforhold med tilleggsinformasjon fra PAI
+3B	Ukoblet lønnsforhold med tilleggsinformasjon fra SST
+3C	Ukoblet lønnsforhold med tilleggsinformasjon fra STS
+3D	Ukoblet lønnsforhold med tilleggsinformasjon fra Lønnsstatistikken for privat sektor
+3E	Ukoblet lønnsforhold med tilleggsinformasjon fra Sykefraværsregisteret
+3F	Ukoblet lønnsforhold med tilleggsinformasjon fra Helseforetak
+4	Selvangivelsesregisteret med næringsinntekt i primærnæringene
+5	Selvangivelsesregisteret med næringsinntekt fra andre næringer
+6	Vernepliktsregisteret / Siviltjenesteregisteret
+6A	Vernepliktsregisteret
+6B	Siviltjenesteregisteret
+7	SOFA-søker-registeret
+8	Ikkebosatte
+9	Selvstendig fra fastlegeregisteret

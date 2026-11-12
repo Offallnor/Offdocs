@@ -1,0 +1,43 @@
+kode	kategori
+01	Fotgjenger
+02	Akende
+03	Skiløper
+04	Rulleski, -skøyter, -brett
+05	Spark
+10	Sykkel
+12	Hest m/rytter
+13	Hest m/vogn
+21	Moped
+22	Lett motorsykkel
+23	Tung motorsykkel
+24	Motorsykkel m/sidevogn
+25	Snøscooter, beltemotorsykkel (620)
+26	Rullestol
+27	ATV (åpen 3- eller 4 hjuls MC, moped eller traktor)
+28	El-bil
+29	Lukket 3- eller 4 hjuls MC eller moped eller traktor
+31	Personbil, stasjonsvogn
+32	Drosje, også minibuss
+33	Buss/minibuss i rute
+34	Minibuss
+35	Annen buss, turvogn
+36	Annen aktuell syketrsp.
+45	Personbil/stasjonsvogn med campingvogn
+46	Varebil med campingvogn
+47	Tankbil
+48	Campingbil
+51	Personbil/stasjonsvogn med tilhenger (unntatt campingvogn)
+52	Varebil med tilhenger
+53	Lastebil med påhengsvogn 1-akslet
+54	Lastebil med slepevogn 2-akslet
+55	Lastebil med tilhengerredskap
+56	Kombinertbil med tilhenger
+57	Trekkbil med semitrailer
+58	Tankbil med tilhenger
+59	Beltebil. annen bil
+61	Traktor (ordinær)
+71	Tilhengerredskap u/trekkvogn
+81	Jernbanetog
+82	Sporvogn
+88	Annet kjøretøy inkl el-sparkesykkel
+99	Ukjent kjøretøy

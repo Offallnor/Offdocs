@@ -1,0 +1,7 @@
+# § 9-2. Spisskompetanse i skolar som er godkjende for å drive særskilt tilrettelagd vidaregåande opplæring i kombinasjon med toppidrett
+
+**Kilde:** Forskrift til privatskolelova (privatskoleforskrifta) § 9-2
+
+**1. ledd**
+
+I skolar som er godkjende for å drive særskilt tilrettelagd vidaregåande opplæring i kombinasjon med toppidrett, skal dei som er tilsett i lærarstilling, ha spisskompetanse i dei idrettane skolen er godkjend for å tilby. Kravet gjeld berre for dei som skal undervise i dei aktuelle idrettane.

@@ -1,0 +1,26 @@
+# Kilde: Nav
+# Tabell: Alderspensjonister etter bosted (Norge/utlandet) (PST012)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-10-26
+# Ark: 3. Bosatt utland. Land
+# Alderspensjonister som er bosatt i utlandet. September 2016 - 2026
+# Antall bosatt i utlandet. Oppholdsland
+gruppe	rad			2016	2017	2018	2019	2020	2021	2022	2023	2024	2025	2026
+Verdensdel	I alt			43492	45458	47312	48755	50416	51774	53313	55662	59246	62546	65635
+Verdensdel	Afrika			257	276	280	291	291	302	307	312	321	333	346
+Verdensdel	Asia			1271	1359	1441	1498	1558	1568	1629	1676	1821	1923	2048
+Verdensdel	Europa			34177	36274	38142	39654	41423	42907	44673	47293	50675	54008	57080
+Verdensdel	Nord-Amerika			6804	6546	6419	6259	6083	5924	5622	5305	5314	5177	5036
+Verdensdel	Oceania			674	678	685	674	678	676	672	656	661	642	645
+Verdensdel	Sør-Amerika			309	325	345	379	383	397	410	420	454	463	480
+Verdensdel	Ukjent			*	*	*	*	*	*	*	*	*	*	*
+10 største land	Sverige			16135	16909	17582	18145	18820	19473	20197	21341	22483	23552	24530
+10 største land	Danmark			5297	5672	5904	6015	6247	6320	6395	6679	6963	7331	7624
+10 største land	Polen			311	414	597	804	1024	1304	1657	2136	2773	3507	4169
+10 største land	U S A			5462	5209	5114	4962	4826	4688	4439	4162	4194	4088	3987
+10 største land	Storbritannia			2280	2450	2619	2750	2925	3019	3122	3196	3331	3473	3655
+10 største land	Finland			1619	1813	2013	2124	2254	2381	2517	2689	2915	3125	3268
+10 største land	Tyskland			1759	1897	2010	2096	2200	2274	2379	2499	2695	2846	3001
+10 største land	Spania			2436	2461	2416	2358	2270	2187	2147	2141	2190	2212	2209
+10 største land	Nederland			762	816	847	869	900	916	953	955	1020	1064	1117
+10 største land	Frankrike			686	717	750	798	836	854	870	894	947	977	1026

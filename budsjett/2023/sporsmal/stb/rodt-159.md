@@ -1,0 +1,21 @@
+# Spørsmål nr. 159 fra Rødt til STB 2023
+
+- **Parti:** Rødt
+- **Spørsmålsnr:** 159
+- **Dato på spørsmålet:** 06.10.2022
+- **Departement:** Kunnskapsdepartementet
+- **Tittel:** Svar på spørsmål 159 fra Finanskomiteen/Rødts fraksjon av 6.10.2022
+
+## Utvidelse av tilskuddsordningen for veiledning i lærerutdanningene til BHG og VGO
+
+Hva vil provenyeffekten være av å utvide den eksisterende tilskuddordningen til veiledning i lærerutdanningene til også å omfatte lærere i barnehage og i videregående?
+
+## Svar
+
+Spørsmålet er forelagt Kunnskapsdepartementet, som har gitt følgende svar:
+
+« Ettersom tilskuddsordningen er budsjettstyrt, kan alle som inkluderes i retningslinjene i prinsippet få tilskudd. Men satsen per lærer bli lavere dess flere det skal gis tilskudd for. Vi anslår at det er om lag 1 900 nyutdannede nytilsatte lærere i barnehage, 2 800 i grunnskole og 1 000 i videregående skole ett år etter endt utdanning.
+
+Dersom den foreslåtte bevilgningen for 2023 på 63,6 mill. kroner over kap. 226, post 61 skal fordeles på alle nyutdannede lærere i sitt første år som tilsatt i barnehage, grunnskole og videregående opplæring, vil det utgjøre en sats på om lag 11 000 kroner per lærer. Anslaget legger til grunn at det søkes for alle. Dersom en skal inkludere også de som er ansatt i sitt andre år, slik retningslinjene er i 2022, vil satsen anslagsvis halveres.
+
+Den endelige satsen det enkelte år er avhengig av antall kvalifiserte søkere, og dermed hvilke lærergrupper som inkluderes, og samlet budsjettramme på posten. Kunnskapsdepartementet understreker at det er usikkerhet knyttet til anslagene »

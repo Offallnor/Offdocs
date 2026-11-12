@@ -1,0 +1,12 @@
+kode	kategori
+-1	Ugyldig kode
+-2	Uoppgitt kode
+sfu med lonn	SFU, med lønn i a-melding
+a-melding t	a-meldingen t
+a-melding t og sfu	a-melding i t og finnes i SFU
+a-melding t-1	a-melding t-1 og lønn i a-melding t
+a-melding t-1 og sfu	a-melding i t-1 og lønn i a-melding t og finnes i SFU
+fiktivt	fiktivt, kun lønn i a-melding
+sfu uten lonn	SFU, uten lønn i a-melding
+stat-enhet t-1	basis statistikkenhet imputert fra t-1
+vernepl	Vernepliktsregisteret

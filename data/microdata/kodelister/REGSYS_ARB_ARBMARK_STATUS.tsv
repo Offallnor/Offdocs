@@ -1,0 +1,7 @@
+kode	kategori
+0	Utenfor arbeidsstyrken (kun årlig)
+1	Lønnstaker
+2	Selvstendig (kun årlig)
+3	Helt ledig (annen definisjon enn i statistikken over arbeidsledige, se dokumentasjonen)
+4	Ikke-lønnstaker (kun mnd/kvartal)
+9	Ikke-relevante lønnstakerforhold (holdes utenfor syss statistikk)

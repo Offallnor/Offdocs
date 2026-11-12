@@ -1,0 +1,118 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20453
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20453
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "BARNEVERN_OMSORG@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 8401,
+      "stop": 20453
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Omsorgstiltak i løpet av året",
+  "name": "BARNEVERN_OMSORG",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Variabelen viser omsorgstiltak innenfor kommunalt barnevern. Omsorgstiltak er etter lov om barneverntjenester grunngitt i § 4-12, eller § 4-8, 2. og 3. ledd. Alle vedtak om å overta omsorgen for barnet og plassere det til oppfostring bort fra hjemmet skal avgjøres i fylkesnemnda. Omsorgstiltak er tiltak hjemlet som nevnt over som for eksempel beredskapshjem, fosterhjem eller barnevernsinstitusjon. Når barnet er under omsorg registreres alle tiltak barnet mottar, som omsorgstiltak.",
+    "validPeriod": {
+     "start": 8401
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Mottok hjelpe- eller omsorgstiltak i løpet av året/per 31.12.",
+       "code": "1"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "BARNEVERN_OMSORG",
+ "populationDescription": "Variabelen omfatter barn og unge i alderen 0 - 24 år (før 2021: 0 – 22 år) som har mottatt hjelpe- eller omsorgstiltak innenfor kommunalt barnevern i løpet av kalenderåret, inkludert mottakere per 31.12. \n \n Observasjoner med uoppgitt fnr er utelatt.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Sosiale forhold og kriminalitet",
+  "Barnevern",
+  "Barne- og familievern"
+ ],
+ "temporalCoverage": {
+  "start": 8401,
+  "stop": 20453
+ },
+ "temporality": "ACCUMULATED",
+ "updatedAt": 1788166684,
+ "version": "59.0.0.0"
+}

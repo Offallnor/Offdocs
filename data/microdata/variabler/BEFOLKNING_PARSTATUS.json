@@ -1,0 +1,195 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 12784,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 12784,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "BEFOLKNING_PARSTATUS@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 12784,
+      "stop": 20089
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Parstatus i familien",
+  "name": "BEFOLKNING_PARSTATUS",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Personer bosatt i privathusholdninger er klassifisert etter om de inngår i et par eller ikke og eventuelt type par (gift, registrert partner, samboer av motsatt/samme kjønn). Barn, som per definisjon ikke inngår i et par, er klassifisert etter om de tilhører en familie med et par eller ikke eventuelt og type par.\n Opplysninger om samboere av samme kjønn finnes bare i FoB2001 og ikke i den årlige husholdningsstatistikken.",
+    "validPeriod": {
+     "start": 12784,
+     "stop": 16070
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Ikke i familie med par (enslig/barn i familie med enslig)",
+       "code": "0"
+      },
+      {
+       "category": "Ektefelle ulikekjønnet par",
+       "code": "1"
+      },
+      {
+       "category": "Ektefelle likekjønnet par/registrert partner",
+       "code": "2"
+      },
+      {
+       "category": "Samboer med felles barn",
+       "code": "3"
+      },
+      {
+       "category": "Samboer uten felles barn, motsatt kjønn - uendret siden forrige årgang/(FOB2001)",
+       "code": "5"
+      },
+      {
+       "category": "Samboer uten felles barn, motsatt kjønn - ny siden forrige årgang - samme flyttedato",
+       "code": "6"
+      },
+      {
+       "category": "Samboer uten felles barn, motsatt kjønn - ny siden forrige årgang - ulik flyttedato",
+       "code": "7"
+      },
+      {
+       "category": "Barn i familie med par",
+       "code": "8"
+      }
+     ],
+     "missingValues": []
+    }
+   },
+   {
+    "description": "Personer bosatt i privathusholdninger er klassifisert etter om de inngår i et par eller ikke og eventuelt type par (gift, registrert partner, samboer av motsatt/samme kjønn). Barn, som per definisjon ikke inngår i et par, er klassifisert etter om de tilhører en familie med et par eller ikke eventuelt og type par.\n Opplysninger om samboere av samme kjønn finnes bare i FoB2001 og ikke i den årlige husholdningsstatistikken.",
+    "validPeriod": {
+     "start": 16071
+    },
+    "valueDomain": {
+     "delta": {
+      "insert": {
+       "8": {
+        "category": "Imputerte par av unge enslige",
+        "code": "u"
+       },
+       "9": {
+        "category": "Imputerte par på adresser med tre eller flere husholdninger som kobler til samme bolig",
+        "code": "p"
+       }
+      },
+      "remove": [],
+      "reorder": [],
+      "replace": {}
+     },
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "BEFOLKNING_PARSTATUS",
+ "populationDescription": "Variabelen omfatter bosatte per 1.1.ÅÅÅÅ, avgrenset til privathusholdninger.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Husholdning",
+  "Befolkning",
+  "Familie",
+  "Barn, Familie og husholdninger"
+ ],
+ "temporalCoverage": {
+  "start": 12784,
+  "stop": 20089
+ },
+ "temporalStatusDates": [
+  12784,
+  13149,
+  13514,
+  13879,
+  14245,
+  14610,
+  14975,
+  15340,
+  15706,
+  16071,
+  16436,
+  16801,
+  17167,
+  17532,
+  17897,
+  18262,
+  18628,
+  18993,
+  19358,
+  19723,
+  20089
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1760683763,
+ "version": "59.0.0.0"
+}

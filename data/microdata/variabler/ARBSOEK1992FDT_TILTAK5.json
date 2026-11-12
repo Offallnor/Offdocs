@@ -1,0 +1,137 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/sluttdato for hendelsen",
+     "validPeriod": {
+      "start": 8035,
+      "stop": 11442
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 8035,
+      "stop": 11442
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "ARBSOEK1992FDT_TILTAK5@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Statistisk enhet er person (individ, enkeltmenenske)",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i RAIRD",
+     "validPeriod": {
+      "start": 8035,
+      "stop": 11442
+     },
+     "valueDomain": {
+      "description": "N/A",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "String",
+  "label": "Arbeidssøker, tiltakskategori, yrkeshemmede",
+  "name": "ARBSOEK1992FDT_TILTAK5",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Tiltaksgrupper for yrkeshemmede.",
+    "validPeriod": {
+     "start": 8035
+    },
+    "valueDomain": {
+     "codeList": [
+      {
+       "category": "Yrkeshemmede i vente- og utredningsfaser",
+       "code": "1"
+      },
+      {
+       "category": "Formidlingsklare",
+       "code": "2"
+      },
+      {
+       "category": "Arbeidstreningstiltak",
+       "code": "3"
+      },
+      {
+       "category": "Kvalifiseringstiltak",
+       "code": "4"
+      },
+      {
+       "category": "Varig vernede sysselsettingstiltak",
+       "code": "5"
+      },
+      {
+       "category": "Restgruppe",
+       "code": "6"
+      }
+     ],
+     "missingValues": []
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "ARBSOEK1992FDT_TILTAK5",
+ "populationDescription": "Hovedsakelig bosatte i Norge (fnr), men noen ikke-bosatte kan inngå (dnr)",
+ "sensitivityLevel": "PERSON_SPECIAL",
+ "subjectFields": [
+  "Arbeid og lønn",
+  "Arbeidsledighet"
+ ],
+ "temporalCoverage": {
+  "start": 8035,
+  "stop": 11442
+ },
+ "temporality": "EVENT",
+ "updatedAt": 1592485055,
+ "version": "59.0.0.0"
+}

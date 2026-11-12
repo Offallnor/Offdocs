@@ -1,0 +1,152 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere på oppfølging, demografi, tidsserie måned (TILT140)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-11-09
+# Ark: Tiltak og fylke
+# TILT140 Tiltaksdeltakere på oppfølging. Demografi. Tidsserie måned
+gruppe	rad		Tiltak og fylke									Rapport oppdatert: 02.11.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober
+Januar 2026 - Oktober 2026	I alt arbeid med støtte	6637	6804	6767	6621	6593	6588	6709	6883	6595	6470	6343
+Januar 2026 - Oktober 2026	03 Oslo - Oslove	932	920	949	956	948	942	962	967	915	894	867
+Januar 2026 - Oktober 2026	11 Rogaland	357	365	363	368	362	358	347	354	352	351	353
+Januar 2026 - Oktober 2026	15 Møre og Romsdal	262	274	256	253	242	229	280	289	268	257	267
+Januar 2026 - Oktober 2026	18 Nordland - Nordlánnda	249	253	253	256	250	256	248	261	240	246	225
+Januar 2026 - Oktober 2026	31 Østfold	421	429	444	412	413	413	414	424	418	427	412
+Januar 2026 - Oktober 2026	32 Akershus	819	815	822	804	824	847	838	859	819	793	768
+Januar 2026 - Oktober 2026	33 Buskerud	463	456	444	446	446	449	487	522	486	461	429
+Januar 2026 - Oktober 2026	34 Innlandet	519	538	537	524	506	516	530	521	499	499	516
+Januar 2026 - Oktober 2026	39 Vestfold	353	355	367	371	370	358	350	353	332	344	334
+Januar 2026 - Oktober 2026	40 Telemark	261	259	254	256	265	253	271	280	265	256	252
+Januar 2026 - Oktober 2026	42 Agder	421	448	424	398	396	399	419	447	438	420	419
+Januar 2026 - Oktober 2026	46 Vestland	541	570	559	532	543	556	538	544	528	525	517
+Januar 2026 - Oktober 2026	50 Trøndelag - Trööndelage	703	763	748	712	693	679	685	705	688	677	676
+Januar 2026 - Oktober 2026	55 Troms - Romsa - Tromssa	233	260	247	235	238	231	235	239	233	210	204
+Januar 2026 - Oktober 2026	56 Finnmark - Finnmárku - Finmarkku	104	98	100	96	95	102	104	117	113	109	101
+Januar 2026 - Oktober 2026	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+Januar 2026 - Oktober 2026	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt digital oppfølging/jobbklubb	1126	1095	1134	1189	1268	978	1078	997	1155	1164	1204
+	03 Oslo - Oslove	212	196	187	199	231	191	254	198	228	231	209
+	11 Rogaland	141	132	123	150	153	102	122	137	138	164	190
+	15 Møre og Romsdal	84	98	101	91	82	69	87	73	81	84	71
+	18 Nordland - Nordlánnda	16	28	32	18	13	7	7	12	15	11	19
+	31 Østfold	50	43	52	46	59	51	49	50	58	43	53
+	32 Akershus	150	131	150	150	178	129	133	146	175	152	152
+	33 Buskerud	53	37	65	57	56	51	48	41	61	55	62
+	34 Innlandet	57	66	72	68	64	63	55	46	44	44	47
+	39 Vestfold	41	52	43	49	50	41	37	28	41	32	32
+	40 Telemark	28	40	27	22	45	27	22	18	20	27	30
+	42 Agder	45	55	50	43	50	29	30	44	49	46	52
+	46 Vestland	106	80	92	121	118	99	106	94	97	115	138
+	50 Trøndelag - Trööndelage	114	110	104	135	131	91	105	93	112	131	125
+	55 Troms - Romsa - Tromssa	18	18	28	27	21	17	14	9	16	14	12
+	56 Finnmark - Finnmárku - Finmarkku	7	6	6	8	12	9	6	*	11	7	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	5	*	*	5	5	*	*	5	9	8	9
+	I alt individuell jobbstøtte	3706	3619	3674	3737	3727	3717	3763	3761	3675	3639	3747
+	03 Oslo - Oslove	368	337	358	346	355	357	390	387	377	379	398
+	11 Rogaland	207	175	185	188	195	206	220	217	223	227	235
+	15 Møre og Romsdal	282	272	281	298	301	301	291	283	262	258	275
+	18 Nordland - Nordlánnda	268	273	276	296	278	261	260	264	259	253	259
+	31 Østfold	337	342	351	349	350	335	334	331	336	320	324
+	32 Akershus	343	332	340	328	347	348	343	347	342	342	357
+	33 Buskerud	129	116	124	129	126	127	129	139	137	123	135
+	34 Innlandet	262	285	262	262	257	261	270	269	251	252	254
+	39 Vestfold	185	178	184	183	193	194	184	183	182	179	188
+	40 Telemark	37	28	24	30	32	38	43	41	43	44	47
+	42 Agder	144	149	152	146	138	140	138	137	137	150	156
+	46 Vestland	536	555	558	563	538	542	554	541	518	496	494
+	50 Trøndelag - Trööndelage	363	357	349	368	367	360	362	369	353	367	380
+	55 Troms - Romsa - Tromssa	172	158	162	175	175	173	172	173	178	177	175
+	56 Finnmark - Finnmárku - Finmarkku	71	59	64	75	74	73	72	79	76	72	66
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	4	*	*	*	*	*	*	*	4
+	I alt individuell karrierestøtte (ips ung)	594	627	616	601	598	596	604	591	577	559	568
+	03 Oslo - Oslove	148	142	147	146	156	152	154	151	141	144	149
+	11 Rogaland	20	34	27	23	22	19	17	14	12	16	14
+	15 Møre og Romsdal	8	15	10	9	9	9	11	8	6	*	*
+	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*	*
+	31 Østfold	14	15	17	16	16	14	14	15	15	13	9
+	32 Akershus	29	29	30	29	25	28	23	27	28	32	34
+	33 Buskerud	42	55	51	45	38	37	46	43	39	31	31
+	34 Innlandet	96	97	91	89	92	96	98	98	100	99	101
+	39 Vestfold	41	42	44	43	43	39	40	40	40	40	41
+	40 Telemark	*	*	*	*	*	*	*	*	*	*	*
+	42 Agder	66	64	63	61	64	71	68	68	72	65	68
+	46 Vestland	63	60	61	65	70	68	63	59	59	58	62
+	50 Trøndelag - Trööndelage	65	72	74	74	62	62	69	67	63	56	54
+	55 Troms - Romsa - Tromssa	*	*	*	*	*	*	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt jobbklubb	966	839	1024	1116	1139	918	744	568	893	1191	1230
+	03 Oslo - Oslove	331	299	319	391	395	270	263	246	308	387	434
+	11 Rogaland	5	*	*	*	16	12	13	11	*	*	*
+	15 Møre og Romsdal	*	*	*	*	*	*	*	*	*	*	*
+	18 Nordland - Nordlánnda	*	*	*	*	*	*	*	*	*	*	*
+	31 Østfold	186	193	283	282	276	181	111	71	133	183	143
+	32 Akershus	254	219	277	292	309	253	209	137	254	272	314
+	33 Buskerud	16	23	16	15	16	30	*	*	12	12	30
+	34 Innlandet	27	*	*	*	*	21	13	*	49	91	95
+	39 Vestfold	41	30	34	37	26	35	34	30	38	74	72
+	40 Telemark	69	43	46	72	66	75	75	69	77	77	94
+	42 Agder	10	14	23	13	10	*	*	*	*	15	26
+	46 Vestland	23	16	23	6	15	33	22	*	19	75	19
+	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*	*
+	55 Troms - Romsa - Tromssa	*	*	*	5	6	6	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	4	*
+	I alt mentor	231	202	208	231	232	239	260	215	235	232	257
+	03 Oslo - Oslove	12	7	6	10	14	17	15	15	13	11	12
+	11 Rogaland	45	28	31	38	44	49	67	48	51	41	49
+	15 Møre og Romsdal	23	27	26	24	25	22	18	20	22	24	26
+	18 Nordland - Nordlánnda	8	8	11	11	10	8	9	4	4	5	7
+	31 Østfold	19	13	15	16	15	23	22	19	20	25	25
+	32 Akershus	32	25	24	31	33	35	40	34	32	29	32
+	33 Buskerud	8	9	8	8	6	6	7	8	8	11	7
+	34 Innlandet	7	6	8	10	12	10	4	*	*	4	8
+	39 Vestfold	6	11	8	7	8	9	4	*	5	*	4
+	40 Telemark	6	4	4	6	6	4	9	5	5	7	8
+	42 Agder	9	9	6	9	9	7	10	8	12	10	10
+	46 Vestland	27	19	27	30	27	27	24	21	31	30	32
+	50 Trøndelag - Trööndelage	18	20	20	16	13	11	19	16	20	20	26
+	55 Troms - Romsa - Tromssa	10	14	11	12	8	10	8	9	7	8	9
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	4	4	*	4	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*
+	I alt oppfølging	8780	8455	8466	8428	8674	8758	8860	8664	8936	9204	9357
+	03 Oslo - Oslove	1039	871	897	938	1049	1073	1105	1115	1103	1109	1130
+	11 Rogaland	848	821	799	822	828	868	885	872	862	871	856
+	15 Møre og Romsdal	278	246	271	262	278	266	281	287	282	302	305
+	18 Nordland - Nordlánnda	420	430	424	442	433	416	428	407	398	404	418
+	31 Østfold	649	601	607	586	634	661	636	625	683	703	749
+	32 Akershus	1261	1184	1218	1217	1252	1219	1296	1208	1307	1338	1367
+	33 Buskerud	659	668	676	671	680	688	623	610	626	657	691
+	34 Innlandet	469	486	480	460	461	454	465	451	453	490	490
+	39 Vestfold	624	592	588	586	627	648	625	642	643	642	644
+	40 Telemark	288	273	280	278	278	284	306	297	296	289	300
+	42 Agder	673	673	663	666	647	664	666	651	684	701	713
+	46 Vestland	757	772	756	734	726	706	717	707	782	844	828
+	50 Trøndelag - Trööndelage	534	526	522	517	516	530	545	531	542	549	557
+	55 Troms - Romsa - Tromssa	249	271	248	215	235	245	251	233	246	272	275
+	56 Finnmark - Finnmárku - Finmarkku	24	28	25	23	18	26	20	21	20	25	29
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	10	13	12	11	12	10	10	7	9	8	5
+	I alt utvidet oppfølging i opplæring	46	32	37	39	43	42	54	56	55	62	39
+	03 Oslo - Oslove	11	5	8	9	9	9	13	13	13	16	16
+	11 Rogaland	*	*	*	*	*	*	*	*	*	*	*
+	15 Møre og Romsdal	*	*	*	*	*	*	*	*	*	*	*
+	18 Nordland - Nordlánnda	4	*	*	4	4	4	5	4	4	5	5
+	31 Østfold	9	5	4	5	9	8	10	12	11	10	11
+	32 Akershus	4	*	4	4	*	*	*	4	4	4	4
+	33 Buskerud	*	*	*	*	*	*	*	*	*	*	*
+	34 Innlandet	*	*	*	*	*	*	*	*	*	*	*
+	39 Vestfold	*	*	*	*	*	*	*	*	*	*	*
+	40 Telemark	*	*	*	*	*	*	*	*	*	*	*
+	42 Agder	*	*	*	*	*	*	*	*	*	*	*
+	46 Vestland	19	17	18	17	18	18	23	23	23	27	*
+	50 Trøndelag - Trööndelage	*	*	*	*	*	*	*	*	*	*	*
+	55 Troms - Romsa - Tromssa	*	*	*	*	*	*	*	*	*	*	*
+	56 Finnmark - Finnmárku - Finmarkku	*	*	*	*	*	*	*	*	*	*	*
+	97 Svalbard og øvrige områder	*	*	*	*	*	*	*	*	*	*	*
+	Ukjent	*	*	*	*	*	*	*	*	*	*	*

@@ -1,0 +1,27 @@
+# § 29. Offentlig tilskudd og egenbetaling
+
+**Kilde:** Fagskoleloven § 29
+
+**1. ledd**
+
+Fagskoler kan søke om offentlig tilskudd fra fylkeskommunen.
+
+**2. ledd**
+
+Fagskoler kan kreve egenbetaling fra studenter bare når det ikke ved tildeling av offentlige tilskudd er forutsatt at utdanningen skal være gratis. Departementet kan gi forskrift om fagskolens adgang til å kreve egenbetaling fra studenter.
+
+**3. ledd**
+
+Alle private fagskoler skal benytte offentlig tilskudd og egenbetaling fra studentene til den akkrediterte utdanningen og innenfor lovens formål.
+
+**4. ledd**
+
+Private fagskoler som mottar offentlig tilskudd, skal la tilskudd og egenbetaling komme studentene til gode. Private fagskoler som mottar offentlig tilskudd, kan ikke foreta utdelinger.
+
+**5. ledd**
+
+Private fagskoler som ikke mottar offentlig tilskudd, kan ikke foreta utdelinger som medfører at egenkapitalen blir lavere enn 20 prosent av eiendelene.
+
+**6. ledd**
+
+Departementet kan gi forskrift om disponering av offentlig tilskudd og egenbetaling, herunder ved avvikling.

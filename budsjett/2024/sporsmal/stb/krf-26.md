@@ -1,0 +1,21 @@
+# Spørsmål nr. 26 fra KRF til STB 2024
+
+- **Parti:** KRF
+- **Spørsmålsnr:** 26
+- **Dato på spørsmålet:** 09.10.2023
+- **Departement:** Kunnskapsdepartementet
+- **Tittel:** Svar på spørsmål 26 fra Finanskomiteen/KRFs fraksjon av 9.10.2023
+
+## Fjerne studieavgift
+
+Hva er provenyeffekten av å fjerne studieavgiften for utenlandsstudenter utenfor EØS og Sveits?
+
+## Svar
+
+Spørsmålet er forelagt Kunnskapsdepartementet, som har gitt følgende svar:
+
+«Stortinget har vedtatt å endre universitets- og høyskoleloven, jf. Prop. 68 L (2022–2023) og Innst. 378 L (2022–2023). Det innebærer at statlige universiteter og høyskoler skal kreve egenbetaling (studieavgift) fra studenter fra land utenfra EØS og Sveits, med visse unntak. For private universiteter og høyskoler som mottar statstilskudd innebærer det at statlige tilskudd ikke skal kunne brukes til å dekke driftskostnader til utdanning for samme persongruppe.
+
+En reversering av lovendringen vil ikke i seg selv føre til endringer over statsbudsjettet. Dersom universiteter og høyskoler ikke lenger skal ta studieavgift fra tredjelandsstudenter vil det påvirke deres muligheter til å øke sine samlede inntekter. I statsbudsjettet for 2023 ble bevilgningen til universiteter og høyskoler over kap. 260, postene 50 og 70, redusert med 74,5 mill. kroner, tilsvarende et anslag på hvor mye institusjonene vil få i økte inntekter fra studieavgift for tredjelandsstudenter. I anslaget er det lagt til grunn at de internasjonale studentene i gjennomsnitt tar en toårig utdanning. Reduksjonen i bevilgningen trappes derfor opp over to år, ettersom det blir tatt opp et nytt kull som betaler full studieavgift. Opptrappingen innebærer en ytterlig reduksjon i bevilgningen på 155,4 mill. kroner i 2024, slik at samlet reduksjon utgjør 233,1 mill. kroner i 2024 (inkludert prisjustering fra 2023). Fra og med 2025 vil reduksjonen samlet være på 310,8 mill. kroner. Ut over budsjettreduksjonen får institusjonene beholde inntektene fra studieavgiftene.
+
+I anslaget for økte inntekter for studieavgift har departementet lagt til grunn at antallet tredjelandsstudenter vil gå ned fra nivået før innføringen. Regjeringen legger til grunn at studieavgiften også i 2024 vil gi redusert pågang av søkere fra disse landene. Det vil gjøre flere studieplasser tilgjengelige for norske søkere og andre EØS-borgere.»

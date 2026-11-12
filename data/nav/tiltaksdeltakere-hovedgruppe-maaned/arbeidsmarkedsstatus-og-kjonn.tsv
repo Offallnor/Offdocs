@@ -1,0 +1,17 @@
+# Kilde: Nav
+# Tabell: Tiltaksdeltakere etter hovedgruppe og demografi, tidsserie måned (TILT100)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
+# Lagt inn: 2026-11-09
+# Ark: Arbeidsmarkedsstatus og kjønn
+# TILT100 Tiltaksdeltakere. Hovedgruppe og demografi. Tidsserie måned
+gruppe	rad		Arbeidsmarkedsstatus og kjønn									Rapport oppdatert: 02.11.2026
+gruppe	rad	Gjennomsnitt hittil i år	Januar	Februar	Mars	April	Mai	Juni	Juli	August	September	Oktober
+Januar 2026 - Oktober 2026	I alt Arbeidssøkere på tiltak	12003	11301	12071	12496	13032	12580	11110	9593	11433	12838	13578
+Januar 2026 - Oktober 2026	Kvinner	6119	5872	6233	6429	6659	6418	5539	4694	5707	6586	7051
+Januar 2026 - Oktober 2026	Menn	5884	5429	5838	6067	6373	6162	5571	4899	5726	6252	6527
+	I alt Nedsatt arbeidsevne, på tiltak	66186	64651	65676	66377	67472	67605	64939	60987	65671	68688	69793
+	Kvinner	32757	32200	32702	33132	33694	33622	31625	29143	32234	34252	34967
+	Menn	33429	32451	32974	33245	33778	33983	33314	31844	33437	34436	34826
+	I alt Andre på tiltak	4629	3744	4066	4269	4624	4885	4902	4560	4834	5061	5342
+	Kvinner	2347	1943	2104	2236	2407	2521	2376	2162	2405	2579	2734
+	Menn	2282	1801	1962	2033	2217	2364	2526	2398	2429	2482	2608

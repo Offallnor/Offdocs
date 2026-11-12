@@ -1,0 +1,135 @@
+{
+ "attributeVariables": [
+  {
+   "dataType": "Instant",
+   "label": "Startdato",
+   "name": "START",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Startdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 13329,
+      "stop": 19904
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Start"
+  },
+  {
+   "dataType": "Instant",
+   "label": "Stoppdato",
+   "name": "STOP",
+   "notPseudonym": true,
+   "representedVariables": [
+    {
+     "description": "Stoppdato/måletidspunktet for hendelsen",
+     "validPeriod": {
+      "start": 13329,
+      "stop": 19904
+     },
+     "valueDomain": {
+      "description": "Dato oppgitt i dager siden 1970-01-01",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Stop"
+  }
+ ],
+ "dataStore": "no.ssb.fdb",
+ "globalTemporalCoverage": {
+  "start": -1096,
+  "stop": 20766
+ },
+ "id": "NUDB_VGS_VGPOENG@no.ssb.fdb",
+ "identifierVariables": [
+  {
+   "dataType": "Long",
+   "format": "RandomUInt48",
+   "keyType": {
+    "description": "Person er et enkeltmenneske, individ.",
+    "label": "Person",
+    "name": "PERSON"
+   },
+   "label": "Personidentifikator",
+   "name": "PERSONID_1",
+   "notPseudonym": false,
+   "representedVariables": [
+    {
+     "description": "Identifikator for person i microdata",
+     "validPeriod": {
+      "start": 13329,
+      "stop": 19904
+     },
+     "valueDomain": {
+      "description": "Pseudonymisert personnummer",
+      "unitOfMeasure": "N/A"
+     }
+    }
+   ],
+   "variableRole": "Identifier"
+  }
+ ],
+ "languageCode": "no",
+ "measureVariable": {
+  "dataType": "Double",
+  "label": "Videregåendepoeng",
+  "name": "NUDB_VGS_VGPOENG",
+  "notPseudonym": true,
+  "representedVariables": [
+   {
+    "description": "Videregåendepoeng er antall karakterpoeng per skoleår som gir grunnlag for opptak til neste trinn.",
+    "validPeriod": {
+     "start": 13329,
+     "stop": 19904
+    },
+    "valueDomain": {
+     "description": "Videregåendepoeng.",
+     "unitOfMeasure": "Videregåendepoeng"
+    }
+   }
+  ],
+  "variableRole": "Measure"
+ },
+ "name": "NUDB_VGS_VGPOENG",
+ "populationDescription": "Variabelen omfatter alle som har fullført et år i videregående skole i perioden og har videregåendepoeng større enn 0.",
+ "sensitivityLevel": "PERSON_GENERAL",
+ "subjectFields": [
+  "Utdanning",
+  "Utdanningsnivå",
+  "Videregående utdanning"
+ ],
+ "temporalCoverage": {
+  "start": 13329,
+  "stop": 19904
+ },
+ "temporalStatusDates": [
+  13329,
+  13694,
+  14060,
+  14425,
+  14790,
+  15155,
+  15521,
+  15886,
+  16251,
+  16616,
+  16982,
+  17347,
+  17712,
+  18077,
+  18443,
+  18808,
+  19173,
+  19538,
+  19904
+ ],
+ "temporality": "STATUS",
+ "updatedAt": 1758716644,
+ "version": "59.0.0.0"
+}

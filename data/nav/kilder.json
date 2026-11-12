@@ -1,0 +1,1071 @@
+{
+ "_om": "Kjente Nav-tabeller. «monster» er et regulært uttrykk mot filnavnet i små bokstaver, uten mellomrom, understreker, punktum og bindestreker. «maanedsfiler» betyr at Nav leverer én fil per måned (slås sammen med kolonnen «maaned»). «kvartalsfiler» betyr at Nav leverer én fil per kvartal; da slås kvartalene sammen til én fil per ark med kolonnen «kvartal» (K1–K4). Nye tabeller uten treff legges inn med navn fra filen og kan føyes til her. «hopp_over» er filer på Navs sider som er vurdert og valgt bort. De hentes ikke og meldes ikke som nye tabeller. Skriv hvorfor i «grunn».",
+ "tabeller": [
+  {
+   "monster": "syfra2002",
+   "mappe": "sykefravar-tidsserie-kvartal",
+   "tittel": "Legemeldt sykefravær per kvartal, tidsserie fra 2002 (SYFRA2002)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar"
+  },
+  {
+   "monster": "syfra510",
+   "mappe": "sykefravar-bosted",
+   "tittel": "Legemeldt sykefravær etter bosted (SYFRA510)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra520",
+   "mappe": "sykefravar-naering",
+   "tittel": "Legemeldt sykefravær etter næring (SYFRA520)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra530",
+   "mappe": "sykefravar-sektor",
+   "tittel": "Legemeldt sykefravær etter sektor (SYFRA530)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra540",
+   "mappe": "sykefravar-yrke",
+   "tittel": "Legemeldt sykefravær etter yrke (SYFRA540)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra550",
+   "mappe": "sykefravar-alder",
+   "tittel": "Legemeldt sykefravær etter alder (SYFRA550)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2400",
+   "mappe": "sykefravar-diagnose-hovedgrupper",
+   "tittel": "Legemeldt sykefravær etter diagnosehovedgrupper (SYFRA2400)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2402",
+   "mappe": "sykefravar-diagnose-undergrupper",
+   "tittel": "Legemeldt sykefravær etter diagnoseundergrupper (SYFRA2402)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2401",
+   "mappe": "sykefravar-enkeltdiagnoser",
+   "tittel": "Legemeldt sykefravær etter enkeltdiagnoser (SYFRA2401)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "syfra2501",
+   "mappe": "sykefravar-gradert-diagnose",
+   "tittel": "Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "gjennomsnittligvarighet",
+   "mappe": "sykefravar-varighet-fylke-diagnose",
+   "tittel": "Gjennomsnittlig varighet for avsluttede sykefraværstilfeller etter fylke og diagnosegrupper",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "varighetsgruppe",
+   "mappe": "sykefravar-varighetsgrupper",
+   "tittel": "Varighet for avsluttede sykefraværstilfeller etter varighetsgrupper",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "sykefraværetterinnvandrerstatus",
+   "mappe": "sykefravar-innvandrerstatus",
+   "tittel": "Legemeldt sykefravær etter innvandrerstatus",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "sykefraværetter(fødeland|fodeland)",
+   "mappe": "sykefravar-fodeland",
+   "tittel": "Legemeldt sykefravær etter fødeland",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar",
+   "kvartalsfiler": true
+  },
+  {
+   "monster": "arbs050",
+   "mappe": "dagpenger-tiltakspenger-maaned",
+   "tittel": "Mottakere av dagpenger og tiltakspenger, tidsserie måned (ARBS050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs051",
+   "mappe": "dagpenger-kjonn-alder-maaned",
+   "tittel": "Mottakere av dagpenger etter kjønn og alder, tidsserie måned (ARBS051)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs052",
+   "mappe": "dagpenger-fylke-kommune-maaned",
+   "tittel": "Mottakere av dagpenger etter fylke og kommune, tidsserie måned (ARBS052)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs053",
+   "mappe": "dagpenger-yrke-maaned",
+   "tittel": "Mottakere av dagpenger etter yrke, tidsserie måned (ARBS053)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs057",
+   "mappe": "tilleggsstonader-arbeidssokere-maaned",
+   "tittel": "Mottakere av tilleggsstønader for arbeidssøkere, tidsserie måned (ARBS057)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "arbs058",
+   "mappe": "dagpenger-varighet-maaned",
+   "tittel": "Mottakere av dagpenger etter varighet, tidsserie måned (ARBS058)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "a365",
+   "mappe": "dagpenger-godkjent-utdanning-maaned",
+   "tittel": "Dagpengemottakere med godkjent utdanning, måned (A365)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "s(o|ø)knaderomdagpengern(ae|æ)ringenm(aa|å)ned",
+   "mappe": "dagpenger-soknader-naering-maaned",
+   "tittel": "Søknader om dagpenger etter næring, én måned",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere",
+   "maanedsfiler": true
+  },
+  {
+   "monster": "soknaderomdagpengermaaned",
+   "mappe": "dagpenger-soknader-maaned",
+   "tittel": "Søknader om dagpenger, tidsserie måned",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere"
+  },
+  {
+   "monster": "aap120",
+   "mappe": "aap-alder-kjonn-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn, måned (AAP120)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap150",
+   "mappe": "aap-fylke-alder-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter fylke og alder, måned (AAP150)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap155",
+   "mappe": "aap-kommune-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter kommune, måned (AAP155)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap160",
+   "mappe": "aap-diagnose-alder-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og alder, måned (AAP160)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap170",
+   "mappe": "aap-diagnose-kjonn-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, måned (AAP170)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap180",
+   "mappe": "aap-diagnose-detaljer-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger, diagnose detaljer, måned (AAP180)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap190",
+   "mappe": "aap-innvandrerbakgrunn-maaned",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter innvandrerbakgrunn, måned (AAP190)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap320.*fjerdekvartal",
+   "mappe": "aap-alder-kjonn-desember",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn, desember 2010–2025 (AAP320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-oktober-desember-2025"
+  },
+  {
+   "monster": "aap360.*fjerdekvartal",
+   "mappe": "aap-diagnose-alder-desember",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og alder, desember (AAP360)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-oktober-desember-2025"
+  },
+  {
+   "monster": "aap370.*fjerdekvartal",
+   "mappe": "aap-diagnose-kjonn-desember",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, desember (AAP370)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-oktober-desember-2025"
+  },
+  {
+   "monster": "aap320",
+   "mappe": "aap-alder-kjonn-kvartal",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap360",
+   "mappe": "aap-diagnose-alder-kvartal",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og alder, kvartal (AAP360)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap370",
+   "mappe": "aap-diagnose-kjonn-kvartal",
+   "tittel": "Mottakere av arbeidsavklaringspenger etter diagnose og kjønn, kvartal (AAP370)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap310",
+   "mappe": "aap-unge-alder-fylke-kvartal",
+   "tittel": "Unge mottakere av arbeidsavklaringspenger etter alder og fylke, kvartal (AAP310)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap380",
+   "mappe": "aap-tilgang-alder-kjonn-kvartal",
+   "tittel": "Tilgang til arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP380)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap381",
+   "mappe": "aap-tilgang-fylke-alder-kvartal",
+   "tittel": "Tilgang til arbeidsavklaringspenger etter fylke og alder, kvartal (AAP381)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap382",
+   "mappe": "aap-tilgang-fylke-kjonn-kvartal",
+   "tittel": "Tilgang til arbeidsavklaringspenger etter fylke og kjønn, kvartal (AAP382)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap390",
+   "mappe": "aap-avgang-alder-kjonn-kvartal",
+   "tittel": "Avgang fra arbeidsavklaringspenger etter alder og kjønn, kvartal (AAP390)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap391",
+   "mappe": "aap-avgang-fylke-alder-kvartal",
+   "tittel": "Avgang fra arbeidsavklaringspenger etter fylke og alder, kvartal (AAP391)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "aap392",
+   "mappe": "aap-avgang-fylke-kjonn-kvartal",
+   "tittel": "Avgang fra arbeidsavklaringspenger etter fylke og kjønn, kvartal (AAP392)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger"
+  },
+  {
+   "monster": "tabell12ant",
+   "mappe": "uforetrygd-andel-fylke-alder-kvartal",
+   "tittel": "Mottakere av uføretrygd, andel av befolkningen etter fylke og alder (tabell 12)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+  },
+  {
+   "monster": "tabell18",
+   "mappe": "uforetrygd-barnetillegg-fylke-kvartal",
+   "tittel": "Uføre med barnetillegg etter fylke (tabell 18)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+  },
+  {
+   "monster": "tabell20ant",
+   "mappe": "uforetrygd-kommune-kvartal",
+   "tittel": "Uføretrygdede etter kommune (tabell 20)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+  },
+  {
+   "monster": "pst300",
+   "mappe": "uforetrygd-fylke-kjonn-maaned",
+   "tittel": "Mottakere av uføretrygd etter fylke og kjønn, måned (PST300)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst301",
+   "mappe": "uforetrygd-fylke-alder-maaned",
+   "tittel": "Mottakere av uføretrygd etter fylke og alder, måned (PST301)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst302",
+   "mappe": "uforetrygd-fylke-kommune-maaned",
+   "tittel": "Mottakere av uføretrygd etter fylke og kommune, måned (PST302)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst306",
+   "mappe": "uforetrygd-uforegrad-kjonn-maaned",
+   "tittel": "Mottakere av uføretrygd etter uføregrad og kjønn, måned (PST306)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst310",
+   "mappe": "uforetrygd-innvandrerstatus-maaned",
+   "tittel": "Mottakere av uføretrygd etter innvandrerstatus, kjønn og alder, måned (PST310)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst311",
+   "mappe": "uforetrygd-nye-alder-kjonn-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter alder og kjønn, måned (PST311)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst312",
+   "mappe": "uforetrygd-nye-fylke-alder-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter fylke og alder, måned (PST312)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst313",
+   "mappe": "uforetrygd-nye-fylke-kjonn-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter fylke og kjønn, måned (PST313)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst314",
+   "mappe": "uforetrygd-nye-fylke-uforegrad-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter fylke og uføregrad, måned (PST314)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst316",
+   "mappe": "uforetrygd-nye-uforegrad-kjonn-maaned",
+   "tittel": "Nye mottakere av uføretrygd etter uføregrad og kjønn, måned (PST316)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "pst317",
+   "mappe": "uforetrygd-avgang-kjonn-alder-maaned",
+   "tittel": "Avgang mottakere av uføretrygd etter kjønn og alder, måned (PST317)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk"
+  },
+  {
+   "monster": "tabell1upantall",
+   "mappe": "uforetrygd-diagnose-beholdning-aar",
+   "tittel": "Uføretrygd 18–29 år: beholdning etter diagnose og kjønn, år (tabell 1)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
+  },
+  {
+   "monster": "tabell2upnye",
+   "mappe": "uforetrygd-diagnose-nye-aar",
+   "tittel": "Uføretrygd 18–29 år: nye mottakere etter diagnose og kjønn, år (tabell 2)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
+  },
+  {
+   "monster": "tabell3uf",
+   "mappe": "uforetrygd-enkeltdiagnoser-aar",
+   "tittel": "Uføretrygd 18–29 år: de mest brukte enkeltdiagnosene (tabell 3)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd"
+  },
+  {
+   "monster": "ned120",
+   "mappe": "nedsatt-arbeidsevne-alder-kjonn-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter alder og kjønn, måned (NED120)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned150",
+   "mappe": "nedsatt-arbeidsevne-fylke-alder-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter fylke og alder, måned (NED150)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned155",
+   "mappe": "nedsatt-arbeidsevne-kommune-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter kommune, måned (NED155)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned190",
+   "mappe": "nedsatt-arbeidsevne-innvandrerbakgrunn-maaned",
+   "tittel": "Personer med nedsatt arbeidsevne etter innvandrerbakgrunn, måned (NED190)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "ned320",
+   "mappe": "nedsatt-arbeidsevne-alder-kjonn-kvartal",
+   "tittel": "Personer med nedsatt arbeidsevne etter alder og kjønn, kvartal (NED320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne"
+  },
+  {
+   "monster": "pst010",
+   "mappe": "alderspensjon-kjonn-alder-fylke",
+   "tittel": "Alderspensjonister etter kjønn, alder og fylke, tidsserie (PST010)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst072",
+   "mappe": "alderspensjon-nye-kjonn-alder",
+   "tittel": "Nye alderspensjonister etter kjønn og alder, tidsserie (PST072)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst020",
+   "mappe": "alderspensjon-utbetalt-aar",
+   "tittel": "Utbetalt alderspensjon, årlig beløp (PST020)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst011",
+   "mappe": "alderspensjon-kommune",
+   "tittel": "Alderspensjonister etter kommune (PST011)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst040",
+   "mappe": "alderspensjon-andel-62-66",
+   "tittel": "Alderspensjonister, andel av befolkningen 62–66 år (PST040)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst041",
+   "mappe": "alderspensjon-andel-62-75",
+   "tittel": "Alderspensjonister, andel av befolkningen 62–75 år (PST041)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst071",
+   "mappe": "alderspensjon-nye-kvartal",
+   "tittel": "Nye alderspensjonister, kvartal (PST071)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst012",
+   "mappe": "alderspensjon-bosted",
+   "tittel": "Alderspensjonister etter bosted (Norge/utlandet) (PST012)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst013",
+   "mappe": "alderspensjon-innvandrer",
+   "tittel": "Alderspensjonister etter innvandrerbakgrunn (PST013)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst022",
+   "mappe": "alderspensjon-delytelse-mnd",
+   "tittel": "Alderspensjon etter delytelse og tillegg, siste måned (PST022)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst023",
+   "mappe": "alderspensjon-delytelse-tidsserie",
+   "tittel": "Alderspensjon etter delytelse og tillegg, tidsserie (PST023)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst050",
+   "mappe": "alderspensjon-gradert-mnd",
+   "tittel": "Alderspensjonister med gradert uttak, siste måned (PST050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst051",
+   "mappe": "alderspensjon-gradert-tidsserie",
+   "tittel": "Alderspensjonister med gradert uttak, tidsserie (PST051)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst060",
+   "mappe": "alderspensjon-minste-mnd",
+   "tittel": "Minstepensjonister, siste måned (PST060)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst061",
+   "mappe": "alderspensjon-minste-tidsserie",
+   "tittel": "Minstepensjonister, tidsserie (PST061)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst062",
+   "mappe": "alderspensjon-minste-kommune",
+   "tittel": "Minstepensjonister etter kommune (PST062)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst064",
+   "mappe": "alderspensjon-minste-satser",
+   "tittel": "Minstepensjonister og sats (PST064)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst063",
+   "mappe": "alderspensjon-minste-tillegg",
+   "tittel": "Tillegg med utgangspunkt i minste pensjonsnivå (PST063)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst024",
+   "mappe": "alderspensjon-gjenlevendetillegg",
+   "tittel": "Alderspensjonister med gjenlevendetillegg (PST024)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst081",
+   "mappe": "alderspensjon-inntekts-garanti",
+   "tittel": "Alderspensjonister med inntekts- og garantipensjon (PST081)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst082",
+   "mappe": "alderspensjon-nye-inntekts-garanti",
+   "tittel": "Nye alderspensjonister med inntekts- og garantipensjon (PST082)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst083",
+   "mappe": "alderspensjon-inntekts-garanti-mnd",
+   "tittel": "Alderspensjonister med inntekts- og garantipensjon, siste måned (PST083)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst080",
+   "mappe": "alderspensjon-avgangsalder",
+   "tittel": "Gjennomsnittlig avgangsalder fra arbeidslivet (PST080)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst021",
+   "mappe": "alderspensjon-utbetalt-maaned",
+   "tittel": "Utbetalt alderspensjon, månedlig beløp (PST021)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "pst084",
+   "mappe": "alderspensjon-utbetaling-inntekts-garanti",
+   "tittel": "Årlig utbetaling til alderspensjonister med inntekts- og garantipensjon (PST084)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon"
+  },
+  {
+   "monster": "hl050",
+   "mappe": "helt-ledige-kjonn-alder-maaned",
+   "tittel": "Helt ledige etter kjønn og alder, tidsserie måned (HL050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl060",
+   "mappe": "helt-ledige-fylke-kommune-maaned",
+   "tittel": "Helt ledige etter fylke og kommune, tidsserie måned (HL060)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl070",
+   "mappe": "helt-ledige-utdanning-maaned",
+   "tittel": "Helt ledige etter utdanning, tidsserie måned (HL070)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl075",
+   "mappe": "helt-ledige-yrke-maaned",
+   "tittel": "Helt ledige etter yrke, tidsserie måned (HL075)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl080",
+   "mappe": "helt-ledige-varighet-maaned",
+   "tittel": "Helt ledige etter varighet og langtidsledige, tidsserie måned (HL080)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl085",
+   "mappe": "helt-ledige-innvandrerbakgrunn-maaned",
+   "tittel": "Helt ledige etter innvandrerbakgrunn, tidsserie måned (HL085)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "hl090",
+   "mappe": "helt-ledige-fylke-aar",
+   "tittel": "Helt ledige etter fylke, tidsserie år (HL090)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige"
+  },
+  {
+   "monster": "^2024hl065",
+   "mappe": "helt-ledige-fylke-historisk",
+   "tittel": "Antall helt ledige etter fylke, historisk (HL065, 2024)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "^2025hl065",
+   "mappe": "helt-ledige-og-tiltak-fylke-aar",
+   "tittel": "Helt ledige og arbeidssøkere på tiltak etter fylke, tidsserie år (HL065)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd5160",
+   "mappe": "helt-ledige-fylke-mnd-51-60",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_51-60)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd6170",
+   "mappe": "helt-ledige-fylke-mnd-61-70",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_61-70)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd7180",
+   "mappe": "helt-ledige-fylke-mnd-71-80",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_71-80)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "hlfymnd8190",
+   "mappe": "helt-ledige-fylke-mnd-81-90",
+   "tittel": "Helt ledige etter fylke, måned, historisk (fil Hl_Fy_mnd_81-90)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk"
+  },
+  {
+   "monster": "^hl100",
+   "mappe": "helt-ledige-historisk",
+   "tittel": "Antall helt ledige, historisk (HL100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^harb011",
+   "mappe": "hovedtall-arbeidsmarkedet-fylke-kommune",
+   "tittel": "Hovedtall om arbeidsmarkedet etter fylke og kommune (HARB011)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^hl301",
+   "mappe": "helt-ledige-kommune-per-maaned",
+   "tittel": "Helt ledige etter fylke og kommune, én fil per måned fra oktober 2026 (HL301)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet",
+   "maanedsfiler": true
+  },
+  {
+   "monster": "^harb013",
+   "mappe": "hovedtall-arbeidsmarkedet-permitterte",
+   "tittel": "Hovedtall om arbeidsmarkedet, permitterte (HARB013)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^harb050",
+   "mappe": "hovedtall-arbeidsmarkedet-delvis-ledige",
+   "tittel": "Hovedtall om arbeidsmarkedet, delvis ledige (HARB050)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^harb100",
+   "mappe": "hovedtall-arbeidsmarkedet-sesongjustert",
+   "tittel": "Sesongjusterte hovedtall om arbeidsmarkedet (HARB100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^hovedtallomarbeidsmarkedet[a-zæøå]+\\d{4}$",
+   "mappe": "hovedtall-arbeidsmarkedet",
+   "tittel": "Hovedtall om arbeidsmarkedet",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "^tallgrunnlagarbeidsmarkedet",
+   "mappe": "hovedtall-arbeidsmarkedet-tallgrunnlag",
+   "tittel": "Tallgrunnlag for Arbeidsmarkedet nå",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet"
+  },
+  {
+   "monster": "stil020",
+   "mappe": "ledige-stillinger-tilgang-kilde-maaned",
+   "tittel": "Tilgang ledige stillinger etter kilde, tidsserie måned (STIL020)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "stil030",
+   "mappe": "ledige-stillinger-tilgang-fylke-maaned",
+   "tittel": "Tilgang ledige stillinger etter fylke, tidsserie måned (STIL030)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "stil040",
+   "mappe": "ledige-stillinger-tilgang-yrke-maaned",
+   "tittel": "Tilgang ledige stillinger etter yrke, tidsserie måned (STIL040)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "2025stil090",
+   "mappe": "ledige-stillinger-tilgang-fylke-aar",
+   "tittel": "Tilgang ledige stillinger etter fylke, tidsserie år (STIL090)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "^202109stiltilgang",
+   "mappe": "ledige-stillinger-tilgang-tidsserie-2021",
+   "tittel": "Tilgang ledige stillinger, tidsserie måned (utgave 2021)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger"
+  },
+  {
+   "monster": "tilt100",
+   "mappe": "tiltaksdeltakere-hovedgruppe-maaned",
+   "tittel": "Tiltaksdeltakere etter hovedgruppe og demografi, tidsserie måned (TILT100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt110",
+   "mappe": "tiltaksdeltakere-lonnstilskudd-maaned",
+   "tittel": "Tiltaksdeltakere på lønnstilskudd, demografi, tidsserie måned (TILT110)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt120",
+   "mappe": "tiltaksdeltakere-arbeidspraksis-maaned",
+   "tittel": "Tiltaksdeltakere på arbeidspraksis, demografi, tidsserie måned (TILT120)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt130",
+   "mappe": "tiltaksdeltakere-opplaering-maaned",
+   "tittel": "Tiltaksdeltakere på opplæring, demografi, tidsserie måned (TILT130)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt140",
+   "mappe": "tiltaksdeltakere-oppfolging-maaned",
+   "tittel": "Tiltaksdeltakere på oppfølging, demografi, tidsserie måned (TILT140)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt150",
+   "mappe": "tiltaksdeltakere-avklaring-maaned",
+   "tittel": "Tiltaksdeltakere på avklaring, demografi, tidsserie måned (TILT150)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt160",
+   "mappe": "tiltaksdeltakere-rehabilitering-maaned",
+   "tittel": "Tiltaksdeltakere på arbeidsrettet rehabilitering, demografi, tidsserie måned (TILT160)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt170",
+   "mappe": "tiltaksdeltakere-tilrettelagt-arbeid-maaned",
+   "tittel": "Tiltaksdeltakere på tilrettelagt arbeid, demografi, tidsserie måned (TILT170)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "tilt180",
+   "mappe": "tiltaksdeltakere-jobbskaping-maaned",
+   "tittel": "Tiltaksdeltakere på jobbskaping, egenetablering og tilrettelegging, demografi, tidsserie måned (TILT180)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "2025tilt090",
+   "mappe": "tiltaksdeltakere-arbeidssokere-fylke-aar",
+   "tittel": "Arbeidssøkere på tiltak etter fylke, tidsserie år (TILT090)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "2025tilt095",
+   "mappe": "tiltaksdeltakere-nedsatt-arbeidsevne-fylke-aar",
+   "tittel": "Personer med nedsatt arbeidsevne på tiltak etter fylke, tidsserie år (TILT095)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "nedsattarbeidsevnep(å|a)tiltakalder",
+   "mappe": "tiltak-nedsatt-arbeidsevne-alder-aar",
+   "tittel": "Nedsatt arbeidsevne på tiltak etter alder, tidsserie år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "nedsattarbeidsevnep(å|a)tiltakkjønn|nedsattarbeidsevnep(å|a)tiltakkjonn",
+   "mappe": "tiltak-nedsatt-arbeidsevne-kjonn-aar",
+   "tittel": "Nedsatt arbeidsevne på tiltak etter kjønn, tidsserie år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "nedsattarbeidsevnep(å|a)tiltaktiltakstype",
+   "mappe": "tiltak-nedsatt-arbeidsevne-tiltakstype-aar",
+   "tittel": "Nedsatt arbeidsevne på tiltak etter tiltakstype, 2011–2025",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere"
+  },
+  {
+   "monster": "^tabell1,arbeidsindikator",
+   "mappe": "arbeidsindikator-resultater",
+   "tittel": "Arbeidsindikator, resultater (tabell 1)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell2,tidsserie,landet",
+   "mappe": "arbeidsindikator-tidsserie-landet",
+   "tittel": "Arbeidsindikator, tidsserie landet (tabell 2)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell3,tidsserie,fylkesenheter",
+   "mappe": "arbeidsindikator-tidsserie-fylke",
+   "tittel": "Arbeidsindikator, tidsserie fylkesenheter (tabell 3)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell4,tidsserie,tiltak,landet",
+   "mappe": "arbeidsindikator-tiltak-landet",
+   "tittel": "Arbeidsindikator, tidsserie tiltak, landet (tabell 4)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell5,tidsserie,tiltak,fylkesenheter",
+   "mappe": "arbeidsindikator-tiltak-fylke",
+   "tittel": "Arbeidsindikator, tidsserie tiltak, fylkesenheter (tabell 5)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "^tabell6,tidsserie,tiltak,avtaler",
+   "mappe": "arbeidsindikator-tiltak-avtaler",
+   "tittel": "Arbeidsindikator, tidsserie tiltak, avtaler (tabell 6)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/arbeidsindikator"
+  },
+  {
+   "monster": "pst610",
+   "mappe": "afp-privat-mottakere",
+   "tittel": "AFP i privat sektor, mottakere etter kjønn og fylke (PST610)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/avtalefestet-pensjon-afp"
+  },
+  {
+   "monster": "pst611",
+   "mappe": "afp-privat-nye",
+   "tittel": "AFP i privat sektor, nye mottakere (PST611)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/avtalefestet-pensjon-afp"
+  },
+  {
+   "monster": "pst620",
+   "mappe": "afp-privat-pensjon-aar",
+   "tittel": "AFP i privat sektor, gjennomsnittlig årlig pensjon (PST620)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/avtalefestet-pensjon-afp"
+  },
+  {
+   "monster": "pst410",
+   "mappe": "krigspensjon",
+   "tittel": "Mottakere av krigspensjon (PST410)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/krigspensjon"
+  },
+  {
+   "monster": "pst510",
+   "mappe": "supplerende-stonad-alderspensjon",
+   "tittel": "Supplerende stønad til alderspensjonister (PST510)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/supplerende-stonad"
+  },
+  {
+   "monster": "pst320",
+   "mappe": "gjenlevende-redusert-ytelse",
+   "tittel": "Ytelser til gjenlevende, antall og andel med redusert ytelse (PST320)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst321",
+   "mappe": "gjenlevende-antall",
+   "tittel": "Ytelser til gjenlevende, antall etter alder, kjønn og fylke (PST321)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst324",
+   "mappe": "gjenlevende-utbetalt-aar",
+   "tittel": "Utbetalt pensjon til gjenlevende ektefelle, årlig (PST324)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst351",
+   "mappe": "barnepensjon-antall",
+   "tittel": "Barnepensjonister, antall etter alder, kjønn og fylke (PST351)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst352",
+   "mappe": "barnepensjon-type",
+   "tittel": "Barnepensjonister etter type, alder og kjønn (PST352)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst353",
+   "mappe": "barnepensjon-utbetalt-aar",
+   "tittel": "Utbetalt barnepensjon, årlig (PST353)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "pst354",
+   "mappe": "omstillingsstonad",
+   "tittel": "Omstillingsstønad, antall etter alder, kjønn og fylke (PST354)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende"
+  },
+  {
+   "monster": "kon001x",
+   "mappe": "kontantstotte-fylke-kommune",
+   "tittel": "Kontantstøtte, barn med kontantstøtte etter fylke og kommune (KON001x)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte"
+  },
+  {
+   "monster": "^u300",
+   "mappe": "utbetalinger-statsregnskap-innland-utland",
+   "tittel": "Utbetalinger innland og utland, statsregnskap (U300)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u310",
+   "mappe": "utbetalinger-innland-utland-tidsserie",
+   "tittel": "Utbetalinger innland og utland, tidsserie beløp (U310)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalingernorge",
+   "mappe": "utbetalinger-norge",
+   "tittel": "Utbetalinger i Norge etter ytelse (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalingerinnlandkommuner",
+   "mappe": "utbetalinger-innland-kommuner",
+   "tittel": "Utbetalinger innland etter kommune (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalingerinnland18nordland",
+   "mappe": "utbetalinger-fylke-18-nordland",
+   "tittel": "Utbetalinger Nordland (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u510",
+   "mappe": "utbetalinger-innland-kjonn-alder-innvandrer",
+   "tittel": "Utbetalinger innland etter kjønn, alder og innvandrer (U510)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u100",
+   "mappe": "utbetalinger-utland",
+   "tittel": "Utbetalinger til utlandet (U100)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-utlandet"
+  },
+  {
+   "monster": "^u110",
+   "mappe": "utbetalinger-utland-tidsserie",
+   "tittel": "Utbetalinger til utlandet, tidsserie beløp (U110)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-utlandet"
+  },
+  {
+   "monster": "^utenforskapfraarbeidslivet2029",
+   "mappe": "utenforskap-20-29",
+   "tittel": "Utenforskap fra arbeidslivet, 20–29 år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utenforskap-fra-arbeidslivet"
+  },
+  {
+   "monster": "^utenforskapfraarbeidslivet2066",
+   "mappe": "utenforskap-20-66",
+   "tittel": "Utenforskap fra arbeidslivet, 20–66 år",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utenforskap-fra-arbeidslivet"
+  },
+  {
+   "monster": "^trygdesvindelstatistikk",
+   "mappe": "trygdesvindel",
+   "tittel": "Trygdesvindel, statistikk for året",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/trygdemisbruk"
+  },
+  {
+   "monster": "^personermedstonadfrafolketrygden",
+   "mappe": "stonadsmottakere-2007-2016",
+   "tittel": "Personer med stønad fra folketrygden og andre ordninger, 2007–2016",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/stonadsmottakere"
+  },
+  {
+   "monster": "^u500utbetalinger03oslo",
+   "mappe": "utbetalinger-fylke-03-oslo",
+   "tittel": "Utbetalinger Oslo (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger11rogaland",
+   "mappe": "utbetalinger-fylke-11-rogaland",
+   "tittel": "Utbetalinger Rogaland (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger15more",
+   "mappe": "utbetalinger-fylke-15-more",
+   "tittel": "Utbetalinger Møre og Romsdal (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger31ostfold",
+   "mappe": "utbetalinger-fylke-31-ostfold",
+   "tittel": "Utbetalinger Østfold (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger32akershus",
+   "mappe": "utbetalinger-fylke-32-akershus",
+   "tittel": "Utbetalinger Akershus (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger33buskerud",
+   "mappe": "utbetalinger-fylke-33-buskerud",
+   "tittel": "Utbetalinger Buskerud (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger34innlandet",
+   "mappe": "utbetalinger-fylke-34-innlandet",
+   "tittel": "Utbetalinger Innlandet (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger39vestfold",
+   "mappe": "utbetalinger-fylke-39-vestfold",
+   "tittel": "Utbetalinger Vestfold (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger40telemark",
+   "mappe": "utbetalinger-fylke-40-telemark",
+   "tittel": "Utbetalinger Telemark (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger42agder",
+   "mappe": "utbetalinger-fylke-42-agder",
+   "tittel": "Utbetalinger Agder (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger46vestland",
+   "mappe": "utbetalinger-fylke-46-vestland",
+   "tittel": "Utbetalinger Vestland (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger50trondelag",
+   "mappe": "utbetalinger-fylke-50-trondelag",
+   "tittel": "Utbetalinger Trøndelag (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger55troms",
+   "mappe": "utbetalinger-fylke-55-troms",
+   "tittel": "Utbetalinger Troms (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  },
+  {
+   "monster": "^u500utbetalinger56finnmark",
+   "mappe": "utbetalinger-fylke-56-finnmark",
+   "tittel": "Utbetalinger Finnmark (U500)",
+   "kildeside": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/utbetalinger-til-personer-i-norge-per-fylke-og-kommune"
+  }
+ ],
+ "hopp_over": []
+}

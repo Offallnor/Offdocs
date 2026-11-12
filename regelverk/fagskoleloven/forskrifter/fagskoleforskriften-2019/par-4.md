@@ -1,0 +1,13 @@
+# § 4. Innhenting av personopplysninger og automatisert saksbehandling
+
+**Kilde:** Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften) (2019) § 4
+
+(1) Fagskolene kan innhente opplysninger om navn, fødselsnummer eller d-nummer, statsborgerskap, arbeidserfaring og vitnemål og annen dokumentasjon på oppnådd kompetanse fra andre offentlige myndigheter, fra offentlige systemer for vitnemål og fra statlige, fylkeskommunale og private utdanningsinstitusjoner, når dette er nødvendig for å ivareta søkeren eller studentens rettigheter eller utføre skolens oppgaver.
+
+(2) Fagskolene kan fatte vedtak ved helt eller delvis automatisert saksbehandling i sine systemer. Den personen som vedtaket retter seg mot, kan kreve at vedtaket overprøves manuelt.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 23 juni 2024 nr. 1349 (i kraft 1 aug 2024).

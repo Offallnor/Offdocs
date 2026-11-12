@@ -1,0 +1,48 @@
+# Kilde: Nav
+# Tabell: Alderspensjonister med inntekts- og garantipensjon, siste måned (PST083)
+# Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon
+# Lagt inn: 2026-11-02
+# Ark: 2. Pensjonsnivå, sivilstand og 
+# Alderspensjonister med inntekts- og garantipensjon. Pensjonsnivå. September 2026
+# Pensjonsnivå, sivilstand og fylke
+# Over garantipensjonsnivået
+gruppe	rad		I alt	Enslige	Gift/samboende
+	I alt		327705	134688	193017
+	Østfold		20451	8380	12071
+	Akershus		38497	15107	23390
+	Oslo - Oslove		25768	12884	12884
+	Innlandet		27720	12322	15398
+	Buskerud		16605	7092	9513
+	Vestfold		17716	7415	10301
+	Telemark		12560	5149	7411
+	Agder		19466	7259	12207
+	Rogaland		27621	9198	18423
+	Vestland		39115	14735	24380
+	Møre og Romsdal		18474	7051	11423
+	Trøndelag - Trööndelage		29245	12143	17102
+	Nordland - Nordlánnda		17062	7503	9559
+	Troms - Romsa - Tromssa		10552	4857	5695
+	Finnmark - Finnmárku - Finmarkku		4603	2355	2248
+	Ukjent		444	287	157
+	Utland		1806	951	855
+På eller under garantipensjonsnivået	I alt		12081	3669	8412
+På eller under garantipensjonsnivået	Østfold		785	216	569
+På eller under garantipensjonsnivået	Akershus		926	277	649
+På eller under garantipensjonsnivået	Oslo - Oslove		522	159	363
+På eller under garantipensjonsnivået	Innlandet		1348	560	788
+På eller under garantipensjonsnivået	Buskerud		607	197	410
+På eller under garantipensjonsnivået	Vestfold		622	149	473
+På eller under garantipensjonsnivået	Telemark		535	134	401
+På eller under garantipensjonsnivået	Agder		823	170	653
+På eller under garantipensjonsnivået	Rogaland		1194	205	989
+På eller under garantipensjonsnivået	Vestland		1394	320	1074
+På eller under garantipensjonsnivået	Møre og Romsdal		777	195	582
+På eller under garantipensjonsnivået	Trøndelag - Trööndelage		1171	430	741
+På eller under garantipensjonsnivået	Nordland - Nordlánnda		493	180	313
+På eller under garantipensjonsnivået	Troms - Romsa - Tromssa		274	118	156
+På eller under garantipensjonsnivået	Finnmark - Finnmárku - Finmarkku		98	45	53
+På eller under garantipensjonsnivået	Ukjent		11	6	5
+På eller under garantipensjonsnivået	Utland		501	308	193
+gruppe	rad		I alt	Ukjent
+Ukjent	I alt		29	29
+Ukjent	Utland		29	29

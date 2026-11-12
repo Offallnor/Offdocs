@@ -1,0 +1,14 @@
+kode	kategori
+1A	Student, imputert på adr26 giver 1.gang
+1B	Student, imputert på adr26 giver 2.gang
+2A	Student, imputert på adr21 giver 1.gang
+2B	Student, imputert på adr21 giver 2.gang
+2C	Student, imputert på adr21 giver 3.gang
+2D	Student, imputert på adr21 giver 4.gang
+2E	Student, imputert på adr21 giver 5.gang
+2F	Student, imputert på adr21 giver 6.gang
+3A	Student, imputert NN-koblet, alene el med andre stud.
+3B	Student, imputert NN-koblet, bor med flere
+3U	Student, imputert Utlandet, alene
+3X	Student, imputert Ikke NN-koblet tr 3.2, bor alene
+3Y	Student, imputert Ikke_NN-koblet tr 3.1, bor alene
