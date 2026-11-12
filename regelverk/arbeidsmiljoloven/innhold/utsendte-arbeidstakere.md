@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utsendte arbeidstakere – FOR-2005-12-16-1566. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/utsendte-arbeidstakere/par-1.md`
 - § 2. Vurdering av om det foreligger utsending av arbeidstakere – `forskrifter/utsendte-arbeidstakere/par-2.md`
 - § 3. Arbeids- og ansettelsesvilkår – `forskrifter/utsendte-arbeidstakere/par-3.md`

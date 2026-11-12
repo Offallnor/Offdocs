@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer (teknisk og operasjonell forskrift) – FOR-2010-04-29-612. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet.
+
 **Kapittel I. Innledende bestemmelser**
 
 - § 1. Virkeområde – `forskrifter/teknisk-operasjonell-landanlegg/par-1.md`

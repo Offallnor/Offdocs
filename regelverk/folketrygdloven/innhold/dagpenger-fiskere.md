@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om dagpenger for fiskere og fangstfolk under arbeidsløshet (A-trygdforskriften) – FOR-2011-06-01-565. Sist endret i kraft: 2012-01-01. Forvaltes av: Nærings- og fiskeridepartementet.
+
 - § 1. Formål – `forskrifter/dagpenger-fiskere/par-1.md`
 - § 2. Virkeområde – `forskrifter/dagpenger-fiskere/par-2.md`
 - § 3. Forhold som gir rett til dagpenger til fiskere og fangstfolk med fartøytilknytning – `forskrifter/dagpenger-fiskere/par-3.md`

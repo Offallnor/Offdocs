@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om dagpenger under arbeidsløshet – FOR-1998-09-16-890. Sist endret i kraft: 2026-09-24. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Unntak fra kravet om opphold i Norge**
 
 - § 1-1. (utbetaling av dagpenger på Svalbard) – `forskrifter/dagpengeforskriften/par-1-1.md`

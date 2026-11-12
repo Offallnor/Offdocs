@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om alderspensjon i folketrygden – FOR-2009-12-22-1810. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1-1. Virkeområde – `forskrifter/alderspensjon-i-folketrygden/par-1-1.md`

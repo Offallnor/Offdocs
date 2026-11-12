@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om stønad til lese- og sekretærhjelp for blinde og svaksynte – FOR-1997-04-15-319. Sist endret i kraft: 2018-10-02. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Personkrets, formål og omfang – `forskrifter/lese-sekretarhjelp/par-1.md`
 - § 2. Beregning av takster og tid – `forskrifter/lese-sekretarhjelp/par-2.md`
 - § 3. Reise- og oppholdsutgifter – `forskrifter/lese-sekretarhjelp/par-3.md`

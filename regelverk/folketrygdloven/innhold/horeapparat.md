@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om stønad til høreapparat og tinnitusmaskerer – FOR-1997-04-18-337. Sist endret i kraft: 2018-10-02. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **I Høreapparat**
 
 - § 1. Personkrets – `forskrifter/horeapparat/par-1.md`

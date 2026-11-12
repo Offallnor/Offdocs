@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeid i arbeidsgivers hjem og husholdning – FOR-2022-06-03-969. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1 – Innledende bestemmelse**
 
 - § 1. Virkeområde – `forskrifter/arbeid-i-arbeidsgivers-hjem/par-1.md`

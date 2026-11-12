@@ -37,7 +37,7 @@ Fellene under gjelder arbeidsinnvandring og EØS-reglene.
 ## Kilder
 
 - **Lov:** Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven) – LOV-2008-05-15-35. Sist endret i kraft: 2026-10-01. Forvaltes av: Justis- og beredskapsdepartementet.
-- **Forskrifter:** 1 forskrifter. Lovdata-ID, sist endret i kraft og hvem som forvalter dem, står i `innhold/kilder.md`.
+- **Forskrifter:** 1 forskrift. Lovdata-ID, sist endret i kraft og hvem som forvalter dem, står i `innhold/kilder.md`.
 
 ## Tolkningskilder i basen
 
@@ -77,7 +77,7 @@ Innholdslisten er delt fordi regelverket er stort. Finn kapitlet eller forskrift
 - Kapittel 13. Særlige regler for utlendinger som omfattes av Avtale om Det europeiske økonomiske samarbeidsområdet (EØS-avtalen) og Konvensjon om opprettelse av Det europeiske Frihandelsforbund (EFTA-konvensjonen) (§§ 109 til 125 a, 18 paragrafer) – `innhold/lov-kapittel-13.md`
 - Kapittel 14. Særskilte regler for saker som berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn (§§ 126 til 138, 14 paragrafer) – `innhold/lov-kapittel-14.md`
 - Kapittel 15. Avsluttende bestemmelser (§§ 139 til 140, 2 paragrafer) – `innhold/lov-kapittel-15.md`
-- Uten kapittel (18 filer) – `innhold/lov-18.md`
+- Uten kapittel (18 filer) – `innhold/lov-uten-kapittel.md`
 - Innhold utenfor paragrafene: Vedlegg, tabeller o.l. – `lov/utenfor-paragrafene.md`
 
 ### Forskrifter

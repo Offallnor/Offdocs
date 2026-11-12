@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften) – FOR-2009-08-03-1028. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1. Formål – `forskrifter/byggherreforskriften/par-1.md`

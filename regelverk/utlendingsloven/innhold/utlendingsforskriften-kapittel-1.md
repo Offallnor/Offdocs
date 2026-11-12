@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Utlendingsloven. Stiene er relative til `regelverk/utlendingsloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) – FOR-2009-10-15-1286. Sist endret i kraft: 2026-10-19. Forvaltes av: Arbeids- og inkluderingsdepartementet Justis- og beredskapsdepartementet.
+
 **Kapittel 1. Lovens og forskriftens virkeområde mv.**
 
 - § 1-1. Unntak fra kravet om oppholdstillatelse for arbeidsforhold – `forskrifter/utlendingsforskriften/par-1-1.md`

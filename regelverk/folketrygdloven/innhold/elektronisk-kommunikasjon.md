@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om elektronisk kommunikasjon med Arbeids- og velferdsetaten – FOR-2009-10-02-1285. Sist endret i kraft: 2015-04-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Formål – `forskrifter/elektronisk-kommunikasjon/par-1.md`
 - § 2. Virkeområde – `forskrifter/elektronisk-kommunikasjon/par-2.md`
 - § 3. Pålegg om elektronisk kommunikasjon med Arbeids- og velferdsetaten – `forskrifter/elektronisk-kommunikasjon/par-3.md`

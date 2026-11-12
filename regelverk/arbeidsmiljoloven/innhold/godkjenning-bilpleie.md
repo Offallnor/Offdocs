@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester – FOR-2022-02-11-206. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1. Formål – `forskrifter/godkjenning-bilpleie/par-1.md`

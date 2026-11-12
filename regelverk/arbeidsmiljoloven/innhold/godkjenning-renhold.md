@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester – FOR-2012-05-08-408. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1. Formål – `forskrifter/godkjenning-renhold/par-1.md`

@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om menerstatning ved yrkesskade. – FOR-1997-04-21-373. Sist endret i kraft: 2006-11-24. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Del I. Alminnelige bestemmelser**
 
 - § 1. Innledning – `forskrifter/menerstatning/par-1.md`

@@ -2,5 +2,7 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om gjennomføring av bilaterale trygdeavtaler – FOR-2024-11-15-2778. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. – `forskrifter/bilaterale-trygdeavtaler/par-1.md`
 - § 2. – `forskrifter/bilaterale-trygdeavtaler/par-2.md`

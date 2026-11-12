@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om føring av statistikk over sykefravær og fravær ved barns sykdom. – FOR-1997-03-25-272. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Arbeidsgivers plikt til å føre statistikk – `forskrifter/statistikk-sykefravaer/par-1.md`
 - § 2. Formålet med sykefraværsstatistikken – `forskrifter/statistikk-sykefravaer/par-2.md`
 - § 3. Hvem skal omfattes av registreringen – `forskrifter/statistikk-sykefravaer/par-3.md`

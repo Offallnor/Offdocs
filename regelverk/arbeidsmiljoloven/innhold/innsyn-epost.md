@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale – FOR-2018-07-02-1108. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/innsyn-epost/par-1.md`
 - § 2. Vilkår for innsyn – `forskrifter/innsyn-epost/par-2.md`
 - § 3. Prosedyrer ved innsyn – `forskrifter/innsyn-epost/par-3.md`

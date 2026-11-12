@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om styring og opplysningsplikt i petroleumsvirksomheten og på enkelte landanlegg (styringsforskriften) – FOR-2010-04-29-611. Sist endret i kraft: 2025-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
+
 **Kapittel I. Innledende bestemmelser**
 
 - § 1. Virkeområde – `forskrifter/styringsforskriften/par-1.md`

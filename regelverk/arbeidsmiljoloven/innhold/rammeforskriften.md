@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften) – FOR-2010-02-12-158. Sist endret i kraft: 2024-01-01. Forvaltes av: Energidepartementet.
+
 **Kap. I. Innledende bestemmelser**
 
 - § 1. Formål – `forskrifter/rammeforskriften/par-1.md`

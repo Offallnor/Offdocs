@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om HMS-kort i virksomheter som transporterer andres varer med bil – FOR-2025-06-20-1152. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Formål, virkeområde og definisjoner**
 
 - § 1-1. Formål – `forskrifter/hms-kort-transport/par-1-1.md`

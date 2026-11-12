@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Universitets- og høyskoleloven. Stiene er relative til `regelverk/universitets-og-hoyskoleloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften) – FOR-2024-06-28-1392. Sist endret i kraft: 2026-08-01. Forvaltes av: Kunnskapsdepartementet.
+
 **Kapittel 1. Krav til akkreditering, studiekvalitet mv.**
 
 - § 1-1. Generelle krav til institusjonsakkreditering – `forskrifter/universitets-og-hoyskoleforskriften/par-1-1.md`

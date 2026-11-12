@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om ytelser til gjenlevende ektefelle og tidligere familiepleier etter folketrygdloven kapittel 17 – FOR-2023-06-21-1007. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1. Virkeområde – `forskrifter/ytelser-gjenlevende/par-1.md`

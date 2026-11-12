@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidstid for sjåfører og andre innenfor vegtransport – FOR-2005-06-10-543. Sist endret i kraft: 2024-01-01. Forvaltes av: Samferdselsdepartementet.
+
 **Innledende bestemmelser**
 
 - § 1. Formål – `forskrifter/vegtransport/par-1.md`

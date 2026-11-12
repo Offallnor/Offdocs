@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om administrative ordninger på arbeidsmiljølovens område (forskrift om administrative ordninger) – FOR-2011-12-06-1360. Sist endret i kraft: 2024-09-30. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1-1. Virkeområde – `forskrifter/administrative-ordninger/par-1-1.md`

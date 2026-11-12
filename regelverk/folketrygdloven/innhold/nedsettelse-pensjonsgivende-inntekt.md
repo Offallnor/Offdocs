@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt – FOR-1997-12-18-1408. Sist endret i kraft: 2026-01-01. Forvaltes av: Finansdepartementet.
+
 **I**
 
 - § 1. – `forskrifter/nedsettelse-pensjonsgivende-inntekt/par-1.md`

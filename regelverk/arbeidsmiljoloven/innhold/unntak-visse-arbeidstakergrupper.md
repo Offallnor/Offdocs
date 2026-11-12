@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om unntak fra arbeidsmiljøloven for visse typer arbeid og arbeidstakergrupper. – FOR-2005-12-16-1567. Sist endret i kraft: 2021-06-04. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Statsansatte og embetsmenn – `forskrifter/unntak-visse-arbeidstakergrupper/par-1.md`
 - § 2. Utenriksstasjonene – `forskrifter/unntak-visse-arbeidstakergrupper/par-2.md`
 - § 3. Forsvaret og virksomhet i tilknytning til Forsvarets øvingsvirksomhet – `forskrifter/unntak-visse-arbeidstakergrupper/par-3.md`

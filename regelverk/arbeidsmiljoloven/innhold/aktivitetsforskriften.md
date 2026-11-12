@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften) – FOR-2010-04-29-613. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet Klima- og miljødepartementet.
+
 **Kap. I. Innledende bestemmelser**
 
 - § 1. Virkeområde – `forskrifter/aktivitetsforskriften/par-1.md`

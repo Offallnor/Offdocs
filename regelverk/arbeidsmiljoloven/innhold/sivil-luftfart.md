@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart. – FOR-1986-02-21-540. Sist endret i kraft: 2010-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Arbeidsmiljøloven og forskriftenes virkeområder.**
 
 - § 1. – `forskrifter/sivil-luftfart/par-1.md`

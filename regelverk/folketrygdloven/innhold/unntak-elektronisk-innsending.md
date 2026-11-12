@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om unntak fra pålegg om elektronisk kommunikasjon ved innsending av erklæringer og uttalelser til Arbeids- og velferdsetaten (NAV) – FOR-2009-12-07-1480. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Unntak uten søknad – `forskrifter/unntak-elektronisk-innsending/par-1.md`
 - § 2. Innsending på annen måte enn over linje – `forskrifter/unntak-elektronisk-innsending/par-2.md`
 - § 3. Unntak etter søknad – `forskrifter/unntak-elektronisk-innsending/par-3.md`

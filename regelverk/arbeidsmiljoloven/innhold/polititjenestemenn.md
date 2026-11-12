@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om unntak fra arbeidsmiljølovens arbeidstidsbestemmelser for polititjenestemenn mv. – FOR-2009-06-26-873. Sist endret i kraft: 2021-12-03. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/polititjenestemenn/par-1.md`
 - § 2. Daglig arbeidsfri periode kortere enn 11 timer – `forskrifter/polititjenestemenn/par-2.md`
 - § 3. Daglig arbeidsfri periode kortere enn 8 timer – `forskrifter/polititjenestemenn/par-3.md`

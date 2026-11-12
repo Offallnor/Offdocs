@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om tilskudd til ekspertbistand – FOR-2019-08-29-1105. Sist endret i kraft: 2026-03-29. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Formål – `forskrifter/ekspertbistand/par-1.md`
 - § 2. Personkrets – `forskrifter/ekspertbistand/par-2.md`
 - § 3. Innhold – `forskrifter/ekspertbistand/par-3.md`

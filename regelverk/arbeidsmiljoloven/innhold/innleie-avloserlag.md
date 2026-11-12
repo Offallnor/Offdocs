@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om innleie av avløser fra avløserlag – FOR-2025-07-01-1377. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Formål – `forskrifter/innleie-avloserlag/par-1.md`
 - § 2. Virkeområde – `forskrifter/innleie-avloserlag/par-2.md`
 - § 3. Definisjoner – `forskrifter/innleie-avloserlag/par-3.md`

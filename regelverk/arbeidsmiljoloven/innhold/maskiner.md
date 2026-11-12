@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om maskiner – FOR-2009-05-20-544. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Justis- og beredskapsdepartementet Klima- og miljødepartementet.
+
 **1. Innholdet i samsvarserklæringer**
 
 

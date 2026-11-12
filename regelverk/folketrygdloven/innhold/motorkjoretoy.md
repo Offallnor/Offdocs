@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om stønad til motorkjøretøy eller annet transportmiddel – FOR-2003-03-07-290. Sist endret i kraft: 2025-11-03. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Personkrets og formål – `forskrifter/motorkjoretoy/par-1.md`
 - § 2. Definisjoner – `forskrifter/motorkjoretoy/par-2.md`
 - § 3. Alminnelige vilkår for stønad til anskaffelse av motorkjøretøy mv. – `forskrifter/motorkjoretoy/par-3.md`

@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om stønad til enslig mor eller far etter folketrygdloven kapittel 15 – FOR-2015-11-21-1341. Sist endret i kraft: 2026-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Unntak fra kravet til forutgående medlemskap – `forskrifter/stonad-enslig-mor-far/par-1.md`
 - § 2. (Opphevet) – `forskrifter/stonad-enslig-mor-far/par-2.md`
 - § 3. Nære boforhold – `forskrifter/stonad-enslig-mor-far/par-3.md`

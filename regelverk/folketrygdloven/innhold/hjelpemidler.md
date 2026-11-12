@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen – FOR-1997-04-15-318. Sist endret i kraft: 2026-11-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Personkrets og formål – `forskrifter/hjelpemidler/par-1.md`
 - § 2. Hjelpemidler, jf folketrygdloven § 10-7 første ledd bokstav a – `forskrifter/hjelpemidler/par-2.md`
 - § 3. Grunnmønster til søm av klær, jf folketrygdloven § 10-7 første ledd bokstav c – `forskrifter/hjelpemidler/par-3.md`

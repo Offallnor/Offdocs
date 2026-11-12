@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) – FOR-2011-12-06-1357. Sist endret i kraft: 2026-09-29. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 10. Krav til bruk av arbeidsutstyr**
 
 - § 10-1. Krav om dokumentert sikkerhetsopplæring for arbeidsutstyr som krever særlig forsiktighet ved bruk – `forskrifter/utforelse-av-arbeid/par-10-1.md`

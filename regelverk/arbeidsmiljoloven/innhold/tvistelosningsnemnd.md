@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om tvisteløsningsnemnd etter arbeidsmiljøloven – FOR-2005-12-16-1569. Sist endret i kraft: 2019-11-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Tvisteløsningsnemndas oppnevning og organisering – `forskrifter/tvistelosningsnemnd/par-1.md`
 - § 2. Tvisteløsningsnemndas sammensetning i den enkelte sak – `forskrifter/tvistelosningsnemnd/par-2.md`
 - § 3. Tvisteløsningsnemndas sekretariat – `forskrifter/tvistelosningsnemnd/par-3.md`

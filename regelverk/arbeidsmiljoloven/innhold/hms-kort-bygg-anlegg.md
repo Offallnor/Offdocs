@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om HMS-kort på bygge- og anleggsplasser – FOR-2007-03-30-366. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Formål – `forskrifter/hms-kort-bygg-anlegg/par-1.md`
 - § 2. Virkeområde – `forskrifter/hms-kort-bygg-anlegg/par-2.md`
 - § 3. Vilkår for utstedelse av HMS-kort i bygge- og anleggsbransjen – `forskrifter/hms-kort-bygg-anlegg/par-3.md`

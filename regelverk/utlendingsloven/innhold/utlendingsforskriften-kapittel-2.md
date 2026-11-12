@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Utlendingsloven. Stiene er relative til `regelverk/utlendingsloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) – FOR-2009-10-15-1286. Sist endret i kraft: 2026-10-19. Forvaltes av: Arbeids- og inkluderingsdepartementet Justis- og beredskapsdepartementet.
+
 **Kapittel 2. Krav til reisedokumenter for innreise i Norge**
 
 - § 2-1. Unntak fra kravet om reisedokument – `forskrifter/utlendingsforskriften/par-2-1.md`

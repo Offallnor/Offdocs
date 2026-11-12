@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Universitets- og høyskoleloven. Stiene er relative til `regelverk/universitets-og-hoyskoleloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring – FOR-2017-11-08-1846. Forvaltes av: Kunnskapsdepartementet.
+
 - § 1. Formål og virkeområde – `forskrifter/kvalifikasjonsrammeverket/par-1.md`
 - § 2. Definisjoner – `forskrifter/kvalifikasjonsrammeverket/par-2.md`
 - § 3. Departementets ansvar – `forskrifter/kvalifikasjonsrammeverket/par-3.md`

@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om konstruksjon, utforming og fremstilling av arbeidsutstyr og kjemikalier (produsentforskriften) – FOR-2011-12-06-1359. Sist endret i kraft: 2020-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1-1. Formål – `forskrifter/produsentforskriften/par-1-1.md`

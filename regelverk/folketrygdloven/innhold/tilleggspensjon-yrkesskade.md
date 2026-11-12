@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om beregning av tilleggspensjon ved yrkesskade. – FOR-1997-03-11-209. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Personkrets – `forskrifter/tilleggspensjon-yrkesskade/par-1.md`
 - § 2. Kravet til full opptjeningstid – `forskrifter/tilleggspensjon-yrkesskade/par-2.md`
 - § 3. Pensjonsprosenten – `forskrifter/tilleggspensjon-yrkesskade/par-3.md`

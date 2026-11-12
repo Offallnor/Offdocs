@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utvidet stønad til helsetjenester under opphold i utlandet – FOR-1997-04-30-391. Sist endret i kraft: 2021-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet Helse- og omsorgsdepartementet.
+
 - § 1. Område – `forskrifter/utvidet-helsetjenester-utlandet/par-1.md`
 - § 2. Personkrets – `forskrifter/utvidet-helsetjenester-utlandet/par-2.md`
 - § 3. Utvidet stønad – `forskrifter/utvidet-helsetjenester-utlandet/par-3.md`

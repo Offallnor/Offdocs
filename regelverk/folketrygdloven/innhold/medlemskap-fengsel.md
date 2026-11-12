@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om medlemskap i trygden under fengselsopphold mv. – FOR-2012-06-22-603. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1. Hva forskriften gjelder – `forskrifter/medlemskap-fengsel/par-1.md`

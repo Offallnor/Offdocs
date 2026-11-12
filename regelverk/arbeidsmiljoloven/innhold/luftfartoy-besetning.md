@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4) – FOR-2004-12-30-1817. Sist endret i kraft: 2016-07-01. Forvaltes av: Samferdselsdepartementet.
+
 - § 1. Formål – `forskrifter/luftfartoy-besetning/par-1.md`
 - § 2. Virkeområde – `forskrifter/luftfartoy-besetning/par-2.md`
 - § 3. Definisjoner – `forskrifter/luftfartoy-besetning/par-3.md`

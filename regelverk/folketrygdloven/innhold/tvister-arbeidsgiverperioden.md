@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om behandling av tvister i arbeidsgiverperioden – FOR-1997-03-25-268. Sist endret i kraft: 2006-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **I. Saklig myndighetsområde**
 
 - § 1. – `forskrifter/tvister-arbeidsgiverperioden/par-1.md`

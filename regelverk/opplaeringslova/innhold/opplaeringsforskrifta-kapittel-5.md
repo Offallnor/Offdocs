@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Opplæringslova. Stiene er relative til `regelverk/opplaeringslova/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) – FOR-2024-06-03-900. Sist endret i kraft: 2026-08-01. Forvaltes av: Kunnskapsdepartementet.
+
 **Kapittel 5. Innhaldet i den vidaregåande opplæringa**
 
 - § 5-1. Læreplanverket og tilbodsstrukturen – `forskrifter/opplaeringsforskrifta/par-5-1.md`

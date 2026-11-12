@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Opplæringslova. Stiene er relative til `regelverk/opplaeringslova/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) – FOR-2024-06-03-900. Sist endret i kraft: 2026-08-01. Forvaltes av: Kunnskapsdepartementet.
+
 **Kapittel 9. Individuell vurdering**
 
 - § 9-1. Formålet med og grunnlaget for vurdering i fag – `forskrifter/opplaeringsforskrifta/par-9-1.md`

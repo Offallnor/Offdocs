@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidstid mv. for arbeidstakere i grensekryssende jernbanetrafikk – FOR-2008-07-03-783. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområdet – `forskrifter/grensekryssende-jernbane/par-1.md`
 - § 2. Definisjoner – `forskrifter/grensekryssende-jernbane/par-2.md`
 - § 3. Kjøretid – `forskrifter/grensekryssende-jernbane/par-3.md`

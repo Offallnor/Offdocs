@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om disponering av kontantytelser fra folketrygden under opphold i kommunal helse- og omsorgsinstitusjon og i helseinstitusjon i spesialisthelsetjenesten – FOR-2014-02-14-137. Sist endret i kraft: 2021-11-01. Forvaltes av: Helse- og omsorgsdepartementet.
+
 **Kapittel 1. Virkeområde**
 
 - § 1. Virkeområde – `forskrifter/disponering-institusjon/par-1.md`

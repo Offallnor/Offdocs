@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om pensjonsberegning, om tilståelse og beregning av barnetillegg og barnepensjon og om gjennomføringa av folketrygdlovens bestemmelser om inntektsprøving i tilfelle som omfattes av EØS-avtalen. – FOR-1993-12-23-1251. Sist endret i kraft: 1998-01-16. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **I. Forskriftens omfang**
 
 - § 1. EØS-land – `forskrifter/pensjonsberegning-barnetillegg/par-1.md`

@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden – FOR-2011-05-06-465. Sist endret i kraft: 2022-04-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/regulering-lonnsvekst/par-1.md`
 - § 2. Lønnsvekst i reguleringsåret og avvik mellom forventet og faktisk lønnsutvikling siste to år – `forskrifter/regulering-lonnsvekst/par-2.md`
 - § 2a. Særskilt om fastsettelse av forventet lønnsutvikling for 2020 – `forskrifter/regulering-lonnsvekst/par-2a.md`

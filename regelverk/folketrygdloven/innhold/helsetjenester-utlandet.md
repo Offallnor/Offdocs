@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om stønad til dekning av utgifter til helsetjenester i utlandet. – FOR-1997-04-30-390. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. – `forskrifter/helsetjenester-utlandet/par-1.md`
 - § 2. – `forskrifter/helsetjenester-utlandet/par-2.md`
 - § 3. – `forskrifter/helsetjenester-utlandet/par-3.md`

@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om overtredelsesgebyr og tvangsmulkt etter folketrygdloven § 25-3 ved brudd på opplysningsplikten til Arbeidsgiver- og arbeidstakerregisteret mv. – FOR-2014-07-10-968. Sist endret i kraft: 2021-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Forskriftens innhold – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-1.md`
 - § 2. En eller flere forsømmelser – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-2.md`
 - § 3. Melding til Arbeids- og velferdsdirektoratet om ileggelse av tvangsmulkt – `forskrifter/overtredelsesgebyr-tvangsmulkt/par-3.md`

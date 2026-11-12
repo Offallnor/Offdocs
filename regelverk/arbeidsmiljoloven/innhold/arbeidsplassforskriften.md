@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utforming og innretning av arbeidsplasser, arbeidslokaler og innkvartering (arbeidsplassforskriften) – FOR-2011-12-06-1356. Sist endret i kraft: 2026-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1-1. Formål – `forskrifter/arbeidsplassforskriften/par-1-1.md`

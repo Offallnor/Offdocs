@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om omregning av uførepensjon til uføretrygd – FOR-2014-07-03-947. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-1.md`
 - § 2. Overgang til uføretrygd – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-2.md`
 - § 3. Grunnlaget for beregning av uføretrygd – `forskrifter/omregning-uforepensjon-til-uforetrygd/par-3.md`

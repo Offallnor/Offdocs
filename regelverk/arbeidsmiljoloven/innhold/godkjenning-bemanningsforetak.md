@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om offentlig godkjenning av bemanningsforetak – FOR-2008-06-04-541. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/godkjenning-bemanningsforetak/par-1.md`
 - § 2. Godkjenning og register – `forskrifter/godkjenning-bemanningsforetak/par-2.md`
 - § 3. Generelle krav til bemanningsforetak – `forskrifter/godkjenning-bemanningsforetak/par-3.md`

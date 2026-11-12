@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) – FOR-2011-12-06-1357. Sist endret i kraft: 2026-09-29. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **Kapittel 3. Arbeid hvor kjemikalier kan utgjøre en fare for arbeidstakeres sikkerhet og helse**
 
 - § 3-1. Risikovurdering av helsefare ved bruk og håndtering av kjemikalier – `forskrifter/utforelse-av-arbeid/par-3-1.md`

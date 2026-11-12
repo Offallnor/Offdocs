@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14 – FOR-2026-05-22-869. Sist endret i kraft: 2026-09-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. – `forskrifter/grunnbelop-og-satser/par-1.md`
 - § 2. – `forskrifter/grunnbelop-og-satser/par-2.md`
 - § 3. – `forskrifter/grunnbelop-og-satser/par-3.md`

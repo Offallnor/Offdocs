@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeid som utføres i arbeidstakers hjem – FOR-2002-07-05-715. Sist endret i kraft: 2022-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/arbeid-i-arbeidstakers-hjem/par-1.md`
 - § 2. Skriftlig avtale – `forskrifter/arbeid-i-arbeidstakers-hjem/par-2.md`
 - § 3. Arbeidsmiljøet – `forskrifter/arbeid-i-arbeidstakers-hjem/par-3.md`

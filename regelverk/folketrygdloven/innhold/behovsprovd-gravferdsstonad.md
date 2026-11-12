@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om behovsprøvet gravferdsstønad – FOR-2002-12-12-1492. Sist endret i kraft: 2023-07-07. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Utgiftsgrunnlag – `forskrifter/behovsprovd-gravferdsstonad/par-1.md`
 - § 2. Formue – `forskrifter/behovsprovd-gravferdsstonad/par-2.md`
 - § 3. Dokumentasjon – `forskrifter/behovsprovd-gravferdsstonad/par-3.md`

@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften) – FOR-2016-06-03-569. Sist endret i kraft: 2024-01-01. Forvaltes av: Justis- og beredskapsdepartementet.
+
 - § 1. Formål – `forskrifter/storulykker/par-1.md`
 - § 2. Virkeområde – `forskrifter/storulykker/par-2.md`
 - § 3. Definisjoner – `forskrifter/storulykker/par-3.md`

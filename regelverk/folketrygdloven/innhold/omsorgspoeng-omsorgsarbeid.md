@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person – FOR-1997-03-11-204. Sist endret i kraft: 2017-10-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Omsorgsarbeidets omfang – `forskrifter/omsorgspoeng-omsorgsarbeid/par-1.md`
 - § 2. Omsorgsarbeid for flere personer – `forskrifter/omsorgspoeng-omsorgsarbeid/par-2.md`
 - § 3. Flere utøver omsorgsarbeid for samme person – `forskrifter/omsorgspoeng-omsorgsarbeid/par-3.md`

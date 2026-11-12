@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om plikt til å utarbeide arbeidsreglement ved virksomheter innen hotell- og restaurantbransjen. – FOR-1991-10-31-1014. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **I**
 
 - § 1. Formål – `forskrifter/arbeidsreglement-hotell-restaurant/par-1.md`

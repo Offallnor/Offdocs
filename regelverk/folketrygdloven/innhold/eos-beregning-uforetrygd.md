@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om beregning av uføretrygd etter EØS-avtalen – FOR-2015-02-12-130. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/eos-beregning-uforetrygd/par-1.md`
 - § 2. Fastsetting av grunnlaget for beregning av uføretrygd – `forskrifter/eos-beregning-uforetrygd/par-2.md`
 - § 3. Minste årlig ytelse – `forskrifter/eos-beregning-uforetrygd/par-3.md`

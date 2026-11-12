@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Universitets- og høyskoleloven. Stiene er relative til `regelverk/universitets-og-hoyskoleloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om generell godkjenning av utenlandsk høyere utdanning – FOR-2024-05-21-789. Forvaltes av: Kunnskapsdepartementet.
+
 **Kapittel 1. Innledende bestemmelser**
 
 - § 1-1. Virkeområde – `forskrifter/godkjenning-utenlandsk-hoyere-utdanning/par-1-1.md`

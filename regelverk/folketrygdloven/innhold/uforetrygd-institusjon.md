@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om beregning av uføretrygd og pensjon mv. under opphold i institusjon – FOR-2014-10-31-1376. Sist endret i kraft: 2024-01-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Beregning av graderte ytelser – `forskrifter/uforetrygd-institusjon/par-1.md`
 - § 2. Tillegg for faste utgifter – `forskrifter/uforetrygd-institusjon/par-2.md`
 - § 3. Maksimal ytelse – `forskrifter/uforetrygd-institusjon/par-3.md`

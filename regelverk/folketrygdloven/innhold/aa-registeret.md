@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om Arbeidsgiver- og arbeidstakerregisteret – FOR-2008-08-18-942. Sist endret i kraft: 2024-12-23. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 **I. Innledende bestemmelser**
 
 - § 1. Registeransvarlig – `forskrifter/aa-registeret/par-1.md`

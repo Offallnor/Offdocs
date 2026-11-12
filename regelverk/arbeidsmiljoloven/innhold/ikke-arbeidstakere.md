@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere. – FOR-2005-12-16-1568. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Elever ved institusjoner som har undervisning eller forskning som formål – `forskrifter/ikke-arbeidstakere/par-1.md`
 - § 2. Vernepliktige, sivile tjenestepliktige og elever ved Forsvarets skoler – `forskrifter/ikke-arbeidstakere/par-2.md`
 - § 3. Innsatte i kriminalomsorgens anstalter – `forskrifter/ikke-arbeidstakere/par-3.md`

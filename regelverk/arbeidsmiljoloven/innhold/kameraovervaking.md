@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om kameraovervåking i virksomhet – FOR-2018-07-02-1107. Sist endret i kraft: 2021-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/kameraovervaking/par-1.md`
 - § 2. Vilkår for kameraovervåking i virksomhet – `forskrifter/kameraovervaking/par-2.md`
 - § 3. Tilleggsvilkår for kameraovervåking av område i virksomheten hvor en begrenset krets av personer ferdes jevnlig – `forskrifter/kameraovervaking/par-3.md`

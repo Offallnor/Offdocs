@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om unntak fra arbeidsmiljøloven med tilhørende forskrifter for sivil luftfart mv. – FOR-2018-12-20-2182. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/unntak-sivil-luftfart/par-1.md`
 - § 2. Forrang for luftfartsloven – `forskrifter/unntak-sivil-luftfart/par-2.md`
 - § 3. Arbeidstid – `forskrifter/unntak-sivil-luftfart/par-3.md`

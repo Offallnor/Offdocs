@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Folketrygdloven. Stiene er relative til `regelverk/folketrygdloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidsavklaringspenger – FOR-2017-12-13-2100. Sist endret i kraft: 2026-03-24. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. Virkeområde – `forskrifter/arbeidsavklaringspenger/par-1.md`
 - § 2. Arbeidsrettet tiltak – `forskrifter/arbeidsavklaringspenger/par-2.md`
 - § 3. Fravær fra fastsatt aktivitet – `forskrifter/arbeidsavklaringspenger/par-3.md`

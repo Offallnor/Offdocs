@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Arbeidsmiljøloven. Stiene er relative til `regelverk/arbeidsmiljoloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om arbeidstid for avlastere – FOR-2017-06-25-1052. Sist endret i kraft: 2022-07-01. Forvaltes av: Arbeids- og inkluderingsdepartementet.
+
 - § 1. – `forskrifter/avlastere/par-1.md`
 - § 2. – `forskrifter/avlastere/par-2.md`
 - § 3. (Opphevet) – `forskrifter/avlastere/par-3.md`

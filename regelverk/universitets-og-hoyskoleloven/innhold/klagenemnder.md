@@ -2,6 +2,8 @@
 
 Del av innholdslisten for Universitets- og høyskoleloven. Stiene er relative til `regelverk/universitets-og-hoyskoleloven/`. Åpne paragraffilen før du svarer.
 
+Kilde: Forskrift om enkelte klagenemnder på Kunnskapsdepartementets område – FOR-2025-07-02-1462. Sist endret i kraft: 2026-08-01. Forvaltes av: Kunnskapsdepartementet.
+
 **Kapittel 1. Virkeområde**
 
 - § 1. Virkeområde – `forskrifter/klagenemnder/par-1.md`
