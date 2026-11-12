@@ -457,7 +457,7 @@ def paragrafspenn(oppf: list) -> str:
     return f"§§ {ps[0]} til {ps[-1]}, {len(ps)} paragrafer"
 
 
-def innhold(mappe: Path, lovnavn: str, kapitler: list, forskriftsblokker: list, liste) -> list:
+def innhold(mappe: Path, lovnavn: str, kapitler: list, forskriftsblokker: list, liste, kildelinjer=None) -> list:
     """«Innhold»-delen av veiviseren. Over DEL_OVER tegn deles den i filer under innhold/,
     og veiviseren får en innholdsfortegnelse med én linje per lovkapittel og forskrift
     (eller per kapittel i forskrifter med lang liste)."""
@@ -477,7 +477,9 @@ def innhold(mappe: Path, lovnavn: str, kapitler: list, forskriftsblokker: list, 
     rot = mappe.relative_to(ROT).as_posix()
     brukt = set()
 
-    def skriv(filnavn: str, tittel: str, linjer: list) -> str:
+    kildelinjer = kildelinjer or {}
+
+    def skriv(filnavn: str, tittel: str, linjer: list, kilde: str = "") -> str:
         stamme = filnavn[:-3]
         n = 2
         while filnavn in brukt:
@@ -487,6 +489,8 @@ def innhold(mappe: Path, lovnavn: str, kapitler: list, forskriftsblokker: list, 
         hode = [f"# {tittel}", "",
                 f"Del av innholdslisten for {lovnavn}. Stiene er relative til `{rot}/`. "
                 "Åpne paragraffilen før du svarer.", ""]
+        if kilde:
+            hode += [f"Kilde: {kilde}", ""]
         (utmappe / filnavn).write_text("\n".join(hode + linjer).rstrip() + "\n", encoding="utf-8")
         return f"{INNHOLD}/{filnavn}"
 
@@ -496,13 +500,14 @@ def innhold(mappe: Path, lovnavn: str, kapitler: list, forskriftsblokker: list, 
             if not oppf:
                 continue
             etikett = kaptittel or "Uten kapittel"
+            filnavn = filnavn_kapittel(prefiks, kaptittel, nr) if kaptittel else f"{prefiks}-uten-kapittel.md"
             if len(oppf) == 1:
                 # Én fil i kapitlet: vis rett til den
                 tittel, fil = oppf[0]
                 ut.append(f"- {etikett}: {tittel} – `{fil.relative_to(mappe).as_posix()}`")
                 continue
             linjer = liste(navn, [(kaptittel, oppf)], er_loven=er_loven, indekser=False)[2:]
-            sti = skriv(filnavn_kapittel(prefiks, kaptittel or "", nr), f"{navn}: {etikett}", linjer)
+            sti = skriv(filnavn, f"{navn}: {etikett}", linjer, kildelinjer.get(navn, ""))
             ut.append(f"- {etikett} ({paragrafspenn(oppf)}) – `{sti}`")
         return ut
 
@@ -521,7 +526,7 @@ def innhold(mappe: Path, lovnavn: str, kapitler: list, forskriftsblokker: list, 
         if len("\n".join(d)) > PER_KAPITTEL and sum(1 for _, k in fkap if k) > 1:
             ut += ["", f"**{navn}**", ""] + per_kapittel(navn, fkap, slug, False) + [""]
         else:
-            sti = skriv(f"{slug}.md", navn, d[2:])
+            sti = skriv(f"{slug}.md", navn, d[2:], kildelinjer.get(navn, ""))
             ut.append(f"- {navn} ({paragrafspenn(oppf)}) – `{sti}`")
     return ut + [""]
 
@@ -558,6 +563,7 @@ def main() -> int:
         etikett = "Lov" if lov["lov"].startswith("LOV") else "Forskrift/instruks"
         linjer = ["## Kilder", "", f"- **{etikett}:** {kilde_linje(meta)}"]
         forskriftsblokker = []
+        fs_kilder = {}
         dokumenter = [(refid_for(lovfil), lov["navn"], mappe / "lov")]
         for fs in lov.get("forskrifter", []):
             fsfil = finn(oppslag, fs["id"])
@@ -571,6 +577,7 @@ def main() -> int:
                 continue
             linjer.append(f"- **Forskrift:** {kilde_linje(fmeta)}")
             forskriftsblokker.append((fs["navn"], fkap))
+            fs_kilder[fs["navn"]] = kilde_linje(fmeta)
             dokumenter.append((refid_for(fsfil), fs["navn"], mappe / "forskrifter" / fs["slug"]))
 
         if ventende is None:
@@ -600,7 +607,7 @@ def main() -> int:
             return ut
 
         linjer += [""] + tolkningskilder(mappe) + endringsavsnitt
-        innholdslinjer = innhold(mappe, lov["navn"], kapitler, forskriftsblokker, liste)
+        innholdslinjer = innhold(mappe, lov["navn"], kapitler, forskriftsblokker, liste, fs_kilder)
         if (mappe / INNHOLD).is_dir():
             # Delt veiviser: kildelisten for forskriftene flyttes til en egen fil
             fs_linjer = [l for l in linjer if l.startswith("- **Forskrift:**")]
@@ -609,7 +616,7 @@ def main() -> int:
                     f"# {lov['navn']}: kilder for forskriftene\n\n" + "\n".join(fs_linjer) + "\n", encoding="utf-8")
                 pos = linjer.index(fs_linjer[0])
                 linjer = [l for l in linjer if l not in fs_linjer]
-                linjer.insert(pos, f"- **Forskrifter:** {len(fs_linjer)} forskrifter. Lovdata-ID, sist endret i kraft "
+                linjer.insert(pos, f"- **Forskrifter:** {len(fs_linjer)} forskrift{'er' if len(fs_linjer) != 1 else ''}. Lovdata-ID, sist endret i kraft "
                                    f"og hvem som forvalter dem, står i `{INNHOLD}/kilder.md`.")
         linjer += innholdslinjer
         linjer += eu_avsnitt
