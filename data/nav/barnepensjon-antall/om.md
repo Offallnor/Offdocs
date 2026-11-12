@@ -1,12 +1,12 @@
 # Barnepensjonister, antall etter alder, kjønn og fylke (PST351)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-Lagt inn: 2026-10-17
+Lagt inn: 2026-11-12
 
 ## Om statistikken
 
 - Kilde: NAV
-- Barnepensjonister. Antall. Alder, kjønn og fylke. Juni 2016 - 2026
+- Barnepensjonister. Antall. Alder, kjønn og fylke. September 2016 - 2026
 - Om statistikken
 - Innhold i rapporten
 - Se "Om statistikken" på nav.no I henhold til Statistikklovens § 7-1 har NAV valgt å erstatte verdier i celler hvor tallene er mindre enn 4 med spesialtegn «*». Dette for å sikre at verdiene ikke kan føres tilbake til identifiserbare enkeltpersoner.

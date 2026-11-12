@@ -1,10 +1,10 @@
 # Kilde: Nav
 # Tabell: Omstillingsstønad, antall etter alder, kjønn og fylke (PST354)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-12
 # Ark: Tidsserie
-# Omstillingsstønad. Antall. Alder, kjønn og fylke. Juni 2026
-rad	Tidsserie				Rapport oppdatert: 20.08.2026
+# Omstillingsstønad. Antall. Alder, kjønn og fylke. September 2026
+rad	Tidsserie				Rapport oppdatert: 10.11.2026
 rad	2024	2025	2026
 Januar	38	1035	2131
 Februar	141	1149	2220
@@ -12,9 +12,9 @@ Mars	204	1260	2281
 April	262	1337	2369
 Mai	372	1459	2488
 Juni	442	1591	2617
-Juli	525	1676	
-August	603	1772	
-September	691	1868	
+Juli	525	1676	2661
+August	603	1772	2733
+September	691	1868	2772
 Oktober	783	1943	
 November	891	2012	
 Desember	966	2079	

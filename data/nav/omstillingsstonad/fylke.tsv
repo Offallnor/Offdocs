@@ -1,26 +1,26 @@
 # Kilde: Nav
 # Tabell: Omstillingsstønad, antall etter alder, kjønn og fylke (PST354)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-12
 # Ark: Fylke
-# Omstillingsstønad. Antall. Alder, kjønn og fylke. Juni 2026
-rad	Fylke					Rapport oppdatert: 20.08.2026
+# Omstillingsstønad. Antall. Alder, kjønn og fylke. September 2026
+rad	Fylke					Rapport oppdatert: 10.11.2026
 rad		2024	2025	2026
-I alt		442	1591	2617
-Østfold		29	122	182
-Akershus		59	189	300
-Oslo - Oslove		27	111	218
-Innlandet		31	90	162
-Buskerud		28	92	150
-Vestfold		28	80	126
-Telemark		20	64	101
-Agder		38	107	174
-Rogaland		31	128	207
-Vestland		45	160	251
-Møre og Romsdal		18	52	93
-Trøndelag - Trööndelage		39	129	208
-Nordland - Nordlánnda		15	55	103
-Troms - Romsa - Tromssa		15	51	68
-Finnmark - Finnmárku - Finmarkku		12	27	37
+I alt		691	1868	2772
+Østfold		52	142	191
+Akershus		94	220	317
+Oslo - Oslove		42	144	220
+Innlandet		43	109	172
+Buskerud		39	105	160
+Vestfold		43	89	127
+Telemark		25	73	108
+Agder		53	125	180
+Rogaland		54	152	217
+Vestland		77	168	264
+Møre og Romsdal		30	57	97
+Trøndelag - Trööndelage		64	148	219
+Nordland - Nordlánnda		20	72	116
+Troms - Romsa - Tromssa		25	56	74
+Finnmark - Finnmárku - Finmarkku		14	30	40
 Ukjent		*	*	*
-Utland		6	133	236
+Utland		16	177	269

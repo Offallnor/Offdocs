@@ -1,12 +1,12 @@
 # Ytelser til gjenlevende, antall og andel med redusert ytelse (PST320)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-Lagt inn: 2026-10-17
+Lagt inn: 2026-11-12
 
 ## 0. Om statistikken
 
 - Kilde: NAV
-- Ytelser til gjenlevende. Antall og andel med redusert ytelse. Juni 2016 - 2026
+- Ytelser til gjenlevende. Antall og andel med redusert ytelse. September 2016 - 2026
 - Om statistikken
 - Innhold i rapporten
 - Se Om statistikken i relatert informasjon

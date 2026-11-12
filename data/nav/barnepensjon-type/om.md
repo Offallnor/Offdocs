@@ -1,7 +1,7 @@
 # Barnepensjonister etter type, alder og kjønn (PST352)
 
 Kilde: Nav, https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-Lagt inn: 2026-10-17
+Lagt inn: 2026-11-12
 
 ## Om statistikken
 

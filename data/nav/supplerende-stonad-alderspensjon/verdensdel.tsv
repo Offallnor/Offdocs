@@ -1,16 +1,16 @@
 # Kilde: Nav
 # Tabell: Supplerende stønad til alderspensjonister (PST510)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/supplerende-stonad
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-12
 # Ark: Verdensdel
-# Supplerende stønad alderspensjon. Alder og kjønn. Juni 2025 - 2026
+# Supplerende stønad alderspensjon. Alder og kjønn. September 2025 - 2026
 # Antall mottakere av supplerende stønad fordelt på verdensdel for fødeland
-rad	2025			2026
-I alt	3256			3334
-Afrika	561			567
-Asia	1396			1537
-Europa	1197			1133
-Nord-Amerika	15			10
-Oceania	*			*
-Sør-Amerika	69			71
-Ukjent	17			15
+rad		2025			2026
+I alt		3151			3432
+Afrika		533			606
+Asia		1387			1611
+Europa		1134			1118
+Nord-Amerika		14			9
+Oceania		*			*
+Sør-Amerika		67			73
+Ukjent		15			13

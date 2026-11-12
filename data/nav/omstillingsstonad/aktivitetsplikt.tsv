@@ -1,23 +1,23 @@
 # Kilde: Nav
 # Tabell: Omstillingsstønad, antall etter alder, kjønn og fylke (PST354)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-12
 # Ark: Aktivitetsplikt
-# Omstillingsstønad. Antall. Alder, kjønn og fylke. Juni 2026
-gruppe	rad	Aktivitetsplikt				Rapport oppdatert: 20.08.2026
-gruppe	rad		2025	2026
-gruppe	rad		Juni	Juni
-Aktivitet	I alt		896	1691
-Aktivitet	100 prosent aktivitet		460	889
-Aktivitet	50-99 prosent aktivitet		242	397
-Aktivitet	Midlertidig unntak		190	398
-Aktivitet	Ukjent		4	7
-gruppe	rad		2025	2026
-gruppe	rad		Juni	Juni
-Aktivitet	I alt		99	252
-Aktivitet	Under 50 prosent aktivitet		99	252
-gruppe	rad		2025	2026
-gruppe	rad		Juni	Juni
-Aktivitet	I alt		596	674
-Aktivitet	Omstillingsperiode		504	518
-Aktivitet	Varig unntak		92	156
+# Omstillingsstønad. Antall. Alder, kjønn og fylke. September 2026
+gruppe	rad	Aktivitetsplikt					Rapport oppdatert: 10.11.2026
+gruppe	rad		2024	2025	2026
+gruppe	rad		September	September	September
+Aktivitet	I alt		225	1114	1875
+Aktivitet	100 prosent aktivitet		116	557	954
+Aktivitet	50-99 prosent aktivitet		85	279	442
+Aktivitet	Midlertidig unntak		23	276	473
+Aktivitet	Ukjent		*	*	6
+gruppe	rad		2024	2025	2026
+gruppe	rad		September	September	September
+Aktivitet	I alt		14	146	274
+Aktivitet	Under 50 prosent aktivitet		14	146	274
+gruppe	rad		2024	2025	2026
+gruppe	rad		September	September	September
+Aktivitet	I alt		452	608	623
+Aktivitet	Omstillingsperiode		428	499	448
+Aktivitet	Varig unntak		24	109	175

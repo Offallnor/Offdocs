@@ -1,25 +1,25 @@
 # Kilde: Nav
 # Tabell: Supplerende stønad til alderspensjonister (PST510)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/supplerende-stonad
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-12
 # Ark: Fylke
-# Supplerende stønad alderspensjon. Alder og kjønn. Juni 2025 - 2026
+# Supplerende stønad alderspensjon. Alder og kjønn. September 2025 - 2026
 # Antall mottakere av supplerende stønad fordelt på fylke
-rad			2025	2026
-I alt			3256	3334
-Østfold			312	318
-Akershus			473	509
-Oslo - Oslove			807	848
-Innlandet			189	196
-Buskerud			214	210
-Vestfold			161	162
-Telemark			109	112
-Agder			221	221
-Rogaland			208	217
-Vestland			244	234
-Møre og Romsdal			57	47
-Trøndelag - Trööndelage			145	153
-Nordland - Nordlánnda			40	45
-Troms - Romsa - Tromssa			30	24
-Finnmark - Finnmárku - Finmarkku			23	21
-Ukjent			23	17
+rad				2025	2026
+I alt				3151	3432
+Østfold				293	324
+Akershus				471	536
+Oslo - Oslove				784	868
+Innlandet				186	191
+Buskerud				207	218
+Vestfold				155	173
+Telemark				109	119
+Agder				216	227
+Rogaland				198	224
+Vestland				235	236
+Møre og Romsdal				53	49
+Trøndelag - Trööndelage				136	155
+Nordland - Nordlánnda				40	50
+Troms - Romsa - Tromssa				25	30
+Finnmark - Finnmárku - Finmarkku				21	20
+Ukjent				22	12

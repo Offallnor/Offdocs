@@ -1,27 +1,27 @@
 # Kilde: Nav
 # Tabell: Omstillingsstønad, antall etter alder, kjønn og fylke (PST354)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-12
 # Ark: Alder og kjønn
-# Omstillingsstønad. Antall. Alder, kjønn og fylke. Juni 2026
-gruppe	rad	Alder og kjønn				Rapport oppdatert: 20.08.2026
+# Omstillingsstønad. Antall. Alder, kjønn og fylke. September 2026
+gruppe	rad	Alder og kjønn				Rapport oppdatert: 10.11.2026
 gruppe	rad	2024	2025	2026
-gruppe	rad	Juni	Juni	Juni
-	I alt	380	1364	2208
-	29 år og yngre	7	12	13
-	30-39 år	23	102	168
-	40-49 år	81	261	420
-	50-54 år	65	227	371
-	55-59 år	83	291	460
-	60-64 år	91	355	573
-	65 år og eldre	30	114	203
+gruppe	rad	September	September	September
+	I alt	598	1611	2343
+	29 år og yngre	9	14	15
+	30-39 år	44	109	175
+	40-49 år	118	316	436
+	50-54 år	102	282	399
+	55-59 år	132	336	477
+	60-64 år	142	406	611
+	65 år og eldre	51	146	230
 gruppe	rad	2024	2025	2026
-gruppe	rad	Juni	Juni	Juni
-	I alt	62	227	409
+gruppe	rad	September	September	September
+	I alt	93	257	429
 	29 år og yngre	*	*	*
-	30-39 år	7	15	27
-	40-49 år	12	37	64
-	50-54 år	12	43	81
-	55-59 år	17	56	94
-	60-64 år	13	60	120
-	65 år og eldre	*	15	23
+	30-39 år	7	16	27
+	40-49 år	19	41	70
+	50-54 år	18	48	84
+	55-59 år	25	69	104
+	60-64 år	23	66	121
+	65 år og eldre	*	16	23

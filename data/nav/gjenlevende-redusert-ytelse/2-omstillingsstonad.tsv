@@ -1,25 +1,25 @@
 # Kilde: Nav
 # Tabell: Ytelser til gjenlevende, antall og andel med redusert ytelse (PST320)
 # Kildeside: https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende
-# Lagt inn: 2026-10-17
+# Lagt inn: 2026-11-12
 # Ark: 2. Omstillingsstønad
-# Ytelser til gjenlevende. Antall og andel med redusert ytelse. Juni 2016 - 2026
+# Ytelser til gjenlevende. Antall og andel med redusert ytelse. September 2016 - 2026
 # Antall og andel med redusert ytelse. Omstillingsstønad
 # Antall med redusert omstillingsstønad
 gruppe	rad	2024	2025	2026
-	I alt	371	1290	2161
-	29 år og yngre	5	10	10
-	30-39 år	27	100	170
-	40-49 år	77	246	417
-	50-54 år	68	229	387
-	55-59 år	91	303	489
-	60-64 år	83	330	561
-	65 år og eldre	20	71	127
-Andel med redusert omstillingsstønad	I alt	0.839367	0.810811	0.825755
-Andel med redusert omstillingsstønad	29 år og yngre	0.714286	0.769231	0.769231
-Andel med redusert omstillingsstønad	30-39 år	0.9	0.854701	0.871795
-Andel med redusert omstillingsstønad	40-49 år	0.827957	0.825503	0.86157
-Andel med redusert omstillingsstønad	50-54 år	0.883117	0.848148	0.856195
-Andel med redusert omstillingsstønad	55-59 år	0.91	0.873199	0.882671
-Andel med redusert omstillingsstønad	60-64 år	0.798077	0.795181	0.809524
-Andel med redusert omstillingsstønad	65 år og eldre	0.645161	0.550388	0.561947
+	I alt	573	1504	2291
+	29 år og yngre	7	11	12
+	30-39 år	46	106	175
+	40-49 år	116	287	436
+	50-54 år	100	280	412
+	55-59 år	143	351	504
+	60-64 år	127	376	597
+	65 år og eldre	34	92	155
+Andel med redusert omstillingsstønad	I alt	0.829233	0.805139	0.826479
+Andel med redusert omstillingsstønad	29 år og yngre	0.777778	0.733333	0.8
+Andel med redusert omstillingsstønad	30-39 år	0.901961	0.848	0.866337
+Andel med redusert omstillingsstønad	40-49 år	0.846715	0.803922	0.86166
+Andel med redusert omstillingsstønad	50-54 år	0.833333	0.848485	0.853002
+Andel med redusert omstillingsstønad	55-59 år	0.910828	0.866667	0.86747
+Andel med redusert omstillingsstønad	60-64 år	0.769697	0.79661	0.815574
+Andel med redusert omstillingsstønad	65 år og eldre	0.653846	0.567901	0.612648
