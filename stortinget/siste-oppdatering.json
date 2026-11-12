@@ -1,28 +1,33 @@
 {
   "sesjon": "2026-2027",
   "sporsmal": {
-    "nye": 17,
-    "oppdatert": 32,
-    "total": 40288
+    "nye": 32,
+    "oppdatert": 16,
+    "total": 40320
   },
   "anmodningsvedtak": {
     "nye": 0,
     "total": 4088
   },
   "representantforslag": {
-    "nye": 4,
-    "status_oppdatert": 2,
+    "nye": 0,
+    "status_oppdatert": 7,
     "utfall_lost_opp": 0,
     "total": 2838
   },
   "saker": {
     "nye": 0,
-    "endret": 4,
-    "total": 538
+    "endret": 18,
+    "total": 951
   },
   "forslag": {
     "nye": 0,
-    "total": 1770
+    "total": 3544
+  },
+  "horinger": {
+    "nye": 198,
+    "endret": 98,
+    "total": 443
   },
   "dato": "2026-11-12"
 }
