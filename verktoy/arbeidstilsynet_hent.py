@@ -28,6 +28,7 @@ import re
 import shutil
 import sys
 import time
+import urllib.error
 import urllib.request
 from collections import Counter
 from pathlib import Path
@@ -257,7 +258,14 @@ def main() -> int:
         if gammel and gammel.get("lastmod") == lastmod and not args.tving:
             continue
         time.sleep(PAUSE)
-        lov, forskrift, kommentarer = les_side(side, i_basen)
+        try:
+            lov, forskrift, kommentarer = les_side(side, i_basen)
+        except urllib.error.HTTPError as e:
+            if e.code != 404:
+                raise
+            # Sitemapet kan liste sider som er flyttet eller fjernet. Hopp over til neste uke.
+            print(f"  hoppet over (404): {side}")
+            continue
         rad = {"side": side, "lastmod": lastmod, "kommentarer": str(len(kommentarer))}
         if lov is None or not kommentarer:
             # Ikke i basen, eller uten kommentarer: noter datoen så siden ikke hentes hver uke.

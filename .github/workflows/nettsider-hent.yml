@@ -41,7 +41,9 @@ jobs:
           python-version: "3.12"
 
       - name: Installer avhengigheter
-        run: pip install beautifulsoup4==4.12.3 lxml==5.3.0
+        run: |
+          pip install beautifulsoup4==4.12.3 lxml==5.3.0
+          sudo apt-get install -y -qq poppler-utils >/dev/null
 
       - name: Hent sidene
         env:
