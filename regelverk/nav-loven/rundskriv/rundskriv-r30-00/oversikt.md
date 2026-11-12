@@ -1,6 +1,6 @@
 # Rundskriv til NAV-loven – Lov om arbeids- og velferdsforvaltningen – Hovednr. 30
 
-Rundskriv til NAV-loven. Lagt inn 2026-11-04 fra `original/nav-loven-rundskriv-r30-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til NAV-loven. Lagt inn 2026-11-12 fra `original/nav-loven-rundskriv-r30-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 

@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 19 – Alderspensjon"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r19-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 ---
 
 # Rundskriv til ftrl kap 19 – Alderspensjon
@@ -13,11 +13,11 @@ Myndighet: NAV – Arbeids- og velferdsetaten
 Dato: 1997-05-01  
 Doknr/publisert: R19-00  
 Sammendrag: Rundskriv til ftrl kap 19 : Alderspensjon Henvisninger: Folketrygdloven (1997) kap 19 , §19-1 , §19-1a , §19-2 , §19-2a , §19-3 , §19-3a , §19-4 , §19-5 , §19-6 , §19-7 , §19-8 , §19-9 , §19-9a , §19-10 , §19-11 , §19-12 , §19-13 , §19-14 , §19-15 , §19-16 , §19-17 , §19-18 , §19-19 , §19-20 , §19-21 , §19-22 \| Forskrift om utbetaling av uredusert ytelse (2014) §1 , §1 , §2 , §2 , §3 , §3 , §4 , §4 \| Forskrift om beregning av uføretrygd og pensjon mv. under opphold i institusjon (2014) §1 , §1 , §2 , §2 , §3 , §3 , §4 , §4 \| Overgangsregler for redusert ytelse under straffegjennomføring m.m. (2014) §1 , §1 , §2 , §2 , §3 , §3 , §4 , §4 , §5 , §5  
-Sist endret: 2026-04-09  
+Sist endret: 2026-11-09  
 
  
 
-Sist endret 09.04.2026: se generell kommentar til § 19-20
+Sist endret 09.11.2026, se § 19-21 Første ledd – Alderspensjon under opphold i institusjon
 
 ## Generell del – Kap. 19
 

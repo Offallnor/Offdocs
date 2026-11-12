@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv om AFP for medlemmer av Statens pensjonskasse og Pensjonsordningen for apotekvirksomhet"
 lov: "AFP-loven for medlemmer av Statens pensjonskasse"
 kilde: "original/afp-loven-rundskriv-r62-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 ---
 
 # Rundskriv om AFP for medlemmer av Statens pensjonskasse og Pensjonsordningen for apotekvirksomhet
@@ -13,13 +13,13 @@ Myndighet: Nav – Arbeids- og velferdsetaten
 Dato: 2002-12-01  
 Doknr/publisert: R62-00  
 Sammendrag: Rundskriv om AFP for medlemmer av Statens pensjonskasse og Pensjonsordningen for apotekvirksomhet Henvisninger: Lov om AFP for apotekvirksomhet (1994) \| AFP-tilskottsloven (2010) \| Lov om AFP for medlemmer av Statens pensjonskasse (2010) \| Forskrift om kombinasjon av AFP og arbeidsinntekt (2010) \| Forskrift om omregning av AFP (2010)  
-Sist endret: 2026-09-02  
+Sist endret: 2026-11-09  
 
  
 
 Omarbeidet i sin helhet 23.02.2023
 
-Sist endret 02.09.2026, se Kapittel 1, § 3 – bokstav a og b og overskriften «Grunnpensjon og særtillegg»
+Sist endret 09.11.2026, se Forskrift om kombinasjon av avtalefestet pensjon for medlemmer av Statens pensjonskasse og arbeidsinntekt (pensjonsgivende inntekt) og § 3 «Hvordan skal bestemmelsen forstås»
 
 ## Generell del
 

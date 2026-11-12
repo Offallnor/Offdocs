@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 20: Ny alderspensjon"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r20-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 ---
 
 # Rundskriv til ftrl kap 20: Ny alderspensjon
@@ -13,7 +13,7 @@ Myndighet: NAV – Arbeids- og velferdsetaten
 Dato: 2010-01-01  
 Doknr/publisert: R20-00  
 Sammendrag: Rundskriv til ftrl kap 20: Ny alderspensjon Henvisninger: Folketrygdloven (1997) kap 20 , §20-1 , §20-2 , §20-3 , §20-4 , §20-5 , §20-6 , §20-7 , §20-7a , §20-8 , §20-9 , §20-10 , §20-11 , §20-12 , §20-13 , §20-14 , §20-15 , §20-16 , §20-17 , §20-18 , §20-19 , §20-19a , §20-20 , §20-21 , §20-22 , §20-23 \| Forskrift om alderspensjon i folketrygden (2009) §4-1 , §4-2 , §4-3 , §4-4 , §4-5 , §4-6 , §6-1 , §6-8 , §6-9 , §6-10 , §7-1 , §7-2 , §8-1 , §8-2 , §8-3 , §8-4 , §9-1 , §9-2 , §9-3 , §9-4  
-Sist endret: 2026-04-09  
+Sist endret: 2026-11-09  
 
  
 
@@ -23,7 +23,7 @@ Sist endret 09.04.2026, se Generell del - punkt 2.1
 
 Utarbeidet av Arbeids- og velferdsdirektoratet, Fagstab Ytelser 01.01.2011
 
-Sist endret 09.04.2026, se punkt 2.1
+Sist endret 09.11.2026, se § 20-22 Første ledd – Alderspensjon under opphold i institusjon
 
 ### 1 Innledning
 

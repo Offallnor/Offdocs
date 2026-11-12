@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv om AFP for medlemmer av Statens pensjonskasse og Pensjonsordningen for apotekvirksomhet"
 lov: "AFP-loven for medlemmer av Statens pensjonskasse"
 kilde: "original/afp-loven-rundskriv-r62-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 paragraf: "§ 3"
 gjelder: "forskrift"
 ---
@@ -20,6 +20,8 @@ Denne bestemmelsen handler om tidligere inntekt. Dette er et beregnet beløp som
 Bestemmelsen må ses i sammenheng med folketrygdloven § 1-4 om økning i grunnbeløp, folketrygdloven § 3-15 om pensjonsgivende inntekt og folketrygdloven §§ 3-16 og 3-17 om beregning av pensjonspoeng. I tillegg må den ses i sammenheng med Lov om AFP for medlemmer av SPK § 3 bokstav c og d.
 
 #### Hvordan skal bestemmelsen forstås?
+
+\[Endret 11/26\]
 
 Tidligere inntekt skal beregnes på grunnlag av de tre beste av de fem siste inntektsårene forut for året før pensjoneringsåret. Det vil si at en ser bort fra det året pensjonisten tar ut pensjon og året før. Dette skyldes at ligningen for disse to årene ikke alltid er fastsatt på tidspunkt for uttak av pensjon. Ved uttak av AFP fra 2022 vil inntektsårene 2016 – 2020 benyttes i beregningen. En ser bort fra 2021 og 2022.
 
@@ -70,6 +72,8 @@ Forskriftens tredje ledd ble innført med virkning fra 1. januar 2015, samtidig 
 Tidligere inntekt etter § 3 tredje ledd skal minst utgjøre pensjonsgrunnlaget som uførepensjonen fra den offentlige tjenestepensjonskassen er beregnet av. Det vil si at dersom uførepensjonsgrunnlaget er høyere enn resultatet av den vanlige beregningen av tidligere inntekt etter hovedregelen i § 3 første og andre ledd, skal tidligere inntekt settes til samme sum som uførepensjonsgrunnlaget.
 
 Uførepensjonsgrunnlaget som benyttes i denne sammenhengen er i utgangspunktet det grunnlaget som ble benyttet ved innvilgelsen av uførepensjonen fra SPK. Dersom uførepensjonsgrunnlaget har økt i løpet av de aktuelle årene på grunn av tilførsel av ny opptjening, men fortsatt uten at det er innvilget uføretrygd eller uførepensjon fra folketrygden, er det dette forhøyede grunnlaget som skal benyttes.
+
+*Tidligere inntekt skal etter § 3 første ledd femte punktum reguleres i samsvar med folketrygdens grunnbeløp. Dette gjøres ved at en tar utgangspunkt i faktoren for tidligere inntekt, multipliserer denne med det nye grunnbeløpet, og deretter runder av oppover til nærmeste tusen kroner.*
 
 #### Nærmere om Navs tolkning
 

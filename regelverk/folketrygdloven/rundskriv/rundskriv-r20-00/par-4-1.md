@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til ftrl kap 20: Ny alderspensjon"
 lov: "Folketrygdloven"
 kilde: "original/folketrygdloven-rundskriv-r20-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 paragraf: "§ 4-1"
 gjelder: "forskrift"
 ---

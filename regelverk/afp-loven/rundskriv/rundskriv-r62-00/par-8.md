@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv om AFP for medlemmer av Statens pensjonskasse og Pensjonsordningen for apotekvirksomhet"
 lov: "AFP-loven for medlemmer av Statens pensjonskasse"
 kilde: "original/afp-loven-rundskriv-r62-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 paragraf: "§ 8"
 gjelder: "forskrift"
 ---

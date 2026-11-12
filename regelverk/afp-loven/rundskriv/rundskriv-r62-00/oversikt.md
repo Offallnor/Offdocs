@@ -1,6 +1,6 @@
 # Rundskriv om AFP for medlemmer av Statens pensjonskasse og Pensjonsordningen for apotekvirksomhet
 
-Rundskriv til AFP-loven for medlemmer av Statens pensjonskasse. Lagt inn 2026-11-04 fra `original/afp-loven-rundskriv-r62-00.html`. Dette er ikke lov- eller forskriftstekst.
+Rundskriv til AFP-loven for medlemmer av Statens pensjonskasse. Lagt inn 2026-11-12 fra `original/afp-loven-rundskriv-r62-00.html`. Dette er ikke lov- eller forskriftstekst.
 
 ## Innhold
 

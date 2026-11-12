@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv til NAV-loven – Lov om arbeids- og velferdsforvaltningen – Hovednr. 30"
 lov: "NAV-loven"
 kilde: "original/nav-loven-rundskriv-r30-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 paragraf: "§ 14 a"
 gjelder: "lov"
 ---

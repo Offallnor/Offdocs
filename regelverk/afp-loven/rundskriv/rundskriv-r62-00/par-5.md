@@ -2,7 +2,7 @@
 rundskriv: "Rundskriv om AFP for medlemmer av Statens pensjonskasse og Pensjonsordningen for apotekvirksomhet"
 lov: "AFP-loven for medlemmer av Statens pensjonskasse"
 kilde: "original/afp-loven-rundskriv-r62-00.html"
-lagt_inn: "2026-11-04"
+lagt_inn: "2026-11-12"
 paragraf: "§ 5"
 gjelder: "lov"
 ---
@@ -73,15 +73,11 @@ Tabell: Oversikt over fordeling av myndighet til å fastsette om vilkår er oppf
 <td>Lovens § 2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>I lønnet arbeid ved pensjonering</td>
 <td>Lovens § 2 a HTA 4.2</td>
 </tr>
 <tr>
-<td></td>
+<td>Pensjonsgivende inntekt på minst 1G i uttaksåret og året før</td>
 <td>Lovens § 2 b<br />
 (HTA 4.2)</td>
 </tr>
@@ -125,8 +121,8 @@ Tabell: Oversikt over fordeling av myndighet til å fastsette om vilkår er oppf
 <td>Lovens § 3 e</td>
 </tr>
 <tr>
-<td>AFP kan ikke utbetales samtidig med arbeidsavklaringspenger Lovens § 3 e</td>
-<td></td>
+<td>AFP kan ikke utbetales samtidig med arbeidsavklaringspenger</td>
+<td>Lovens § 3 e</td>
 </tr>
 <tr>
 <td>AFP kan ikke utbetales samtidig med uføretrygd</td>
