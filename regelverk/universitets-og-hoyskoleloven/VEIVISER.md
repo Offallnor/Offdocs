@@ -45,6 +45,8 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
 - Høyesteretts avgjørelser fra november 2021 (rettspraksis) (3 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
+- HK-dirs informasjon om opptak, godkjenning av utenlandsk utdanning og lovregulerte yrker (41 filer) – `rundskriv/hkdir/`
+- NOKUTs veiledning om regelverket for fagskoler, akkreditering og klagerett (4 filer) – `rundskriv/nokut/`
 - Sivilombudets uttalelser (12 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -653,6 +655,11 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
+- `rundskriv/hkdir/jeg-har-utdanning-fra-utlandet/` – 41 filer, start med `rundskriv/hkdir/jeg-har-utdanning-fra-utlandet/oversikt.md`
+- `rundskriv/nokut/akkreditering-hogare-utdanning/` – 1 filer, start med `rundskriv/nokut/akkreditering-hogare-utdanning/oversikt.md`
+- `rundskriv/nokut/endringer-i-studier-akkreditert-av-nokut-vanlige-sporsmal/` – 1 filer, start med `rundskriv/nokut/endringer-i-studier-akkreditert-av-nokut-vanlige-sporsmal/oversikt.md`
+- `rundskriv/nokut/klagerett/` – 1 filer, start med `rundskriv/nokut/klagerett/oversikt.md`
+- `rundskriv/nokut/om-forskriften/` – 1 filer, start med `rundskriv/nokut/om-forskriften/oversikt.md`
 - `rundskriv/sivilombudet/` – 12 filer, start med `rundskriv/sivilombudet/oversikt.md`
 
 ### Rettspraksis

@@ -26,6 +26,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
+- NOKUTs veiledning om regelverket for fagskoler, akkreditering og klagerett (44 filer) – `rundskriv/nokut/`
 - Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -378,5 +379,34 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
+- `rundskriv/nokut/alle-fagskoler-skal-ha-ei-lokal-klagenemnd/` – 1 filer, start med `rundskriv/nokut/alle-fagskoler-skal-ha-ei-lokal-klagenemnd/oversikt.md`
+- `rundskriv/nokut/et-godt-og-inkluderende-laringsmiljo-for-fagskolestudenter/` – 1 filer, start med `rundskriv/nokut/et-godt-og-inkluderende-laringsmiljo-for-fagskolestudenter/oversikt.md`
+- `rundskriv/nokut/fagskolens-forskrift-hva-ma-med-i-fagskolens-forskrift/` – 1 filer, start med `rundskriv/nokut/fagskolens-forskrift-hva-ma-med-i-fagskolens-forskrift/oversikt.md`
+- `rundskriv/nokut/fagskoler-kan-tilby-enkeltemner-og-moduler-uten-a-soke-nokut/` – 1 filer, start med `rundskriv/nokut/fagskoler-kan-tilby-enkeltemner-og-moduler-uten-a-soke-nokut/oversikt.md`
+- `rundskriv/nokut/fagskoler-og-habilitet/` – 1 filer, start med `rundskriv/nokut/fagskoler-og-habilitet/oversikt.md`
+- `rundskriv/nokut/for-kunstfaglige-utdanninger-mulighet-til-a-gjore-unntak-fra-23-arsgrensa-for-realkompetansevurdering/` – 1 filer, start med `rundskriv/nokut/for-kunstfaglige-utdanninger-mulighet-til-a-gjore-unntak-fra-23-arsgrensa-for-realkompetansevurdering/oversikt.md`
+- `rundskriv/nokut/fordypninger-og-valgfrie-emner-i-fagskoleutdanninger/` – 1 filer, start med `rundskriv/nokut/fordypninger-og-valgfrie-emner-i-fagskoleutdanninger/oversikt.md`
+- `rundskriv/nokut/fritak-og-godskriving-hvilke-muligheter-finnes-for-fagskolestudenter/` – 1 filer, start med `rundskriv/nokut/fritak-og-godskriving-hvilke-muligheter-finnes-for-fagskolestudenter/oversikt.md`
+- `rundskriv/nokut/hva-er-en-skikkethetsvurdering/` – 1 filer, start med `rundskriv/nokut/hva-er-en-skikkethetsvurdering/oversikt.md`
+- `rundskriv/nokut/hva-er-fagomradeakkreditering-og-hvordan-soker-dere/` – 1 filer, start med `rundskriv/nokut/hva-er-fagomradeakkreditering-og-hvordan-soker-dere/oversikt.md`
+- `rundskriv/nokut/hva-er-oppgavene-til-fagskolens-styre/` – 1 filer, start med `rundskriv/nokut/hva-er-oppgavene-til-fagskolens-styre/oversikt.md`
+- `rundskriv/nokut/hva-gjor-skikkethetsnemnda/` – 1 filer, start med `rundskriv/nokut/hva-gjor-skikkethetsnemnda/oversikt.md`
+- `rundskriv/nokut/hvilke-endringer-kan-fagskolen-gjore-uten-a-soke-eller-melde-fra-til-nokut/` – 1 filer, start med `rundskriv/nokut/hvilke-endringer-kan-fagskolen-gjore-uten-a-soke-eller-melde-fra-til-nokut/oversikt.md`
+- `rundskriv/nokut/hvilke-opptakskrav-kan-en-fagskoleutdanning-ha/` – 1 filer, start med `rundskriv/nokut/hvilke-opptakskrav-kan-en-fagskoleutdanning-ha/oversikt.md`
+- `rundskriv/nokut/hvordan-skal-fagskolens-styre-vare-sammensatt/` – 1 filer, start med `rundskriv/nokut/hvordan-skal-fagskolens-styre-vare-sammensatt/oversikt.md`
+- `rundskriv/nokut/klageinstruks-og-retningslinjer-for-klagebehandling/` – 1 filer, start med `rundskriv/nokut/klageinstruks-og-retningslinjer-for-klagebehandling/oversikt.md`
+- `rundskriv/nokut/laringsutbyte-og-nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/` – 1 filer, start med `rundskriv/nokut/laringsutbyte-og-nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/oversikt.md`
+- `rundskriv/nokut/nar-og-hvordan-skal-fagskolen-melde-fra-om-endringer-i-en-fagskoleutdanning/` – 1 filer, start med `rundskriv/nokut/nar-og-hvordan-skal-fagskolen-melde-fra-om-endringer-i-en-fagskoleutdanning/oversikt.md`
+- `rundskriv/nokut/rangering-av-sokerne-opptak-til-fagskoleutdanning/` – 1 filer, start med `rundskriv/nokut/rangering-av-sokerne-opptak-til-fagskoleutdanning/oversikt.md`
+- `rundskriv/nokut/realkompetansevurdering-pa-fagskolene/` – 1 filer, start med `rundskriv/nokut/realkompetansevurdering-pa-fagskolene/oversikt.md`
+- `rundskriv/nokut/reglene-om-politiattest-for-fagskolestudenter/` – 1 filer, start med `rundskriv/nokut/reglene-om-politiattest-for-fagskolestudenter/oversikt.md`
+- `rundskriv/nokut/studentombud-for-fagskolestudenter/` – 1 filer, start med `rundskriv/nokut/studentombud-for-fagskolestudenter/oversikt.md`
+- `rundskriv/nokut/studentorgan-og-studentdemokrati-pa-fagskolene-hvordan-kan-studentenes-stemme-bli-hort/` – 1 filer, start med `rundskriv/nokut/studentorgan-og-studentdemokrati-pa-fagskolene-hvordan-kan-studentenes-stemme-bli-hort/oversikt.md`
+- `rundskriv/nokut/til-dykk-som-vurderar-a-starte-ein-fagskule/` – 1 filer, start med `rundskriv/nokut/til-dykk-som-vurderar-a-starte-ein-fagskule/oversikt.md`
+- `rundskriv/nokut/trearig-fagskoleutdanning-hvordan-soker-dere-om-unntak/` – 1 filer, start med `rundskriv/nokut/trearig-fagskoleutdanning-hvordan-soker-dere-om-unntak/oversikt.md`
+- `rundskriv/nokut/veileder-om-krav-til-institusjonsakkreditering-for-fagskoler/` – 1 filer, start med `rundskriv/nokut/veileder-om-krav-til-institusjonsakkreditering-for-fagskoler/oversikt.md`
+- `rundskriv/nokut/veiledning-for-krav-til-kvalitetssystem-og-kvalitetsarbeid/` – 16 filer, start med `rundskriv/nokut/veiledning-for-krav-til-kvalitetssystem-og-kvalitetsarbeid/oversikt.md`
+- `rundskriv/nokut/vitnemal-for-fagskolestudenter/` – 1 filer, start med `rundskriv/nokut/vitnemal-for-fagskolestudenter/oversikt.md`
+- `rundskriv/nokut/vurdering-av-studentens-kompetanse/` – 1 filer, start med `rundskriv/nokut/vurdering-av-studentens-kompetanse/oversikt.md`
 - `rundskriv/sivilombudet/` – 2 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

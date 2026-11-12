@@ -26,6 +26,7 @@ Finn artikkelen under «Innhold», og åpne filen før du svarer. Merknadene und
 Stiene er fra roten av basen.
 
 - **Utlendingsloven:** `regelverk/utlendingsloven/forskrifter/utlendingsforskriften/par-3-1.md`
+- **Yrkeskvalifikasjonsloven:** `regelverk/yrkeskvalifikasjonsloven/forskrifter/yrkeskvalifikasjoner/par-8-6.md`, `regelverk/yrkeskvalifikasjonsloven/forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`, `regelverk/yrkeskvalifikasjonsloven/lov/par-2.md`
 
 ## Innhold
 

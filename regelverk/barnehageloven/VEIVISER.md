@@ -40,6 +40,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
 - Sivilombudets uttalelser (12 filer) – start med `rundskriv/sivilombudet/oversikt.md`
+- Utdanningsdirektoratets rundskriv og veiledere (41 filer) – `rundskriv/udir/`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -385,4 +386,16 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/sivilombudet/` – 12 filer, start med `rundskriv/sivilombudet/oversikt.md`
+- `rundskriv/udir/barnehagelarere-steinerhoyskolen/` – 1 filer, start med `rundskriv/udir/barnehagelarere-steinerhoyskolen/oversikt.md`
+- `rundskriv/udir/endringer-i-forskrift-om-tildeling-av-tilskudd-til-private-barnehager/` – 1 filer, start med `rundskriv/udir/endringer-i-forskrift-om-tildeling-av-tilskudd-til-private-barnehager/oversikt.md`
+- `rundskriv/udir/foreldrebetaling/` – 1 filer, start med `rundskriv/udir/foreldrebetaling/oversikt.md`
+- `rundskriv/udir/kommunens-rolle-som-barnehagemyndighet/` – 10 filer, start med `rundskriv/udir/kommunens-rolle-som-barnehagemyndighet/oversikt.md`
+- `rundskriv/udir/mal-for-tiltaksplan-barnehage/` – 1 filer, start med `rundskriv/udir/mal-for-tiltaksplan-barnehage/oversikt.md`
+- `rundskriv/udir/meldeplikt-for-private-barnehager/` – 1 filer, start med `rundskriv/udir/meldeplikt-for-private-barnehager/oversikt.md`
+- `rundskriv/udir/regelverk-for-nyankomne-barn-under-skolealder/` – 1 filer, start med `rundskriv/udir/regelverk-for-nyankomne-barn-under-skolealder/oversikt.md`
+- `rundskriv/udir/rettigheter-for-barn-under-opplaringspliktig-alder-med-nedsatt-horsel/` – 1 filer, start med `rundskriv/udir/rettigheter-for-barn-under-opplaringspliktig-alder-med-nedsatt-horsel/oversikt.md`
+- `rundskriv/udir/rundskriv-og-veiledere/` – 1 filer, start med `rundskriv/udir/rundskriv-og-veiledere/oversikt.md`
+- `rundskriv/udir/tema-artikler/` – 1 filer, start med `rundskriv/udir/tema-artikler/oversikt.md`
+- `rundskriv/udir/tilskudd-til-private-barnehager/` – 15 filer, start med `rundskriv/udir/tilskudd-til-private-barnehager/oversikt.md`
+- `rundskriv/udir/tilstrekkelig-bemanning-barnehagen/` – 7 filer, start med `rundskriv/udir/tilstrekkelig-bemanning-barnehagen/oversikt.md`
 <!-- AUTO-SLUTT -->

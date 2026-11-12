@@ -6,17 +6,17 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 |---|---|---|
 | Forordning 2024/1356 | 8 | Utlendingsloven |
 | Direktiv 2003/98 | 7 | Offentleglova, Personopplysningsloven |
+| Direktiv 95/46 | 7 | Personopplysningsloven, Yrkeskvalifikasjonsloven |
 | Forordning 2024/1351 | 7 | Utlendingsloven |
-| Direktiv 95/46 | 6 | Personopplysningsloven |
 | Direktiv 2013/37 | 5 | Offentleglova |
+| Direktiv 2002/58 | 4 | Personopplysningsloven, Yrkeskvalifikasjonsloven |
 | Forordning 2024/1358 | 4 | Utlendingsloven |
 | Forordning nr. 1272/2008 | 3 | Arbeidsmiljøloven |
-| Direktiv 2002/58 | 3 | Personopplysningsloven |
+| Forordning nr. 1024/2012 | 3 | Arbeidsmiljøloven, Yrkeskvalifikasjonsloven |
 | Forordning nr. 610/2013 | 3 | Utlendingsloven |
 | Direktiv 2000/79 | 2 | Arbeidsmiljøloven |
 | Direktiv 2006/22 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 1073/2009 | 2 | Arbeidsmiljøloven |
-| Forordning nr. 1024/2012 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 965/2012 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 165/2014 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 1408/71 | 2 | Folketrygdloven |
@@ -27,6 +27,7 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning nr. 154/2012 | 2 | Utlendingsloven |
 | Forordning 2016/399 | 2 | Utlendingsloven |
 | Forordning 2024/1359 | 2 | Utlendingsloven |
+| Forordning 2015/983 | 2 | Yrkeskvalifikasjonsloven |
 | Direktiv 75/324 | 1 | Arbeidsmiljøloven |
 | Direktiv 91/533 | 1 | Arbeidsmiljøloven |
 | Direktiv 97/68 | 1 | Arbeidsmiljøloven |
@@ -78,3 +79,21 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning 2019/817 | 1 | Utlendingsloven |
 | Forordning 2021/1134 | 1 | Utlendingsloven |
 | Forordning 2021/1152 | 1 | Utlendingsloven |
+| Direktiv 64/222 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 64/223 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 64/427 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 64/429 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 68/363 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 68/364 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 68/365 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 68/366 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 68/367 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 68/368 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 69/77 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 70/523 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 75/368 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 75/369 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 82/470 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 82/489 | 1 | Yrkeskvalifikasjonsloven |
+| Direktiv 2013/55 | 1 | Yrkeskvalifikasjonsloven |
+| Forordning 2020/1190 | 1 | Yrkeskvalifikasjonsloven |

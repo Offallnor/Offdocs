@@ -23,6 +23,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
+- HK-dirs informasjon om opptak, godkjenning av utenlandsk utdanning og lovregulerte yrker (4 filer) – `rundskriv/hkdir/`
 - Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -254,6 +255,7 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fra roten av basen.
 
+- **Direktiv 2004/38** (Bevegelsesdirektivet (unionsborgerdirektivet)) – i basen: `regelverk/eu/direktiv-2004-38/VEIVISER.md`. Nevnt i `forskrifter/yrkeskvalifikasjoner/par-8-6.md`, `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`, `lov/par-2.md`
 - **Direktiv 2005/36** (Yrkeskvalifikasjonsdirektivet) – i basen: `regelverk/eu/direktiv-2005-36/VEIVISER.md`. Nevnt i `forskrifter/yrkeskvalifikasjoner/par-12-2.md`, `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`, `lov/par-1.md`, `lov/par-10.md`, `lov/par-11.md`, `lov/par-22.md`, `lov/par-9.md`
 - Direktiv 64/222 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
 - Direktiv 64/223 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
@@ -273,7 +275,6 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 - Direktiv 82/489 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
 - Direktiv 95/46 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
 - Direktiv 2002/58 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
-- Direktiv 2004/38 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/par-8-6.md`, `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`, `lov/par-2.md`
 - Direktiv 2013/55 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
 - Forordning nr. 1024/2012 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
 - Forordning 2015/983 – ikke i basen. Nevnt i `forskrifter/yrkeskvalifikasjoner/par-12-2.md`, `forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`
@@ -285,5 +286,6 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
+- `rundskriv/hkdir/jeg-vil-jobbe-i-et-regulert-yrke-i-norge-eller-utlandet/` – 4 filer, start med `rundskriv/hkdir/jeg-vil-jobbe-i-et-regulert-yrke-i-norge-eller-utlandet/oversikt.md`
 - `rundskriv/sivilombudet/` – 2 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->
