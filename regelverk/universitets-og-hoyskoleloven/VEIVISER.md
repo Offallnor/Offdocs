@@ -41,7 +41,7 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 - Høyesteretts avgjørelser fra november 2021 (rettspraksis) (3 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - HK-dirs informasjon om opptak, godkjenning av utenlandsk utdanning og lovregulerte yrker (41 filer) – `rundskriv/hkdir/`
-- NOKUTs veiledning om regelverket for fagskoler, akkreditering og klagerett (4 filer) – `rundskriv/nokut/`
+- NOKUTs veiledning om regelverket for fagskoler, akkreditering og klagerett (8 filer) – `rundskriv/nokut/`
 - Sivilombudets uttalelser (12 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -95,6 +95,10 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/nokut/endringer-i-studier-akkreditert-av-nokut-vanlige-sporsmal/` – 1 filer, start med `rundskriv/nokut/endringer-i-studier-akkreditert-av-nokut-vanlige-sporsmal/oversikt.md`
 - `rundskriv/nokut/klagerett/` – 1 filer, start med `rundskriv/nokut/klagerett/oversikt.md`
 - `rundskriv/nokut/om-forskriften/` – 1 filer, start med `rundskriv/nokut/om-forskriften/oversikt.md`
+- `rundskriv/nokut/veiledning-akkreditering-som-hoyskole/` – 1 filer, start med `rundskriv/nokut/veiledning-akkreditering-som-hoyskole/oversikt.md`
+- `rundskriv/nokut/veiledning-akkreditering-som-universitet/` – 1 filer, start med `rundskriv/nokut/veiledning-akkreditering-som-universitet/oversikt.md`
+- `rundskriv/nokut/veiledning-for-krav-til-kvalitetssystem-og-kvalitetsarbeid-i-universitets-og-hoyskoleforskriften/` – 1 filer, start med `rundskriv/nokut/veiledning-for-krav-til-kvalitetssystem-og-kvalitetsarbeid-i-universitets-og-hoyskoleforskriften/oversikt.md`
+- `rundskriv/nokut/veiledning-om-akkreditering-av-studietilbud/` – 1 filer, start med `rundskriv/nokut/veiledning-om-akkreditering-av-studietilbud/oversikt.md`
 - `rundskriv/sivilombudet/` – 12 filer, start med `rundskriv/sivilombudet/oversikt.md`
 
 ### Rettspraksis
