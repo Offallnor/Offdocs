@@ -59,6 +59,10 @@
     "politi": {
       "navn": "Politi og forebygging",
       "eier": "@offallnor-bot"
+    },
+    "anskaffelser": {
+      "navn": "Anskaffelser og økonomistyring",
+      "eier": "@offallnor-bot"
     }
   },
   "lover": [
@@ -2080,6 +2084,34 @@
         "lov om helsepersonell"
       ],
       "fagomrade": "politi"
+    },
+    {
+      "mappe": "regelverk/anskaffelsesloven",
+      "navn": "Anskaffelsesloven",
+      "lov": "LOV-2016-06-17-73",
+      "forskrifter": [
+        {
+          "id": "FOR-2016-08-12-974",
+          "slug": "anskaffelsesforskriften",
+          "navn": "Anskaffelsesforskriften"
+        },
+        {
+          "id": "FOR-2002-11-15-1288",
+          "slug": "klagenemndforskriften",
+          "navn": "Forskrift om klagenemnd for offentlige anskaffelser"
+        }
+      ],
+      "alias": [
+        "anskaffelsesloven",
+        "lov om offentlige anskaffelser",
+        "loa",
+        "anskaffelsesforskriften",
+        "foa",
+        "anskaffelsesregelverket",
+        "klagenemndforskriften",
+        "KOFA"
+      ],
+      "fagomrade": "anskaffelser"
     }
   ],
   "avtaler": [
