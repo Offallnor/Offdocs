@@ -89,10 +89,13 @@ DOKUMENTER = [
                r"|losepengevirus|svindel|na-far-du|framleis|lavere-tillit|informasjonssikkerhet/882)"},
     {"mappe": "deling-av-data-roller-og-ansvar", "gruppe": "Deling av data",
      "start": "/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089",
-     "folg": r"^/datadeling/[a-z0-9-]+/(208\d|209[01])$"},
+     "ekstra": ["/datadeling/nar-gjelder-veilederen-om-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2090",
+                "/datadeling/roller-og-definisjoner/2088"]},
     {"mappe": "prinsipper-deling-av-data", "gruppe": "Deling av data",
      "start": "/datadeling/om-prinsippene/2087",
-     "folg": r"^/datadeling/prinsipp-\d[^/]*/\d+$"},
+     "ekstra": ["/datadeling/prinsipp-1-veiledning/2082", "/datadeling/prinsipp-2-spesifisering-og-vurdering/2083",
+                "/datadeling/prinsipp-3-samordning/2084", "/datadeling/prinsipp-4-standardisering/2085",
+                "/datadeling/prinsipp-5-opplysningene-som-de-er/2086", "/datadeling/juridiske-krav/2081"]},
     {"mappe": "digitaliseringsvennlig-regelverk", "gruppe": "Deling av data",
      "start": "/datadeling/veileder-digitaliseringsvennlig-regelverk/2856", "dybde": 2,
      "folg": r"^/(datadeling|informasjonsforvaltning)/[a-z0-9-]+/(28[5-9]\d|29[0-4]\d)$"},
@@ -118,6 +121,9 @@ RUNDSKRIV = {
 }
 
 
+AKTIV_START = [""]  # startsiden til veilederen som hentes nå; 403 der er en feil, ellers hoppes siden over
+
+
 def les(sti: str) -> tuple:
     """(tittel, markdown, [lenkestier i innholdet]) for én side på digdir.no, eller (None, None, [])."""
     url = sti if sti.startswith("http") else BASE + sti
@@ -126,6 +132,9 @@ def les(sti: str) -> tuple:
     except urllib.error.HTTPError as e:
         if e.code in (404, 410):
             print(f"  finnes ikke: {url}")
+            return None, None, []
+        if e.code == 403 and sti != AKTIV_START[0]:
+            print(f"  stengt (403), hoppes over: {url}")
             return None, None, []
         raise
     soup = BeautifulSoup(html, "lxml")
@@ -163,6 +172,7 @@ def kapitler(dok: dict, lenker: list) -> list:
 
 def les_dokument(dok: dict) -> tuple:
     """(tittel, forside, [(sti, tittel, markdown)])"""
+    AKTIV_START[0] = dok["start"]
     tittel, forside, lenker = les(dok["start"])
     if tittel is None:
         raise RuntimeError(f"startsiden finnes ikke: {dok['start']}")
