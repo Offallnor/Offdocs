@@ -55,6 +55,10 @@
     "utdanningsstotte": {
       "navn": "Utdanningsstøtte",
       "eier": "@offallnor-bot"
+    },
+    "politi": {
+      "navn": "Politi og forebygging",
+      "eier": "@offallnor-bot"
     }
   },
   "lover": [
@@ -2012,6 +2016,70 @@
         "Lånekassen"
       ],
       "fagomrade": "utdanningsstotte"
+    },
+    {
+      "mappe": "regelverk/politiloven",
+      "navn": "Politiloven",
+      "lov": "LOV-1995-08-04-53",
+      "forskrifter": [
+        {
+          "id": "FOR-1990-06-22-3963",
+          "slug": "politiinstruksen",
+          "navn": "Alminnelig tjenesteinstruks for politiet (politiinstruksen)"
+        }
+      ],
+      "alias": [
+        "politiloven",
+        "politilova",
+        "lov om politiet",
+        "politiinstruksen"
+      ],
+      "fagomrade": "politi"
+    },
+    {
+      "mappe": "regelverk/politiregisterloven",
+      "navn": "Politiregisterloven",
+      "lov": "LOV-2010-05-28-16",
+      "forskrifter": [
+        {
+          "id": "FOR-2013-09-20-1097",
+          "slug": "politiregisterforskriften",
+          "navn": "Forskrift om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterforskriften)"
+        }
+      ],
+      "alias": [
+        "politiregisterloven",
+        "politiregisterlova",
+        "politiregisterforskriften",
+        "taushetsplikt i politiet",
+        "politiattest"
+      ],
+      "fagomrade": "politi"
+    },
+    {
+      "mappe": "regelverk/barnevernsloven",
+      "navn": "Barnevernsloven",
+      "lov": "LOV-2021-06-18-97",
+      "forskrifter": [],
+      "alias": [
+        "barnevernsloven",
+        "barnevernlova",
+        "barnevernloven",
+        "lov om barnevern"
+      ],
+      "fagomrade": "politi"
+    },
+    {
+      "mappe": "regelverk/helsepersonelloven",
+      "navn": "Helsepersonelloven",
+      "lov": "LOV-1999-07-02-64",
+      "forskrifter": [],
+      "alias": [
+        "helsepersonelloven",
+        "helsepersonellova",
+        "lov om helsepersonell"
+      ],
+      "fagomrade": "politi"
     }
   ],
   "avtaler": [
