@@ -142,7 +142,7 @@ Arbeidsgruppen har imidlertid også tatt stilling til visse juridiske spørsmål
 
 Vi er takknemlige for tilbakemeldinger!
 
-Arbeidsgruppen ønsker å gi god og korrekt veiledning. De juridiske spørsmålene på dette området er mange og kompliserte. Dette er også et område med rask utvikling. Leser du noe du mener er feil eller har du innspill? Da vil vi gjerne høre fra deg, slik at vi kan oppdatere tekstene og sørge for at vi hjelper hverandre med de vanskelige spørsmålene. Send oss tilbakemelding til [[email protected]](https://markedsplassen.anskaffelser.no/cdn-cgi/l/email-protection#602b212004060f4e0e0f)
+Arbeidsgruppen ønsker å gi god og korrekt veiledning. De juridiske spørsmålene på dette området er mange og kompliserte. Dette er også et område med rask utvikling. Leser du noe du mener er feil eller har du innspill? Da vil vi gjerne høre fra deg, slik at vi kan oppdatere tekstene og sørge for at vi hjelper hverandre med de vanskelige spørsmålene. Send oss tilbakemelding til [[email protected]](https://markedsplassen.anskaffelser.no/cdn-cgi/l/email-protection#763d3736121019581819)
 
 ## 3         Praktiske tips
 
