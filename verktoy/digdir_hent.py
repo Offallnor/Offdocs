@@ -41,7 +41,11 @@ MAPPE = ROT / "veiledere" / "digitalisering"
 STATUS = ROT / "veiledere" / "digitalisering.tsv"
 RAPPORT = ROT / "digdir-rapport.txt"
 KOLONNER = ["mappe", "tittel", "kilde", "sider", "sjekksum", "lagt_inn"]
-INNHOLD = ["main article", "article", "main"]
+INNHOLD = ["main", "#main-content", "article"]
+# Støy på digdir.no. Strengere enn i nettsider_hent.py, som også fjerner "navigation" og "header":
+# her står kapitlene som navigation-card og overskriftene i section__header.
+STØY = re.compile(r"breadcrumb|share|social|feedback|cookie|skip|menu|tilbakemelding|print|footer|secondary-nav"
+                  r"|brand-banner|search", re.I)
 
 # Felles arkitektur for samhandling (inngangssiden 2150 og delene den samler) og digitaliseringsrundskrivet.
 # "folg": regulært uttrykk for kapitlene, testet mot stien. "dybde": hvor mange ledd lenker følges.
@@ -100,7 +104,7 @@ def les(sti: str) -> tuple:
         if t.attrs is None:
             continue
         merker = " ".join(t.get("class", [])) + " " + (t.get("id") or "")
-        if nh.STØY.search(merker) and t.name not in ("main", "article", "body"):
+        if STØY.search(merker) and t.name not in ("main", "article", "body"):
             t.decompose()
     lenker = []
     for a in innhold.find_all("a", href=True):
@@ -140,6 +144,10 @@ def les_dokument(dok: dict) -> tuple:
             t, md, under = les(sti)
             if t is None:
                 continue
+            if md.strip() == forside.strip() or any(md == m for _, _, m in sider):
+                continue  # samme tekst som startsiden eller et annet kapittel (videresending)
+            if t.startswith(tittel + " "):
+                t = t[len(tittel) + 1:]
             sider.append((sti, t, md))
             neste += [h for h in kapitler(dok, under) if h not in sett]
         kø = neste
