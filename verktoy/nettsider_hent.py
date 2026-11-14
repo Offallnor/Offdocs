@@ -243,7 +243,9 @@ def docx_tekst(data: bytes) -> str:
         f.flush()
         md = subprocess.run(["pandoc", "-f", "docx", "-t", "gfm", "--wrap=none", "--track-changes=accept", f.name],
                             capture_output=True, check=True).stdout.decode("utf-8", "replace")
-    md = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", md)          # bilder
+    md = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", md)          # bilder (logoer o.l.)
+    md = re.sub(r"\\([\[\]_])", r"\1", md)                 # pandoc escaper [Skriv her] og streker
+    md = re.sub(r"(?m)^_{5,}\s*$", "", md)                    # linjer til underskrift
     md = re.sub(r"<!-- -->\n?", "", md)
     return re.sub(r"\n{3,}", "\n\n", md).strip()
 
