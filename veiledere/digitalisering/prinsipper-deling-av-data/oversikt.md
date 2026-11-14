@@ -25,3 +25,11 @@ E-post:
 
 ressurssenteret@digdir.no
 
+## Kapitler
+
+- Prinsipp 1. Veiledning – `01-prinsipp-1-veiledning.md`
+- Prinsipp 2. Spesifisering og vurdering – `02-prinsipp-2-spesifisering-og-vurdering.md`
+- Prinsipp 3. Samordning – `03-prinsipp-3-samordning.md`
+- Prinsipp 4. Standardisering – `04-prinsipp-4-standardisering.md`
+- Prinsipp 5. Opplysningene som de er – `05-prinsipp-5-opplysningene-som-de-er.md`
+- Juridiske krav – `06-juridiske-krav.md`

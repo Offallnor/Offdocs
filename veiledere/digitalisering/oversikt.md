@@ -19,12 +19,18 @@ Veiledning om digitalisering i offentlig sektor fra Digitaliseringsdirektoratet 
 | Krav og anbefalingar innan digitalisering | 100 | 2026-11-14 | `veiledere/digitalisering/krav-og-anbefalinger/oversikt.md` |
 | Referansekatalogen for IT-standardar | 13 | 2026-11-14 | `veiledere/digitalisering/referansekatalogen/oversikt.md` |
 
+## Informasjonssikkerhet
+
+| Veileder | Sider | Hentet | Sti |
+|---|---|---|---|
+| Versjon 2.0 Internkontroll i praksis - Informasjonssikkerhet | 66 | 2026-11-14 | `veiledere/digitalisering/internkontroll-informasjonssikkerhet/oversikt.md` |
+
 ## Deling av data
 
 | Veileder | Sider | Hentet | Sti |
 |---|---|---|---|
-| Formålet med veilederen "Fordeling av roller og ansvar når dere skal dele data" | 1 | 2026-11-14 | `veiledere/digitalisering/deling-av-data-roller-og-ansvar/oversikt.md` |
-| Om prinsippene | 1 | 2026-11-14 | `veiledere/digitalisering/prinsipper-deling-av-data/oversikt.md` |
+| Formålet med veilederen "Fordeling av roller og ansvar når dere skal dele data" | 3 | 2026-11-14 | `veiledere/digitalisering/deling-av-data-roller-og-ansvar/oversikt.md` |
+| Om prinsippene | 7 | 2026-11-14 | `veiledere/digitalisering/prinsipper-deling-av-data/oversikt.md` |
 | Veileder for digitaliseringsvennlig regelverk | 8 | 2026-11-14 | `veiledere/digitalisering/digitaliseringsvennlig-regelverk/oversikt.md` |
 
 ## Informasjonsforvaltning

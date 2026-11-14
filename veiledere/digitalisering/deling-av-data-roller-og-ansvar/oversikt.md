@@ -38,3 +38,7 @@ E-post:
 
 ressurssenteret@digdir.no
 
+## Kapitler
+
+- Når gjelder veilederen om fordeling av roller og ansvar når dere skal dele data? – `01-nar-gjelder-veilederen-om-fordeling-av-roller-og-ansvar-nar-dere-skal-.md`
+- Roller og definisjoner – `02-roller-og-definisjoner.md`
