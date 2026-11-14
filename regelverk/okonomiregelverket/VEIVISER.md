@@ -1,6 +1,20 @@
 # Økonomiregelverket: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Økonomiregelverket består av to deler: Reglement for økonomistyring i staten (fastsatt ved kongelig resolusjon) og Bestemmelser om økonomistyring i staten (fastsatt av Finansdepartementet). Det gjelder alle statlige forvaltningsorganer (reglementet § 2). Regelverket er instruks til forvaltningen, ikke lov.
+
+Vis til reglementet med paragraf, f.eks. «reglement for økonomistyring i staten § 7», og til bestemmelsene med punkt, f.eks. «bestemmelser om økonomistyring i staten punkt 6.3.3». Bestemmelsene har ikke paragrafer og ligger med én fil per kapittel.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen eller kapitlet under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Tildelingsbrev, tilskudd eller anskaffelse.** Et oppdrag til en underliggende virksomhet gis i tildelingsbrev eller supplerende tildelingsbrev (reglementet § 7 og bestemmelsene punkt 1.5). Tilskudd følger reglementet § 8 og bestemmelsene kapittel 6. Kjøp fra en ekstern leverandør er en anskaffelse og følger også anskaffelsesloven (bestemmelsene punkt 5.3.2). Avklar sporet før et oppdrag skrives.
+- **Tilskudd og anskaffelsesregler.** Tilskuddsordninger skal ha mål, kriterier og regelverk (bestemmelsene punkt 6.2), og tildelingen må være i samsvar med reglene om offentlig støtte i EØS-avtalen (punkt 6.1). Settes forvaltningen av en ordning ut til en ekstern tilskuddsforvalter, må anskaffelsesregelverket følges ved valget av forvalter (punkt 6.2.4).
+- **Store anskaffelser.** Bestemmelsene punkt 5.3.8 har egne krav til store anskaffelser. Les punktet før du svarer om planlegging av et større kjøp.
+- **Datoen for «sist endret».** Reglementet har ikke vært endret på lenge, mens bestemmelsene endres oftere. Se datoen for hver del under «Kilder».
+- **Veiledning.** Direktoratet for forvaltning og økonomistyring (DFØ) har veiledning til regelverket. Den er ikke en del av regelverket.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

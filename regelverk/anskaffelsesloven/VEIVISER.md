@@ -1,6 +1,21 @@
 # Anskaffelsesloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Anskaffelsesloven med anskaffelsesforskriften gjelder når statlige, kommunale og andre offentlige oppdragsgivere kjøper varer, tjenester og bygge- og anleggsarbeider (loven § 2, forskriften § 1-1 og § 1-2). Forskrift om klagenemnd for offentlige anskaffelser regulerer Klagenemnda for offentlige anskaffelser (KOFA). Forsyningsforskriften, konsesjonskontraktforskriften og forskriften om forsvars- og sikkerhetsanskaffelser er ikke tatt med.
+
+Bruk veiviseren også når noen skal lage et oppdrag, en konkurranse eller en kontrakt, for eksempel om et forsknings- eller utredningsoppdrag. Avklar først om det i det hele tatt er en anskaffelse. Oppdrag til en underliggende virksomhet gis i tildelingsbrev, og tilskudd følger egne regler. Begge står i økonomiregelverket (reglement for økonomistyring i staten §§ 7 og 8 og bestemmelsene kapittel 1 og 6).
+
+## Slik bruker du veiviseren
+
+Finn paragrafen under «Innhold», og åpne filen før du svarer. Merknadene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Tre terskler, ikke én.** Loven gjelder fra 500 000 kroner ekskl. mva. (loven § 2 første ledd). Forskriften del I gjelder for alle anskaffelser som er omfattet, del II fra 1,3 millioner kroner, og del III fra EØS-terskelverdien, som for statlige myndigheters vare- og tjenestekontrakter er 1,63 millioner kroner (forskriften § 5-1 og § 5-3). Verdien beregnes etter forskriften § 5-4, og en anskaffelse kan ikke deles opp for å komme under en terskel. Les tallene i paragrafene, de endres jevnlig.
+- **Forsknings- og utviklingstjenester.** Forskriften § 2-5 første ledd unntar kontrakter om forsknings- og utviklingstjenester. Etter andre ledd gjelder loven og forskriften likevel for de CPV-kodene som står der, når utbyttet fullt ut tilfaller oppdragsgiveren til bruk i egen virksomhet og oppdragsgiveren betaler hele tjenesten. Et forskningsoppdrag som oppdragsgiveren bestiller, betaler fullt og bruker selv, er derfor som regel omfattet. Vurder begge vilkårene konkret, og gå ikke ut fra at «forskning» er unntatt.
+- **Samarbeid i offentlig sektor.** Kjøp fra en annen offentlig virksomhet er ikke unntatt bare fordi selgeren er offentlig. Unntakene står i forskriften kapittel 3 (utvidet egenregi, felles kontroll og samarbeidsavtaler).
+- **Vedtatt oppheving av § 4.** Lov 6. mars 2026 nr. 8 opphever loven § 4 om grunnleggende prinsipper, men opphevingen er ikke satt i kraft (Kongen bestemmer). Det står i endringshistorikken i paragraffilen. Svar ut fra teksten som gjelder, og si at opphevingen er vedtatt.
+- **Strategi og rutiner.** Loven § 5a krever anskaffelsesstrategi og rutiner. Interne rutiner og fullmakter hos den enkelte oppdragsgiver er ikke lov eller forskrift.
+- **Kontrakter og maler.** Lov og forskrift sier hva et konkurransegrunnlag skal inneholde (forskriften kapittel 8 og 14), ikke hvordan kontrakten skal se ut. Statens standardavtaler og maler fra Direktoratet for forvaltning og økonomistyring (DFØ) er veiledning, ikke regelverk.
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
