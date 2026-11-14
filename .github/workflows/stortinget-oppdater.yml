@@ -23,7 +23,8 @@ concurrency:
 env:
   # Komiteene som saker, forslag og komitéhøringer hentes for (Stortingets komité-id).
   # ARBSOS: arbeids- og sosialkomiteen. UFO: utdannings- og forskningskomiteen (før 2017-18 KIRKE).
-  STORTINGET_KOMITEER: ARBSOS,UFO,KIRKE
+  # KOMMFORV: kommunal- og forvaltningskomiteen (integrering, bosetting, bolig, bostøtte).
+  STORTINGET_KOMITEER: ARBSOS,UFO,KIRKE,KOMMFORV
 
 jobs:
   oppdater:
