@@ -10,8 +10,6 @@ lagt_inn: "2026-11-14"
 
 Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/sites/default/files/2026-03/ssa-o_bilag_2026.docx) 2026-11-14. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-<img src="media/image1.png" style="width:1.89722in;height:0.52361in" /><img src="media/image2.png" style="width:0.84583in;height:0.29514in" />
-
 SSA-O bilag 2026
 
 Bilag til SSA-O
@@ -156,13 +154,13 @@ Velg alternativ:
 
 Følgende delleveranser skal leveres:
 
-1.  dd.mm.åååå: \[fyll inn tekst\]
+1.  dd.mm.åååå: [fyll inn tekst]
 
 1.  
 
-2.  dd.mm.åååå: \[fyll inn tekst\]
+2.  dd.mm.åååå: [fyll inn tekst]
 
-3.  dd.mm.åååå: \[fyll inn tekst\]
+3.  dd.mm.åååå: [fyll inn tekst]
 
 **Konsulentens fremdriftsplan**
 
@@ -182,9 +180,9 @@ Partene skal her angi den oppnevnte representanten som er bemyndiget til å oppt
 
 Bemyndiget representant må angis, og dette punktet bør ikke slettes uten å erstattes av annen tilsvarende tekst.
 
-Hos Kunden: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Kunden: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
-Hos Konsulenten: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Konsulenten: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
 ## Avtalens punkt 2.2 Møter 
 
@@ -291,7 +289,7 @@ Det er avtalt følgende øvre ramme for oppdraget:
 
 *Eller* ☐ Totalt antall timer
 
-Antall timer totalt \_\_\_\_\_\_\_\_\_\_\_ timer
+Antall timer totalt ___________ timer
 
 ### C. Utlegg og reisekostnader mv
 
@@ -307,9 +305,9 @@ Regler for varsling om overskridelse av avtalte timer angis her. Eventuell prisr
 
 Øvrige bestemmelser knyttet til betalingsplan og betalingsvilkår skal fremgå her. Eventuelle tilleggsvilkår for bruk av Elektronisk Handelsformat (EHF), skal fremkomme her.
 
-Kundens EHF-adresse er: \[Samme som organisasjonsnummeret\]
+Kundens EHF-adresse er: [Samme som organisasjonsnummeret]
 
-Kundens EHF-referanse er: \[Sett inn EHF-referanse\]
+Kundens EHF-referanse er: [Sett inn EHF-referanse]
 
 ## Avtalens punkt 6.5 Prisendring
 

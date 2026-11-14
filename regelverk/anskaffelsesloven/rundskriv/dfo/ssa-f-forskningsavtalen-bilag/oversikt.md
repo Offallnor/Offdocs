@@ -10,8 +10,6 @@ lagt_inn: "2026-11-14"
 
 Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/sites/default/files/2026-03/ssa-f_bilag_2026_bok.docx) 2026-11-14. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-<img src="media/image1.png" style="width:1.89722in;height:0.52361in" /><img src="media/image2.png" style="width:0.84646in;height:0.29528in" />
-
 SSA-F 2026
 
 Bilag til SSA-F
@@ -170,11 +168,11 @@ Velg alternativ:
 
 Følgende delleveranser skal leveres (det bør spesifiseres om fristene utløser dagbot):
 
-1.  dd.mm.åååå: \[fyll inn tekst\]
+1.  dd.mm.åååå: [fyll inn tekst]
 
-2.  dd.mm.åååå: \[fyll inn tekst\]
+2.  dd.mm.åååå: [fyll inn tekst]
 
-3.  dd.mm.åååå: \[fyll inn tekst\]
+3.  dd.mm.åååå: [fyll inn tekst]
 
 ### Oppdragstakers fremdriftsplan
 
@@ -202,9 +200,9 @@ Nærmere regulering av gjennomføring for medvirkning kan inntas her.
 
 Bemyndiget representant må angis, og dette punktet bør ikke slettes uten å erstattes av annen tilsvarende tekst.
 
-Hos Oppdragsgiver: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Oppdragsgiver: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
-Hos Oppdragstaker: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Oppdragstaker: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
 ## Avtalens punkt 1.6 Nøkkelpersonell 
 
@@ -335,11 +333,11 @@ Regler for varsling om overskridelse av avtalte timer angis her. Eventuell prisr
 
 Øvrige bestemmelser knyttet til betalingsplan og betalingsvilkår skal fremgå her. Eventuelle tilleggsvilkår for bruk av Elektronisk Handelsformat (EHF), skal fremkomme her.
 
-Oppdragsgivers EHF-adresse er: \[Samme som organisasjonsnummeret\]
+Oppdragsgivers EHF-adresse er: [Samme som organisasjonsnummeret]
 
-Oppdragsgivers EHF-referanse er: \[Sett inn EHF-referanse\]
+Oppdragsgivers EHF-referanse er: [Sett inn EHF-referanse]
 
-Faktura skal merkes med: \[f.eks. navn, fakturareferanse\]
+Faktura skal merkes med: [f.eks. navn, fakturareferanse]
 
 ## Avtalens punkt 6.5.2 Dagbot ved forsinkelse 
 

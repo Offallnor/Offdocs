@@ -10,8 +10,6 @@ lagt_inn: "2026-11-14"
 
 Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/sites/default/files/2026-03/ssa-b_bilag_2026-bok.docx) 2026-11-14. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-<img src="media/image1.png" style="width:1.89722in;height:0.52361in" /><img src="media/image2.png" style="width:0.84583in;height:0.29514in" />
-
 SSA-B bilag 2026
 
 Bilag til SSA-B
@@ -160,9 +158,9 @@ Beskrivelse av prosjekt- og fremdriftsplanen til Kunden, hvis kundens aktivitete
 
 Bemyndiget representant må angis, og dette punktet bør ikke slettes uten å erstattes av annen tilsvarende tekst.
 
-Hos Kunden: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Kunden: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
-Hos Konsulenten: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Konsulenten: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
 ## Avtalens punkt 2.2 Møter
 
@@ -253,11 +251,11 @@ Regler for varsling om overskridelse av avtalte timer angis her. Eventuell prisr
 
 Øvrige bestemmelser knyttet til betalingsplan og betalingsvilkår skal fremgå her.
 
-Eventuelle tilleggsvilkår for bruk av Elektronisk Handelsformat (EHF), skal fremkomme her.\]
+Eventuelle tilleggsvilkår for bruk av Elektronisk Handelsformat (EHF), skal fremkomme her.]
 
-Kundens EHF-adresse er: \[Samme som organisasjonsnummeret\]
+Kundens EHF-adresse er: [Samme som organisasjonsnummeret]
 
-Kundens EHF-referanse er: \[Sett inn EHF-referanse\]
+Kundens EHF-referanse er: [Sett inn EHF-referanse]
 
 ## Avtalens punkt 6.5 Prisendring
 

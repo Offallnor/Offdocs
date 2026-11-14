@@ -10,41 +10,33 @@ lagt_inn: "2026-11-14"
 
 Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/sites/default/files/2026-03/ssa-f_generell_avtaletekst_2026_bok.docx) 2026-11-14. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-<img src="media/image1.png" style="width:1.89722in;height:0.52361in" /><img src="media/image2.png" style="width:0.84646in;height:0.29528in" />
-
 Forskningsavtalen
 
 Statens standardavtale om forsknings- og utredningsoppdrag
 
 SSA-F 2026
 
-<img src="media/image2.png" style="width:0.84653in;height:0.29514in" />Avtale om forsknings- og utredningsoppdrag
+Avtale om forsknings- og utredningsoppdrag
 
 **Avtale om**
 
-\[navn på anskaffelsen\]
+[navn på anskaffelsen]
 
 er inngått mellom:
 
-\[Skriv her\]
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Skriv her]
 
 (heretter kalt Oppdragsgiver)
 
 **og**
 
-\[Skriv her\]
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Skriv her]
 
 (heretter kalt Oppdragstaker)
 
 **Sted og dato:**
 
-\[Skriv sted og dato her\]
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Skriv sted og dato her]
 
 <table>
 <colgroup>

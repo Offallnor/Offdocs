@@ -10,35 +10,27 @@ lagt_inn: "2026-11-14"
 
 Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/sites/default/files/2024-06/ssa-k_generell_avtaletekst_2024-bok.docx) 2026-11-14. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-<img src="media/image1.png" style="width:1.89722in;height:0.52361in" />
-
-<img src="media/image2.png" style="width:0.84583in;height:0.29514in" />
-
 SSA-K 2024
 
 Kjøpsavtalen
 
 Statens standardavtale om kjøp av utsyr og programvare – SSA-K
 
-<img src="media/image2.png" style="width:0.84653in;height:0.29514in" />Avtale om kjøp av programvare og utstyr
+Avtale om kjøp av programvare og utstyr
 
 **Avtale om**
 
-\[Navn på anskaffelsen\]
+[Navn på anskaffelsen]
 
 **er inngått mellom:**
 
-\[Skriv her\]
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Skriv her]
 
 (Heretter kalt Kunden)
 
 **Og**
 
-\[Skriv her\]
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Skriv her]
 
 (Heretter kalt Leverandøren)
 
@@ -46,9 +38,7 @@ Statens standardavtale om kjøp av utsyr og programvare – SSA-K
 
 **Sted og dato:**
 
-\[Skriv sted og dato her\]
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Skriv sted og dato her]
 
 <table>
 <colgroup>

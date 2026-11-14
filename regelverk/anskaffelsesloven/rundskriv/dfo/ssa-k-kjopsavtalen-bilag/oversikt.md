@@ -10,8 +10,6 @@ lagt_inn: "2026-11-14"
 
 Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ), hentet fra [anskaffelser.no](https://www.anskaffelser.no/sites/default/files/2024-06/ssa-k_bilag_2024.docx) 2026-11-14. Den er veiledning og tolkning, ikke lov- eller forskriftstekst.
 
-<img src="media/image1.png" style="width:1.89722in;height:0.52361in" /><img src="media/image2.png" style="width:0.84583in;height:0.29514in" />
-
 SSA-K bilag 2024
 
 Bilag til SSA-K
@@ -212,9 +210,9 @@ Hvis andre godkjenningskriterier eller andre definisjoner av feil skal gjelde, s
 
 Bemyndiget representant må angis, og dette punktet bør ikke slettes uten å erstattes av annen tilsvarende tekst.
 
-Hos Kunden: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Kunden: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
-Hos Leverandøren: \[*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*\]
+Hos Leverandøren: [*Sett inn navn/rolle og kontaktopplysninger for bemyndiget representant*]
 
 ## Avtalens punkt 2.1.2 Skriftlighet 
 
