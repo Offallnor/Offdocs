@@ -479,6 +479,28 @@ def kjør_kilde(navn: str, kilde: dict, lover: dict, status: dict, dato: str, tv
         logg["Borte"].append(f"{kilde['utgiver']}: {rad['tittel']}")
 
 
+def skriv_kildeoversikter(status: dict) -> None:
+    """Én oversikt.md per kilde og lov (regelverk/<lov>/rundskriv/<kilde>/), med tittel og sti
+    til hvert dokument, så Claude finner riktig dokument uten å gjette mappenavn."""
+    grupper = {}
+    for (navn, _dok), rad in status.items():
+        mappe = rad.get("mappe", "")
+        if not mappe or not (ROT / mappe).exists():
+            continue
+        grupper.setdefault((str(Path(mappe).parent), navn), []).append(rad)
+    for (foreldre, navn), rader in sorted(grupper.items()):
+        kilde = KILDER.get(navn, {})
+        utgiver = kilde.get("utgiver", navn)
+        linjer = [f"# {utgiver}: rundskriv og veiledere", "",
+                  f"Tekst fra {utgiver}. Den er veiledning og tolkning, ikke lov- eller forskriftstekst. "
+                  "Hvert dokument har en mappe med `oversikt.md` (forsiden og innholdslisten) og én fil per underside.",
+                  "", "| Dokument | Sider | Sti |", "|---|---|---|"]
+        for rad in sorted(rader, key=lambda r: r.get("tittel", "").lower()):
+            tittel = rad.get("tittel", "").replace("|", "/")
+            linjer.append(f"| {tittel} | {rad.get('sider', '')} | `{rad['mappe']}/oversikt.md` |")
+        (ROT / foreldre / "oversikt.md").write_text("\n".join(linjer) + "\n", encoding="utf-8")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("kilder", nargs="*", help=f"kildene som skal hentes (standard: {', '.join(KILDER)})")
@@ -498,6 +520,7 @@ def main() -> int:
             traceback.print_exc()
             feil.append(navn)
     skriv_status(status)
+    skriv_kildeoversikter(status)
 
     print(f"Nye: {len(logg['Ny'])}, endret: {len(logg['Endret'])}, borte: {len(logg['Borte'])}")
     for typ, linjer in logg.items():
