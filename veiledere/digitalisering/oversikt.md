@@ -52,3 +52,9 @@ Veiledning om digitalisering i offentlig sektor fra Digitaliseringsdirektoratet 
 |---|---|---|---|
 | Veileder om åpen kildekode i offentlig sektor | 3 | 2026-11-14 | `veiledere/digitalisering/apen-kildekode/oversikt.md` |
 | Juridisk veiledning til kommende EU-regelverk | 1 | 2026-11-14 | `veiledere/digitalisering/juridisk-veiledning-eu-regelverk/oversikt.md` |
+
+## Kunstig intelligens
+
+| Veileder | Sider | Hentet | Sti |
+|---|---|---|---|
+| KI Norges veiledning om kunstig intelligens i offentlig sektor | 51 | 2026-11-14 | `veiledere/digitalisering/ki-veiledning/oversikt.md` |
