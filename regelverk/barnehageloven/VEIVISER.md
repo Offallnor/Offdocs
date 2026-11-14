@@ -216,7 +216,15 @@ Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd stå
 
 ### Forskrift om rammeplan for barnehagens innhold og oppgaver
 
-- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/rammeplan/tekst.md`
+- 1 Barnehagens verdigrunnlag – `forskrifter/rammeplan/kapittel-1.md`
+- 2 Ansvar og roller – `forskrifter/rammeplan/kapittel-2.md`
+- 3 Barnehagens formål og innhold – `forskrifter/rammeplan/kapittel-3.md`
+- 4 Barns medvirkning – `forskrifter/rammeplan/kapittel-4.md`
+- 5 Samarbeid mellom hjem og barnehage – `forskrifter/rammeplan/kapittel-5.md`
+- 6 Overganger – `forskrifter/rammeplan/kapittel-6.md`
+- 7 Barnehagen som pedagogisk virksomhet – `forskrifter/rammeplan/kapittel-7.md`
+- 8 Barnehagens arbeidsmåter – `forskrifter/rammeplan/kapittel-8.md`
+- 9 Barnehagens fagområder – `forskrifter/rammeplan/kapittel-9.md`
 
 ### Forskrift om pedagogisk bemanning og dispensasjon i barnehager
 

@@ -64,5 +64,14 @@ Ingen funnet i Norsk Lovtidend for regelverket i denne mappen.
 
 ### Bestemmelser om økonomistyring i staten
 
-- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/bestemmelser/tekst.md`
+- Forord – `forskrifter/bestemmelser/forord.md`
+- 1 Departementets styring av virksomheter – `forskrifter/bestemmelser/kapittel-1.md`
+- 2 Virksomhetens interne styring – `forskrifter/bestemmelser/kapittel-2.md`
+- 3 Felles standarder og systemer for budsjettering, regnskapsføring og betalingsformidling – `forskrifter/bestemmelser/kapittel-3.md`
+- 4 Felles standarder for bokføring og økonomisystem – `forskrifter/bestemmelser/kapittel-4.md`
+- 5 Rutiner for behandling av lønn, anskaffelser og inntekter – `forskrifter/bestemmelser/kapittel-5.md`
+- 6 Utforming og forvaltning av tilskuddsordninger – `forskrifter/bestemmelser/kapittel-6.md`
+- 7 Utforming og forvaltning av stønadsordninger til privatpersoner – `forskrifter/bestemmelser/kapittel-7.md`
+- 8 Forvaltning av garantiordninger – `forskrifter/bestemmelser/kapittel-8.md`
+- 9 Ikrafttredelse – `forskrifter/bestemmelser/kapittel-9.md`
 <!-- AUTO-SLUTT -->

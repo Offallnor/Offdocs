@@ -156,7 +156,14 @@ Fra Norsk Lovtidend. Teksten i paragraffilene er gjeldende tekst; ny ordlyd stå
 
 ### Forskrift om læreplan i norsk for voksne innvandrere
 
-- Hele teksten (dokumentet har ikke paragrafer) – `forskrifter/laereplan-norsk/tekst.md`
+- 1. Om faget – `forskrifter/laereplan-norsk/kapittel-1.md`
+- 2. Kartlegging og organisering av opplæringen – `forskrifter/laereplan-norsk/kapittel-2.md`
+- 3. Kjerneelementer – `forskrifter/laereplan-norsk/kapittel-3.md`
+- 4. Tverrfaglige temaer – `forskrifter/laereplan-norsk/kapittel-4.md`
+- 5. Grunnleggende ferdigheter – `forskrifter/laereplan-norsk/kapittel-5.md`
+- 6. Nivåer og kompetansemål – `forskrifter/laereplan-norsk/kapittel-6.md`
+- 7. Vurderingsordninger – `forskrifter/laereplan-norsk/kapittel-7.md`
+- 8. Gyldighet og innføring – `forskrifter/laereplan-norsk/kapittel-8.md`
 
 ### Forskrift om læreplan i norsk for voksne innvandrere nivå C1
 

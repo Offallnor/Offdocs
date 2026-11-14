@@ -1,0 +1,19 @@
+# 1. Om faget
+
+**Kilde:** Forskrift om læreplan i norsk for voksne innvandrere
+
+### Fagets relevans og sentrale verdier
+
+Læreplan i norsk for voksne innvandrere er en forskrift til lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) . Læreplanen skal brukes i opplæring for deltakere med rett og plikt eller plikt til norskopplæring etter denne loven, med mindre forskrift til integreringsloven (integreringsforskriften) åpner for bruk av andre læreplaner. Formålet med integreringsloven er at innvandrere tidlig integreres i det norske samfunnet og blir økonomisk selvstendige. Loven skal bidra til at innvandrere får gode norskkunnskaper, kunnskap om norsk samfunnsliv, formelle kvalifikasjoner og en varig tilknytning til arbeidslivet. Rett og plikt til opplæring i norsk er regulert i integreringsloven og integreringsforskriften .
+
+Faget norsk for voksne innvandrere skal sammen med faget samfunnskunnskap gjøre voksne innvandrere best mulig rustet for hverdagsliv, utdanning og arbeidsliv i Norge. Faget skal bidra til at de lærer språket de trenger for å ta aktivt del i det norske samfunnet, skape seg gode liv og bidra med sine ressurser. For de fleste vil dette språket være norsk muntlig og skriftlig, men for noen kan det være norsk tegnspråk i stedet for norsk muntlig. Faget skal legge grunnlag for bruk av det norske språket til livslang læring og deltakelse i et arbeidsliv som er i stadig endring, og som stiller høye krav til språklig og digital kompetanse.
+
+Gjennom arbeidet med faget skal voksne innvandrere lære å bruke det norske språket til å skape mening, samhandle med andre og uttrykke tanker, synspunkter og ideer. Dermed åpner faget for deltakelse i demokratiske prosesser, engasjement og kritisk tenkning. Deltakernes medbrakte kompetanse og erfaringer, ulik kulturell bakgrunn og flerspråklige ressurser skal anerkjennes og danne grunnlag for videre læring.
+
+### Språkkompetanse og språklæring
+
+Læreplanen i norsk for voksne innvandrere bygger på synet på kommunikasjon og språklæring i Det felles europeiske rammeverket for språk. Rammeverket legger til grunn at språk utvikles gjennom deltakelse i kommunikasjon og samhandling i varierte og meningsfulle sammenhenger. Beskrivelsene av de ulike språknivåene i rammeverket er derfor uløselig knyttet til sammenhengene eller interesseområdene språket brukes i, og som i rammeverket er beskrevet gjennom begrepet domener. I læreplanen gjenspeiles rammeverkets domenetenkning i de tverrfaglige temaene, nivåbeskrivelsene og kompetansemålene.
+
+Læreplanen deler i tillegg kompetansebegrep med grunnopplæringen. Kompetanse forstås som det å kunne tilegne seg og anvende kunnskaper og ferdigheter til å mestre utfordringer og løse oppgaver i kjente og ukjente sammenhenger og situasjoner. Kompetanse innebærer å forstå og ha evne til refleksjon og kritisk tenkning.
+
+Deltakernes kompetanse i norsk handler på denne måten om hvordan de klarer å bruke språket til å mestre utfordringer og løse oppgaver i kjente og ukjente sammenhenger, både i og utenfor opplæringen. For å lykkes med dette må deltakerne kunne bruke norskferdighetene sammen med andre kunnskaper og ferdigheter de har, og i samspill med ressurser i omgivelsene og andre mennesker. Denne kompetansen utvikles best gjennom at deltakerne får hjelp til å reflektere over og systematisere erfaringer de gjør seg med språket i og utenfor opplæringen, og at de får utvikle og prøve ut et spekter av strategier for å bruke og lære norsk i disse sammenhengene. I tråd med kompetansebegrepet blir dermed deltakernes refleksjon og kritiske tenkning rundt erfaringer de gjør seg med språket, til en sentral del av språklæringsarbeidet.
