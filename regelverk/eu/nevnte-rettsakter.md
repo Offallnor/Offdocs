@@ -21,8 +21,10 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning nr. 965/2012 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 165/2014 | 2 | Arbeidsmiljøloven |
 | Forordning nr. 1408/71 | 2 | Folketrygdloven |
+| Forordning nr. 1025/2012 | 2 | Anskaffelsesloven, Likestillings- og diskrimineringsloven |
 | Direktiv 2000/31 | 2 | Personopplysningsloven |
 | Forordning nr. 45/2001 | 2 | Personopplysningsloven |
+| Forordning nr. 765/2008 | 2 | Anskaffelsesloven, Personopplysningsloven |
 | Forordning nr. 182/2011 | 2 | Personopplysningsloven |
 | Forordning nr. 810/2009 | 2 | Utlendingsloven |
 | Forordning nr. 154/2012 | 2 | Utlendingsloven |
@@ -58,14 +60,12 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning nr. 1368/2014 | 1 | Folketrygdloven |
 | Forordning 2017/492 | 1 | Folketrygdloven |
 | Forordning 2019/1149 | 1 | Folketrygdloven |
-| Forordning nr. 1025/2012 | 1 | Likestillings- og diskrimineringsloven |
 | Direktiv 93/13 | 1 | Personopplysningsloven |
 | Direktiv 2011/24 | 1 | Personopplysningsloven |
 | Direktiv 2015/1535 | 1 | Personopplysningsloven |
 | Forordning nr. 339/93 | 1 | Personopplysningsloven |
 | Forordning nr. 1049/2001 | 1 | Personopplysningsloven |
 | Forordning nr. 1338/2008 | 1 | Personopplysningsloven |
-| Forordning nr. 765/2008 | 1 | Personopplysningsloven |
 | Forordning nr. 223/2009 | 1 | Personopplysningsloven |
 | Forordning nr. 1215/2012 | 1 | Personopplysningsloven |
 | Forordning nr. 536/2014 | 1 | Personopplysningsloven |
@@ -99,3 +99,5 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning 2020/1190 | 1 | Yrkeskvalifikasjonsloven |
 | Forordning 2019/818 | 1 | Politiloven |
 | Direktiv 2023/977 | 1 | Politiregisterloven |
+| Forordning nr. 1221/2009 | 1 | Anskaffelsesloven |
+| Forordning nr. 305/2011 | 1 | Anskaffelsesloven |

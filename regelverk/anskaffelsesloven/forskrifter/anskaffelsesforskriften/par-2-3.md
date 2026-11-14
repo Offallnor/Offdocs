@@ -1,0 +1,7 @@
+# § 2-3. Unntak for tjenestekontrakter som inngås på grunnlag av en enerett
+
+**Kilde:** Anskaffelsesforskriften § 2-3
+
+**1. ledd**
+
+Anskaffelsesloven og forskriften gjelder ikke for tjenestekontrakter som oppdragsgiveren inngår med en annen oppdragsgiver som har en enerett til å utføre tjenesten. Dette gjelder bare når eneretten er tildelt ved lov, forskrift eller kunngjort forvaltningsvedtak som er forenlig med EØS-avtalen.
