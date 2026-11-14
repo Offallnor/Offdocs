@@ -101,5 +101,9 @@
 /regelverk/politiloven/           @offallnor-bot
 /regelverk/politiregisterloven/   @offallnor-bot
 
+# Anskaffelser og økonomistyring
+/regelverk/anskaffelsesloven/    @offallnor-bot
+/regelverk/okonomiregelverket/   @offallnor-bot
+
 # Statens personalhåndbok (del av et annet regelverk)
 /regelverk/statsansatteloven/rundskriv/personalhandboka/   @offallnor-bot
