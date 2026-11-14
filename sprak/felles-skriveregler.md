@@ -10,6 +10,10 @@ Regler som bare gjelder budsjettproposisjonen, står i `budsjett.md`.
 - Beløp under 1 mill. kroner (f.eks. kr 700 000) skrives **0,7 mill. kroner**.
 - Tall 1–12 skrives med bokstaver, tall over 12 med tall.
   - Unntak: foran **pst.** skrives også 1–12 med tall, med eller uten desimaler.
+  - Unntak: estimater, prosent, beløp, konfidensintervaller og tall med målenhet skrives med tall, også når de er små: *4 prosentpoeng*, *RR 1,22*, *2 kg*. Tall i tabeller står alltid med tall.
+  - Tall som hører sammen, skrives likt i samme setning: *barn mellom 6 og 14 år*, ikke *mellom seks og 14 år*.
+  - Begynn ikke en setning med tall. Skriv setningen om: *Av dem er 134 lest i fulltekst*, ikke *134 er lest i fulltekst*.
+  - Unntakene for estimater, like tall i samme setning og setningsstart følger Språkrådet («Siffer eller tallord?», sprakradet.no), ikke veilederen.
 - Tusenskilletegn både i tekst og tabeller: 1 500, 25 000.
 - Bruk ortografiske tegn for halv, kvart osv. (½), ikke 1/2.
 - Hardt mellomrom (Shift+Ctrl+mellomrom) hindrer at tall eller tekst deles over to linjer. Trykkeriet fjerner kodingen når teksten leses inn.
