@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/gjennomfor-ros-vurder
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Gjennomfør ROS-vurdering ved bruk av fellesløysingar
+# Gjennomfør ROS-vurdering ved bruk av fellesløysingar
 
 Før ei verksemd tar stilling til om ei nasjonal fellesløysing kan brukast, må verksemda sjølv gjennomføre ei risiko- og sårbarheitsvurdering (ROS) av løysinga, og ei utgreiing av konsekvensar for personvern (DPIA).
 
@@ -27,8 +27,12 @@ Kjelde:
 
 - [Personopplysningslova](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A656)
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiing om DPIA
 
 Gå vidare til rettleiing om ROS-analyse for fellesløysingane
+
+## Kjelde
 
 Gå til personopplysningslova

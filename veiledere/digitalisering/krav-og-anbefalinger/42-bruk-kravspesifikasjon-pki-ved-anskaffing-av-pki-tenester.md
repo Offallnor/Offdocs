@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-kravspesifikasjon-pki-ve
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk kravspesifikasjon for PKI ved anskaffing av PKI-tenester
+# Bruk kravspesifikasjon for PKI ved anskaffing av PKI-tenester
 
 Public Key Infrastructure (PKI) er ein overordna, funksjonell kravspesifikasjon for anskaffing av PKI, og vert brukt i samband med elektronisk kommunikasjon med og i offentlig sektor.
 
@@ -26,14 +26,20 @@ Kjelde:
 
 - [eForvaltningsforskrifta](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A613)
 
+## Rettleiing og hjelp
+
 Gå vidare til informasjon om bruk av PKI ved anskaffing av PKI-tjenester
 
 Gå vidare til standarden
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 
 E-post:
 
 nasjonalarkitektur@digdir.no
+
+## Kjelde
 
 Gå til eForvaltningsforskrifta

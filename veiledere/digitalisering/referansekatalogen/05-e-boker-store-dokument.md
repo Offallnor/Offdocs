@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/e-boker-store-dokument/1487"
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar E-bøker (store dokument)
+# E-bøker (store dokument)
 
 E-bøker gjeld publisering eller sending av store dokument der informasjonen vert publisert eller sendt som ei e-bok.
 
@@ -33,7 +33,13 @@ Kravet er gjeldande. Innført 30.10.2012.
 
 Førebels finst det ingen rettleiarar for dette.
 
+## Aktuelle standardar
+
+### Relevant informasjon
+
 - [EPUB (Electronic publication)](https://www.digdir.no/standarder/epub-electronic-publication/1680)
 - [Utveksling av tekstdokument](https://www.digdir.no/standarder/utveksling-av-tekstdokumenter/1500)
+
+### Lenke til standardane
 
 [EPUB 3.0](https://www.digdir.no/standarder/epub-electronic-publication/1680)

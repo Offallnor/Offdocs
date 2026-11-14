@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/gjer-postjournalar-ti
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Gjer postjournalar tilgjengeleg på nett
+# Gjer postjournalar tilgjengeleg på nett
 
 Dei aller fleste statlege forvaltningsorgana bør gjere postjournalar tilgjengelege på eInnsyn. Bruk av eInnsyn er tilrådd for kommunal sektor. Bruk av eInnsyn er anbefalt fram til forskriftsheimelen til offentleglova § 6 trer i kraft.
 
@@ -31,10 +31,16 @@ Kjelde:
 
 eInnsyn er ei løysing som gjer offentleg forvaltning open og tilgjengeleg for innbyggjaren. Retten til innsyn er nedfelt i grunnlova.
 
+## Rettleiing og hjelp
+
 Gå vidare til eInnsyn-løysinga
 
 Få hjelp til å publisere på eInnsyn
 
+## Eksempel på bruk
+
 Slik brukar Lotteri- og stiftelsestilsynet eInnsyn
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

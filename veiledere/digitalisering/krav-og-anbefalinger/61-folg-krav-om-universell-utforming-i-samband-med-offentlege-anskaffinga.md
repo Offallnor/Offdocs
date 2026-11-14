@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/folg-krav-om-universe
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Følg krav om universell utforming i samband med offentlege anskaffingar
+# Følg krav om universell utforming i samband med offentlege anskaffingar
 
 Ved offentlege anskaffingar er det ei plikt til å ta omsyn til universell utforming for ytingar som skal brukast av personar, anten allment eller tilsette hos oppdragsgivar, med mindre det er særlege grunnar til unntak.
 
@@ -27,11 +27,17 @@ Kjelde:
 
 - [Anskaffingsforskrifta](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A662)
 
+## Rettleiing og hjelp
+
 Gå vidare til Veileder til reglene om offentlige anskaffelser
 
 Gå vidare til rettleiing om universell utforming i offentlege anskaffingar
 
+## Kjelde
+
 Gå til anskaffingsforskrifta
+
+## Har du eksempel på bruk? Ta gjerne kontakt
 
 ### Nasjonal arkitektur
 

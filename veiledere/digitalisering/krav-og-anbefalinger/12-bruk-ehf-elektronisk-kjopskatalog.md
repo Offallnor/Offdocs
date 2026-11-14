@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-ehf-elektronisk-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk EHF elektronisk kjøpskatalog
+# Bruk EHF elektronisk kjøpskatalog
 
 Det er anbefalt at offentlege verksemder som skal ta i bruk elektronisk kjøpskatalog, gjer det på Elektronisk handelsformat–katalog (EHF-katalog)
 
@@ -30,11 +30,17 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til anskaffelser.no
 
 Gå vidare til Elektronisk Handelsformat - EHF - Prosessoversikt hos DFØ
 
+## Kjelde
+
 Gå til området Digitale anskaffelser i Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

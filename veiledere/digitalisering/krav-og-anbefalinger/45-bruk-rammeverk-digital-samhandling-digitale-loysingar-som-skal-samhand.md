@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-rammeverk-digital-samhan
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk rammeverk for digital samhandling for digitale løysingar som skal samhandle med andre
+# Bruk rammeverk for digital samhandling for digitale løysingar som skal samhandle med andre
 
 Rammeverk for digital samhandling viser korleis ein kan arbeide for å byggje samhandlingsevne for digitale tenester.
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå til Rammeverk for digital samhandling
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

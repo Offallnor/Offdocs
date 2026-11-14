@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/digitale-anskaffelser/1486"
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Digitale anskaffelser
+# Digitale anskaffelser
 
 Standarder som er pålagt eller anbefalt brukt innenfor de ulike fasene i anskaffelsesprosessen. Standardene utgjør strukturert, standardisert meldingsinnhold og er representert gjennom Elektronisk handelsformat (EHF).
 
@@ -29,6 +29,8 @@ Standardene er presentert under fasene i prosessen. Det er foreløpig kun krav t
 
 Anbefalte dokumenter i konkurransegjennomføringfasen er under utvikling og publiseres fortløpende.
 
+## Konkurransegjennomføring - obligatoriske dokumenter (EHF)
+
 **Anskaffelsesdokumentene** er en fellesbetegnelse for kunngjøringen, konkurransegrunnlaget og det europeiske egenerklæringsskjemaet (ESPD). Skjemaene under hører til anskaffelsesdokumentene.
 
 - **Elektronisk kunngjøringsskjema [(Oversikt over kunngjøringsskjemaer finner du på anskaffelser.no)](https://anskaffelser.no/anskaffelsesprosessen/anskaffelsesprosessen-steg-steg/konkurransegjennomforing/invitasjon-til-konkurranse/kunngjore-konkurranse-sende-invitasjon/oversyn-over-elektroniske-kunngjeringsskjema)**
@@ -43,6 +45,8 @@ Kravene er i henhold til:
 
 - [Regjeringens veileder for det europeiske egenerklæringsskjemaet](https://www.regjeringen.no/no/dokumenter/veileder-offentlige-anskaffelser/id2581234/?ch=29)
 - [Forskrift om offentlige anskaffelser §17-1](https://lovdata.no/dokument/SF/forskrift/2016-08-12-974/KAPITTEL_3-6#%C2%A717-1)
+
+## Konkurransegjennomføring - anbefalte dokumenter (EHF)
 
 Alle EHF dokumenter som tilhører anskaffelsesdokumentene er **anbefalt** brukt, med unntak av EHF ESPD som er obligatorisk å bruke.
 
@@ -67,6 +71,8 @@ I henhold til:
 - [Forskrift om offentlige anskaffelser (anskaffelsesforskriften) §27-1 (1)](https://lovdata.no/SF/forskrift/2016-08-12-974/%C2%A727-1)
 - [Forskrift om offentlige anskaffelser kap. 22 kommunikasjon](https://lovdata.no/forskrift/2016-08-12-974/§22-1)
 
+## Kontraktsoppfølging - obligatoriske dokumenter (EHF)
+
 ### EHF Fakturering 3.0 fra 1. april 2019
 
 - Fra 1. april 2019 er det **obligatorisk** for offentlige virksomheter å være i stand til å motta elektronisk faktura eller kreditnota i Elektronisk handelsformat versjon 3.0 ([EHF Fakturering 3.0](https://anskaffelser.dev/postaward/g3/spec/billing-3.0/)).
@@ -85,6 +91,8 @@ Kravene er i henhold til:
 - Det er **obligatorisk** for statens konsernkontobanker, ved forsendelse av kunde-bank meldinger, å kunne
    - ta imot ISO 20022 Pain.001 og
    - sende ISO 20022 Pain.002 og ISO 20022 Camt.054
+
+## Kontraktsoppfølging - anbefalte dokumenter (EHF)
 
 ### Katalog
 
@@ -140,6 +148,10 @@ For å redusere risiko varsler Digitaliseringsdirektoratet om endringer i god ti
 Varsler om endringer kan du finne nederst på[Anskaffelser.dev](https://Anskaffelser.dev)under "Recent announcements".
 
 Oppdragsgiver eller leverandør kan kreve implementering gjennom de avtaler som inngås. Utfordringer kan være at tjenesteleverandør ikke svarer opp de krav som stilles av oppdragsgiver.
+
+## Aktuelle standarder
+
+### Relevant informasjon på anskaffelser.no
 
 - [Anskaffelsesprosessen](https://www.anskaffelser.no/anskaffelsesprosessen/anskaffelsesprosessen-steg-steg)
 - [Elektronisk adresseregister (ELMA)](https://samarbeid.digdir.no/elma/elma/24)

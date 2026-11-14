@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-id-porten-innlog
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk ID-porten for innlogging til digitale tenester
+# Bruk ID-porten for innlogging til digitale tenester
 
 For digitale tenester som krev innlogging og autentisering, er ID-porten nasjonal fellesløysing.
 
@@ -28,8 +28,14 @@ Kjelde:
 
 Denne formuleringa er henta frå Digitaliseringsrundskrivet. Det inneber at det er eit krav for statlege verksemder og ei anbefaling for kommunale.
 
+## Rettleiing og hjelp
+
 Gå vidare til Digdirs sider om ID-porten
 
+## Eksempel på bruk
+
 Slik brukar Statteetaten ID-porten
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

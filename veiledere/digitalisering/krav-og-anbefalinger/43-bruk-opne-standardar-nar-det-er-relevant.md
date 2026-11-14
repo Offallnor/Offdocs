@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-opne-standardar-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk opne standardar når det er relevant
+# Bruk opne standardar når det er relevant
 
 På områder der det ikkje er forskriftsfesta krav til bruk av spesifikke standardar, er det eit krav at ein vurderer om det finst relevante opne standardar som kan brukast. Dette gjeld både ved anskaffing, utvikling, oppsett, drift og bruk av IT-løysingar.
 
@@ -33,7 +33,11 @@ Katalog:
 
 Det er ikkje laga spesifikk rettleiing.
 
+## Kjelde
+
 Gå til forskrift om IT-standardar
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

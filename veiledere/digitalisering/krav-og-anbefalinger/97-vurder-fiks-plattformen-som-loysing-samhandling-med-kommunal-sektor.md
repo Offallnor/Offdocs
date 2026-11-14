@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/vurder-fiks-plattform
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Vurder Fiks-plattformen som løysing for samhandling med kommunal sektor
+# Vurder Fiks-plattformen som løysing for samhandling med kommunal sektor
 
 Fiks-plattformen er ein del av felles økosystem for nasjonal digital samhandling og tenesteutvikling. Statlege etatar skal, saman med KS, vurdere kva kommunale løysingar, inkludert FIKS-plattformen, som ein del av løysingar i si samhandling med kommunal sektor der dette er naturleg.
 
@@ -25,9 +25,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til Fiks-plattformen
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har du eksempel på bruk
 
 ### Nasjonal arkitektur
 

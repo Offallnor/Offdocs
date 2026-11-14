@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/utform-nettloysingar-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Utform nettløysingar i samsvar med standarden WCAG 2.1, på nivå A og AA
+# Utform nettløysingar i samsvar med standarden WCAG 2.1, på nivå A og AA
 
 Nettløysingar skal minst utformast i svar med standard WCAG 2.1, på nivå A og AA, eller tilsvarande denne standarden.
 
@@ -30,8 +30,14 @@ Kjelde:
 
 Universell utforming betyr at brukarane – uavhengig av sine føresetnader – på ein god og enkel måte kan ta i bruk både nettsider og automatar som dei møter i kvardagen. Dette er pålagt gjennom forskrift om universell utforming av ikt-løysingar.
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiing for universell utforming av nettsider
 
+## Eksempel på bruk
+
 Sjå løysingsforslag for nettsider på uutilsynet.no
+
+## Kjelde
 
 Gå til forskrift om universell utforming av ikt

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-standardar-sikring-av-ko
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk standardar for sikring av kommunikasjonskanalar
+# Bruk standardar for sikring av kommunikasjonskanalar
 
 Bruksområdet omfattar design, implementering, konfigurering, sikring, overvaking og vedlikehald av sikre kommunikasjonskanalar (VPN).
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiing for bruk av standarden, på digdir.no
 
+## Kjelde
+
 Gå til Referansekatalogen
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

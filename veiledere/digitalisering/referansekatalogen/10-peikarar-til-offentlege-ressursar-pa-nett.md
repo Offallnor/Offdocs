@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/peikarar-til-offentlege-ressursar-pa-ne
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Peikarar til offentlege ressursar på nett
+# Peikarar til offentlege ressursar på nett
 
 Dette bruksområdet inneheld standardar som definerer struktur på peikarar (URI) til offentlege ressursar på nett. Med «offentlege ressursar på nett» meiner vi ressursar som offentlege verksemder forvaltar som er adresserte med HTTP eller HTTPS-protokollen.
 
@@ -16,6 +16,8 @@ Sist endra: 21. april 2022
 Anbefalingane som gjeld her er avgrensa til peikarar der responsen skal ha eit maskinlesbart format.
 
 Med «maskinlesbart format» meiner vi eit format som er strukturert slik at programvare enkelt kan identifisere, kjenne att og trekke ut gitte opplysningar.
+
+## Anbefalt utforming av peikarar
 
 Det er **anbefalt**å utforme peikarar til offentlege ressursar på nett som IRI-ar (sjå Relevante standardar nedanfor), ei utviding av URI-standarden, og som gjer det mogleg å nytte eit utvida teiknsett. URI-standarden tillater berre teikn basert på ASCII, medan IRI-standarden tillater teikn basert på Universal Character Set (unicode/ISO 10646) som inkluderer kinesisk, japansk, kyrillisk osb.
 
@@ -28,6 +30,8 @@ Innført 12.12.2016.
 ## Rettleiar
 
 Det er ikkje laga rettleiarar enno.
+
+## Aktuelle standardar
 
 - [Uniform Resource Identifier (URI)](https://www.rfc-editor.org/info/rfc3986)
 - [Internationalized Resource Identifier (IRI)](https://www.rfc-editor.org/info/rfc3987)

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/sorg-system-tek-hogde
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Sørg for at system tek høgde for endringar i kommunestruktur
+# Sørg for at system tek høgde for endringar i kommunestruktur
 
 Statlege verksemder må sørge for at deira system er fleksible nok til å ta høgde for endringar i kommunestrukturen.
 
@@ -25,7 +25,11 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har du eksempel på bruk
 
 ### Nasjonal arkitektur
 

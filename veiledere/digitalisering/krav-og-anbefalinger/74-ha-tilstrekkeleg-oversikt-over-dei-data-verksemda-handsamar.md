@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/ha-tilstrekkeleg-oversikt-ove
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Ha tilstrekkeleg oversikt over dei data verksemda handsamar
+# Ha tilstrekkeleg oversikt over dei data verksemda handsamar
 
 Rettleiinga Orden i eget hus hjelper verksemda med å ha tilstrekkeleg oversikt over data den handsamar.
 
@@ -28,9 +28,15 @@ Kjelde:
 
 Denne formuleringa er henta frå Digitaliseringsrundskrivet. Det inneber at det er eit krav for statlege verksemder og ei anbefaling for kommunale.
 
+## Rettleiing og hjelp
+
 Gå videre til Veileder om orden i eget hus
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-teiknsettstandard-pa-net
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk teiknsettstandard på nettsider
+# Bruk teiknsettstandard på nettsider
 
 Teiknsett gjeld alle typar IT-løysingar i offentlege verksemder og teiknsett ved utveksling av informasjon mellom offentlege verksemder og med innbyggarar og næringsliv.
 
@@ -34,9 +34,15 @@ Ein obligatorisk standard skal følgast med mindre du fell inn under ei unntakso
 
 Anbefalte standardar skal nyttast med mindre du har ein god grunn til å la vere.
 
+## Rettleiing og hjelp
+
 Gå til standarden for teiknsett
 
+## Kjelde
+
 Gå til Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

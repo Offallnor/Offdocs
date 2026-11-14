@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-digital-postkass
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk digital postkasse til innbyggjarar for utsending av post til innbyggjarar
+# Bruk digital postkasse til innbyggjarar for utsending av post til innbyggjarar
 
 Digital postkasse til innbyggjarar er forvaltninga sin hovudkanal for utsending av post til innbyggjarar.
 
@@ -29,12 +29,18 @@ Kjelde:
 
 Vi har ei postkasse for post frå det offentlege til innbyggjarar, og ei for post frå det offentlege til næringsdrivande. Digital post til innbyggjarar (DPI) skal brukast til innbyggjarar, medan meldingsboksen i Altinn (DPV) skal brukast til næringsdrivande.
 
+## Rettleiing og hjelp
+
 Gå vidare til informasjonssider om fellesløysinga Digital postkasse til innbyggjarar
+
+## Eksempel på bruk
 
 Sjå korleis Digital post til innbyggjarar kan bidra til auka digital inkludering
 
 Sjå korleis Valdirektoratet sendte ut valkort
 
 Sjå korleis Helse Vest brukar Digital post til innbyggjarar
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/meld-inn-prosjekt-til
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Meld inn prosjekt til Digitaliseringsrådet
+# Meld inn prosjekt til Digitaliseringsrådet
 
 Digitaliseringsrådet gir fagleg grunna og erfaringsbaserte råd og anbefalingar til leiarar i staten. Det kan vere reine digitaliseringsprosjekt eller endringsprosessar der digitalisering utgjer ein viktig del.
 
@@ -26,5 +26,7 @@ Rådet er ei anbefalt, frivillig ordning for statlege verksemder, og for digital
 ## Kvifor følgje?
 
 Digitaliseringsrådet hjelper statlige virksomhetsledere i å lykkes med digitaliseringsprosjekter og endringsprosesser der digitalisering utgjør en viktig del.
+
+## Rettleiing og hjelp
 
 Gå vidare til rådet sine sider

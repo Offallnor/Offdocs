@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-gjeldande-standard-beskr
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk gjeldande standard for beskriving av omgrep
+# Bruk gjeldande standard for beskriving av omgrep
 
 Forvaltningstandard for omgrepsbeskrivingar for offentlege verksemder. Den beskriv kva element som skal og kan takast med når offentlege verksemder dokumenterer/beskriv sine omgrep og omgrepssamlingar.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiar for begrepsbeskrivelse
 
+## Kjelde
+
 Gå til Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

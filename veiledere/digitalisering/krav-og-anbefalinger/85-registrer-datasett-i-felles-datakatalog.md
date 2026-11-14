@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/registrer-datasett-i-felles-d
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Registrer datasett i Felles datakatalog
+# Registrer datasett i Felles datakatalog
 
 Felles datakatalog synleggjer kva data virksomheter har som de kan dele med andre. Katalogen adresserer behovet for å oppdage, evaluere og få tilgang til data.
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå videre til data.norge.no
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

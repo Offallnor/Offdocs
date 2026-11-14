@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/utform-nettloysingar-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Utform nettløysingar i samsvar med alle suksesskriteria WCAG 2.0
+# Utform nettløysingar i samsvar med alle suksesskriteria WCAG 2.0
 
 Sjølv om regelverket i all hovudsak stiller krav om å følgje krava på A- og AA-nivå i WCAG-standarden, er det ei tilråding å utforme nettløysingar som samsvarar med alle krav, inkludert på AAA-nivå.
 
@@ -34,8 +34,14 @@ Katalog:
 
 Universell utforming bygger på tanken om at tenester skal vere tilgjengelege for alle, uavhengig av alder, funksjonsevne og utdanningsnivå. [Les meir om kvifor universell utforming av ikt på uutilsynet.no.](https://www.uutilsynet.no/veiledning/kvifor-universell-utforming-av-ikt/240)
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiing for universell utforming av nettsider
 
+## Eksempel på bruk
+
 Sjå løysingsforslag for nettsider på uutilsynet.no
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

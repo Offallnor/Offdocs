@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/ver-tydeleg-pa-foresetnadane-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Ver tydeleg på føresetnadane for å dele eit datasett
+# Ver tydeleg på føresetnadane for å dele eit datasett
 
 Datasett som blir registrert eller synleggjort, til dømes i Felles datakatalog, treng tydeleg informasjon om føresetnadane for å dele datasettet med andre
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå videre til data.norge.no
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

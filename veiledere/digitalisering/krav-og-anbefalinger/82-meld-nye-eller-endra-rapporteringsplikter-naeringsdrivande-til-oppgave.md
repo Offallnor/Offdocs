@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/meld-nye-eller-endra-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Meld nye eller endra rapporteringsplikter for næringsdrivande til oppgåveregisteret
+# Meld nye eller endra rapporteringsplikter for næringsdrivande til oppgåveregisteret
 
 Verksemder skal melde nye eller endra rapporteringsplikter som blir pålagt næringdrivande til oppgåveregisteret. Verksemdene skal òg samordne rapporteringspliktene der det er praktisk mogleg.
 
@@ -26,6 +26,10 @@ Kjelde:
 
 - [Oppgåveregisterlova](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A649)
 
+## Rettleiing og hjelp
+
 Gå vidare til oppgåveregisteret
+
+## Kjelde
 
 Gå til oppgåveregisterlova

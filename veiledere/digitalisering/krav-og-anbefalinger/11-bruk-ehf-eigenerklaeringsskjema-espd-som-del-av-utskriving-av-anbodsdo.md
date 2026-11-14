@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-ehf-eigenerklaer
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk EHF eigenerklæringsskjema (ESPD) som del av utskriving av anbodsdokument
+# Bruk EHF eigenerklæringsskjema (ESPD) som del av utskriving av anbodsdokument
 
 Leverandøren skal levere det europeiske eigenerklæringsskjemaet i eit standardformat som er fastsett av departementet, saman med førespurnaden om å delta i konkurransen eller tilbodet.
 
@@ -35,9 +35,15 @@ a) at han oppfyller kvalifikasjonskrava
 b) at det ikkje finnast grunnar for avvisning  
 c) at han oppfyller eventuelle utvelgelseskriterium
 
+## Rettleiing og hjelp
+
 Gå vidare til anskaffelser.no
 
+## Kjelde
+
 Gå til anskaffingsforskriften
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

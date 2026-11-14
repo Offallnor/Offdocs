@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-ein-prosjektmodell-baser
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk ein prosjektmodell basert på god praksis i gjennomføring av IKT-prosjekt på meir enn 10 mill. kroner
+# Bruk ein prosjektmodell basert på god praksis i gjennomføring av IKT-prosjekt på meir enn 10 mill. kroner
 
 Prosjektvegvisaren er tilrådd modell for overordna prosjektstyring i offentleg sektor.
 
@@ -28,11 +28,17 @@ Kjelde:
 
 Denne formuleringa er henta frå Digitaliseringsrundskrivet. Det inneber at det er eit krav for statlege verksemder og ei anbefaling for kommunale.
 
+## Rettleiing og hjelp
+
 Gå vidare til Digdirs rettleiing om prosjektaktiviteter
 
 Gå til Prosjektvegvisaren på digdir.no
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

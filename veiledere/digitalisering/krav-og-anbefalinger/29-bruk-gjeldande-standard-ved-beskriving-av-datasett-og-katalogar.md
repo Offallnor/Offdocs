@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-gjeldande-standard-ved-b
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk gjeldande standard ved beskriving av datasett og -katalogar
+# Bruk gjeldande standard ved beskriving av datasett og -katalogar
 
 DCAT-AP-NO er gjeldande standard ved beskriving og utforming av datasett og -katalogar som gjeld opne eller avgrensa data.
 
@@ -35,11 +35,17 @@ Katalog:
 
 Formålet med standarden er å legge til rette for utveksling av beskrivelser av datasett og datatjenester, og å lette søk etter datasett og datatjenester.
 
+## Rettleiing og hjelp
+
 Standard for beskrivelse av datasett, datatjenester og datakataloger (DCAT-AP-NO) (norge.no)
 
 Veileder for beskrivelse av datasett, datatjenester og datakataloger (norge.no)
 
+## Kjelde
+
 Gå til Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

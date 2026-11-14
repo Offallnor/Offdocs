@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-kontaktinformasjon-fra-k
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk kontaktinformasjon fra kontaktregisteret ved varsling om vedtak
+# Bruk kontaktinformasjon fra kontaktregisteret ved varsling om vedtak
 
 Både kommunale og statlege forvaltningsorgan skal nytte kontaktinformasjon frå kontaktregisteret ved varsling av innbyggarar, utsending av vedtak og annan viktig digital kontakt.
 
@@ -27,9 +27,15 @@ Kjelde:
 
 - [eForvaltningsforskrifta](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A613)
 
+## Rettleiing og hjelp
+
 Gå til samarbeid.digdir.no
 
+## Kjelde
+
 Gå til eForvaltningsforskrifta §8
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

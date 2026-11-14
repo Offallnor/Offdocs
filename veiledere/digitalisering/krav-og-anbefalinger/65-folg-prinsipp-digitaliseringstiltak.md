@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/folg-prinsipp-digitaliserings
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Følg prinsipp for digitaliseringstiltak
+# Følg prinsipp for digitaliseringstiltak
 
 Digitaliseringsrundskriv har definert fem prinsipp som bør leggast til grunn for digitaliseringstiltak. Prinsippa gjeld anten det er mindre utviklingsaktivitetar styrt i linjeorganisasjonen, eller prosjekt som følgjer Prosjektveivisaren.
 
@@ -35,9 +35,15 @@ Dei fem prinsippa er:
 4. Sørg for rett kompetanse og god leiarforståing
 5. Lever hyppig – skap nytte heile vegen
 
+## Rettleiing og hjelp
+
 Gå vidare til prosjektrettleiing på digdir.no
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

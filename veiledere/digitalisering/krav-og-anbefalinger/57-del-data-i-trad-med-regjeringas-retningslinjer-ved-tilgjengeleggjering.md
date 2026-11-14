@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/del-data-i-trad-med-regjering
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Del data i tråd med regjeringas retningslinjer ved tilgjengeleggjering av offentlege data
+# Del data i tråd med regjeringas retningslinjer ved tilgjengeleggjering av offentlege data
 
 Retningslinjene hjelper verksemda med å gjere data tilgjengeleg slik at det er mogleg for andre å realisere verdien av data. Retningslinjene legg til rette for å kunne beskrive korleis dataa kan brukast og korleis dei teknisk er gjort tilgjengeleg.
 
@@ -26,7 +26,11 @@ Kjelde:
 
 - [Retningslinjer ved tilgjengeleggjering av offentlige data](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A652)
 
+## Kjelde
+
 Retningslinjer ved tilgjengeliggjøring av offentlige data - regjeringen.no
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

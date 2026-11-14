@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/beskriving-av-datasett-og-datatenester/
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Beskriving av datasett og datatenester
+# Beskriving av datasett og datatenester
 
 Bruksområdet inneheld standardar for å beskrive datasett og datatenester (API-ar) i ein maskinleseleg katalog. Standardane legg til rette å finne data og datatenester på tvers av katalogar, verksemder og landegrenser, men kan òg nyttast for å få oversikt over data og datatenester i eiga verksemd.
 

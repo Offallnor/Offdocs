@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-eformidling-fore
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk eFormidling for å forenkle meldingsutveksling
+# Bruk eFormidling for å forenkle meldingsutveksling
 
 eFormidling gjer det mogleg å kommunisere på ein enkel måte, utan å måtte ta omsyn til om mottakaren er ei privat verksemd, offentleg verksemd eller innbyggjar.
 
@@ -26,6 +26,10 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til informasjonssider om fellesløysinga eFormidling
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

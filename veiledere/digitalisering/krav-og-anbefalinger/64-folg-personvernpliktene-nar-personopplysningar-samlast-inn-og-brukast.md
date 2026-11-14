@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/folg-personvernplikte
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Følg personvernpliktene når personopplysningar samlast inn og brukast
+# Følg personvernpliktene når personopplysningar samlast inn og brukast
 
 Når ei verksemd samlar inn og brukar personopplysningar, er det mange plikter som følgjer av personvernregelverket.
 
@@ -29,6 +29,10 @@ Kjelde:
 
 Verksemder skal følgje krava i personopplysningslova, og gjennomføre tilpassningar og endringar når det er naudsynt. Dei skal ha ei risikobasert tilnærming til personvernarbeidet.
 
+## Rettleiing og hjelp
+
 Gå vidare til Datatilsynet sine sider om verksemdene sine plikter
+
+## Kjelde
 
 Gå til personopplysningslova

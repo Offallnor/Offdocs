@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-dei-nasjonale-fe
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk dei nasjonale fellesregistra for informasjon om personar, verksemder og eigedommar
+# Bruk dei nasjonale fellesregistra for informasjon om personar, verksemder og eigedommar
 
 Folkeregisteret, einingsregisteret og matrikkelen er nasjonale fellesregister for høvesvis personar, verksemder og eigedommar. Desse skal brukast, så framt vilkår for bruk er fylt.
 
@@ -31,10 +31,14 @@ Kjelde:
 
 Dei nasjonale fellesregistra bidrar mellom anna til å unngå dobbeltrapportering, og sikre gjenbruk av oppdatert og korrekt informasjon om personar, verksemder og eigedomar.
 
+## Rettleiing og hjelp
+
 Gå vidare til folkeregisteret
 
 Gå vidare til einigsregisteret
 
 Gå vidare til Matrikkelen
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

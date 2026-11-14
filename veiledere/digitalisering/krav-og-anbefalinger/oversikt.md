@@ -49,6 +49,12 @@ Tekst fra Digitaliseringsdirektoratet, hentet fra [digdir.no](https://www.digdir
 
 Bruk filter for å spisse visningen. Vil du kun sjå krav for kommunar? Eller alle krav i Digitaliseringsrundskrivet?
 
+Viser
+
+99
+
+oppføringar.
+
 - Kommune: Anbefaling
 - Stat: Anbefaling
 
@@ -401,102 +407,102 @@ HTTPS er overføring av nettrafikk over ei sikker forbindelse. Ved å nytte kryp
 
 ## Kapitler
 
-- Krav og anbefalingar innan digitalisering Auk delen dokument som publiserast i fulltekst på eInnsyn – `01-auk-delen-dokument-som-publiserast-i-fulltekst-pa-einnsyn.md`
-- Krav og anbefalingar innan digitalisering Bruk Altinn for digital post til næringsdrivande – `02-bruk-altinn-digital-post-til-naeringsdrivande.md`
-- Krav og anbefalingar innan digitalisering Bruk Altinn sin infrastruktur og tenesteplattform – `03-bruk-altinn-sin-infrastruktur-og-tenesteplattform.md`
-- Krav og anbefalingar innan digitalisering Bruk Altinn som kanal for etablerarar og næringsdrivande – `04-bruk-altinn-som-kanal-etablerarar-og-naeringsdrivande.md`
-- Krav og anbefalingar innan digitalisering Bruk dei nasjonale fellesregistra for informasjon om personar, verksemder og eigedommar – `05-bruk-dei-nasjonale-fellesregistra-informasjon-om-personar-verksemder-o.md`
-- Krav og anbefalingar innan digitalisering Bruk digital postkasse til innbyggjarar for utsending av post til innbyggjarar – `06-bruk-digital-postkasse-til-innbyggjarar-utsending-av-post-til-innbyggj.md`
-- Krav og anbefalingar innan digitalisering Bruk eFormidling for å forenkle meldingsutveksling – `07-bruk-eformidling-forenkle-meldingsutveksling.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF anskaffelsesdokument ved anskaffingar – `08-bruk-ehf-anskaffelsesdokument-ved-anskaffingar.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF eBevis anskaffingsdokument ved bevisinnhenting i kvalifikasjons- og kontraktsoppfølgingsfasen – `09-bruk-ehf-ebevis-anskaffingsdokument-ved-bevisinnhenting-i-kvalifikasjo.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF eigenerklæringsskjema (ESPD) som del av mottak av tilbodsinnlevering – `10-bruk-ehf-eigenerklaeringsskjema-espd-som-del-av-mottak-av-tilbodsinnle.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF eigenerklæringsskjema (ESPD) som del av utskriving av anbodsdokument – `11-bruk-ehf-eigenerklaeringsskjema-espd-som-del-av-utskriving-av-anbodsdo.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF elektronisk kjøpskatalog – `12-bruk-ehf-elektronisk-kjopskatalog.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF for å motta elektronisk faktura eller kreditnota – `13-bruk-ehf-motta-elektronisk-faktura-eller-kreditnota.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF for å ta imot elektronisk faktura eller kreditnota frå utanlandske leverandørar – `14-bruk-ehf-ta-imot-elektronisk-faktura-eller-kreditnota-fra-utanlandske-.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF forespørselskatalog ved anskaffelser – `15-bruk-ehf-foresporselskatalog-ved-anskaffelser.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF infrastruktur/PEPPOL-nettverket ved sending og mottak av elektroniske meldinger – `16-bruk-ehf-infrastrukturpeppol-nettverket-ved-sending-og-mottak-av-elekt.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF ordre og ordrebekreftelse ved sending og mottak av ordre og ordrebekreftelse – `17-bruk-ehf-ordre-og-ordrebekreftelse-ved-sending-og-mottak-av-ordre-og-o.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF pakkseddel – `18-bruk-ehf-pakkseddel.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF purring – `19-bruk-ehf-purring.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF spørsmål og svar ved spørsmål til anskaffelser og konkurransegjennomføring – `20-bruk-ehf-sporsmal-og-svar-ved-sporsmal-til-anskaffelser-og-konkurranse.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF tilbudsinnlevering og kvitteringsmelding ved tilbudsinnlevering – `21-bruk-ehf-tilbudsinnlevering-og-kvitteringsmelding-ved-tilbudsinnleveri.md`
-- Krav og anbefalingar innan digitalisering Bruk EHF tilbudskatalog ved tilbudsinnlevering – `22-bruk-ehf-tilbudskatalog-ved-tilbudsinnlevering.md`
-- Krav og anbefalingar innan digitalisering Bruk ein prosjektmodell basert på god praksis i gjennomføring av IKT-prosjekt på meir enn 10 mill. kroner – `23-bruk-ein-prosjektmodell-basert-pa-god-praksis-i-gjennomforing-av-ikt-p.md`
-- Krav og anbefalingar innan digitalisering Bruk europeisk egenerklæringsskjema (ESPD) ved anskaffelser over EØS terskelverdi – `24-bruk-europeisk-egenerklaeringsskjema-espd-ved-anskaffelser-over-eos-te.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande referansearkitekturar ved utvikling av løysingar for informasjonsutveksling – `25-bruk-gjeldande-referansearkitekturar-ved-utvikling-av-loysingar-inform.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande standard for beskriving av omgrep – `26-bruk-gjeldande-standard-beskriving-av-omgrep.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande standard for språkkoder på offentlege nettsider – `27-bruk-gjeldande-standard-sprakkoder-pa-offentlege-nettsider.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande standard ved arbeid med terminologi og omgrep – `28-bruk-gjeldande-standard-ved-arbeid-med-terminologi-og-omgrep.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande standard ved beskriving av datasett og -katalogar – `29-bruk-gjeldande-standard-ved-beskriving-av-datasett-og-katalogar.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande standard ved koordinering av omgrep – `30-bruk-gjeldande-standard-ved-koordinering-av-omgrep.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande standard ved utforming av næringslivsskjema – `31-bruk-gjeldande-standard-ved-utforming-av-naeringslivsskjema.md`
-- Krav og anbefalingar innan digitalisering Bruk gjeldande standardar for tilgjengeleggjering av standardiserte og maskinlesbare omgrepsbeskrivingar – `32-bruk-gjeldande-standardar-tilgjengeleggjering-av-standardiserte-og-mas.md`
-- Krav og anbefalingar innan digitalisering Bruk godkjente filformat for arkivdokument ved avlevering eller deponering – `33-bruk-godkjente-filformat-arkivdokument-ved-avlevering-eller-deponering.md`
-- Krav og anbefalingar innan digitalisering Bruk grunnleggjande protokollar for kommunikasjon på internett – `34-bruk-grunnleggjande-protokollar-kommunikasjon-pa-internett.md`
-- Krav og anbefalingar innan digitalisering Bruk grunnprinsipp for IKT-sikkerheit – `35-bruk-grunnprinsipp-ikt-sikkerheit.md`
-- Krav og anbefalingar innan digitalisering Bruk gyldige (ISO 20022) betalingsmeldinger – `36-bruk-gyldige-iso-20022-betalingsmeldinger.md`
-- Krav og anbefalingar innan digitalisering Bruk ID-porten for innlogging til digitale tenester – `37-bruk-id-porten-innlogging-til-digitale-tenester.md`
-- Krav og anbefalingar innan digitalisering Bruk internkontroll på informasjonssikkerhetsområdet – `38-bruk-internkontroll-pa-informasjonssikkerhetsomradet.md`
-- Krav og anbefalingar innan digitalisering Bruk journal- og arkivsystem basert på gjeldende standard – `39-bruk-journal-og-arkivsystem-basert-pa-gjeldende-standard.md`
-- Krav og anbefalingar innan digitalisering Bruk klart og godt språk – `40-bruk-klart-og-godt-sprak.md`
-- Krav og anbefalingar innan digitalisering Bruk kontaktinformasjon fra kontaktregisteret ved varsling om vedtak – `41-bruk-kontaktinformasjon-fra-kontaktregisteret-ved-varsling-om-vedtak.md`
-- Krav og anbefalingar innan digitalisering Bruk kravspesifikasjon for PKI ved anskaffing av PKI-tenester – `42-bruk-kravspesifikasjon-pki-ved-anskaffing-av-pki-tenester.md`
-- Krav og anbefalingar innan digitalisering Bruk opne standardar når det er relevant – `43-bruk-opne-standardar-nar-det-er-relevant.md`
-- Krav og anbefalingar innan digitalisering Bruk PEPPOL eDelivery nettverket i kunde-bank grensesnittet – `44-bruk-peppol-edelivery-nettverket-i-kunde-bank-grensesnittet.md`
-- Krav og anbefalingar innan digitalisering Bruk rammeverk for digital samhandling for digitale løysingar som skal samhandle med andre – `45-bruk-rammeverk-digital-samhandling-digitale-loysingar-som-skal-samhand.md`
-- Krav og anbefalingar innan digitalisering Bruk reservasjonsstatus frå kontaktregisteret når viktige brev skal sendast digitalt utan samtykke – `46-bruk-reservasjonsstatus-fra-kontaktregisteret-nar-viktige-brev-skal-se.md`
-- Krav og anbefalingar innan digitalisering Bruk rettleiar om internkontroll i praksis – `47-bruk-rettleiar-om-internkontroll-i-praksis.md`
-- Krav og anbefalingar innan digitalisering Bruk standard for filoverføring – `48-bruk-standard-filoverforing.md`
-- Krav og anbefalingar innan digitalisering Bruk standard for sikker bruk av domenenavn – `49-bruk-standard-sikker-bruk-av-domenenavn.md`
-- Krav og anbefalingar innan digitalisering Bruk standard for sikker datakommunikasjon frå offentlege nettstader (HTTPS) – `50-bruk-standard-sikker-datakommunikasjon-fra-offentlege-nettstader-https.md`
-- Krav og anbefalingar innan digitalisering Bruk standardar for sikring av kommunikasjonskanalar – `51-bruk-standardar-sikring-av-kommunikasjonskanalar.md`
-- Krav og anbefalingar innan digitalisering Bruk standardar for å motverke falske avsendarar av e-post – `52-bruk-standardar-motverke-falske-avsendarar-av-e-post.md`
-- Krav og anbefalingar innan digitalisering Bruk standarder for sikring av e-post – `53-bruk-standarder-sikring-av-e-post.md`
-- Krav og anbefalingar innan digitalisering Bruk statens standardavtaler (SSA) ved innkjøp av IT- og konsulenttjenester – `54-bruk-statens-standardavtaler-ssa-ved-innkjop-av-it-og-konsulenttjenest.md`
-- Krav og anbefalingar innan digitalisering Bruk teiknsettstandard på nettsider – `55-bruk-teiknsettstandard-pa-nettsider.md`
-- Krav og anbefalingar innan digitalisering Bygg inn personvern og ha personvern som standardinnstilling – `56-bygg-inn-personvern-og-ha-personvern-som-standardinnstilling.md`
-- Krav og anbefalingar innan digitalisering Del data i tråd med regjeringas retningslinjer ved tilgjengeleggjering av offentlege data – `57-del-data-i-trad-med-regjeringas-retningslinjer-ved-tilgjengeleggjering.md`
-- Krav og anbefalingar innan digitalisering Del data i tråd med regjeringas retningslinjer ved tilgjengeleggjering av offentlege data – `58-del-data-i-trad-med-regjeringas-retningslinjer-ved-tilgjengeleggjering.md`
-- Krav og anbefalingar innan digitalisering Drøft digitaliseringstiltak som omfattar kommunesektoren med KS – `59-droft-digitaliseringstiltak-som-omfattar-kommunesektoren-med-ks.md`
-- Krav og anbefalingar innan digitalisering Følg dei overordna arkitekturprinsippa – `60-folg-dei-overordna-arkitekturprinsippa.md`
-- Krav og anbefalingar innan digitalisering Følg krav om universell utforming i samband med offentlege anskaffingar – `61-folg-krav-om-universell-utforming-i-samband-med-offentlege-anskaffinga.md`
-- Krav og anbefalingar innan digitalisering Følg krav til filformat for arkivdokument – `62-folg-krav-til-filformat-arkivdokument.md`
-- Krav og anbefalingar innan digitalisering Følg krava i KS-ordninga for digitaliseringsprosjekt på meir enn 300 mill. kroner – `63-folg-krava-i-ks-ordninga-digitaliseringsprosjekt-pa-meir-enn-300-mill-.md`
-- Krav og anbefalingar innan digitalisering Følg personvernpliktene når personopplysningar samlast inn og brukast – `64-folg-personvernpliktene-nar-personopplysningar-samlast-inn-og-brukast.md`
-- Krav og anbefalingar innan digitalisering Følg prinsipp for digitaliseringstiltak – `65-folg-prinsipp-digitaliseringstiltak.md`
-- Krav og anbefalingar innan digitalisering Følg prinsipp for samordning med og involvering av kommunal sektor – `66-folg-prinsipp-samordning-med-og-involvering-av-kommunal-sektor.md`
-- Krav og anbefalingar innan digitalisering Gi brukarane rettleiing – `67-gi-brukarane-rettleiing.md`
-- Krav og anbefalingar innan digitalisering Gjennomfør ROS-vurdering ved bruk av fellesløysingar – `68-gjennomfor-ros-vurdering-ved-bruk-av-fellesloysingar.md`
-- Krav og anbefalingar innan digitalisering Gjer det mogleg å hauste inn og gjenbruke offentleg produsert tekst til språkteknologiske føremål – `69-gjer-det-mogleg-hauste-inn-og-gjenbruke-offentleg-produsert-tekst-til-.md`
-- Krav og anbefalingar innan digitalisering Gjer postjournalar tilgjengeleg på nett – `70-gjer-postjournalar-tilgjengeleg-pa-nett.md`
-- Krav og anbefalingar innan digitalisering Gjer tenester retta mot næringsdrivande tilgjengelege på Altinn-portalen – `71-gjer-tenester-retta-mot-naeringsdrivande-tilgjengelege-pa-altinn-porta.md`
-- Krav og anbefalingar innan digitalisering Gjer video på offentlege internettsider tilgjengelege på godkjente format – `72-gjer-video-pa-offentlege-internettsider-tilgjengelege-pa-godkjente-for.md`
-- Krav og anbefalingar innan digitalisering Gå gjennom relevant regelverk – `73-ga-gjennom-relevant-regelverk.md`
-- Krav og anbefalingar innan digitalisering Ha tilstrekkeleg oversikt over dei data verksemda handsamar – `74-ha-tilstrekkeleg-oversikt-over-dei-data-verksemda-handsamar.md`
-- Krav og anbefalingar innan digitalisering Ikkje spør brukarane på nytt om tilhøve dei allereie har gitt opplysningar om – `75-ikkje-spor-brukarane-pa-nytt-om-tilhove-dei-allereie-har-gitt-opplysni.md`
-- Krav og anbefalingar innan digitalisering Kommuniser med brukarane gjennom digitale, nettbaserte tenester – `76-kommuniser-med-brukarane-gjennom-digitale-nettbaserte-tenester.md`
-- Krav og anbefalingar innan digitalisering Lag digitaliseringsvenleg regelverk – `77-lag-digitaliseringsvenleg-regelverk.md`
-- Krav og anbefalingar innan digitalisering Lag innkjøpsstrategi – `78-lag-innkjopsstrategi.md`
-- Krav og anbefalingar innan digitalisering Lag tilgjengelegheiterklæring for nettstader og appar – `79-lag-tilgjengelegheiterklaering-nettstader-og-appar.md`
-- Krav og anbefalingar innan digitalisering Leverandører av varer og tjenester som sender elektronisk faktura eller kreditnota skal gjøre det på EHF – `80-leverandorer-av-varer-og-tjenester-som-sender-elektronisk-faktura-elle.md`
-- Krav og anbefalingar innan digitalisering Meld inn prosjekt til Digitaliseringsrådet – `81-meld-inn-prosjekt-til-digitaliseringsradet.md`
-- Krav og anbefalingar innan digitalisering Meld nye eller endra rapporteringsplikter for næringsdrivande til oppgåveregisteret – `82-meld-nye-eller-endra-rapporteringsplikter-naeringsdrivande-til-oppgave.md`
-- Krav og anbefalingar innan digitalisering Norske banker skal være i stand til å benytte PEPPOL-nettverket til betalingsmeldinger i kunde-bank grensesnittet – `83-norske-banker-skal-vaere-i-stand-til-benytte-peppol-nettverket-til-bet.md`
-- Krav og anbefalingar innan digitalisering Publiser alle nettlesarbaserte tenester på offentlege nettsider i HTML5 – `84-publiser-alle-nettlesarbaserte-tenester-pa-offentlege-nettsider-i-html.md`
-- Krav og anbefalingar innan digitalisering Registrer datasett i Felles datakatalog – `85-registrer-datasett-i-felles-datakatalog.md`
-- Krav og anbefalingar innan digitalisering Sikre at tenestene fyller brukarane sine behov – `86-sikre-tenestene-fyller-brukarane-sine-behov.md`
-- Krav og anbefalingar innan digitalisering Still krav i tråd med kommande standardar ved nye anskaffingar av IKT-løysingar – `87-still-krav-i-trad-med-kommande-standardar-ved-nye-anskaffingar-av-ikt-.md`
-- Krav og anbefalingar innan digitalisering Sørg for at data kan gjerast tilgjengeleg i eit langtidsperspektiv – `88-sorg-data-kan-gjerast-tilgjengeleg-i-eit-langtidsperspektiv.md`
-- Krav og anbefalingar innan digitalisering Sørg for at system tek høgde for endringar i kommunestruktur – `89-sorg-system-tek-hogde-endringar-i-kommunestruktur.md`
-- Krav og anbefalingar innan digitalisering Ta ansvar for heilskapelege løysingar for oppgåver som går på tvers av statleg og kommunal sektor – `90-ta-ansvar-heilskapelege-loysingar-oppgaver-som-gar-pa-tvers-av-statleg.md`
-- Krav og anbefalingar innan digitalisering Tilpass digitale tenester til grenseoverskridande informasjonsutveksling innanfor EØS-området – `91-tilpass-digitale-tenester-til-grenseoverskridande-informasjonsutveksli.md`
-- Krav og anbefalingar innan digitalisering Tilpass digitale tenester til grenseoverskridande informasjonsutveksling utanfor EØS-området – `92-tilpass-digitale-tenester-til-grenseoverskridande-informasjonsutveksli.md`
-- Krav og anbefalingar innan digitalisering Utenlandske leverandører av varer og tjenester som sender elektronisk faktura eller kreditnota skal gjøre det på EHF – `93-utenlandske-leverandorer-av-varer-og-tjenester-som-sender-elektronisk-.md`
-- Krav og anbefalingar innan digitalisering Utform nettløysingar i samsvar med alle suksesskriteria WCAG 2.0 – `94-utform-nettloysingar-i-samsvar-med-alle-suksesskriteria-wcag-20.md`
-- Krav og anbefalingar innan digitalisering Utform nettløysingar i samsvar med standarden WCAG 2.1, på nivå A og AA – `95-utform-nettloysingar-i-samsvar-med-standarden-wcag-21-pa-niva-og-aa.md`
-- Krav og anbefalingar innan digitalisering Ver tydeleg på føresetnadane for å dele eit datasett – `96-ver-tydeleg-pa-foresetnadane-dele-eit-datasett.md`
-- Krav og anbefalingar innan digitalisering Vurder Fiks-plattformen som løysing for samhandling med kommunal sektor – `97-vurder-fiks-plattformen-som-loysing-samhandling-med-kommunal-sektor.md`
-- Krav og anbefalingar innan digitalisering Vurder skytenester ved etablering eller oppgradering av digitale tenester eller fagsystem – `98-vurder-skytenester-ved-etablering-eller-oppgradering-av-digitale-tenes.md`
-- Krav og anbefalingar innan digitalisering Vurder å gi allmenn tilgang til data i tråd med føresegnene om vidarebruk av offentleg informasjon i offentleglova – `99-vurder-gi-allmenn-tilgang-til-data-i-trad-med-foresegnene-om-vidarebru.md`
+- Auk delen dokument som publiserast i fulltekst på eInnsyn – `01-auk-delen-dokument-som-publiserast-i-fulltekst-pa-einnsyn.md`
+- Bruk Altinn for digital post til næringsdrivande – `02-bruk-altinn-digital-post-til-naeringsdrivande.md`
+- Bruk Altinn sin infrastruktur og tenesteplattform – `03-bruk-altinn-sin-infrastruktur-og-tenesteplattform.md`
+- Bruk Altinn som kanal for etablerarar og næringsdrivande – `04-bruk-altinn-som-kanal-etablerarar-og-naeringsdrivande.md`
+- Bruk dei nasjonale fellesregistra for informasjon om personar, verksemder og eigedommar – `05-bruk-dei-nasjonale-fellesregistra-informasjon-om-personar-verksemder-o.md`
+- Bruk digital postkasse til innbyggjarar for utsending av post til innbyggjarar – `06-bruk-digital-postkasse-til-innbyggjarar-utsending-av-post-til-innbyggj.md`
+- Bruk eFormidling for å forenkle meldingsutveksling – `07-bruk-eformidling-forenkle-meldingsutveksling.md`
+- Bruk EHF anskaffelsesdokument ved anskaffingar – `08-bruk-ehf-anskaffelsesdokument-ved-anskaffingar.md`
+- Bruk EHF eBevis anskaffingsdokument ved bevisinnhenting i kvalifikasjons- og kontraktsoppfølgingsfasen – `09-bruk-ehf-ebevis-anskaffingsdokument-ved-bevisinnhenting-i-kvalifikasjo.md`
+- Bruk EHF eigenerklæringsskjema (ESPD) som del av mottak av tilbodsinnlevering – `10-bruk-ehf-eigenerklaeringsskjema-espd-som-del-av-mottak-av-tilbodsinnle.md`
+- Bruk EHF eigenerklæringsskjema (ESPD) som del av utskriving av anbodsdokument – `11-bruk-ehf-eigenerklaeringsskjema-espd-som-del-av-utskriving-av-anbodsdo.md`
+- Bruk EHF elektronisk kjøpskatalog – `12-bruk-ehf-elektronisk-kjopskatalog.md`
+- Bruk EHF for å motta elektronisk faktura eller kreditnota – `13-bruk-ehf-motta-elektronisk-faktura-eller-kreditnota.md`
+- Bruk EHF for å ta imot elektronisk faktura eller kreditnota frå utanlandske leverandørar – `14-bruk-ehf-ta-imot-elektronisk-faktura-eller-kreditnota-fra-utanlandske-.md`
+- Bruk EHF forespørselskatalog ved anskaffelser – `15-bruk-ehf-foresporselskatalog-ved-anskaffelser.md`
+- Bruk EHF infrastruktur/PEPPOL-nettverket ved sending og mottak av elektroniske meldinger – `16-bruk-ehf-infrastrukturpeppol-nettverket-ved-sending-og-mottak-av-elekt.md`
+- Bruk EHF ordre og ordrebekreftelse ved sending og mottak av ordre og ordrebekreftelse – `17-bruk-ehf-ordre-og-ordrebekreftelse-ved-sending-og-mottak-av-ordre-og-o.md`
+- Bruk EHF pakkseddel – `18-bruk-ehf-pakkseddel.md`
+- Bruk EHF purring – `19-bruk-ehf-purring.md`
+- Bruk EHF spørsmål og svar ved spørsmål til anskaffelser og konkurransegjennomføring – `20-bruk-ehf-sporsmal-og-svar-ved-sporsmal-til-anskaffelser-og-konkurranse.md`
+- Bruk EHF tilbudsinnlevering og kvitteringsmelding ved tilbudsinnlevering – `21-bruk-ehf-tilbudsinnlevering-og-kvitteringsmelding-ved-tilbudsinnleveri.md`
+- Bruk EHF tilbudskatalog ved tilbudsinnlevering – `22-bruk-ehf-tilbudskatalog-ved-tilbudsinnlevering.md`
+- Bruk ein prosjektmodell basert på god praksis i gjennomføring av IKT-prosjekt på meir enn 10 mill. kroner – `23-bruk-ein-prosjektmodell-basert-pa-god-praksis-i-gjennomforing-av-ikt-p.md`
+- Bruk europeisk egenerklæringsskjema (ESPD) ved anskaffelser over EØS terskelverdi – `24-bruk-europeisk-egenerklaeringsskjema-espd-ved-anskaffelser-over-eos-te.md`
+- Bruk gjeldande referansearkitekturar ved utvikling av løysingar for informasjonsutveksling – `25-bruk-gjeldande-referansearkitekturar-ved-utvikling-av-loysingar-inform.md`
+- Bruk gjeldande standard for beskriving av omgrep – `26-bruk-gjeldande-standard-beskriving-av-omgrep.md`
+- Bruk gjeldande standard for språkkoder på offentlege nettsider – `27-bruk-gjeldande-standard-sprakkoder-pa-offentlege-nettsider.md`
+- Bruk gjeldande standard ved arbeid med terminologi og omgrep – `28-bruk-gjeldande-standard-ved-arbeid-med-terminologi-og-omgrep.md`
+- Bruk gjeldande standard ved beskriving av datasett og -katalogar – `29-bruk-gjeldande-standard-ved-beskriving-av-datasett-og-katalogar.md`
+- Bruk gjeldande standard ved koordinering av omgrep – `30-bruk-gjeldande-standard-ved-koordinering-av-omgrep.md`
+- Bruk gjeldande standard ved utforming av næringslivsskjema – `31-bruk-gjeldande-standard-ved-utforming-av-naeringslivsskjema.md`
+- Bruk gjeldande standardar for tilgjengeleggjering av standardiserte og maskinlesbare omgrepsbeskrivingar – `32-bruk-gjeldande-standardar-tilgjengeleggjering-av-standardiserte-og-mas.md`
+- Bruk godkjente filformat for arkivdokument ved avlevering eller deponering – `33-bruk-godkjente-filformat-arkivdokument-ved-avlevering-eller-deponering.md`
+- Bruk grunnleggjande protokollar for kommunikasjon på internett – `34-bruk-grunnleggjande-protokollar-kommunikasjon-pa-internett.md`
+- Bruk grunnprinsipp for IKT-sikkerheit – `35-bruk-grunnprinsipp-ikt-sikkerheit.md`
+- Bruk gyldige (ISO 20022) betalingsmeldinger – `36-bruk-gyldige-iso-20022-betalingsmeldinger.md`
+- Bruk ID-porten for innlogging til digitale tenester – `37-bruk-id-porten-innlogging-til-digitale-tenester.md`
+- Bruk internkontroll på informasjonssikkerhetsområdet – `38-bruk-internkontroll-pa-informasjonssikkerhetsomradet.md`
+- Bruk journal- og arkivsystem basert på gjeldende standard – `39-bruk-journal-og-arkivsystem-basert-pa-gjeldende-standard.md`
+- Bruk klart og godt språk – `40-bruk-klart-og-godt-sprak.md`
+- Bruk kontaktinformasjon fra kontaktregisteret ved varsling om vedtak – `41-bruk-kontaktinformasjon-fra-kontaktregisteret-ved-varsling-om-vedtak.md`
+- Bruk kravspesifikasjon for PKI ved anskaffing av PKI-tenester – `42-bruk-kravspesifikasjon-pki-ved-anskaffing-av-pki-tenester.md`
+- Bruk opne standardar når det er relevant – `43-bruk-opne-standardar-nar-det-er-relevant.md`
+- Bruk PEPPOL eDelivery nettverket i kunde-bank grensesnittet – `44-bruk-peppol-edelivery-nettverket-i-kunde-bank-grensesnittet.md`
+- Bruk rammeverk for digital samhandling for digitale løysingar som skal samhandle med andre – `45-bruk-rammeverk-digital-samhandling-digitale-loysingar-som-skal-samhand.md`
+- Bruk reservasjonsstatus frå kontaktregisteret når viktige brev skal sendast digitalt utan samtykke – `46-bruk-reservasjonsstatus-fra-kontaktregisteret-nar-viktige-brev-skal-se.md`
+- Bruk rettleiar om internkontroll i praksis – `47-bruk-rettleiar-om-internkontroll-i-praksis.md`
+- Bruk standard for filoverføring – `48-bruk-standard-filoverforing.md`
+- Bruk standard for sikker bruk av domenenavn – `49-bruk-standard-sikker-bruk-av-domenenavn.md`
+- Bruk standard for sikker datakommunikasjon frå offentlege nettstader (HTTPS) – `50-bruk-standard-sikker-datakommunikasjon-fra-offentlege-nettstader-https.md`
+- Bruk standardar for sikring av kommunikasjonskanalar – `51-bruk-standardar-sikring-av-kommunikasjonskanalar.md`
+- Bruk standardar for å motverke falske avsendarar av e-post – `52-bruk-standardar-motverke-falske-avsendarar-av-e-post.md`
+- Bruk standarder for sikring av e-post – `53-bruk-standarder-sikring-av-e-post.md`
+- Bruk statens standardavtaler (SSA) ved innkjøp av IT- og konsulenttjenester – `54-bruk-statens-standardavtaler-ssa-ved-innkjop-av-it-og-konsulenttjenest.md`
+- Bruk teiknsettstandard på nettsider – `55-bruk-teiknsettstandard-pa-nettsider.md`
+- Bygg inn personvern og ha personvern som standardinnstilling – `56-bygg-inn-personvern-og-ha-personvern-som-standardinnstilling.md`
+- Del data i tråd med regjeringas retningslinjer ved tilgjengeleggjering av offentlege data – `57-del-data-i-trad-med-regjeringas-retningslinjer-ved-tilgjengeleggjering.md`
+- Del data i tråd med regjeringas retningslinjer ved tilgjengeleggjering av offentlege data – `58-del-data-i-trad-med-regjeringas-retningslinjer-ved-tilgjengeleggjering.md`
+- Drøft digitaliseringstiltak som omfattar kommunesektoren med KS – `59-droft-digitaliseringstiltak-som-omfattar-kommunesektoren-med-ks.md`
+- Følg dei overordna arkitekturprinsippa – `60-folg-dei-overordna-arkitekturprinsippa.md`
+- Følg krav om universell utforming i samband med offentlege anskaffingar – `61-folg-krav-om-universell-utforming-i-samband-med-offentlege-anskaffinga.md`
+- Følg krav til filformat for arkivdokument – `62-folg-krav-til-filformat-arkivdokument.md`
+- Følg krava i KS-ordninga for digitaliseringsprosjekt på meir enn 300 mill. kroner – `63-folg-krava-i-ks-ordninga-digitaliseringsprosjekt-pa-meir-enn-300-mill-.md`
+- Følg personvernpliktene når personopplysningar samlast inn og brukast – `64-folg-personvernpliktene-nar-personopplysningar-samlast-inn-og-brukast.md`
+- Følg prinsipp for digitaliseringstiltak – `65-folg-prinsipp-digitaliseringstiltak.md`
+- Følg prinsipp for samordning med og involvering av kommunal sektor – `66-folg-prinsipp-samordning-med-og-involvering-av-kommunal-sektor.md`
+- Gi brukarane rettleiing – `67-gi-brukarane-rettleiing.md`
+- Gjennomfør ROS-vurdering ved bruk av fellesløysingar – `68-gjennomfor-ros-vurdering-ved-bruk-av-fellesloysingar.md`
+- Gjer det mogleg å hauste inn og gjenbruke offentleg produsert tekst til språkteknologiske føremål – `69-gjer-det-mogleg-hauste-inn-og-gjenbruke-offentleg-produsert-tekst-til-.md`
+- Gjer postjournalar tilgjengeleg på nett – `70-gjer-postjournalar-tilgjengeleg-pa-nett.md`
+- Gjer tenester retta mot næringsdrivande tilgjengelege på Altinn-portalen – `71-gjer-tenester-retta-mot-naeringsdrivande-tilgjengelege-pa-altinn-porta.md`
+- Gjer video på offentlege internettsider tilgjengelege på godkjente format – `72-gjer-video-pa-offentlege-internettsider-tilgjengelege-pa-godkjente-for.md`
+- Gå gjennom relevant regelverk – `73-ga-gjennom-relevant-regelverk.md`
+- Ha tilstrekkeleg oversikt over dei data verksemda handsamar – `74-ha-tilstrekkeleg-oversikt-over-dei-data-verksemda-handsamar.md`
+- Ikkje spør brukarane på nytt om tilhøve dei allereie har gitt opplysningar om – `75-ikkje-spor-brukarane-pa-nytt-om-tilhove-dei-allereie-har-gitt-opplysni.md`
+- Kommuniser med brukarane gjennom digitale, nettbaserte tenester – `76-kommuniser-med-brukarane-gjennom-digitale-nettbaserte-tenester.md`
+- Lag digitaliseringsvenleg regelverk – `77-lag-digitaliseringsvenleg-regelverk.md`
+- Lag innkjøpsstrategi – `78-lag-innkjopsstrategi.md`
+- Lag tilgjengelegheiterklæring for nettstader og appar – `79-lag-tilgjengelegheiterklaering-nettstader-og-appar.md`
+- Leverandører av varer og tjenester som sender elektronisk faktura eller kreditnota skal gjøre det på EHF – `80-leverandorer-av-varer-og-tjenester-som-sender-elektronisk-faktura-elle.md`
+- Meld inn prosjekt til Digitaliseringsrådet – `81-meld-inn-prosjekt-til-digitaliseringsradet.md`
+- Meld nye eller endra rapporteringsplikter for næringsdrivande til oppgåveregisteret – `82-meld-nye-eller-endra-rapporteringsplikter-naeringsdrivande-til-oppgave.md`
+- Norske banker skal være i stand til å benytte PEPPOL-nettverket til betalingsmeldinger i kunde-bank grensesnittet – `83-norske-banker-skal-vaere-i-stand-til-benytte-peppol-nettverket-til-bet.md`
+- Publiser alle nettlesarbaserte tenester på offentlege nettsider i HTML5 – `84-publiser-alle-nettlesarbaserte-tenester-pa-offentlege-nettsider-i-html.md`
+- Registrer datasett i Felles datakatalog – `85-registrer-datasett-i-felles-datakatalog.md`
+- Sikre at tenestene fyller brukarane sine behov – `86-sikre-tenestene-fyller-brukarane-sine-behov.md`
+- Still krav i tråd med kommande standardar ved nye anskaffingar av IKT-løysingar – `87-still-krav-i-trad-med-kommande-standardar-ved-nye-anskaffingar-av-ikt-.md`
+- Sørg for at data kan gjerast tilgjengeleg i eit langtidsperspektiv – `88-sorg-data-kan-gjerast-tilgjengeleg-i-eit-langtidsperspektiv.md`
+- Sørg for at system tek høgde for endringar i kommunestruktur – `89-sorg-system-tek-hogde-endringar-i-kommunestruktur.md`
+- Ta ansvar for heilskapelege løysingar for oppgåver som går på tvers av statleg og kommunal sektor – `90-ta-ansvar-heilskapelege-loysingar-oppgaver-som-gar-pa-tvers-av-statleg.md`
+- Tilpass digitale tenester til grenseoverskridande informasjonsutveksling innanfor EØS-området – `91-tilpass-digitale-tenester-til-grenseoverskridande-informasjonsutveksli.md`
+- Tilpass digitale tenester til grenseoverskridande informasjonsutveksling utanfor EØS-området – `92-tilpass-digitale-tenester-til-grenseoverskridande-informasjonsutveksli.md`
+- Utenlandske leverandører av varer og tjenester som sender elektronisk faktura eller kreditnota skal gjøre det på EHF – `93-utenlandske-leverandorer-av-varer-og-tjenester-som-sender-elektronisk-.md`
+- Utform nettløysingar i samsvar med alle suksesskriteria WCAG 2.0 – `94-utform-nettloysingar-i-samsvar-med-alle-suksesskriteria-wcag-20.md`
+- Utform nettløysingar i samsvar med standarden WCAG 2.1, på nivå A og AA – `95-utform-nettloysingar-i-samsvar-med-standarden-wcag-21-pa-niva-og-aa.md`
+- Ver tydeleg på føresetnadane for å dele eit datasett – `96-ver-tydeleg-pa-foresetnadane-dele-eit-datasett.md`
+- Vurder Fiks-plattformen som løysing for samhandling med kommunal sektor – `97-vurder-fiks-plattformen-som-loysing-samhandling-med-kommunal-sektor.md`
+- Vurder skytenester ved etablering eller oppgradering av digitale tenester eller fagsystem – `98-vurder-skytenester-ved-etablering-eller-oppgradering-av-digitale-tenes.md`
+- Vurder å gi allmenn tilgang til data i tråd med føresegnene om vidarebruk av offentleg informasjon i offentleglova – `99-vurder-gi-allmenn-tilgang-til-data-i-trad-med-foresegnene-om-vidarebru.md`

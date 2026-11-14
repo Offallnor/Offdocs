@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/sikre-tenestene-fylle
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Sikre at tenestene fyller brukarane sine behov
+# Sikre at tenestene fyller brukarane sine behov
 
 Å bruke tenestedesign og andre metodar for brukarinvolvering og -testing bidrar til å sikre at tenestene fyller brukarane sine behov.
 
@@ -26,6 +26,10 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå til Digdir sine designsider
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

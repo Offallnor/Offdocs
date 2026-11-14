@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/tilpass-digitale-tene
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Tilpass digitale tenester til grenseoverskridande informasjonsutveksling innanfor EØS-området
+# Tilpass digitale tenester til grenseoverskridande informasjonsutveksling innanfor EØS-området
 
 Digitale tenester skal, når det er teneleg, tilpassast til informasjonsutveksling på tvers av landegrenser. Dette skal gjere det mogleg for offentlege myndigheiter, næringsdrivande og innbyggjarar å utføre oppgåver digitalt innanfor EØS-området.
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå videre til digdir.no og Digital Europe Programme
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

@@ -68,7 +68,11 @@ Funn og mulige tiltak som du og dine samarbeidspartnere identifiserer må dokume
 
 Kunnskapsgrunnlaget må fortelle hva denne endringen består i, hvilke effekter den gir og hva som kreves av henholdsvis din virksomhet og dine samarbeidspartnere for å realisere endringen. Dere må være oppmerksom på at det kan være behov for å ta et steg tilbake for ytterligere forankring.
 
+## Nyttig informasjon
+
 - [EU Interoperability Assessment Process](https://interoperable-europe.ec.europa.eu/collection/assessments/assessment-guidelines)
+
+## Kontakt
 
 ### Nasjonal arkitektur
 

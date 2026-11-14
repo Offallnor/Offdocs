@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/helse-referansekatalogen-e-helse/1489"
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Helse – referansekatalogen for e-helse
+# Helse – referansekatalogen for e-helse
 
 Referansekatalogen for e-helse gir oversikt over e-helsestandarder og andre kravdokumenter som er obligatoriske med hjemmel i forskrift eller anbefalt av offentlig myndighet. Målgruppen er virksomheter i helse- og omsorgstjenesten og deres leverandører.
 

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-standardar-motverke-fals
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk standardar for å motverke falske avsendarar av e-post
+# Bruk standardar for å motverke falske avsendarar av e-post
 
 DMARC er ein standard som etablerer ein mekaniske som gjer det enklare for mottakar å avgjera om ein melding faktisk er sendt frå avsendaradressa som er angitt i meldinga.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiing på digdir.no
 
+## Kjelde
+
 Gå til Referansekatalogen
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

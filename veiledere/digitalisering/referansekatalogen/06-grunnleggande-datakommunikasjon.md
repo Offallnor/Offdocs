@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/grunnleggande-datakommunikasjon/1488"
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Grunnleggande datakommunikasjon
+# Grunnleggande datakommunikasjon
 
 Bruksområdet gjeld protokollar for grunnleggande datakommunikasjon.
 
@@ -17,6 +17,8 @@ Sist endra: 08. februar 2024
 
 Offentlege verksemder bør ha støtte for alle standardane innanfor dette bruksområdet. Andre standardar kan støttast i tillegg. Her er anbefalte og obligatoriske krav til standardar innanfor dette bruksområdet:
 
+## Obligatoriske standardar for sikker datakommunikasjon
+
 Kravet om sikker datakommunikasjon frå offentlege nettstader vart innført 8. oktober 2021.
 
 *"Forskrift om IT-standarder i offentlig sektor" regulerer dette kravet i §11:*
@@ -24,6 +26,8 @@ Kravet om sikker datakommunikasjon frå offentlege nettstader vart innført 8. o
 **§ 11.*****Obligatoriske standarder for kryptert datakommunikasjon med offentlige nettsteder og -tjenester***
 
 Nettsteder og andre offentlige tjenester, herunder applikasjonsgrensesnitt (API-er), som benytter hypertekstoverføringsprotokollen (http) skal kryptere kommunikasjonen med transportlagssikkerhet i henhold til standarden HTTP over TLS [RFC 2818] ved bruk av protokollene HTTP/1.1 [RFC 7230 til RFC 7235] og TLS 1.2 [RFC 5246] eller TLS 1.3 [RFC 8446]. Fram til 1.1.2024 skal TLS 1.2 brukes, hvis en av kommunikasjonspartene ber om det. Kravet gjelder ikke lukkede tjenester hvor forvaltningsorganet ivaretar sikkerheten på annen måte. Dersom en tjeneste får en forespørsel om kommunikasjon over HTTP uten bruk av TLS skal tjenesten svare ved omdirigering til same URL med bruk av HTTP over TLS.
+
+## Anbefalte standardar for sikker bruk av domenenamnsystemet
 
 Anbefalinga om sikker bruk av domenenamnsystemet vart innført 30.10.2018.
 
@@ -36,6 +40,8 @@ Det er anbefalt å nytte Domain Name System Security Extensions (DNSSEC) [RFC 40
 - RFC 4035 – Protocol Modifications for the DNS Security Extensions
 
 Desse standardane vert reviderte enkeltvis av IETF og Digitaliseringsdirektoratet vil oppdatere anbefalinga med gjeldande versjon av kvar standard når dette skjer. Dersom ein revisjon fører til større endringar vil Digitaliseringsdirektoratet vurdere behovet for å revidere heile anbefalinga. Revisjonar som fører til større endringar vil verte behandla av Standardiseringsrådet.
+
+## Anbefalt standard for transportsikring av e-post
 
 Anbefalinga om transportsikring av e-post mellom e-postservarar vart innført 1.12.2016 og sist oppdatert 11.1.2019.
 
@@ -59,6 +65,8 @@ RFC 5246 – The Transport Layer Security (TLS) Protocol Version 1.2
 
 Desse standardane vert reviderte enkeltvis av IETF og Digitaliseringsdirektoratet vil oppdatere anbefalinga med gjeldande versjon av kvar standard når dette skjer. Dersom ein revisjon fører til større endringar vil Digitaliseringsdirektoratet vurdere behovet for å revidere heile anbefalinga. Revisjonar som fører til større endringar vil verte behandla av Standardiseringsrådet.
 
+## Anbefalte standardar for å motverke falske avsendarar av e-post
+
 Anbefalte standardar for å motverke falske avsendarar av e-post
 
 Anbefalinga for å motverke falske avsendarar av e-post vart innført 01.11.2018.
@@ -79,6 +87,8 @@ Dette gjeld e-post utveksling som går over Internett (SMTP), og ikkje anna meld
 
 Desse standardane vert reviderte enkeltvis av IETF og Digitaliseringsdirektoratet vil oppdatere anbefalinga med gjeldande versjon av kvar standard når dette skjer. Dersom ein revisjon fører til større endringar vil Digitaliseringsdirektoratet vurdere behovet for å revidere heile anbefalinga. Revisjonar som fører til større endringar vil verte behandla av Standardiseringsrådet.
 
+## (Obligatoriske) Protokollar for kommunikasjon på internett
+
 Anbefalinga om Dual stack IPv4 og IPv6 vart innført 30.10.2012.
 
 IPv4 og IPv6 er grunnleggande protokollar for kommunikasjon på internett. Alt IT-utstyr som det offentlege anskaffar bør ha støtte for IPv4 og IPv6. Dette gjeld både programvare og maskinvare.  
@@ -93,6 +103,8 @@ IPv4 og IPv6 er grunnleggande protokollar for kommunikasjon på internett. Alt I
 *Alle interne klienter i offentlige virksomheter skal ha tilsvarende tilgang til eksterne tjenester publisert på IPv4 og Ipv6.*
 
 *Nye interne nett og løsninger i offentlige virksomheter skal ha støtte for IPv6, det er tillatt å støtte IPv4 i tillegg.*
+
+## Anbefalte standardar for filoverføring
 
 Offentlege kommunikasjonstenester bør ha støtte for FTP som er ein protokoll for filoverføring. Den er i utstrakt bruk, men har avgrensingar når det gjeld sikkerheit.  
 Kravet betyr berre at verksemda di skal ha ei moglegheit til å ta imot filer ved hjelp av FTP. De må ikkje bruke FTP, men kan velje andre overføringsmetodar for batch-filer viss de ønsker/har behov for dette. FTP bør brukast over ein sikker kommunikasjonskanal.
@@ -113,6 +125,8 @@ Nettstader som vert brukte av verksemder i offentleg sektor bør etablere ei tek
 
 Digitaliseringsdirektoratet anbefaler at NSMs rettleiar «HTTP over TLS» (sjå nedst på sida) vert følgt så langt det er føremålstenleg og ikkje i konflikt med anna regelverk, for å ta vare på sikker implementasjon og vurdering av kompenserande tiltak for kjende sårbarheiter.
 
+## NSMs rettleiarar
+
 Det er viktig at nettstadene vert sette opp korrekt, og det vert vist til rettleiing frå Nasjonal sikkerheitsmyndigheit (NSM).
 
 **IT-rettleiing for ugraderte system nr. 15 (U-15)**
@@ -131,8 +145,14 @@ Rettleiarane vert forvalta av Nasjonal sikkerheitsmyndigheit og gir ei sikkerhei
 
 Nasjonal sikkerheitsmyndigheit (NSM) har utarbeidd ei rettleiing for grunnleggande tiltak for sikring av overføring av e-post mellom e-posttenarar. Denne rettleiaren dekkjer standardane for STARTTLS, DMARC, SPF og DKIM.
 
+## Aktuelle standardar
+
+### Relevant informasjon
+
 - [TCP (Transmission control protocol)](https://www.digdir.no/standarder/tcp-transmission-control-protocol/1732)
 - [FTP (File transfer protocol)](https://www.digdir.no/standarder/ftp-file-transfer-protocol/1685)
+
+### Lenker til rettleiarar og standardane
 
 - [NSMs rettleiar "HTTP over TLS"](https://nsm.no/getfile.php/133705-1592914512/Demo/Dokumenter/https.pdf)
 - [NSMs rettleiar for sikring av kommunikasjon med TLS](https://nsm.no/getfile.php/133702-1592914245/Demo/Dokumenter/tls.pdf)

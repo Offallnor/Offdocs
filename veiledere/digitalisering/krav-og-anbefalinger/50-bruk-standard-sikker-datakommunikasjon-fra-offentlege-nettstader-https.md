@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-standard-sikker-datakomm
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk standard for sikker datakommunikasjon frå offentlege nettstader (HTTPS)
+# Bruk standard for sikker datakommunikasjon frå offentlege nettstader (HTTPS)
 
 HTTPS er overføring av nettrafikk over ei sikker forbindelse. Ved å nytte krypteringsprotokollen Transport Layer Security (TLS) kan klienten verifisere identiteten til tjenestelevendøren. Deretter overførast netttrafikken kryptert, og gjer den uleseleg for uvedkommande.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til standard for Grunnleggjande datakommunikasjon
 
+## Kjelde
+
 Gå til Forskrift om IT-standarder i offentlig forvaltning
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

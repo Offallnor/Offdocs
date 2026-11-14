@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-ehf-anskaffelses
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk EHF anskaffelsesdokument ved anskaffingar
+# Bruk EHF anskaffelsesdokument ved anskaffingar
 
 Det er anbefalt for offentlege verksemder å bruke digitalt anskaffingsdokument (Call for tenders) for tilbodsinnhenting ved anskaffingar.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til anskaffelser.no
 
+## Kjelde
+
 Gå til området Digitale anskaffelser i Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

@@ -5,13 +5,17 @@ kilde: "https://www.digdir.no/standarder/arkivstandarder/1482"
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Arkivstandarder
+# Arkivstandarder
 
 Bruksområdet gjelder behandling av offentlige arkiv. Det gjelder krav til materiale som skal avleveres til riksarkivaren, det gjelder krav til periodeinndeling i elektronisk journal og arkiv, fremfinning i elektronisk journal og arkiv fra avsluttede perioder og klargjøring av elektronisk journal og arkiv for deponering i arkivdepot.
 
 Opprettet: 13. mai 2020
 
 Sist endret: 06. september 2023
+
+## Krav til bruk av standarder
+
+### Obligatoriske krav til journal- og arkivsystem
 
 Det er **obligatorisk** for offentlige virksomheter som bruker journal- og arkivsystem å basere disse på
 
@@ -36,6 +40,8 @@ Ved nyutvikling av system eller funksjonalitet for journalføring og arkivering 
 På bakgrunn av den overgangsordningen Riksarkivaren har gitt settes gjeldende versjon av Noark-5 (Arkivverket 2009) til obligatorisk standard, mens Noark-4 settes til under utfasing.
 
 *Forskrift om utfyllende tekniske og arkivfaglige bestemmelser om behandling av offentlige arkiver (riksarkivarens forskrift) § 5-17*beskriver godkjente dokumentformater ved avlevering og deponering. Dokumentformatene er beskrevet nedenfor, og er etter denne forskriften påkrevd ved avlevering og deponering.
+
+### Godkjente filformater for arkivdokumenter ved avlevering eller deponering
 
 Fremstillingen av arkivversjoner med komprimerte JPEG-filer, MP3 lydfiler og MPEG-2 videofiler skal skje slik at det ikke medfører ytterligere komprimering og svekket bilde- eller lydkvalitet.  
 Der forskriften gir valgfrihet, bør det benyttes et dokumentformat som også er anbefalt for andre anvendelsesområder.
@@ -84,6 +90,10 @@ Eventuelle unntak er knyttet til arkivforskriftens formulering i §11. Riksarkiv
 
 Riksarkivaren er ansvarlig for å vedta krav og [veilede](https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden) rundt dem.
 
+## Relevant informasjon
+
+### Aktuelle standarder
+
 - [NOARK (Norsk arkivstandard)](https://www.digdir.no/standarder/noark-norsk-arkivstandard/1715)
 - [UTF-8, ISO/IEC 10646](https://www.digdir.no/standarder/utf-8-isoiec-10646/1736)
 - [TIFF (Tagged Image File Format)](https://www.digdir.no/standarder/tiff-tagged-image-file-format/1735)
@@ -96,6 +106,8 @@ Riksarkivaren er ansvarlig for å vedta krav og [veilede](https://www.arkivverke
 - [MPEG-2 (Moving Picture Experts Group)](https://www.digdir.no/standarder/mpeg-2-moving-picture-experts-group/1702)
 - [MP3 (Moving Picture Experts Group: Audio Layer III)](https://www.digdir.no/standarder/mp3-moving-picture-experts-group-audio-layer-iii/1700)
 - [HTML (HyperText Markup Language)](https://www.digdir.no/standarder/html-hypertext-markup-language/1692)
+
+### Lenker til standardene
 
 - [NOARK](https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden)
 - [Tegnsett - ISO/IEC 10646](https://online.standard.no/en/isoiec-10646-2020-4)

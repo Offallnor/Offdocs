@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-europeisk-egenerklaering
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk europeisk egenerklæringsskjema (ESPD) ved anskaffelser over EØS terskelverdi
+# Bruk europeisk egenerklæringsskjema (ESPD) ved anskaffelser over EØS terskelverdi
 
 Det er obligatorisk for offentlige virksomheter å utstede og motta et elektronisk EHF Egenerklæringsskjema (European Single Procurement document - ESPD) som en del av anbudsdokumentene.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til anskaffelser.no
 
+## Kjelde
+
 Gå til Forskrift for offentlige anskaffelser
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-altinn-digital-p
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk Altinn for digital post til næringsdrivande
+# Bruk Altinn for digital post til næringsdrivande
 
 Meldingsboksen i Altinn er forvaltninga sin hovudkanal for digital post til næringsdrivande og andre verksemder med organisasjonsnummer.
 
@@ -29,6 +29,10 @@ Kjelde:
 
 Vi har ei postkasse for post frå det offentlege til næringsdrivande, og ei for post frå det offentlege til innbyggjarar. Meldingsboksen i Altinn (DPV) skal brukast til næringsdrivande, medan Digital post til innbyggjarar (DPI) skal brukast til innbyggjarar.
 
+## Rettleiing og hjelp
+
 Gå videre til informasjonssider om Altinn Melding
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

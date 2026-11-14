@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/folg-krav-til-filformat-arkiv
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Følg krav til filformat for arkivdokument
+# Følg krav til filformat for arkivdokument
 
 Framstillingen av arkivversjonar med komprimerte JPEG-filer, MP3 lydfiler og MPEG-2 videofiler skal skje slik at det ikkje fører til ytterlegare komprimering og svekka bilde- eller lydkvalitet.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå til Riksarkivaren.no for meir info
 
+## Kjelde
+
 Gå til Referansekatalogen for IT-standardar
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

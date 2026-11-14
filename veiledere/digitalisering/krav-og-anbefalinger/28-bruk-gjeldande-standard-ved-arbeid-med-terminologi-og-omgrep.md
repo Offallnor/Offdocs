@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-gjeldande-standard-ved-a
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk gjeldande standard ved arbeid med terminologi og omgrep
+# Bruk gjeldande standard ved arbeid med terminologi og omgrep
 
 Termlosen er gjeldande standard for arbeid med terminologi og omgrep. Den gir mellom anna råd om organisering og praktisk gjennomføring av terminologiarbeid, omgrepsanalyse, korleis ein skriv gode definisjonar, og korleis termlister skal byggast opp
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til Termlosen
 
+## Kjelde
+
 Gå til Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

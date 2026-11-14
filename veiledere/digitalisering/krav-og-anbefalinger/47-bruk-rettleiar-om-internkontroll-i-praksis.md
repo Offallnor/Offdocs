@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-rettleiar-om-internkontr
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk rettleiar om internkontroll i praksis
+# Bruk rettleiar om internkontroll i praksis
 
 Rettleiaren om internkontroll i praksis beskriv korleis verksemder kan etablere og vedlikehalde systematisk internkontroll på informasjonssikkerheitsområdet.
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til Rettleiar for internkontroll i praksis
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

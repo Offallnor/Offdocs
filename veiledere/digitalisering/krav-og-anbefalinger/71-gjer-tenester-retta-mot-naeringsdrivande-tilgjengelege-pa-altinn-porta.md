@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/gjer-tenester-retta-m
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Gjer tenester retta mot næringsdrivande tilgjengelege på Altinn-portalen
+# Gjer tenester retta mot næringsdrivande tilgjengelege på Altinn-portalen
 
 Aktuelle digitale tenester retta mot næringsdrivande skal gjerast tilgjengeleg på Altinn sin portal.
 
@@ -29,6 +29,10 @@ Kjelde:
 
 Denne formuleringa er henta frå Digitaliseringsrundskrivet. Det inneber at det er eit krav for statlege verksemder og ei anbefaling for kommunale.
 
+## Rettleiing og hjelp
+
 Gå vidare til altinn.no
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

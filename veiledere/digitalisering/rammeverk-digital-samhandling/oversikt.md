@@ -83,6 +83,8 @@ Brukerne av de offentlige tjenestene – innbyggere, næringsliv, frivillige org
 Når du skal utvikle nye eller endre på eksisterende digitale offentlige tjenester, må du vurdere juridiske, organisatoriske, semantiske og tekniske forhold og hvilken effekt disse har på evne til å samhandle på tvers av offentlig sektor. Denne veilederen er basert på den europeiske "Interoperability Assessment Process".  
 [Veiledning i hvordan du kan bruke rammeverket ved endring og utvikling av digitale tjenester.](https://www.digdir.no/node/1689)
 
+## Kontakt
+
 ### Nasjonal arkitektur
 
 E-post:

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/publiser-alle-nettles
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Publiser alle nettlesarbaserte tenester på offentlege nettsider i HTML5
+# Publiser alle nettlesarbaserte tenester på offentlege nettsider i HTML5
 
 Nye og eksisterande nettlesarbaserte tenester på offentlege nettsider skal publiserast i HTML5.
 
@@ -34,9 +34,15 @@ Katalog:
 
 HTML5 gjer at nettsidene blir meir tilgjengelege for ulike brukarar, samanlikna med tidlegare standardar. HTML4 og XHTML er under utfasing.
 
+## Rettleiing og hjelp
+
 Gå vidare til standardar for nettlesarbaserte tenester
 
+## Kjelde
+
 Gå til referansekatalogen for IT-standardar
+
+## Har du eksempel på bruk? Ta gjerne kontakt
 
 ### Nasjonal arkitektur
 

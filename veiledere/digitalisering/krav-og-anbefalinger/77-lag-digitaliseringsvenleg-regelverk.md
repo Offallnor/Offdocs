@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/lag-digitaliseringsve
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Lag digitaliseringsvenleg regelverk
+# Lag digitaliseringsvenleg regelverk
 
 Skal du utvikle nytt regelverk, bør du følgje anbefalingane i rettleiar for digitaliseringsvenleg regelverk. På den måten sikrar du at regelverket legg til rett for digitalisering.
 
@@ -24,5 +24,7 @@ Kven krav eller anbefaling gjeld for:
 - [Stat: Anbefaling](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t2%3A648)
 
 Rettleiar for digitaliseringsvenleg regelverk gir anbefalingar for dei som jobbar med utvikling av lover og forskrifter. Med store teknologiske endringar dei siste åra må regelverk og måten vi lagar regelverk på endrast. Digitaliseringsvenleg regelverk gjer at offentleg forvaltning og samfunnet elles kan dra nytte av moglegheitene som følgjer av digitalisering.
+
+## Rettleiing og hjelp
 
 Gå til rettleiar for digitaliseringsvenleg regelverk

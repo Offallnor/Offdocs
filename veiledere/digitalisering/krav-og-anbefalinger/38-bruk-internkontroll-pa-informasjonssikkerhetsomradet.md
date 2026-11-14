@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-internkontroll-pa-inform
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk internkontroll på informasjonssikkerhetsområdet
+# Bruk internkontroll på informasjonssikkerhetsområdet
 
 Føremålet med internkontroll er at offentlege verksemder skal ha tilstrekkeleg styring og kontroll på informasjonssikkerhetita.
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [eForvaltningsforskrifta](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A613)
 
+## Rettleiing og hjelp
+
 Gå vidare til Referansekatalogen
 
+## Kjelde
+
 Gå til Forskrift om elektronisk kommunikasjon med og i forvaltningen
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

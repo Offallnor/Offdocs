@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-gjeldande-standa
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk gjeldande standard for språkkoder på offentlege nettsider
+# Bruk gjeldande standard for språkkoder på offentlege nettsider
 
 ISO 639 er gjeldande standard for deklarering av språkkodar for offentlege nettsider i HTML. For språk som har kode med to bokstavar, bør denne brukast. Dette gjeld mellom anna bokmål (nb) og nynorsk (nn).
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til forklaring av ISO 639-standarden
 
+## Kjelde
+
 Gå til referansekatalogen for IT-standardar
+
+## Har du eksempel på bruk? Ta gjerne kontakt
 
 ### Nasjonal arkitektur
 

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/ta-ansvar-heilskapele
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Ta ansvar for heilskapelege løysingar for oppgåver som går på tvers av statleg og kommunal sektor
+# Ta ansvar for heilskapelege løysingar for oppgåver som går på tvers av statleg og kommunal sektor
 
 Mange oppgåver løysast på tvers av statleg og kommunal sektor. Statlege verksemder skal ta eit større ansvar for at det blir utvikla heilskapelege løysingar.
 
@@ -25,9 +25,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til informasjonssider om korleis involvere kommunesektoren
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har du eksempel på bruk
 
 ### Nasjonal arkitektur
 

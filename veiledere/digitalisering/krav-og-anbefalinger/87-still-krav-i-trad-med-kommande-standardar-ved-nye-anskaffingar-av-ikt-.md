@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/still-krav-i-trad-med
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Still krav i tråd med kommande standardar ved nye anskaffingar av IKT-løysingar
+# Still krav i tråd med kommande standardar ved nye anskaffingar av IKT-løysingar
 
 Ved nye anskaffingar av IKT-løysingar bør verksemder stille krav i tråd med reglande som følgjer av det kommande webdirektivet (WAD) og WCAG 2.1-standarden.
 
@@ -37,6 +37,10 @@ Universell utforming bygger på tanken om at tenester skal vere tilgjengelege fo
 
 EU sitt webdirektiv (WAD) og WCAG 2.1 er no del av norsk rett. Regelverket trer i kraft 1. januar 2022, og gjeld for verksemder i offentleg sektor. Det blir ei innføringstid på 1 år, og nye krav skal følgast frå og med 1. januar 2023.
 
+## Rettleiing og hjelp
+
 Gå vidare til framtidige regelverk og krav til universell utforming
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

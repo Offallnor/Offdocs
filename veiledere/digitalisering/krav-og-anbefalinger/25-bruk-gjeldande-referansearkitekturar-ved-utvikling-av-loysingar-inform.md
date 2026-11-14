@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-gjeldande-refera
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk gjeldande referansearkitekturar ved utvikling av løysingar for informasjonsutveksling
+# Bruk gjeldande referansearkitekturar ved utvikling av løysingar for informasjonsutveksling
 
 Ein referansearkitektur gir rettleiing til utforming av arkitekturar og løysningar innan eit avgrensa område. Ved utvikling av nye løysingar for meldingsutveksling bør referansearkitekturane for eMelding og eOppslag nyttast.
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til referansearkitekturane
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har du eksempel på bruk
 
 ### Nasjonal arkitektur
 

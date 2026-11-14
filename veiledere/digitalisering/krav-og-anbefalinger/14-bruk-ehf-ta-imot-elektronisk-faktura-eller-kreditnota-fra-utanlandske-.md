@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-ehf-ta-imot-elek
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk EHF for å ta imot elektronisk faktura eller kreditnota frå utanlandske leverandørar
+# Bruk EHF for å ta imot elektronisk faktura eller kreditnota frå utanlandske leverandørar
 
 Offentlege verksemder skal vera i stand til å ta imot elektronisk (EHF) faktura eller kreditnota frå utanlandske leverandørar på PEPPOL BIS Billing 3.0.
 
@@ -30,11 +30,17 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til anskaffelser.no
 
 Gå vidare til Elektronisk Handelsformat - EHF - Prosessoversikt hos DFØ
 
+## Kjelde
+
 Gå til forskrift om IT-standarder i offentlig forvaltning (§10)
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

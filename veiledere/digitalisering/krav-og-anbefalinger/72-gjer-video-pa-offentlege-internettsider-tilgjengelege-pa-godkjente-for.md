@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/gjer-video-pa-offentlege-inte
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Gjer video på offentlege internettsider tilgjengelege på godkjente format
+# Gjer video på offentlege internettsider tilgjengelege på godkjente format
 
 Det er to standardar ein kan velgje mellom når ein skal gjere video tilgjengeleg på offentlege nettsider. Standardane gjeld både video- og lydspor.
 
@@ -33,7 +33,11 @@ Katalog:
 
 Video som skal gjerast tilgjengeleg på offentlege nettsider, skal nytte minst ein av følgjande standardar: a) videosporet koda i Theora 1.0 (xiph.org 2008) og lydsporet i Vorbis 1 (xiph.org 2004) innkapsla i Ogg (RFC 3533, IETF 2003); b) videosporet koda i H.264 (ISO/IEC 14496-10:2009) og lydsporet i AAC (ISO/IEC 13818-7:2003) innkapsla i MP4 (ISO/IEC 14496-14:2003)
 
+## Kjelde
+
 Gå til Forskrift om IT-standarder i offentleg forvaltning
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

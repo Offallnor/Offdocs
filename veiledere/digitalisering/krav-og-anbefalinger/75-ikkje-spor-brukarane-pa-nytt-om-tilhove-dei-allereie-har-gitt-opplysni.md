@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/ikkje-spor-brukarane-pa-nytt-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Ikkje spør brukarane på nytt om tilhøve dei allereie har gitt opplysningar om
+# Ikkje spør brukarane på nytt om tilhøve dei allereie har gitt opplysningar om
 
 Offentlege verksemder skal ikkje spørje brukarane på nytt om tilhøve dei allereie har gitt opplysningar om. Om data finnast hos ei anna verksemd, skal data hentast derifrå, gitt at det ligg føre eit rettsleg grunnlag.
 
@@ -32,9 +32,15 @@ Kjelde:
 
 "Kun ein gong" er ei av prioriteringane i IKT-politikken. Gjenbruk av informasjon bidrar til raskare og enklare saksgang for brukarane, og kan bidra til enklare prosessar der fleire offentlege verksemder må samhandle.
 
+## Rettleiing og hjelp
+
 Gå vidare til verktøykasse for deling av data
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

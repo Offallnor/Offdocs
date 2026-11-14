@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/teiknsett/1498"
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Teiknsett
+# Teiknsett
 
 Teiknsett gjeld alle typar IT-løysingar i offentlege verksemder og teiknsett ved utveksling av informasjon mellom offentlege verksemder og med innbyggarar og næringsliv.
 
@@ -43,11 +43,19 @@ Forskrift om IT-standardar i offentleg sektor – sjå lenkeliste under.
 
 Kravet er gjeldande, og vart innført 25.06.2009 for statleg sektor og 23.09.2011 for kommunal sektor. Det vart gitt ei overgangsordning, der statleg sektor skulle tilfredsstille kravet innan 1. januar 2012 og kommunar skulle tilfredsstille kravet innan 1. januar 2013.
 
+## Grunnlov, Samelov, Stadnamnlov og Folkeregisterlov
+
 Det går fram av grunnlova § 108, og av samelova at forvaltinga skal støtte samisk språk og kulturarv. Vidare er det lovkrav om å støtte samisk språk og kulturarv i stadnamnlova §§ 1, 4, 9.
 
 I prop. 164 L (folkeregisterloven) punkt 9.5.2 går det fram at det skal leggast til rette for å handtere samiske teikn i eit modernisert folkeregister, og registeret skal følge dei til ei kvar tid gjeldande krav for offentlege verksemder sin bruk av teiknsett i IT-løysingar.
 
+## Relevant informasjon
+
+### Aktuelle standardar
+
 [UTF-8, ISO/IEC 10646](https://www.digdir.no/standarder/utf-8-isoiec-10646/1736)
+
+### Lenker til rettleiarar og standardar
 
 - [UTF-8 ISO/IEC 10646](http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
 - [Forskrift om IT-standardar i offentleg sektor](https://lovdata.no/dokument/SF/forskrift/2013-04-05-959)

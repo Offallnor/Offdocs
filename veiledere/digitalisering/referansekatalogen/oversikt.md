@@ -11,6 +11,12 @@ Tekst fra Digitaliseringsdirektoratet, hentet fra [digdir.no](https://www.digdir
 
 Denne referansekatalogen er ei oversikt over IT-standardar som er obligatoriske eller anbefalte for offentleg sektor. Standardane kan vere tekniske, semantiske eller organisatoriske, og er sorterte etter aktuelle bruksområde.
 
+Viser
+
+12
+
+oppføringar.
+
 ## Arkivstandarder
 
 Bruksområdet gjelder behandling av offentlige arkiv. Det gjelder krav til materiale som skal avleveres til riksarkivaren, det gjelder krav til periodeinndeling i elektronisk journal og arkiv, fremfinning i elektronisk journal og arkiv fra avsluttede perioder og klargjøring av elektronisk journal og arkiv for deponering i arkivdepot.
@@ -61,15 +67,15 @@ Teiknsett gjeld alle typar IT-løysingar i offentlege verksemder og teiknsett ve
 
 ## Kapitler
 
-- Referansekatalogen for IT-standardar Arkivstandarder – `01-arkivstandarder.md`
-- Referansekatalogen for IT-standardar Beskriving av datasett og datatenester – `02-beskriving-av-datasett-og-datatenester.md`
-- Referansekatalogen for IT-standardar Bruk av språkkodar på offentlege nettsider – `03-bruk-av-sprakkodar-pa-offentlege-nettsider.md`
-- Referansekatalogen for IT-standardar Digitale anskaffelser – `04-digitale-anskaffelser.md`
-- Referansekatalogen for IT-standardar E-bøker (store dokument) – `05-e-boker-store-dokument.md`
-- Referansekatalogen for IT-standardar Grunnleggande datakommunikasjon – `06-grunnleggande-datakommunikasjon.md`
-- Referansekatalogen for IT-standardar Helse – referansekatalogen for e-helse – `07-helse-referansekatalogen-e-helse.md`
-- Referansekatalogen for IT-standardar Internkontroll/ styringssystem/ ledelsessystem for informasjonssikkerhet – `08-internkontroll-styringssystem-ledelsessystem-informasjonssikkerhet.md`
-- Referansekatalogen for IT-standardar Omgrepsanalyse og definisjonsarbeid – `09-omgrepsanalyse-og-definisjonsarbeid.md`
-- Referansekatalogen for IT-standardar Peikarar til offentlege ressursar på nett – `10-peikarar-til-offentlege-ressursar-pa-nett.md`
-- Referansekatalogen for IT-standardar Standardavtalar i offentleg sektor – `11-standardavtalar-i-offentleg-sektor.md`
-- Referansekatalogen for IT-standardar Teiknsett – `12-teiknsett.md`
+- Arkivstandarder – `01-arkivstandarder.md`
+- Beskriving av datasett og datatenester – `02-beskriving-av-datasett-og-datatenester.md`
+- Bruk av språkkodar på offentlege nettsider – `03-bruk-av-sprakkodar-pa-offentlege-nettsider.md`
+- Digitale anskaffelser – `04-digitale-anskaffelser.md`
+- E-bøker (store dokument) – `05-e-boker-store-dokument.md`
+- Grunnleggande datakommunikasjon – `06-grunnleggande-datakommunikasjon.md`
+- Helse – referansekatalogen for e-helse – `07-helse-referansekatalogen-e-helse.md`
+- Internkontroll/ styringssystem/ ledelsessystem for informasjonssikkerhet – `08-internkontroll-styringssystem-ledelsessystem-informasjonssikkerhet.md`
+- Omgrepsanalyse og definisjonsarbeid – `09-omgrepsanalyse-og-definisjonsarbeid.md`
+- Peikarar til offentlege ressursar på nett – `10-peikarar-til-offentlege-ressursar-pa-nett.md`
+- Standardavtalar i offentleg sektor – `11-standardavtalar-i-offentleg-sektor.md`
+- Teiknsett – `12-teiknsett.md`

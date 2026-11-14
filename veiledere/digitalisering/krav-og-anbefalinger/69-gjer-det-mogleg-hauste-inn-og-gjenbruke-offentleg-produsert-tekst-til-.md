@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/gjer-det-mogleg-hauste-inn-og
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Gjer det mogleg å hauste inn og gjenbruke offentleg produsert tekst til språkteknologiske føremål
+# Gjer det mogleg å hauste inn og gjenbruke offentleg produsert tekst til språkteknologiske føremål
 
 Ved publisering bør offentleg produsert tekst innehalde bruksvilkår som opnar for innhausting og gjenbruk til språkteknologiske føremål.
 
@@ -30,7 +30,11 @@ Kjelde:
 
 Språkdata som brukes som grunnlag for språkteknologi, omfatter ikke bare oversettelser og begrepslister, men også tekst, som for eksempel nettsider, rapporter og saksdokumenter. De språklige strukturene i tekst produsert av det offentlige, utgjør verdifulle data for språkteknologisk forskning og utvikling. Det er viktig å legge til rette for gjenbruk til dette formålet utover viderebruk av innholdet i tekstene.
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

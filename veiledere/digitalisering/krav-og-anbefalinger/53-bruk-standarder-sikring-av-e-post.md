@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-standarder-sikring-av-e-
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk standarder for sikring av e-post
+# Bruk standarder for sikring av e-post
 
 Transportsikring av e-post nyttar kryptert kommunikasjon for å overføre meldinger mellom e-postservere.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til NSMs rettleiar for Grunnleggende tiltak for sikring av e-post
 
+## Kjelde
+
 Gå til Referansekatalogen
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

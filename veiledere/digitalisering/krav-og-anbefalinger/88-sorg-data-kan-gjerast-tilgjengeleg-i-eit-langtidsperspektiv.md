@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/sorg-data-kan-gjerast-tilgjen
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Sørg for at data kan gjerast tilgjengeleg i eit langtidsperspektiv
+# Sørg for at data kan gjerast tilgjengeleg i eit langtidsperspektiv
 
 Ved publisering bør offentleg produsert tekst innehalde bruksvilkår som opnar for innhausting og gjenbruk til språkteknologiske føremål.
 
@@ -28,7 +28,11 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

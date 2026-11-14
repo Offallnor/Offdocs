@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/omgrepsanalyse-og-definisjonsarbeid/148
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Omgrepsanalyse og definisjonsarbeid
+# Omgrepsanalyse og definisjonsarbeid
 
 Bruksområdet inneheld standardar som stiller krav til beskriving/dokumentasjon av omgrep og omgrepssamlingar, og organisering og praktisk gjennomføring av terminologiarbeid/omgrepsarbeid i offentleg sektor.
 
@@ -22,10 +22,16 @@ Målgruppa er alle som arbeider med kommunikasjon, terminologi, fagspråk og omg
 - [TBX-AP-NO – Forvaltningsstandard for tilgjengeliggjøring av omgrepsbeskrivingar basert på TBX](https://www.digdir.no/node/1684)
 - [Forvaltningsstandard for omgrepsharmonisering og omgrepsdifferensiering](https://www.digdir.no/standarder/forvaltningsstandard-omgrepsharmonisering-og-omgrepsdifferensiering/1683)
 
+## Relevant informasjon
+
+### Aktuelle standarder
+
 - [Termlosen](https://www.digdir.no/standarder/termlosen/1733)
 - [Forvaltningsstandard for begrepsbeskrivelser](https://www.digdir.no/standarder/forvaltningsstandard-omgrepsbeskrivingar-skos-ap-no-begrep/1682)
 - [Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering](https://www.digdir.no/standarder/forvaltningsstandard-omgrepsharmonisering-og-omgrepsdifferensiering/1683)
 - [Forvaltningsstandarder for maskinell tilgjengeliggjøring av begrepsbeskrivelser](https://www.digdir.no/standarder/tbx-ap-no-forvaltningsstandard-tilgjengeleggjering-av-omgrepsbeskrivingar-basert-pa-tbx/1684)
+
+### Lenker til standardene
 
 - [Termlosen](https://data.norge.no/specification/termlosen/)
 - [SKOS-AP-NO](https://data.norge.no/specification/skos-ap-no-begrep/)

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-journal-og-arkiv
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk journal- og arkivsystem basert på gjeldende standard
+# Bruk journal- og arkivsystem basert på gjeldende standard
 
 Systemer som brukast til arkivering av journalføringspliktig informasjon, skal følgje krav som er fastsatt i Norsk arkivstandard - Noark.
 
@@ -30,6 +30,10 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå til Riksarkivaren.no for meir info
+
+## Kjelde
 
 Gå til forskrift om offentlege arkiv

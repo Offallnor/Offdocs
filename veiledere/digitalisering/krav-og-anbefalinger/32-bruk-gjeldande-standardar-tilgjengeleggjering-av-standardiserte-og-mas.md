@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-gjeldande-standardar-til
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk gjeldande standardar for tilgjengeleggjering av standardiserte og maskinlesbare omgrepsbeskrivingar
+# Bruk gjeldande standardar for tilgjengeleggjering av standardiserte og maskinlesbare omgrepsbeskrivingar
 
 Gjeldande standardar er SKOS-AP-NO og TBX-AP-NO. Desse standardane skal sikre at begrepsbeskrivelser som forvaltes av offentlig forvaltning, tilgjengeliggjøres på en standardisert og maskinlesbar måte.
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå til standard for maskinell tilgjengeleggjering av begrepsbeskrivelse
 
+## Kjelde
+
 Gå til Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bygg-inn-personvern-o
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bygg inn personvern og ha personvern som standardinnstilling
+# Bygg inn personvern og ha personvern som standardinnstilling
 
 Innebygd personvern er eit sentralt krav i personopplysningslova. Dette inneber at ein tar omsyn til personvern i alle faser i utviklinga av eit system eller ei løysing.
 
@@ -26,8 +26,12 @@ Kjelde:
 
 - [Personopplysningslova](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A656)
 
+## Rettleiing og hjelp
+
 Gå vidare til Datatilsynet sine sider om innebygd personvern
 
 Gå vidare til rettleiar om programvareutvikling med innebygd personvern
+
+## Kjelde
 
 Gå til personopplysningslova

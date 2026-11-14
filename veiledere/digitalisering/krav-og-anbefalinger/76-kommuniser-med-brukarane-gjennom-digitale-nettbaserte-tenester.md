@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/kommuniser-med-brukar
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Kommuniser med brukarane gjennom digitale, nettbaserte tenester
+# Kommuniser med brukarane gjennom digitale, nettbaserte tenester
 
 Forvaltninga sin kommunikasjon med innbyggjarar og næringsliv skal normalt skje gjennom digitale, nettbaserte tenester.
 
@@ -27,6 +27,10 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Rettleiing i sosiale medium for offentleg forvaltning
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

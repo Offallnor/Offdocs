@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-ehf-tilbudsinnle
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk EHF tilbudsinnlevering og kvitteringsmelding ved tilbudsinnlevering
+# Bruk EHF tilbudsinnlevering og kvitteringsmelding ved tilbudsinnlevering
 
 Det er anbefalt for offentlige virksomheter å bruke digital tilbudsinnlevering (Tender) og kvitteringsmelding (Tender Receipt Notification) for tilbudsinnlevering ved anskaffelser
 
@@ -30,11 +30,17 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå videre til anskaffelser.no
 
 Gå videre til Elektronisk Handelsformat - EHF - Prosessoversikt hos DFØ
 
+## Kjelde
+
 Gå til området Digitale anskaffelser i Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

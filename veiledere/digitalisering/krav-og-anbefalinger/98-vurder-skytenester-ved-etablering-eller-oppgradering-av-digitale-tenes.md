@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/vurder-skytenester-ved-etable
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Vurder skytenester ved etablering eller oppgradering av digitale tenester eller fagsystem
+# Vurder skytenester ved etablering eller oppgradering av digitale tenester eller fagsystem
 
 Vurder skytenester på linje med andre løysingar ved etablering av nye eller oppgradering av eksisterande fagsystemer eller digitale tenester, eller endrar eller fornyar avtalar knytt til drift.
 
@@ -33,9 +33,15 @@ Denne formuleringa er henta frå Digitaliseringsrundskrivet. Det inneber at det 
 
 Når det ikke foreligger spesielle hindringer for å ta i bruk skytjenester, og slike tjenester gir den mest hensiktsmessige og kostnadseffektive løsningen, bør en velge slike tjenester.
 
+## Rettleiing og hjelp
+
 Gå videre til Markedsplassen for skytenester
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

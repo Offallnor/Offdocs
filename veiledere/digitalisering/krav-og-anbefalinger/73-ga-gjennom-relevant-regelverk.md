@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/ga-gjennom-relevant-r
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Gå gjennom relevant regelverk
+# Gå gjennom relevant regelverk
 
 Regelverk skal vere teknologinøytralt. Det skal ikkje lagast nye regelverkshindringar. Eksisterande, utilsikta hindringar for digitalisering skal fjernast. Departementa er ansvarlege for å gjere naudsynte regelverksendringar.
 
@@ -29,6 +29,10 @@ Kjelde:
 
 Denne formuleringa er henta frå digitaliseringsrundskrivet. Det inneber at det er eit krav for statlege verksemder og ei anbefaling for kommunale.
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiar for digitaliseringsvenleg regelverk
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

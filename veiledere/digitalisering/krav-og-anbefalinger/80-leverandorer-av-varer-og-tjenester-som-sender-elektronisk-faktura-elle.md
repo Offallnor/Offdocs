@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/leverandorer-av-varer
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Leverandører av varer og tjenester som sender elektronisk faktura eller kreditnota skal gjøre det på EHF
+# Leverandører av varer og tjenester som sender elektronisk faktura eller kreditnota skal gjøre det på EHF
 
 Det er obligatorisk for leverandører av varer og tjenester som sender elektronisk faktura eller kreditnota til offentlige virksomheter, å gjøre det på Elektronisk handelsformat (EHF) versjon 3.0
 
@@ -30,11 +30,17 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå videre til anskaffelser.no
 
 Gå videre til Elektronisk Handelsformat - EHF - Prosessoversikt hos DFØ
 
+## Kjelde
+
 Gå til forskrift om IT-standarder i offentlig forvaltning (§10)
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

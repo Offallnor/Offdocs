@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-reservasjonsstatus-fra-k
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk reservasjonsstatus frå kontaktregisteret når viktige brev skal sendast digitalt utan samtykke
+# Bruk reservasjonsstatus frå kontaktregisteret når viktige brev skal sendast digitalt utan samtykke
 
 Både kommunale og statlege forvaltningsorgan skal nytte informasjon om reservasjonsstatus frå kontaktregisteret.
 
@@ -27,9 +27,15 @@ Kjelde:
 
 - [eForvaltningsforskrifta](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A613)
 
+## Rettleiing og hjelp
+
 Gå til samarbeid.digdir.no
 
+## Kjelde
+
 Gå til eForvaltningsforskriften §38
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

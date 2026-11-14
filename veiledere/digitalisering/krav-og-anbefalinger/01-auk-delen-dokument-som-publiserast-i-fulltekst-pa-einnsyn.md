@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/auk-delen-dokument-so
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Auk delen dokument som publiserast i fulltekst på eInnsyn
+# Auk delen dokument som publiserast i fulltekst på eInnsyn
 
 eInnsyn er ei felles søketeneste for offentlege dokument, postjournalar, og politiske møter og sakar. Offentlege verksemder bør auke delen dokument som publiserast i fulltekst på eInnsyn.
 
@@ -30,10 +30,16 @@ Kjelde:
 
 eInnsyn er ei løysing som gjer offentleg forvaltning open og tilgjengeleg for innbyggjaren. Retten til innsyn er nedfelt i grunnlova.
 
+## Rettleiing og hjelp
+
 Gå vidare til eInnsyn-løysinga
 
 Få hjelp til å publisere på eInnsyn
 
+## Eksempel på bruk
+
 Slik brukar Lotteri- og stiftelsestilsynet eInnsyn
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

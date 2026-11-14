@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/internkontroll-styringssystem-ledelsess
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Internkontroll/ styringssystem/ ledelsessystem for informasjonssikkerhet
+# Internkontroll/ styringssystem/ ledelsessystem for informasjonssikkerhet
 
 Alle virksomheter har behov for systematikk i styring og kontroll for å nå mål og resultatkrav, arbeide effektivt, etterleve lover og regler og ha pålitelig rapportering. Dette gjelder på flere områder. Under omtales hvilke obligatoriske og anbefalte standarder som gjelder for internkontroll/styringssystem/ledelsessystem på informasjonssikkerhetsområdet.
 
@@ -21,6 +21,8 @@ En obligatorisk standard skal følges med mindre du faller inn under en unntakso
 
 Anbefalte standarder skal benyttes med mindre du har gode grunner til å la være.
 
+## Obligatorisk krav til internkontroll
+
 Det er **obligatorisk** for forvaltningsorgan som benytter elektronisk kommunikasjon å ha en internkontroll (styring og kontroll) på informasjonssikkerhetsområdet som baserer seg på anerkjente standarder for styringssystem for informasjonssikkerhet. eForvaltningsforskriften § 15 «Internkontroll på informasjonssikkerhetsområdet» sier følgende i 1.-3. ledd:
 
 *«Forvaltningsorgan som benytter elektronisk kommunikasjon skal ha beskrevet mål og strategi for informasjonssikkerhet i virksomheten (sikkerhetsmål og sikkerhetsstrategi). Disse skal danne grunnlaget for forvaltningsorganets internkontroll (styring og kontroll) på informasjonssikkerhetsområdet. Sikkerhetsstrategien og internkontrollen skal inkludere relevante krav som er fastsatt i annen lov, forskrift eller instruks.*
@@ -30,6 +32,8 @@ Det er **obligatorisk** for forvaltningsorgan som benytter elektronisk kommunika
 *Omfang og innretning på internkontrollen skal være tilpasset risiko.»*
 
 Samme paragraf nevner også 8 områder spesielt som - i den utstrekning det er relevant - skal adresseres og følges opp i sikkerhetsstrategien og internkontrollen.
+
+## Anbefalt krav til etablering av internkontroll
 
 Det er **anbefalt** å basere seg på gjeldende versjon av ISO/IEC 27001 ved etablering av internkontroll på informasjonssikkerhetsområdet. Begrepet «basere seg på» gir mulighet for lokal tilpasning av hvilke krav i standarden man følger.
 
@@ -44,6 +48,10 @@ Digitaliseringsdirektoratet presiserer at lov- og regelverkskrav kan være mer o
 Kravene er gjeldende. Innført 28.03.2014.
 
 [Forskrift om elektronisk kommunikasjon med og i forvaltningen (eForvaltningsforskriften)](https://lovdata.no/dokument/SF/forskrift/2004-06-25-988)
+
+## Aktuelle standarder
+
+### Relevant informasjon
 
 - [Internkontroll i praksis - informasjonssikkerhet](https://www.digdir.no/informasjonssikkerhet/internkontroll-i-praksis-informasjonssikkerhet/2601)
 - [NS-EN ISO/IEC 27001:2023 hos Standard Norge](https://online.standard.no/nb/ns-en-isoiec-27001-2023)

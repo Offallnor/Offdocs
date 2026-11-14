@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/vurder-gi-allmenn-tilgang-til
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Vurder å gi allmenn tilgang til data i tråd med føresegnene om vidarebruk av offentleg informasjon i offentleglova
+# Vurder å gi allmenn tilgang til data i tråd med føresegnene om vidarebruk av offentleg informasjon i offentleglova
 
 Laga: 03. desember 2021
 
@@ -24,7 +24,11 @@ Kjelde:
 
 - [Offentleglova](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A608)
 
+## Kjelde
+
 Gå til Offentleglova
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

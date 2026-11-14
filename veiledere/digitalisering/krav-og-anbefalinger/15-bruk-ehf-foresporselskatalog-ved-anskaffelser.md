@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-ehf-foresporsels
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk EHF forespørselskatalog ved anskaffelser
+# Bruk EHF forespørselskatalog ved anskaffelser
 
 Det er anbefalt for offentlige virksomheter å bruke digital forespørselskatalog (Pre-award Catalogue) for tilbudsinnhenting ved anskaffelser
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå videre til anskaffelser.no
 
+## Kjelde
+
 Gå til området Digitale anskaffelser i Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

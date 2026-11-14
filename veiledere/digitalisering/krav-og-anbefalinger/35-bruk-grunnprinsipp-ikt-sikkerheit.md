@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-grunnprinsipp-ikt-sikker
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk grunnprinsipp for IKT-sikkerheit
+# Bruk grunnprinsipp for IKT-sikkerheit
 
 Prinsippa definerer eit sett med prinsipp og underliggjande tiltak for å beskytte informasjonssystem mot uautorisert tilgang, skade eller misbruk.
 
@@ -26,9 +26,15 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til NSM.no for grunnprinsipp for IKT - sikkerheit
 
+## Kjelde
+
 Gå til Digtaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

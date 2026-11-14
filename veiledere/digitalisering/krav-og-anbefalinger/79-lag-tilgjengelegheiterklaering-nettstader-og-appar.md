@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/lag-tilgjengelegheite
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Lag tilgjengelegheiterklæring for nettstader og appar
+# Lag tilgjengelegheiterklæring for nettstader og appar
 
 Verksemder i offentleg sektor skal ha ei tilgjengelegheitserklæring som viser status for universell utforming av nettstader og appar. Dette er eit nytt krav som kjem med webdirektivet (WAD).
 
@@ -26,6 +26,10 @@ Kjelde:
 
 - [Forskrift om universell utforming av IKT-løysingar](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A650)
 
+## Rettleiing og hjelp
+
 Gå vidare til uu-tilsynet sine sider om tilgjengelegheitserklæring
+
+## Kjelde
 
 Gå til forskrift om IT-standardar

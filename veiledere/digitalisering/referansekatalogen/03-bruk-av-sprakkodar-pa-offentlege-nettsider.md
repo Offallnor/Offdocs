@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/standarder/bruk-av-sprakkodar-pa-offentlege-nettsi
 hentet: "2026-11-14"
 ---
 
-# Referansekatalogen for IT-standardar Bruk av språkkodar på offentlege nettsider
+# Bruk av språkkodar på offentlege nettsider
 
 Det blir tilrådd å leggje ISO 639 til grunn for deklarering av språkkodar for offentlege nettsider i HTML.
 

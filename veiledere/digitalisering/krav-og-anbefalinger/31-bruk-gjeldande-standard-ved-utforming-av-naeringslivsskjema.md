@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-gjeldande-standa
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk gjeldande standard ved utforming av næringslivsskjema
+# Bruk gjeldande standard ved utforming av næringslivsskjema
 
 Gjeldande standar for utforming av næringslivsskjema er Elmer 3.0.
 
@@ -32,11 +32,17 @@ Katalog:
 
 Standarden blir ikkje lenger vedlikeholdt. Kravet om å bruke standarden vil difor bli fasa ut. Det vil framleis vere ei anbefaling å bruke standarden.
 
+## Rettleiing og hjelp
+
 Gå vidare til retningsliner for brukargrensesnitt i offentlege skjema på nett
 
 Gå vidare til Elmer 3.0 i referansekatalogen
 
+## Kjelde
+
 Gå til forskrift om IT-standardar i offentleg forvaltning
+
+## Har du eksempel på bruk? Ta gjerne kontakt
 
 ### Nasjonal arkitektur
 

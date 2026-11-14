@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-statens-standard
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk statens standardavtaler (SSA) ved innkjøp av IT- og konsulenttjenester
+# Bruk statens standardavtaler (SSA) ved innkjøp av IT- og konsulenttjenester
 
 Vi anbefaler at offentlege verksemder nyttar Statens standardavtalar, SSA, der desse er eigna.
 
@@ -26,11 +26,17 @@ Kjelde:
 
 - [Referansekatalogen for IT-standardar](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A612)
 
+## Rettleiing og hjelp
+
 Gå videre til informasjon om statens standardavtaler hos DFØ
 
 Gå videre til informasjon om statens standardavtaler hos Digdir
 
+## Kjelde
+
 Gå til området Standardavtaler i offentlig sektor i Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

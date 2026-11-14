@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-ehf-ebevis-anska
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk EHF eBevis anskaffingsdokument ved bevisinnhenting i kvalifikasjons- og kontraktsoppfølgingsfasen
+# Bruk EHF eBevis anskaffingsdokument ved bevisinnhenting i kvalifikasjons- og kontraktsoppfølgingsfasen
 
 Det er anbefalt for offentlege verksemder å bruke digitalt anskaffingsdokument for bevisinnhenting i kvalifikasjons- og kontraktsoppfølgingsfasen
 
@@ -30,9 +30,15 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til anskaffelser.no
 
+## Kjelde
+
 Gå vidare til anskaffelsesforskriften
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

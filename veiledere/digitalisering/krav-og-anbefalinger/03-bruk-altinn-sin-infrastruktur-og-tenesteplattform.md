@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-altinn-sin-infra
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk Altinn sin infrastruktur og tenesteplattform
+# Bruk Altinn sin infrastruktur og tenesteplattform
 
 Altinn sin infrastruktur og tenesteplattform skal som hovudregel brukast ved produksjon av relevante tenester.
 
@@ -27,12 +27,18 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til informasjonssider om fellesløysinga Altinn Studio
 
 Gå vidare til Altinn Studio
 
+## Eksempel på bruk
+
 Sjå korleis Statsforvaltarens fellestenester nyttar Altinn Studio
 
 Sjå korleis Direktoratet for mineralforvaltning nyttar Altinn Studio
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

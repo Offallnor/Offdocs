@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/folg-prinsipp-samordn
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Følg prinsipp for samordning med og involvering av kommunal sektor
+# Følg prinsipp for samordning med og involvering av kommunal sektor
 
 Statlege verksemder skal følgje prinsipp i nasjonalt digitaliseringsarbeid som omfattar kommunal sektor.
 
@@ -32,5 +32,7 @@ Prinsippa er:
 - Likeverd og innverknad
 - Representativitet
 - Involvering heile vegen
+
+## Rettleiing og hjelp
 
 Gå til prinsippa i digitaliseringsrundskrivet

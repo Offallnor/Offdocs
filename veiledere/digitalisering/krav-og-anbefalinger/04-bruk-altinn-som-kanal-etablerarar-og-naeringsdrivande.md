@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/bruk-altinn-som-kanal
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk Altinn som kanal for etablerarar og næringsdrivande
+# Bruk Altinn som kanal for etablerarar og næringsdrivande
 
 Altinn.no er hovudkanal frå offentleg forvaltning for overordna informasjon om rettar og plikter for etablerarar og næringsdrivande.
 
@@ -27,6 +27,10 @@ Kjelde:
 
 - [Digitaliseringsrundskrivet](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t3%3A609)
 
+## Rettleiing og hjelp
+
 Gå vidare til altinn.no
+
+## Kjelde
 
 Gå til digitaliseringsrundskrivet

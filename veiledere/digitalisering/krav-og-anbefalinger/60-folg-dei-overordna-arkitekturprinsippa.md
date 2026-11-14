@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/folg-dei-overordna-arkitektur
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Følg dei overordna arkitekturprinsippa
+# Følg dei overordna arkitekturprinsippa
 
 Dei overordna arkitekturprinsippa for digitalisering av offentleg sektor er ei støtte til arbeid med verksemdsarkitektur og skal bidra til auka samhandlingsevne på tvers av verksemder og sektorar.
 
@@ -32,9 +32,15 @@ Denne formuleringa er henta frå Digitaliseringsrundskrivet. Det inneber at det 
 
 Ved bruk av prinsippa bidreg du til auka samhandlingsevne på tvers av verksemder og sektorar. Det gjer det også lettare å lage samanhengande tenester.
 
+## Rettleiing og hjelp
+
 Gå vidare til dei overordna arkitekturprinsippa
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

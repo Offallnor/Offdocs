@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/krav-og-anbefalinger/bruk-standard-filoverforing/3
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Bruk standard for filoverføring
+# Bruk standard for filoverføring
 
 Offentlege kommunikasjonstenester bør ha støtte for FTP som er ein protokoll for filoverføring.
 
@@ -30,11 +30,17 @@ Katalog:
 
 - [Referansekatalogen for IT-standarder](https://www.digdir.no/krav-og-anbefalinger/krav-og-anbefalingar-innan-digitalisering/2617?f%5B0%5D=t4%3A717)
 
+## Rettleiing og hjelp
+
 Gå vidare til rettleiing for bruk av FTP på digdir.no
 
 Gå vidare til meir info om FTP på wikipedia.org
 
+## Kjelde
+
 Gå til Referansekatalogen for IT-standarder
+
+## Ta gjerne kontakt om du har eksempel på bruk
 
 ### Nasjonal arkitektur
 

@@ -5,7 +5,7 @@ kilde: "https://www.digdir.no/digitalisering-og-samordning/gi-brukarane-rettleii
 hentet: "2026-11-14"
 ---
 
-# Krav og anbefalingar innan digitalisering Gi brukarane rettleiing
+# Gi brukarane rettleiing
 
 Brukarane skal få hjelp og rettleiing til å bruke digitale tenester, til dømes gjennom rettleiing på nett, digital dialog eller direkte kontakt.
 
@@ -28,7 +28,11 @@ Kjelde:
 
 Det er ikkje laga spesifikk rettleiing.
 
+## Kjelde
+
 Gå til digitaliseringsrundskrivet
+
+## Har du eksempel på bruk? Ta gjerne kontakt
 
 ### Nasjonal arkitektur
 
