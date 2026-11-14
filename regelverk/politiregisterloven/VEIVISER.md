@@ -1,6 +1,26 @@
 # Politiregisterloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Politiregisterloven regulerer politiets og påtalemyndighetens behandling av opplysninger: krav til behandlingen, registre, informasjonssikkerhet, utlevering, taushetsplikt og begrensningene i den, vandelskontroll og politiattest, innsyn, retting og sletting, og tilsyn. Politiregisterforskriften utfyller loven og har egne kapitler for de enkelte registrene, blant annet bekymringssamtaler (kapittel 58).
+
+## Slik bruker du veiviseren
+
+Finn kapitlet i listen under «Innhold», åpne innholdsfilen og deretter paragrafen. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Taushetsplikten i politiet følger av denne loven.** § 23 fastsetter taushetsplikten for alle som utfører tjeneste eller arbeid for politiet eller påtalemyndigheten. Unntakene står i §§ 24 til 34. Forvaltningsloven § 13 flg. er ikke utgangspunktet for politiet.
+- **Deling for å forebygge lovbrudd (§ 27).** Opplysninger kan deles med offentlige organer for å forebygge lovbrudd, og med private bare når det er nødvendig og andre løsninger må antas å være utilstrekkelige (annet ledd). Fjerde ledd gjelder deling med offentlige organer og institusjoner i et kriminalitetsforebyggende samarbeid når det er nødvendig. Utlevering må i alle tilfeller være forholdsmessig (tredje ledd), og femte ledd krever beslutning av den behandlingsansvarlige og nedtegning. Les vilkårene i hvert ledd for seg.
+- **Mottakers interesse eller forebygging.** § 30 gjelder utlevering til offentlige organer i mottakerens interesse, for å fremme mottakerens oppgaver etter lov. § 27 gjelder forebygging av lovbrudd. Velg bestemmelse ut fra formålet med delingen.
+- **Taushetsplikt hos mottakeren.** Om skolen, barnevernet eller helsetjenesten kan dele opplysninger med politiet, avgjøres av deres eget regelverk, ikke av politiregisterloven. Se barnevernsloven § 13-1, helsepersonelloven § 23 og forvaltningsloven § 13 flg.
+- **Forskriften er stor.** Politiregisterforskriften har mer enn 60 kapitler. Åpne bare kapitlet du trenger, for eksempel kapittel 9 om utlevering eller kapittel 58 om bekymringssamtaler.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| politiets oppgaver og bekymringssamtalen (politiloven § 13) | `regelverk/politiloven/VEIVISER.md` |
+| taushetsplikt i forvaltningen ellers | `regelverk/forvaltningsloven/VEIVISER.md` |
+| personvern utenfor politiets straffesaksbehandling | `regelverk/personopplysningsloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

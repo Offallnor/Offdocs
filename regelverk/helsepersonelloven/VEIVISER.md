@@ -1,6 +1,26 @@
 # Helsepersonelloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Helsepersonelloven regulerer krav til helsepersonell og yrkesutøvelsen: forsvarlighet, taushetsplikt og begrensningene i den, opplysningsplikt og meldeplikt, journalføring, autorisasjon og lisens, og tilsyn og reaksjoner.
+
+Pasient- og brukerrettighetsloven, helse- og omsorgstjenesteloven og spesialisthelsetjenesteloven ligger ikke i basen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Taushetsplikten er streng, og unntakene er spredt.** Hovedregelen står i § 21. Unntak følger blant annet av § 22 (samtykke), § 23 (begrensninger, også tungtveiende private eller offentlige interesser i bokstav d) og av opplysnings- og meldepliktene i kapittel 6, som § 31 (varsling til politi og brannvesen for å avverge alvorlig skade) og § 33 (opplysningsplikt til barnevernet). Les bestemmelsen som passer til situasjonen.
+- **Rett eller plikt.** § 23 gir adgang til å dele, mens § 31 og § 33 gir plikt. Si hvilken av delene svaret bygger på.
+- **Avvergeplikt etter straffeloven.** Plikten til å avverge visse alvorlige straffbare handlinger følger av straffeloven § 196 og gjelder uten hinder av taushetsplikt. Straffeloven ligger ikke i basen. Vis til lovdata.no.
+- **Vedtatte endringer.** Flere endringslover berører loven. Se «Vedtatte endringer som ikke er i kraft» under.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| meldeplikt til barnevernet for alle som arbeider for et forvaltningsorgan | `regelverk/barnevernsloven/VEIVISER.md` |
+| politiets deling av opplysninger | `regelverk/politiregisterloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

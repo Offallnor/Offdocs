@@ -1,6 +1,26 @@
 # Politiloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Politiloven regulerer politiets oppgaver og organisering, hvordan polititjenesten skal utføres, politiets myndighet til inngrep for å opprettholde ro og orden, inngrep overfor barn, politivedtekter, fiktiv identitet og Politiets sikkerhetstjeneste. Politiinstruksen utfyller loven med regler for tjenesteutførelsen.
+
+Regler om taushetsplikt og deling av opplysninger i politiet står ikke i politiloven, men i politiregisterloven. Straffeprosessloven, straffeloven og påtaleinstruksen ligger ikke i basen.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Forebygging er en lovpålagt oppgave.** Etter § 2 nr. 2 skal politiet forebygge kriminalitet, og etter § 2 nr. 6 samarbeide med andre myndigheter og organisasjoner så langt regler i eller i medhold av lov ikke er til hinder. Om politiet kan dele opplysninger i et slikt samarbeid, avgjøres av politiregisterloven kapittel 6, se `regelverk/politiregisterloven/VEIVISER.md`.
+- **Bekymringssamtalen.** § 13 tredje ledd gir politiet adgang til å pålegge barnet og vergene å møte til samtale for å forebygge nye lovbrudd, og fjerde ledd regulerer innkalling og avhenting. Behandling av opplysninger i forbindelse med samtalen er regulert i politiregisterforskriften kapittel 58. Forskriften § 58-3 viser til politiloven § 13 fjerde ledd. Les § 13 slik den står nå før du angir ledd.
+- **Inngrep overfor barn har aldersgrenser.** § 13 skiller mellom barn som antas å være under 15 år og barn under 18 år. Les leddet som gjelder, og bruk aldersgrensen som står der.
+- **Vedtatte endringer.** Endringen i § 6 om generell bevæpning trer i kraft 1. januar 2027. Se «Vedtatte endringer som ikke er i kraft» under, og si fra når spørsmålet gjelder bevæpning.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| taushetsplikt, deling av opplysninger og bekymringssamtale (registrering) | `regelverk/politiregisterloven/VEIVISER.md` |
+| barnevernets ansvar, meldeplikt og samarbeid | `regelverk/barnevernsloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder

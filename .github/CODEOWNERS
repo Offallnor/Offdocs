@@ -95,5 +95,11 @@
 # Utdanningsstøtte
 /regelverk/utdanningsstotteloven/   @offallnor-bot
 
+# Politi og forebygging
+/regelverk/barnevernsloven/       @offallnor-bot
+/regelverk/helsepersonelloven/    @offallnor-bot
+/regelverk/politiloven/           @offallnor-bot
+/regelverk/politiregisterloven/   @offallnor-bot
+
 # Statens personalhåndbok (del av et annet regelverk)
 /regelverk/statsansatteloven/rundskriv/personalhandboka/   @offallnor-bot

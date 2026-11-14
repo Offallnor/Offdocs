@@ -1,6 +1,25 @@
 # Barnevernsloven: veiviser
 
-_Håndskrevet veiledning mangler ennå._
+Barnevernsloven regulerer barnevernets ansvar og oppgaver: hjelpetiltak, undersøkelser, akuttvedtak, omsorgsovertakelse, fosterhjem og institusjon, barns rettigheter og medvirkning, saksbehandling, taushetsplikt og opplysningsplikt, og kommunens og statens ansvar, blant annet for å forebygge omsorgssvikt.
+
+## Slik bruker du veiviseren
+
+Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Fellene under er hjelp til å unngå vanlige feil. De er ikke en offisiell tolkning.
+
+## Kjente feller
+
+- **Taushetsplikten bygger på forvaltningsloven.** § 13-1 første ledd viser til forvaltningsloven §§ 13 til 13 e, men utvider taushetsplikten (annet ledd) og begrenser adgangen til å dele (tredje ledd sier at forvaltningsloven § 13 b nr. 6 ikke gjelder). Les begge lovene. Den nye forvaltningsloven (2025) er ikke i kraft og har andre paragrafnumre.
+- **Meldeplikten (§ 13-2) gjelder alle som arbeider for et forvaltningsorgan.** Plikten gjelder uten hinder av taushetsplikt, og bokstav d omfatter barn som utsetter sin utvikling for alvorlig fare ved alvorlige eller gjentatte lovbrudd. Helsepersonell har en tilsvarende plikt etter helsepersonelloven § 33. Ordlyden i de to bestemmelsene er ikke helt lik.
+- **Samarbeid er en plikt.** § 15-8 pålegger barnevernstjenesten å samarbeide med offentlige instanser og andre tjenesteytere, og kommunen å samordne tjenestetilbudet. Plikten til å samarbeide gir ikke i seg selv adgang til å dele taushetsbelagte opplysninger.
+- **Vedtatte endringer.** Flere endringslover er vedtatt, og noen deler er satt i kraft på ulike datoer. Se «Vedtatte endringer som ikke er i kraft» under.
+
+## Merknader og andre kilder
+
+| Tema | Les |
+|---|---|
+| taushetsplikt i forvaltningen | `regelverk/forvaltningsloven/VEIVISER.md` |
+| helsepersonells opplysningsplikt til barnevernet | `regelverk/helsepersonelloven/VEIVISER.md` |
+| politiets deling av opplysninger og bekymringssamtale | `regelverk/politiregisterloven/VEIVISER.md` |
 
 <!-- AUTO-START: genereres av verktoy/bygg.py, ikke rediger for hånd -->
 ## Kilder
