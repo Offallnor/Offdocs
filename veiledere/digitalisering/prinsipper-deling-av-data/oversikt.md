@@ -1,11 +1,11 @@
 ---
-veileder: "Om prinsippene"
+veileder: "Prinsipper for deling av data"
 utgiver: "Digitaliseringsdirektoratet (Digdir)"
 kilde: "https://www.digdir.no/datadeling/om-prinsippene/2087"
 hentet: "2026-11-14"
 ---
 
-# Om prinsippene
+# Prinsipper for deling av data
 
 Tekst fra Digitaliseringsdirektoratet, hentet fra [digdir.no](https://www.digdir.no/datadeling/om-prinsippene/2087) 2026-11-14. Den er veiledning, ikke lov eller forskrift. Hvilke krav som er pålagt statlige virksomheter, står i digitaliseringsrundskrivet.
 

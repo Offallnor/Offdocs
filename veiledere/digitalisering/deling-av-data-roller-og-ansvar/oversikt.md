@@ -1,11 +1,11 @@
 ---
-veileder: "Formålet med veilederen "Fordeling av roller og ansvar når dere skal dele data""
+veileder: "Fordeling av roller og ansvar når dere skal dele data"
 utgiver: "Digitaliseringsdirektoratet (Digdir)"
 kilde: "https://www.digdir.no/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089"
 hentet: "2026-11-14"
 ---
 
-# Formålet med veilederen "Fordeling av roller og ansvar når dere skal dele data"
+# Fordeling av roller og ansvar når dere skal dele data
 
 Tekst fra Digitaliseringsdirektoratet, hentet fra [digdir.no](https://www.digdir.no/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089) 2026-11-14. Den er veiledning, ikke lov eller forskrift. Hvilke krav som er pålagt statlige virksomheter, står i digitaliseringsrundskrivet.
 

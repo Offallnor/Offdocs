@@ -1,5 +1,5 @@
 ---
-veileder: "Om prinsippene"
+veileder: "Prinsipper for deling av data"
 utgiver: "Digitaliseringsdirektoratet (Digdir)"
 kilde: "https://www.digdir.no/datadeling/prinsipp-2-spesifisering-og-vurdering/2083"
 hentet: "2026-11-14"

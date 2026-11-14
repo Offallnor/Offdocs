@@ -1,5 +1,5 @@
 ---
-veileder: "Om prinsippene"
+veileder: "Prinsipper for deling av data"
 utgiver: "Digitaliseringsdirektoratet (Digdir)"
 kilde: "https://www.digdir.no/datadeling/prinsipp-5-opplysningene-som-de-er/2086"
 hentet: "2026-11-14"

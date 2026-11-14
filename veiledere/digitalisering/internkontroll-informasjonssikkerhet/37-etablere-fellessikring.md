@@ -1,5 +1,5 @@
 ---
-veileder: "Versjon 2.0 Internkontroll i praksis - Informasjonssikkerhet"
+veileder: "Internkontroll i praksis – informasjonssikkerhet (versjon 2.0)"
 utgiver: "Digitaliseringsdirektoratet (Digdir)"
 kilde: "https://www.digdir.no/informasjonssikkerhet/etablere-fellessikring/3025"
 hentet: "2026-11-14"

@@ -1,5 +1,5 @@
 ---
-veileder: "Om prinsippene"
+veileder: "Prinsipper for deling av data"
 utgiver: "Digitaliseringsdirektoratet (Digdir)"
 kilde: "https://www.digdir.no/datadeling/prinsipp-1-veiledning/2082"
 hentet: "2026-11-14"

@@ -1,5 +1,5 @@
 ---
-veileder: "Formålet med veilederen "Fordeling av roller og ansvar når dere skal dele data""
+veileder: "Fordeling av roller og ansvar når dere skal dele data"
 utgiver: "Digitaliseringsdirektoratet (Digdir)"
 kilde: "https://www.digdir.no/datadeling/nar-gjelder-veilederen-om-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2090"
 hentet: "2026-11-14"
