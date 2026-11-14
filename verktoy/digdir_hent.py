@@ -93,6 +93,10 @@ DOKUMENTER = [
      "start": "/kunnskap-og-veiledning/informasjonssikkerhet-og-personvern/hvordan-bruke-skytjenester-etter-schrems-ii",
      "dybde": 2, "folg": r"^/[a-z0-9-]+$",
      "utelat": r"^/(kunnskap-og-veiledning|cdn-cgi|user|search|node)"},
+    {"mappe": "ki-veiledning", "gruppe": "Kunstig intelligens",
+     "base": "https://ki.norge.no", "utgiver": "KI Norge (Digitaliseringsdirektoratet)",
+     "tittel": "KI Norges veiledning om kunstig intelligens i offentlig sektor",
+     "start": "/veiledning", "llms": r"^/veiledning/"},
     {"mappe": "deling-av-data-roller-og-ansvar", "gruppe": "Deling av data",
      "tittel": "Fordeling av roller og ansvar når dere skal dele data",
      "start": "/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089",
@@ -178,8 +182,45 @@ def kapitler(dok: dict, lenker: list) -> list:
     return ut
 
 
+def les_md(sti: str) -> tuple:
+    """(tittel, markdown) for en side som nettstedet selv leverer som markdown (sti + .md), uten frontmatter."""
+    tekst = nh.hent(BASE + sti + ".md")
+    m = re.match(r"---\n(.*?)\n---\n", tekst, re.S)
+    tittel = None
+    if m:
+        t = re.search(r'^title:\s*"?(.*?)"?\s*$', m.group(1), re.M)
+        tittel = t.group(1) if t else None
+        tekst = tekst[m.end():]
+    tekst = re.split(r"\n#+ (?:Ta )?[Kk]ontakt[^\n]*\n", tekst)[0]
+    tekst = tekst.strip()
+    h1 = re.match(r"(?:[^\n]*\n){0,4}?# ([^\n]*)\n+", tekst)  # brødsmule og tittel øverst tas ut
+    if h1:
+        tittel = tittel or h1.group(1).strip()
+        tekst = tekst[h1.end():]
+    return tittel, tekst.strip()
+
+
+def les_llms(dok: dict) -> tuple:
+    """Nettsted med llms.txt: alle sider under dok["llms"] hentes som markdown, i rekkefølgen i llms.txt."""
+    oversikt = nh.hent(BASE + "/llms.txt")
+    stier = []
+    for url in re.findall(r"\]\((" + re.escape(BASE) + r"/[^)\s]+)\)", oversikt):
+        sti = url[len(BASE):]
+        if re.search(dok["llms"], sti) and sti != dok["start"] and sti not in stier:
+            stier.append(sti)
+    tittel, forside = les_md(dok["start"])
+    sider = []
+    for sti in stier:
+        t, md = les_md(sti)
+        if md:
+            sider.append((sti, t or sti.rsplit("/", 1)[-1], md))
+    return dok.get("tittel", tittel), forside, sider
+
+
 def les_dokument(dok: dict) -> tuple:
     """(tittel, forside, [(sti, tittel, markdown)])"""
+    if dok.get("llms"):
+        return les_llms(dok)
     AKTIV_START[0] = dok["start"]
     tittel, forside, lenker = les(dok["start"])
     if tittel is None:
@@ -288,7 +329,7 @@ def skriv_oversikt(status: dict) -> None:
               "statlige virksomheter. Hver veileder har en mappe med `oversikt.md` og én fil per kapittel.", ""]
     for gruppe in ["Digitaliseringsrundskrivet", "Felles arkitektur for samhandling", "Informasjonssikkerhet",
                    "Deling av data", "Informasjonsforvaltning", "Sammenhengende tjenester",
-                   "Åpen kildekode og EU-regelverk"]:
+                   "Åpen kildekode og EU-regelverk", "Kunstig intelligens"]:
         if gruppe not in grupper:
             continue
         linjer += [f"## {gruppe}", "", "| Veileder | Sider | Hentet | Sti |", "|---|---|---|---|"]

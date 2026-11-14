@@ -33,7 +33,7 @@ Svar ut fra oversikten under. Gjelder spørsmålet ett område, for eksempel om 
    - «[Felles baser] Ønske: …»
    - «[Felles baser] Ny skill: …»
 
-   Bruk bare disse fire typene. Emne og tekst må URL-kodes, med `%0A` for linjeskift. Bruk kodeverktøyet til kodingen hvis du har det. Vis også meldingen i en kodeblokk med adresse og emne, i tilfelle lenken ikke virker. Har brukeren ikke `felles-intern`, be dem laste den ned fra intranettsiden for Claude-piloten, eller sende meldingen til redaktøren for basene derfra. Gi dem emnet ferdig skrevet, med merket først, til å lime inn.
+   Bruk bare disse fire typene. Emne og tekst må URL-kodes, med `%0A` for linjeskift. Bruk kodeverktøyet til kodingen hvis du har det. Vis også meldingen i en kodeblokk med adresse og emne, i tilfelle lenken ikke virker. Har brukeren ikke `felles-intern`, følg det den andre skillen brukeren har, sier om feil og mangler. Ellers be dem ta det med den som ga dem skillene. Gi dem emnet ferdig skrevet, med merket først, til å lime inn.
 5. **Si til brukeren** at meldingen er levert først når e-posten er sendt, at feilen blir kontrollert mot kilden før noe rettes, og at du ikke kan rette basen selv.
 
 Har brukeren skrivetilgang til basen på GitHub, kan noen dokumenter legges inn direkte: rundskriv og hovedtariffavtalen i `regelverk/innboks/`, Excel-filer fra Nav i `data/innboks/` og budsjettdokumenter i `budsjett/innboks/`. Se README-filen i hver innboks.
