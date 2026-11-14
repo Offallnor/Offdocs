@@ -308,6 +308,27 @@
         }
       ],
       "utelat": "\\?|/aktuelt|/arrangementer"
+    },
+    "dfo": {
+      "base": "https://www.anskaffelser.no",
+      "utgiver": "Direktoratet for forvaltning og økonomistyring (DFØ)",
+      "navn": "DFØs veiledning om anskaffelsesregelverket (anskaffelser.no)",
+      "innhold": [
+        "main article",
+        "article",
+        "main"
+      ],
+      "dokumenter": [
+        {
+          "under": "/anskaffelsesregelverk/",
+          "lov": "anskaffelsesloven"
+        },
+        {
+          "dokument": "/verktoy/veiledere/kontraktsoppfolging-og-evaluering-av-leveransen/",
+          "lov": "anskaffelsesloven"
+        }
+      ],
+      "utelat": "/lov-og-forskrifter/"
     }
   }
 }

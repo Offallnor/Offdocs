@@ -322,6 +322,7 @@ def ekstra_kilder(mappe: Path, lovnavn: str, indeks: list) -> list:
 # Rettspraksis (avgjørelser fra domstolene) ligger i rettspraksis/<domstol>/, alt annet i rundskriv/.
 TOLKNINGSKILDER = {
     "arbeidstilsynet": "Arbeidstilsynets kommentarer til forskriftene",
+    "dfo": "DFØs veiledning om anskaffelsesregelverket (anskaffelser.no)",
     "hkdir": "HK-dirs informasjon om opptak, godkjenning av utenlandsk utdanning og lovregulerte yrker",
     "hoyesterett": "Høyesteretts avgjørelser fra november 2021 (rettspraksis)",
     "imdi": "IMDis veiledere og rundskriv",
