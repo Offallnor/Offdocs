@@ -87,6 +87,7 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Barnevernsloven | `regelverk/barnevernsloven/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
 | Helsepersonelloven | `regelverk/helsepersonelloven/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
 | Anskaffelsesloven | `regelverk/anskaffelsesloven/VEIVISER.md` | 2026-07-01 |
+| Økonomiregelverket | `regelverk/okonomiregelverket/VEIVISER.md` | 2006-01-01 |
 <!-- AUTO-SLUTT -->
 
 ## Tariffavtaler og EU-rettsakter i basen
