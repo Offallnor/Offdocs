@@ -9,8 +9,8 @@ Nyeste versjon av hver skill. Skillene sammenligner sin egen versjonslinje med d
 | felles-regelverk | 2026-11-12 |
 | felles-budsjett | 2026-11-12 |
 | felles-data | 2026-11-12 |
-| felles-analyse | 2026-11-12 |
-| felles-skillbygger | 2026-11-12 |
+| felles-analyse | 2026-11-14 |
+| felles-skillbygger | 2026-11-14 |
 
 ## Driftsvarsel
 
