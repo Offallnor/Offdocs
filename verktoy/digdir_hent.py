@@ -88,6 +88,11 @@ DOKUMENTER = [
      "folg": r"^/informasjonssikkerhet/[a-z0-9-]+/\d+$",
      "utelat": r"/(internkontroll-i-praksis-informasjonssikkerhet|nifs|nettverk|bli-medlem|sikkerhetsfestival|sikkerhetsmaned"
                r"|losepengevirus|svindel|na-far-du|framleis|lavere-tillit|informasjonssikkerhet/882)"},
+    {"mappe": "skytjenester-schrems-ii", "gruppe": "Informasjonssikkerhet",
+     "base": "https://markedsplassen.anskaffelser.no", "utgiver": "Direktoratet for forvaltning og økonomistyring (DFØ)",
+     "start": "/kunnskap-og-veiledning/informasjonssikkerhet-og-personvern/hvordan-bruke-skytjenester-etter-schrems-ii",
+     "dybde": 2, "folg": r"^/[a-z0-9-]+$",
+     "utelat": r"^/(kunnskap-og-veiledning|cdn-cgi|user|search|node)"},
     {"mappe": "deling-av-data-roller-og-ansvar", "gruppe": "Deling av data",
      "tittel": "Fordeling av roller og ansvar når dere skal dele data",
      "start": "/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089",
@@ -204,7 +209,8 @@ def les_dokument(dok: dict) -> tuple:
 
 
 def filnavn(nr: int, sti: str) -> str:
-    slug = sti.rstrip("/").split("/")[-2]
+    deler = sti.rstrip("/").split("/")
+    slug = deler[-2] if deler[-1].isdigit() else deler[-1]  # digdir.no har id sist, andre nettsteder ikke
     return f"{nr:02d}-{re.sub(r'[^0-9a-z]+', '-', slug.lower()).strip('-')[:70]}.md"
 
 
@@ -225,7 +231,7 @@ def skriv(dok: dict, tittel: str, forside: str, sider: list, dato: str) -> None:
         innhold.append(f"- {t} – `{fil}`")
     (mappe / "oversikt.md").write_text(
         f"{hode(tittel, BASE + dok['start'], dato)}\n\n# {tittel}\n\n"
-        f"Tekst fra Digitaliseringsdirektoratet, hentet fra [digdir.no]({BASE + dok['start']}) {dato}. "
+        f"Tekst fra {UTGIVER.split(' (')[0]}, hentet fra [{BASE.split('//')[1].removeprefix('www.')}]({BASE + dok['start']}) {dato}. "
         "Den er veiledning, ikke lov eller forskrift. Hvilke krav som er pålagt statlige virksomheter, står i "
         "digitaliseringsrundskrivet.\n\n"
         + (forside + "\n\n" if forside else "")
@@ -294,6 +300,7 @@ def skriv_oversikt(status: dict) -> None:
 
 
 def main() -> int:
+    global BASE, UTGIVER
     ap = argparse.ArgumentParser()
     ap.add_argument("--tving", action="store_true", help="skriv alt på nytt")
     args = ap.parse_args()
@@ -304,7 +311,10 @@ def main() -> int:
     feil = []
     MAPPE.mkdir(parents=True, exist_ok=True)
 
+    standard = (BASE, UTGIVER)
     for dok in DOKUMENTER:
+        BASE, UTGIVER = dok.get("base", standard[0]), dok.get("utgiver", standard[1])
+        nh.BASE = BASE
         try:
             tittel, forside, sider = les_dokument(dok)
         except Exception as e:  # noqa: BLE001
@@ -322,6 +332,8 @@ def main() -> int:
         skriv(dok, tittel, forside, sider, dato)
         status[dok["mappe"]] = {**rad, "sjekksum": sjekksum, "lagt_inn": dato}
         logg["Endret" if gammel else "Ny"].append(f"{tittel} ({len(sider) + 1} sider)")
+    BASE, UTGIVER = standard
+    nh.BASE = BASE
 
     try:
         tekst = nh.hent(RUNDSKRIV["kilde"])
