@@ -21,7 +21,7 @@ Offentlege verksemder (inkludert offentleg eigde selskap) bør ved beskriving av
 
 Offentlege verksemder (inkludert offentleg eigde selskap) som forvaltar «datasett med høg verdi» i tråd med lovutkast til lov om datadeling («datadelingsloven») slik det ligg føre i NOU2024:14 bør i tillegg bruke
 
-[Standard for beskrivelse av datasett med høy verdi (HVD-DCAT-AP-NO)](https://www.digdir.no//data.norge.no/specification/hvd-dcat-ap-no)
+[Standard for beskrivelse av datasett med høy verdi (HVD-DCAT-AP-NO)](https://data.norge.no/specification/hvd-dcat-ap-no)
 
 Anbefalinga er gjeldande. DCAT-AP-NO (v1) vart innført 15.11.2016. HVD-DCAT-AP-NO vart innført 26.11.2024.
 
@@ -33,4 +33,4 @@ Det føreligg ingen eigen rettleiar utover rettleiande tekst som inngår i stand
 
 [DCAT-AP-NO](https://data.norge.no/specification/dcat-ap-no)
 
-[HVD-DCAT-AP-NO](https://www.digdir.no//data.norge.no/specification/hvd-dcat-ap-no)
+[HVD-DCAT-AP-NO](https://data.norge.no/specification/hvd-dcat-ap-no)

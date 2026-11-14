@@ -82,12 +82,49 @@ DOKUMENTER = [
      "folg": r"^/standarder/[a-z0-9-]+/\d+$",
      "utelat": r"/(referansekatalogen-it-standardar|hoyringar|gamle-versjonar|arkitektur-og-standardiseringsradet"
                r"|msp-og-internasjonalt|utgreiing-av-nye-krav|standardar)/"},
+    {"mappe": "internkontroll-informasjonssikkerhet", "gruppe": "Informasjonssikkerhet",
+     "tittel": "Internkontroll i praksis – informasjonssikkerhet (versjon 2.0)",
+     "start": "/informasjonssikkerhet/internkontroll-i-praksis-informasjonssikkerhet/2601", "dybde": 3,
+     "folg": r"^/informasjonssikkerhet/[a-z0-9-]+/\d+$",
+     "utelat": r"/(internkontroll-i-praksis-informasjonssikkerhet|nifs|nettverk|bli-medlem|sikkerhetsfestival|sikkerhetsmaned"
+               r"|losepengevirus|svindel|na-far-du|framleis|lavere-tillit|informasjonssikkerhet/882)"},
+    {"mappe": "deling-av-data-roller-og-ansvar", "gruppe": "Deling av data",
+     "tittel": "Fordeling av roller og ansvar når dere skal dele data",
+     "start": "/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089",
+     "ekstra": ["/datadeling/nar-gjelder-veilederen-om-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2090",
+                "/datadeling/roller-og-definisjoner/2088"]},
+    {"mappe": "prinsipper-deling-av-data", "gruppe": "Deling av data",
+     "tittel": "Prinsipper for deling av data",
+     "start": "/datadeling/om-prinsippene/2087",
+     "ekstra": ["/datadeling/prinsipp-1-veiledning/2082", "/datadeling/prinsipp-2-spesifisering-og-vurdering/2083",
+                "/datadeling/prinsipp-3-samordning/2084", "/datadeling/prinsipp-4-standardisering/2085",
+                "/datadeling/prinsipp-5-opplysningene-som-de-er/2086", "/datadeling/juridiske-krav/2081"]},
+    {"mappe": "digitaliseringsvennlig-regelverk", "gruppe": "Deling av data",
+     "start": "/datadeling/veileder-digitaliseringsvennlig-regelverk/2856", "dybde": 2,
+     "folg": r"^/(datadeling|informasjonsforvaltning)/[a-z0-9-]+/(28[5-9]\d|29[0-4]\d)$"},
+    {"mappe": "orden-i-eget-hus", "gruppe": "Informasjonsforvaltning",
+     "start": "/informasjonsforvaltning/veileder-orden-i-eget-hus/2716", "dybde": 2,
+     "folg": r"^/informasjonsforvaltning/(hva-er-orden|hvorfor-er-orden|hvordan-bruker-dere|steg-\d|modenhetsmodell"
+             r"|hva-er-et-datasett|hva-er-forskjellen|hvordan-bestemme|oversikt-over-datasett)[a-z0-9-]*/\d+$"},
+    {"mappe": "sammenhengende-tjenester", "gruppe": "Sammenhengende tjenester",
+     "start": "/sammenhengende-tjenester/styring-og-organisering-av-samarbeid/2978", "dybde": 2,
+     "folg": r"^/sammenhengende-tjenester/[a-z0-9-]+/\d+$",
+     "utelat": r"/(sammenhengende-tjenester/3157|om-prosjektet|veien-videre)"},
+    {"mappe": "apen-kildekode", "gruppe": "Åpen kildekode og EU-regelverk",
+     "start": "/digitalisering-og-samordning/veileder-om-apen-kildekode-i-offentlig-sektor/8461", "dybde": 2,
+     "folg": r"^/digitalisering-og-samordning/(dette-er-apen-kildekode|apen-kildekode-som-hovedregel|bruk-apen-kildekode)/\d+$"},
+    {"mappe": "juridisk-veiledning-eu-regelverk", "gruppe": "Åpen kildekode og EU-regelverk",
+     "start": "/digitalisering-og-samordning/juridisk-veiledning-til-kommende-eu-regelverk/8357", "dybde": 2,
+     "folg": r"^/(digitalisering-og-samordning|datadeling)/[a-z0-9-]+/(83[4-6]\d)$"},
 ]
 RUNDSKRIV = {
     "mappe": "digitaliseringsrundskrivet", "gruppe": "Digitaliseringsrundskrivet",
     "kilde": "https://raw.githubusercontent.com/digdir/nasjonal-arkitektur/main/arkitekturassistent/Digitaliseringsrundskrivet.md",
     "side": "https://github.com/digdir/nasjonal-arkitektur/blob/main/arkitekturassistent/Digitaliseringsrundskrivet.md",
 }
+
+
+AKTIV_START = [""]  # startsiden til veilederen som hentes nå; 403 der er en feil, ellers hoppes siden over
 
 
 def les(sti: str) -> tuple:
@@ -98,6 +135,9 @@ def les(sti: str) -> tuple:
     except urllib.error.HTTPError as e:
         if e.code in (404, 410):
             print(f"  finnes ikke: {url}")
+            return None, None, []
+        if e.code == 403 and sti != AKTIV_START[0]:
+            print(f"  stengt (403), hoppes over: {url}")
             return None, None, []
         raise
     soup = BeautifulSoup(html, "lxml")
@@ -117,7 +157,7 @@ def les(sti: str) -> tuple:
         h = a["href"].split("#")[0].split("?")[0].removeprefix(BASE)
         if h.startswith("/") and h not in lenker:
             lenker.append(h)
-    md = re.split(r"\n#+ Kontakt\s*\n", nh.markdown(innhold))[0].rstrip()  # kontaktpersoner tas ikke med
+    md = re.split(r"\n#+ (?:Ta )?[Kk]ontakt[^\n]*\n", nh.markdown(innhold))[0].rstrip()  # kontaktpersoner tas ikke med
     return tittel, md, lenker
 
 
@@ -135,9 +175,11 @@ def kapitler(dok: dict, lenker: list) -> list:
 
 def les_dokument(dok: dict) -> tuple:
     """(tittel, forside, [(sti, tittel, markdown)])"""
+    AKTIV_START[0] = dok["start"]
     tittel, forside, lenker = les(dok["start"])
     if tittel is None:
         raise RuntimeError(f"startsiden finnes ikke: {dok['start']}")
+    tittel = dok.get("tittel", tittel)  # når overskriften på startsiden ikke er veilederens navn
     for liste in dok.get("lister", []):
         _, _, flere = les(dok["start"] + liste)
         lenker += [h for h in flere if h not in lenker]
@@ -202,7 +244,7 @@ def skriv_rundskriv(tekst: str, dato: str) -> str:
     tittel_full = f"{tittel} ({nr}, {d.group(1)})" if nr and d else tittel
     (mappe / "rundskrivet.md").write_text(
         f"{hode(tittel_full, RUNDSKRIV['side'], dato)}\n\n"
-        "> Rundskrivet er utgitt av departementet på regjeringen.no. Teksten her er Digdirs kopi i "
+        "> Rundskrivet er publisert på regjeringen.no. Teksten her er Digdirs kopi i "
         "GitHub-repoet digdir/nasjonal-arkitektur, fordi regjeringen.no ikke slipper til automatisk henting. "
         "Kontroller mot regjeringen.no ved tvil om ordlyden, og om det er kommet en nyere utgave.\n\n"
         + tekst.strip() + "\n", encoding="utf-8")
@@ -238,7 +280,9 @@ def skriv_oversikt(status: dict) -> None:
               "Veiledning om digitalisering i offentlig sektor fra Digitaliseringsdirektoratet (Digdir), og "
               "digitaliseringsrundskrivet. Veilederne er ikke lov eller forskrift. Rundskrivet gir pålegg til "
               "statlige virksomheter. Hver veileder har en mappe med `oversikt.md` og én fil per kapittel.", ""]
-    for gruppe in ["Digitaliseringsrundskrivet", "Felles arkitektur for samhandling"]:
+    for gruppe in ["Digitaliseringsrundskrivet", "Felles arkitektur for samhandling", "Informasjonssikkerhet",
+                   "Deling av data", "Informasjonsforvaltning", "Sammenhengende tjenester",
+                   "Åpen kildekode og EU-regelverk"]:
         if gruppe not in grupper:
             continue
         linjer += [f"## {gruppe}", "", "| Veileder | Sider | Hentet | Sti |", "|---|---|---|---|"]
