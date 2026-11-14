@@ -83,15 +83,18 @@ DOKUMENTER = [
      "utelat": r"/(referansekatalogen-it-standardar|hoyringar|gamle-versjonar|arkitektur-og-standardiseringsradet"
                r"|msp-og-internasjonalt|utgreiing-av-nye-krav|standardar)/"},
     {"mappe": "internkontroll-informasjonssikkerhet", "gruppe": "Informasjonssikkerhet",
+     "tittel": "Internkontroll i praksis – informasjonssikkerhet (versjon 2.0)",
      "start": "/informasjonssikkerhet/internkontroll-i-praksis-informasjonssikkerhet/2601", "dybde": 3,
      "folg": r"^/informasjonssikkerhet/[a-z0-9-]+/\d+$",
      "utelat": r"/(internkontroll-i-praksis-informasjonssikkerhet|nifs|nettverk|bli-medlem|sikkerhetsfestival|sikkerhetsmaned"
                r"|losepengevirus|svindel|na-far-du|framleis|lavere-tillit|informasjonssikkerhet/882)"},
     {"mappe": "deling-av-data-roller-og-ansvar", "gruppe": "Deling av data",
+     "tittel": "Fordeling av roller og ansvar når dere skal dele data",
      "start": "/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089",
      "ekstra": ["/datadeling/nar-gjelder-veilederen-om-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2090",
                 "/datadeling/roller-og-definisjoner/2088"]},
     {"mappe": "prinsipper-deling-av-data", "gruppe": "Deling av data",
+     "tittel": "Prinsipper for deling av data",
      "start": "/datadeling/om-prinsippene/2087",
      "ekstra": ["/datadeling/prinsipp-1-veiledning/2082", "/datadeling/prinsipp-2-spesifisering-og-vurdering/2083",
                 "/datadeling/prinsipp-3-samordning/2084", "/datadeling/prinsipp-4-standardisering/2085",
@@ -176,6 +179,7 @@ def les_dokument(dok: dict) -> tuple:
     tittel, forside, lenker = les(dok["start"])
     if tittel is None:
         raise RuntimeError(f"startsiden finnes ikke: {dok['start']}")
+    tittel = dok.get("tittel", tittel)  # når overskriften på startsiden ikke er veilederens navn
     for liste in dok.get("lister", []):
         _, _, flere = les(dok["start"] + liste)
         lenker += [h for h in flere if h not in lenker]
