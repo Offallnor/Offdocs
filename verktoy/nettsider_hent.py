@@ -288,7 +288,7 @@ def tekst(el) -> str:
             if not href or href.startswith("#") or href.startswith("javascript") or not innhold:
                 deler.append(tekst(barn))
             else:
-                href = BASE + href if href.startswith("/") else href
+                href = ("https:" + href if href.startswith("//") else BASE + href) if href.startswith("/") else href
                 deler.append(f"[{innhold}]({href})")
         elif barn.name in ("strong", "b"):
             t = tekst(barn).strip()

@@ -202,7 +202,7 @@ def skriv_rundskriv(tekst: str, dato: str) -> str:
     tittel_full = f"{tittel} ({nr}, {d.group(1)})" if nr and d else tittel
     (mappe / "rundskrivet.md").write_text(
         f"{hode(tittel_full, RUNDSKRIV['side'], dato)}\n\n"
-        "> Rundskrivet er utgitt av departementet på regjeringen.no. Teksten her er Digdirs kopi i "
+        "> Rundskrivet er publisert på regjeringen.no. Teksten her er Digdirs kopi i "
         "GitHub-repoet digdir/nasjonal-arkitektur, fordi regjeringen.no ikke slipper til automatisk henting. "
         "Kontroller mot regjeringen.no ved tvil om ordlyden, og om det er kommet en nyere utgave.\n\n"
         + tekst.strip() + "\n", encoding="utf-8")

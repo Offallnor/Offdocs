@@ -5,7 +5,7 @@ kilde: "https://github.com/digdir/nasjonal-arkitektur/blob/main/arkitekturassist
 hentet: "2026-11-14"
 ---
 
-> Rundskrivet er utgitt av departementet på regjeringen.no. Teksten her er Digdirs kopi i GitHub-repoet digdir/nasjonal-arkitektur, fordi regjeringen.no ikke slipper til automatisk henting. Kontroller mot regjeringen.no ved tvil om ordlyden, og om det er kommet en nyere utgave.
+> Rundskrivet er publisert på regjeringen.no. Teksten her er Digdirs kopi i GitHub-repoet digdir/nasjonal-arkitektur, fordi regjeringen.no ikke slipper til automatisk henting. Kontroller mot regjeringen.no ved tvil om ordlyden, og om det er kommet en nyere utgave.
 
 # Digitaliseringsrundskrivet
 
