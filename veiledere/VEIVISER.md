@@ -1,6 +1,6 @@
 # Veiledere – veiviser
 
-Denne mappen har veiledere og retningslinjer for arbeidet i departementene. Statsministerens kontor har gitt ut retningslinjene for saker til statsrådet og regjeringskonferansen, og Finansdepartementet har gitt ut veilederen i statlig budsjettarbeid. Veilederne er verken lov eller forskrift. Heftene er offentlige og ligger på regjeringen.no. De legges inn for hånd, fordi regjeringen.no ikke slipper til automatisk henting.
+Denne mappen har veiledere og retningslinjer for arbeidet i departementene. Statsministerens kontor har gitt ut retningslinjene for saker til statsrådet og regjeringskonferansen, og Finansdepartementet har gitt ut veilederen i statlig budsjettarbeid. Veilederne er verken lov eller forskrift. Heftene er offentlige og ligger på regjeringen.no. De legges inn for hånd, fordi regjeringen.no ikke slipper til automatisk henting. Digitaliseringsveilederne fra Digitaliseringsdirektoratet (Digdir) og digitaliseringsrundskrivet ligger i `veiledere/digitalisering/` og hentes automatisk hver uke, se eget avsnitt.
 
 ## Dokumenter
 
@@ -9,6 +9,7 @@ Denne mappen har veiledere og retningslinjer for arbeidet i departementene. Stat
 | Om Kongen i statsråd | Ajourført oktober 2026 | Statsministerens kontor | `veiledere/om-kongen-i-statsrad/` |
 | Om r-konferanser | Sist oppdatert 11. mars 2026 | Statsministerens kontor | `veiledere/om-r-konferanser/` |
 | Veileder i statlig budsjettarbeid | Juni 2023 | Finansdepartementet | `veiledere/statlig-budsjettarbeid/` |
+| Digitaliseringsrundskrivet og Felles arkitektur for samhandling | Hentes hver uke | Digitaliseringsdirektoratet (rundskrivet utgis på regjeringen.no) | `veiledere/digitalisering/` |
 
 Teksten er gjengitt ordrett fra PDF- og Word-utgavene, én fil per kapittel og én fil per vedlegg. Punktnumrene er beholdt, slik at svar kan vise til for eksempel «Om Kongen i statsråd punkt 12.4». Innholdsfortegnelsen og sidetallene er tatt ut. Eksemplene i vedleggene står i en tekstblokk med den opprinnelige oppstillingen.
 
@@ -89,6 +90,15 @@ Finansdepartementets veileder om statsbudsjettet. Del I (kapittel 1–2) handler
 | `vedlegg-2-r-110-fullmakter.md` | Rundskriv R-110 Fullmakter i henhold til bevilgningsreglementet, 20. juni 2023 |
 | `vedlegg-3-forvaltningsbedrifter.md` | Føring av driftsresultat, avskriving og renter i forvaltningsbedrifter |
 
+## Digitaliseringsveiledere
+
+Start i `veiledere/digitalisering/oversikt.md`. Den lister hver veileder med antall sider, dato for henting og stien til veilederens egen `oversikt.md`, som har startsiden og listen over kapitler.
+
+- **Digitaliseringsrundskrivet** (`digitaliseringsrundskrivet/`): sammenstilling av krav (pålegg) og anbefalinger om digitalisering til departementene og statlige virksomheter. Det er det eneste dokumentet her som pålegger noe. Rundskrivet er utgitt på regjeringen.no, men teksten er hentet fra Digdirs åpne kopi på GitHub (digdir/nasjonal-arkitektur), fordi regjeringen.no ikke slipper til automatisk henting. Si det i svaret når ordlyden betyr noe, og vis til regjeringen.no.
+- **Felles arkitektur for samhandling**: Digdirs samling under «Nasjonal arkitektur, standarder og informasjonsforvaltning» (`nasjonal-arkitektur/`). Den består av de overordnede arkitekturprinsippene (`arkitekturprinsipper/`, sju prinsipper med anbefalinger nummerert 1.1, 4.2 osv.), Rammeverk for digital samhandling (`rammeverk-digital-samhandling/`), Felles økosystem (`felles-okosystem/`), oversikten over krav og anbefalinger innen digitalisering (`krav-og-anbefalinger/`, én fil per krav eller anbefaling, med hvem den gjelder for og kilden) og Referansekatalogen for IT-standarder (`referansekatalogen/`).
+
+Hver fil har `kilde:` (adressen på digdir.no) og `hentet:` øverst. Lenk til kilden i svaret. Digdirs tekst er veiledning, ikke lov eller forskrift. Skill mellom det rundskrivet pålegger og det Digdir anbefaler: i `krav-og-anbefalinger/` står det for hver side om den er krav eller anbefaling for stat og kommune.
+
 ## Kjente feller
 
 - **Retningslinjer, ikke lov.** Heftene er retningslinjer fra Statsministerens kontor. «Om Kongen i statsråd» sier selv at avvik ikke i seg selv er en saksbehandlingsfeil. Si i svaret at det bygger på retningslinjene, og oppgi hefte, punkt og utgave. Bestemmelser i Grunnloven og andre lover som heftene viser til, slås opp i regelverket.
@@ -102,5 +112,7 @@ Finansdepartementets veileder om statsbudsjettet. Del I (kapittel 1–2) handler
 - **Bokmål.** Heftene er skrevet på bokmål. Vedlegg XIV har også eksempler på nynorsk. Siter ordrett.
 
 ## Ny utgave
+
+Digitaliseringsveilederne hentes hver tirsdag med `verktoy/digdir_hent.py` og går rett i main. Bare veiledere med endret tekst skrives på nytt (sjekksum i `veiledere/digitalisering.tsv`). Nye veiledere legges til i `DOKUMENTER` i skriptet.
 
 For heftene fra Statsministerens kontor åpner nattbygget en sak i GitHub når det er gått et år siden utgaven i basen. Budsjettveilederen kommer sjeldnere i ny utgave og har ingen påminnelse (`verktoy/politikk.py`, datoene står i `veiledere/dokumenter.json`). Når en ny utgave legges inn, erstattes filene i mappen, og `utgitt`, `utgave` og tabellen over oppdateres. Den forrige utgaven finnes i historikken til repoet.

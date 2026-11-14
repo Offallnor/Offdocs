@@ -64,7 +64,13 @@ DOKUMENTER = [
      "start": "/digital-samhandling/felles-okosystem/4165", "dybde": 2,
      "folg": r"^/digital-samhandling/(hva-er-felles-okosystem|innledning|modell-felles-okosystem|kart-tjenestekjeder"
              r"|arkitektur-hendelser-i-felles-okosystem|samspill-i-felles-okosystem|eksempler-pa-behov-og-scenarier"
-             r"|leseliste-og-kilder)/\d+$"},
+             r"|leseliste-og-kilder)/\d+$",
+     "ekstra": ["/digital-samhandling/innledning/4169", "/digital-samhandling/kart-tjenestekjeder/4168",
+                "/digital-samhandling/arkitektur-hendelser-i-felles-okosystem/4691",
+                "/digital-samhandling/arkitektur-hendelser-i-felles-okosystem/4692",
+                "/digital-samhandling/samspill-i-felles-okosystem/4693",
+                "/digital-samhandling/eksempler-pa-behov-og-scenarier/4694",
+                "/digital-samhandling/leseliste-og-kilder/4696"]},
     {"mappe": "krav-og-anbefalinger", "gruppe": "Felles arkitektur for samhandling",
      "start": "/digitalisering-og-samordning/oversikt-over-krav-og-anbefalinger-innenfor-digitalisering/2617",
      "lister": ["?page=1", "?page=2"],
@@ -111,7 +117,8 @@ def les(sti: str) -> tuple:
         h = a["href"].split("#")[0].split("?")[0].removeprefix(BASE)
         if h.startswith("/") and h not in lenker:
             lenker.append(h)
-    return tittel, nh.markdown(innhold), lenker
+    md = re.split(r"\n#+ Kontakt\s*\n", nh.markdown(innhold))[0].rstrip()  # kontaktpersoner tas ikke med
+    return tittel, md, lenker
 
 
 def kapitler(dok: dict, lenker: list) -> list:
