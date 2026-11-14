@@ -11,6 +11,15 @@ Tekst fra Direktoratet for forvaltning og økonomistyring (DFØ). Den er veiledn
 | Kontrakter og avtaler - samlet oversikt | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/kontrakter-og-avtaler-samlet-oversikt/oversikt.md` |
 | Kontraktsoppfølging og evaluering av leveransen | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/kontraktsoppfolging-og-evaluering-av-leveransen/oversikt.md` |
 | Sikkerhetsloven og offentlige anskaffelser | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/sikkerhetsloven-og-offentlige-anskaffelser/oversikt.md` |
+| SSA-B Bistandsavtalene: Bilag | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-b-bistandsavtalene-bilag/oversikt.md` |
+| SSA-B Bistandsavtalene: Enkel versjon | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-b-bistandsavtalene-enkel-versjon/oversikt.md` |
+| SSA-B Bistandsavtalene: Generell avtaletekst | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-b-bistandsavtalene-generell-avtaletekst/oversikt.md` |
+| SSA-F Forskningsavtalen: Bilag | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-f-forskningsavtalen-bilag/oversikt.md` |
+| SSA-F Forskningsavtalen: Generell avtaletekst | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-f-forskningsavtalen-generell-avtaletekst/oversikt.md` |
+| SSA-K Kjøpsavtalen: Bilag | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-k-kjopsavtalen-bilag/oversikt.md` |
+| SSA-K Kjøpsavtalen: Generell avtaletekst | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-k-kjopsavtalen-generell-avtaletekst/oversikt.md` |
+| SSA-O Oppdragsavtalen: Bilag | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-o-oppdragsavtalen-bilag/oversikt.md` |
+| SSA-O Oppdragsavtalen: Generell avtaletekst | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/ssa-o-oppdragsavtalen-generell-avtaletekst/oversikt.md` |
 | Statens standardavtaler (SSA) | 7 | `regelverk/anskaffelsesloven/rundskriv/dfo/statens-standardavtaler-ssa/oversikt.md` |
 | Taushetsplikt og offentlige anskaffelser | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/taushetsplikt-og-offentlige-anskaffelser/oversikt.md` |
 | Terskelverdier for offentlige anskaffelser | 1 | `regelverk/anskaffelsesloven/rundskriv/dfo/terskelverdier-offentlige-anskaffelser/oversikt.md` |
