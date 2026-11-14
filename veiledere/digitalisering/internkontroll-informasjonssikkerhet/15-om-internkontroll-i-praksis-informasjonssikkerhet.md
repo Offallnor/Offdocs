@@ -98,11 +98,3 @@ En [oppsummering av lisensen](https://creativecommons.org/licenses/by/4.0/deed.n
 Forvaltningsorganer for stat eller kommune trenger ikke å navngi Digitaliseringsdirektoratet i sin bruk av veiledningsmateriellet. Dette inkluderer bruk av maler, eksempler og støtteverktøy.
 
 ## Innspill eller tilbakemeldinger?
-
-## Ta kontakt
-
-### Kompetansemiljø for informasjonssikkerhet
-
-E-post:
-
-infosikkerhet@digdir.no

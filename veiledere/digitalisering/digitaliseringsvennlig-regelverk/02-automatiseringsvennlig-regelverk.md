@@ -142,11 +142,3 @@ Endret ved forskrift 24 mars 2021 nr. 1028 (i kraft 15 april 2021 med virkning f
 § 3 i forskriften på Lånekassens nettsider
 
 Til hovedsiden for veileder for digitaliseringsvennlig regelverk
-
-## Ta kontakt om du har spørsmål
-
-### Nasjonalt ressurssenter for deling av data
-
-E-post:
-
-ressurssenteret@digdir.no

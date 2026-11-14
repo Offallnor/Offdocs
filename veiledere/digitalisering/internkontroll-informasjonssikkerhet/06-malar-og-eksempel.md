@@ -76,13 +76,3 @@ Sist endra: 03. januar 2024
 
 | [STØTTE] Støttespørsmål til virksomhetsledelsens gjennomgang (docx) | [Bokmål](https://www.digdir.no/media/2586/download?attachment) | [Nynorsk](https://www.digdir.no/media/2587/download?attachment) |
 |---|---|---|
-
-## Ta kontakt
-
-## Har du innspel eller tilbakemeldingar?
-
-### Kompetansemiljø for informasjonssikkerhet
-
-E-post:
-
-infosikkerhet@digdir.no

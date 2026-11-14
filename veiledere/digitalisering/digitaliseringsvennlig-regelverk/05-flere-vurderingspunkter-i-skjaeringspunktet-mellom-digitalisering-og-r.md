@@ -120,17 +120,3 @@ Dersom dere ønsker å lese mer om problemstillingene over og andre tilknyttede 
 - Yeung K (2019). Why Worry About Decision-Making by Machine? In: K Yeung, M Lodge (eds) *Algorithmic Regulation*, pp. 21–48. Oxford University Press, Oxford.
 
 Til hovedsiden for veileder for digitaliseringsvennlig regelverk
-
-## Ta kontakt om du har spørsmål
-
-### Astrid Solhaug
-
-Fagdirektør, Digitaliseringsdirektoratet
-
-E-post:
-
-astrid.solhaug@digdir.no
-
-Telefon:
-
-40 41 06 73

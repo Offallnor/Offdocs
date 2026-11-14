@@ -91,17 +91,3 @@ Før dere eventuelt følger anbefalingene nedenfor, har dere vurdert om regelver
 Les mer om hvordan man lager automatiseringsvennlig regelverk.
 
 Til hovedsiden for veileder for digitaliseringsvennlig regelverk
-
-## Ta kontakt om du har spørsmål
-
-### Astrid Solhaug
-
-Fagdirektør, Digitaliseringsdirektoratet
-
-E-post:
-
-astrid.solhaug@digdir.no
-
-Telefon:
-
-40 41 06 73

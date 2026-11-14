@@ -291,11 +291,3 @@ Når det gjelder brann, så er det brann- og eksplosjonsloven som regulerer bran
 Til hovedsiden for veileder for digitaliseringsvennlig regelverk
 
 Videre til steg 2: automatiseringsvennlig regelverk
-
-## Ta kontakt om du har spørsmål
-
-### Nasjonalt ressurssenter for deling av data
-
-E-post:
-
-ressurssenteret@digdir.no
