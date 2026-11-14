@@ -326,6 +326,30 @@
         {
           "dokument": "/verktoy/veiledere/kontraktsoppfolging-og-evaluering-av-leveransen/",
           "lov": "anskaffelsesloven"
+        },
+        {
+          "pdf_fra": "/verktoy/mal/ssa-f-forskningsavtalen",
+          "monster": "^(?!.*[-_](en|eng|nn|nyn)\\.docx$).*\\.docx$",
+          "tittel": "SSA-F Forskningsavtalen",
+          "lov": "anskaffelsesloven"
+        },
+        {
+          "pdf_fra": "/verktoy/mal/ssa-o-oppdragsavtalen",
+          "monster": "^(?!.*[-_](en|eng|nn|nyn)\\.docx$).*\\.docx$",
+          "tittel": "SSA-O Oppdragsavtalen",
+          "lov": "anskaffelsesloven"
+        },
+        {
+          "pdf_fra": "/verktoy/mal/ssa-b-og-ssa-b-enkel-bistandsavtalene",
+          "monster": "^(?!.*[-_](en|eng|nn|nyn)\\.docx$).*\\.docx$",
+          "tittel": "SSA-B Bistandsavtalene",
+          "lov": "anskaffelsesloven"
+        },
+        {
+          "pdf_fra": "/verktoy/mal/ssa-k-kjopsavtalen",
+          "monster": "^(?!.*[-_](en|eng|nn|nyn)\\.docx$).*\\.docx$",
+          "tittel": "SSA-K Kjøpsavtalen",
+          "lov": "anskaffelsesloven"
         }
       ],
       "utelat": "/lov-og-forskrifter/"

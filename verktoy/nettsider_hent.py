@@ -15,8 +15,8 @@ Et dokument er en side med undersider, f.eks. et rundskriv med ett kapittel per 
    hentes alle sidene hver gang. Teksten sammenlignes med sjekksum (regelverk/nettsider.tsv),
    og et dokument skrives bare når teksten faktisk er endret.
    Et dokument kan også være en PDF: "pdf_fra" er siden med lenkene, "monster" et regulært uttrykk
-   for adressene. Teksten hentes ut med pdftotext (poppler-utils), og mappen får navn etter
-   lenketeksten, så en ny utgave med nytt filnavn havner i samme mappe.
+   for adressene. Teksten hentes ut med pdftotext (poppler-utils), eller med pandoc når lenken er en
+   Word-fil (.docx), og mappen får navn etter lenketeksten (eller etter "tittel" og filnavnet), så en ny utgave med nytt filnavn havner i samme mappe.
 3. Hvert dokument legges i regelverk/<lov>/rundskriv/<kilde>/<dokument>/ med én fil per
    underside og oversikt.md. Dokumenter som er borte fra nettstedet, slettes.
 
@@ -38,6 +38,7 @@ import tempfile
 import time
 import traceback
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -205,6 +206,8 @@ def dokumenter(kilde: dict) -> dict:
 
 # PDF-sti -> lenketekst, fylt av pdfer(). Lenketeksten gir tittel og mappenavn.
 PDF_TITLER = {}
+# Navn på delene av en avtale når tittelen lages av filnavnet (se "tittel" i pdfer()).
+DELNAVN = {"generell avtaletekst": "Generell avtaletekst", "bilag": "Bilag", "enkel": "Enkel versjon"}
 
 
 def pdfer(kilde: dict, d: dict) -> dict:
@@ -216,7 +219,16 @@ def pdfer(kilde: dict, d: dict) -> dict:
         if not sti.startswith("/") or not re.search(d["monster"], sti):
             continue
         tekst = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
-        tekst = re.sub(r"\s*\((?:pdf|PDF)[^)]*\)\s*$|\s*\bPDF\b.*$", "", tekst).strip(" -–")
+        tekst = re.sub(r"\s*\((?:pdf|PDF|docx|DOCX)[^)]*\)\s*$|\s*\b(?:PDF|DOCX)\b.*$", "", tekst).strip(" -–")
+        if "tittel" in d:
+            # Lenketeksten er ofte lik for flere dokumenter (f.eks. «Bilag»). Tittelen lages da av
+            # dokumentnavnet i "tittel" og filnavnet uten år og språk, så mappen beholder navnet
+            # når en ny utgave får nytt filnavn.
+            stamme = urllib.parse.unquote(sti.rsplit("/", 1)[-1].rsplit(".", 1)[0]).lower()
+            stamme = re.sub(r"^[a-z]+-[a-z]+[_-]", "", stamme)
+            stamme = re.sub(r"[-_]?(?:19|20)\d{2}|[-_](?:bok|nb)$", "", stamme)
+            del_ = DELNAVN.get(re.sub(r"[-_]+", " ", stamme).strip(), re.sub(r"[-_]+", " ", stamme).strip().capitalize())
+            tekst = f"{d['tittel']}: {del_}"
         PDF_TITLER[sti] = tekst or sti.rsplit("/", 1)[-1].rsplit(".", 1)[0]
         ut[(sti, d["lov"])] = {"": ""}
     if not ut:
@@ -224,11 +236,25 @@ def pdfer(kilde: dict, d: dict) -> dict:
     return ut
 
 
+def docx_tekst(data: bytes) -> str:
+    """Teksten i en Word-fil som markdown, med pandoc. Bilder og sporede endringer tas ikke med."""
+    with tempfile.NamedTemporaryFile(suffix=".docx") as f:
+        f.write(data)
+        f.flush()
+        md = subprocess.run(["pandoc", "-f", "docx", "-t", "gfm", "--wrap=none", "--track-changes=accept", f.name],
+                            capture_output=True, check=True).stdout.decode("utf-8", "replace")
+    md = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", md)          # bilder
+    md = re.sub(r"<!-- -->\n?", "", md)
+    return re.sub(r"\n{3,}", "\n\n", md).strip()
+
+
 def pdf_tekst(url: str) -> str:
     """Teksten i en PDF som markdown-avsnitt: linjer i samme avsnitt slås sammen, sidetall fjernes."""
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=120) as r:
         data = r.read()
     time.sleep(PAUSE)
+    if url.lower().endswith(".docx"):
+        return docx_tekst(data)
     with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
         f.write(data)
         f.flush()
