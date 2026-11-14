@@ -24,6 +24,7 @@ Veiledning om digitalisering i offentlig sektor fra Digitaliseringsdirektoratet 
 | Veileder | Sider | Hentet | Sti |
 |---|---|---|---|
 | Internkontroll i praksis – informasjonssikkerhet (versjon 2.0) | 66 | 2026-11-14 | `veiledere/digitalisering/internkontroll-informasjonssikkerhet/oversikt.md` |
+| Hvordan bruke skytjenester etter Schrems II | 19 | 2026-11-14 | `veiledere/digitalisering/skytjenester-schrems-ii/oversikt.md` |
 
 ## Deling av data
 
