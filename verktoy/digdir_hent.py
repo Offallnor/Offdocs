@@ -209,7 +209,8 @@ def les_dokument(dok: dict) -> tuple:
 
 
 def filnavn(nr: int, sti: str) -> str:
-    slug = sti.rstrip("/").split("/")[-2]
+    deler = sti.rstrip("/").split("/")
+    slug = deler[-2] if deler[-1].isdigit() else deler[-1]  # digdir.no har id sist, andre nettsteder ikke
     return f"{nr:02d}-{re.sub(r'[^0-9a-z]+', '-', slug.lower()).strip('-')[:70]}.md"
 
 
