@@ -96,6 +96,13 @@ Start i `veiledere/digitalisering/oversikt.md`. Den lister hver veileder med ant
 
 - **Digitaliseringsrundskrivet** (`digitaliseringsrundskrivet/`): sammenstilling av krav (pålegg) og anbefalinger om digitalisering til departementene og statlige virksomheter. Det er det eneste dokumentet her som pålegger noe. Rundskrivet er utgitt på regjeringen.no, men teksten er hentet fra Digdirs åpne kopi på GitHub (digdir/nasjonal-arkitektur), fordi regjeringen.no ikke slipper til automatisk henting. Si det i svaret når ordlyden betyr noe, og vis til regjeringen.no.
 - **Felles arkitektur for samhandling**: Digdirs samling under «Nasjonal arkitektur, standarder og informasjonsforvaltning» (startsiden i `veiledere/digitalisering/nasjonal-arkitektur/`). Delene ligger i egne mapper ved siden av, direkte under `veiledere/digitalisering/`: de overordnede arkitekturprinsippene (`arkitekturprinsipper/`, sju prinsipper med anbefalinger nummerert 1.1, 4.2 osv.), Rammeverk for digital samhandling (`rammeverk-digital-samhandling/`), Felles økosystem (`felles-okosystem/`), oversikten over krav og anbefalinger innen digitalisering (`krav-og-anbefalinger/`, én fil per krav eller anbefaling, med hvem den gjelder for og kilden) og Referansekatalogen for IT-standarder (`referansekatalogen/`).
+- **Informasjonssikkerhet**: Internkontroll i praksis – informasjonssikkerhet (`internkontroll-informasjonssikkerhet/`), Digdirs veiledning om styringssystem, risikovurdering, tiltak og etapper for å innføre internkontroll. Rundskrivet punkt 1.5 viser til den.
+- **Deling av data**: veilederen om fordeling av roller og ansvar når dere skal dele data (`deling-av-data-roller-og-ansvar/`), prinsippene for deling av data med juridiske krav (`prinsipper-deling-av-data/`) og veilederen for digitaliseringsvennlig regelverk, med sjekkliste og automatisering (`digitaliseringsvennlig-regelverk/`).
+- **Informasjonsforvaltning**: Orden i eget hus, sju steg for å få oversikt over og beskrive egne data (`orden-i-eget-hus/`).
+- **Sammenhengende tjenester**: veiledning om styring og organisering av samarbeid på tvers av virksomheter (`sammenhengende-tjenester/`).
+- **Åpen kildekode og EU-regelverk**: veileder om åpen kildekode i offentlig sektor (`apen-kildekode/`) og juridisk veiledning til kommende EU-regelverk (`juridisk-veiledning-eu-regelverk/`).
+
+Alle mappene ligger direkte under `veiledere/digitalisering/`.
 
 Hver fil har `kilde:` (adressen på digdir.no) og `hentet:` øverst. Lenk til kilden i svaret. Digdirs tekst er veiledning, ikke lov eller forskrift. Skill mellom det rundskrivet pålegger og det Digdir anbefaler: i `krav-og-anbefalinger/` står det for hver side om den er krav eller anbefaling for stat og kommune.
 

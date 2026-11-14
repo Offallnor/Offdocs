@@ -154,7 +154,7 @@ def les(sti: str) -> tuple:
         h = a["href"].split("#")[0].split("?")[0].removeprefix(BASE)
         if h.startswith("/") and h not in lenker:
             lenker.append(h)
-    md = re.split(r"\n#+ Kontakt\s*\n", nh.markdown(innhold))[0].rstrip()  # kontaktpersoner tas ikke med
+    md = re.split(r"\n#+ (?:Ta )?[Kk]ontakt[^\n]*\n", nh.markdown(innhold))[0].rstrip()  # kontaktpersoner tas ikke med
     return tittel, md, lenker
 
 
