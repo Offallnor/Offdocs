@@ -7,6 +7,7 @@ Regelverket, budsjettet og statistikken i skillene er et utvalg, ikke alt som fi
 | Skill | Hva den gjør | Hvem |
 |---|---|---|
 | `felles-regelverk` | Gir svar med utgangspunkt i en katalog med lover, forskrifter og rundskriv, hovedtariffavtalen i staten, relevante EU-rettsakter, Stortingets saker (dok 8, interpellasjoner, spørsmål mv.), Regjeringens plan for Norge og veilederne Om Kongen i statsråd og Om r-konferanser | Alle |
+| `felles-dokumenter` | Gir svar fra NOU-er, stortingsmeldinger, lovproposisjoner, strategier og tildelingsbrev på utdannings-, arbeids- og velferdsområdet | Alle |
 | `felles-budsjett` | Gir svar om bevilgninger, Prop. 1 S, Gul bok og Nasjonalbudsjettet, og om budsjettprosessen og bevilgningsreglementet | Alle |
 | `felles-data` | Gir svar om statistikk fra SSB, Nav, Eurostat og OECD, og hjelper med analyser og skript i microdata.no | Alle |
 | `felles-sprak` | Skriveregler, nynorsk og oversetting | Alle |

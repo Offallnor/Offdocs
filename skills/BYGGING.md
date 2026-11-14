@@ -14,7 +14,7 @@ Håndbok for redaktøren av de felles skillene. Skillen `felles-skillbygger` er 
 | Innhold | Base |
 |---|---|
 | Lov, forskrift, rundskriv, tariffavtale, EU-rettsakter, Stortinget, statsbudsjettet, statistikkatalogen, veiledere, politiske dokumenter, skriveregler | `Offallnor/offdocs` |
-| NOU-er, meldinger, proposisjoner, strategier og tildelingsbrev på utdannings-, arbeids- og velferdsområdet | `Offallnor/offdocsfor`, nås via `CLAUDE.md` i offdocs |
+| NOU-er, meldinger, proposisjoner, strategier og tildelingsbrev på utdannings-, arbeids- og velferdsområdet | `Offallnor/offdocsfor`, nås via skillen `felles-dokumenter` og via `CLAUDE.md` i offdocs |
 | Dokumenter om politiet og forvaltningen rundt politiet | `Offallnor/offdocspol`, med egen skill |
 | Forskningssvar, kildekataloger og forskningsløypa | `Offallnor/forskning`, med fulltekst i det private `Offallnor/forskning-tekst` |
 
@@ -22,7 +22,7 @@ Alle basene er åpne. Bare innhold som allerede er offentlig eller kan offentlig
 
 ## Mønster for en peker-skill
 
-`felles-regelverk`, `felles-data`, `felles-budsjett` og `felles-sprak` har samme oppbygning. Bruk den:
+`felles-regelverk`, `felles-dokumenter`, `felles-data`, `felles-budsjett` og `felles-sprak` har samme oppbygning. Bruk den:
 
 1. **Description:** bred på tema og hverdagsspråk. Avslutt med «Last den før du svarer, og svar ikke fra hukommelsen.»
 2. **Brødtekst:** si at innholdet ikke ligger i skillen, men hentes ved hvert oppslag.

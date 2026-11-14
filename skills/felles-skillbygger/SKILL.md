@@ -5,7 +5,7 @@ description: "Companion-skill til skill-creator for de felles skillene. Trigges 
 
 # Skill-bygging for de felles skillene
 
-**Versjon 2026-11-14.** Hent også `https://raw.githubusercontent.com/Offallnor/offdocs/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
+**Versjon 2026-11-14.2.** Hent også `https://raw.githubusercontent.com/Offallnor/offdocs/main/SKILLVERSJONER.md`. Står det en nyere versjon for denne skillen der, avslutt svaret med en skillelinje og denne linjen, etter eventuelle kilder: «**Ny versjon:** Det finnes nyere versjoner av de felles skillene. Si "oppdater skillene" for å få dem.» Si det bare én gang i samtalen. Feiler hentingen, la det være.
 
 Companion-skill til skill-creator for alle som vil lage en egen skill på jobb. Den dekker om noe bør bli en skill i det hele tatt, sensitivitet, testing, lagring og hvordan en skill sendes til vurdering som felles skill. Mange brukere er nye i KI, så forklar valgene i vanlig språk, ikke bare utfallet.
 
@@ -37,7 +37,7 @@ Svar på dette før noe bygges. Det er det viktigste valget.
 **Listen over skills har et tak.** I en test med 62 installerte skills ble bare rundt 30 descriptions vist til modellen. Hver ny skill konkurrerer med de andre om å bli sett.
 
 **Derfor:**
-- **Sjekk de felles skillene først.** Gjelder det lov og forskrift, Stortinget, utredninger og meldinger, statistikk, statsbudsjettet eller skriveregler, finnes det allerede en felles skill: `felles-regelverk`, `felles-data`, `felles-budsjett` eller `felles-sprak`. Mangler det innhold der, er det bedre å be om at det legges inn i basen enn å lage en ny skill (se «Send skillen til vurdering»).
+- **Sjekk de felles skillene først.** Gjelder det lov og forskrift, Stortinget, utredninger og meldinger, statistikk, statsbudsjettet eller skriveregler, finnes det allerede en felles skill: `felles-regelverk`, `felles-dokumenter`, `felles-data`, `felles-budsjett` eller `felles-sprak`. Mangler det innhold der, er det bedre å be om at det legges inn i basen enn å lage en ny skill (se «Send skillen til vurdering»).
 - **Temaet er hovedaksen.** Skills følger fagområde, ikke avdeling. Behov som gjelder én avdeling, hører hjemme under temaet, og skillen er felles.
 - **En ny skill lages bare når spørsmålene trenger egen trigging**, altså når de ellers ikke ville nådd riktig innhold, eller når skillen gir en arbeidsmåte som ikke finnes fra før.
 
