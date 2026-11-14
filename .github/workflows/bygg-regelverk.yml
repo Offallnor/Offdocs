@@ -36,13 +36,6 @@ jobs:
       - name: Bygg fra Lovdatas åpne datasett og EUR-Lex
         run: python3 verktoy/bygg.py
 
-      - name: MIDLERTIDIG finn økonomireglementet
-        if: always()
-        continue-on-error: true
-        run: |
-          for f in $(grep -rlE "<title>(Reglement for økonomistyring|Bestemmelser om økonomistyring)" .lovdata); do echo "$f"; grep -oE 'class="legacyID"[^>]*>[^<]+' "$f" | head -1; grep -o "<title>[^<]*" "$f" | head -1; wc -c < "$f"; done
-          ls .lovdata/*/ | grep 20031212
-
       # Bare til loggen: forskrifter med hjemmel i lovene som ikke er tatt med.
       - name: Forskrifter med hjemmel i lovene som ikke er med
         if: github.event_name == 'push' && !cancelled()

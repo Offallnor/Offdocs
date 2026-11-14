@@ -2112,6 +2112,26 @@
         "KOFA"
       ],
       "fagomrade": "anskaffelser"
+    },
+    {
+      "mappe": "regelverk/okonomiregelverket",
+      "navn": "Økonomiregelverket",
+      "lov": "FOR-2003-12-12-1938",
+      "forskrifter": [
+        {
+          "id": "FOR-2003-12-12-1939",
+          "slug": "bestemmelser",
+          "navn": "Bestemmelser om økonomistyring i staten"
+        }
+      ],
+      "alias": [
+        "økonomiregelverket",
+        "reglement for økonomistyring i staten",
+        "økonomireglementet",
+        "bestemmelser om økonomistyring i staten",
+        "R-ØS"
+      ],
+      "fagomrade": "anskaffelser"
     }
   ],
   "avtaler": [
