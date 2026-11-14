@@ -38,11 +38,3 @@ Begrunnelsen for prinsippet er at det vil gi økt balanse mellom effektiv og bru
 [Nasjonal arkitektur og digital samhandling](https://www.digdir.no/2150) (Digitaliseringsdirektoratet)
 
 [Digital agenda for Norge](https://www.regjeringen.no/no/dokumenter/meld.-st.-27-20152016/id2483795/) (Regjeringen)
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no

@@ -71,11 +71,3 @@ Kunnskapsgrunnlaget må fortelle hva denne endringen består i, hvilke effekter 
 ## Nyttig informasjon
 
 - [EU Interoperability Assessment Process](https://interoperable-europe.ec.europa.eu/collection/assessments/assessment-guidelines)
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no

@@ -48,11 +48,3 @@ Begrunnelsen for prinsippet er at deling og gjenbruk fremmer samhandlingsevne, i
 [Strategiske prinsipper for bruk og utvikling av nasjonale felleskomponenter](https://www.regjeringen.no/contentassets/fe3e34b866034b82b9c623c5cec39823/no/pdfs/stm201520160027000dddpdfs.pdf#page=73.16) (Regjeringen, Digital agenda kap.11.1)
 
 [Veileder om åpen kildekode i offentlig sektor](https://www.digdir.no/digitalisering-og-samordning/veileder-om-apen-kildekode-i-offentlig-sektor/8461) (Digitaliseringsdirektoratet)
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no

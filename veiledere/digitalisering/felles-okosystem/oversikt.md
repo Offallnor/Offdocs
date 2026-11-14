@@ -34,3 +34,10 @@ Ett viktig mål for felles økosystem er å gjøre det mulig å lage sammenhenge
 
 - Hva er felles økosystem? – `01-hva-er-felles-okosystem.md`
 - Modell for felles økosystem – `02-modell-felles-okosystem.md`
+- Innledning – `03-innledning.md`
+- Kart for tjenestekjeder – `04-kart-tjenestekjeder.md`
+- Arkitektur for hendelser i felles økosystem – `05-arkitektur-hendelser-i-felles-okosystem.md`
+- Arkitektur for hendelser i felles økosystem – `06-arkitektur-hendelser-i-felles-okosystem.md`
+- Samspill i felles økosystem – `07-samspill-i-felles-okosystem.md`
+- Eksempler på behov og scenarier – `08-eksempler-pa-behov-og-scenarier.md`
+- Leseliste og kilder – `09-leseliste-og-kilder.md`

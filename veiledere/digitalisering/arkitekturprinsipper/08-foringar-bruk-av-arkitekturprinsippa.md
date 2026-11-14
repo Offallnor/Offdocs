@@ -42,15 +42,3 @@ Anbefalingane består delvis av eksisterande føringar og krav, til dømes gitt 
 ## Forvaltingsmodell
 
 I forvaltinga av prinsippa vil Digitaliseringsdirektoratet forankre endringar i Arkitektur- og standardiseringsrådet. Ved endringar i prinsippa vil prinsippgruppa få nytt versjonsnummer og verte kommentert under endringshistorikk. Ved endringar som vert sett som vesentlege vil det gjennomførast offentleg høyring og endringa vil verte lagt fram for KMD. Reint tekstlege korrigeringar vil ikkje føre til nytt versjonsnummer.
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no
-
-## Les også blogginnlegg
-
-Arkitekturprinsippene bidrar til bedre digitale løsninger

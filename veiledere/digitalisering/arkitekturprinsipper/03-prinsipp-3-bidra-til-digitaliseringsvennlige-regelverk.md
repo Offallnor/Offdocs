@@ -38,11 +38,3 @@ Begrunnelsen for prinsippet er at digitaliseringsvennlige regelverk er en foruts
 [Utredningsinstruksen](https://www.regjeringen.no/no/dokumenter/utredningsinstruksen/id3060944/) (Regjeringen)
 
 [Nasjonalt ressurssenter for deling av data](https://www.digdir.no/1914) (Digitaliseringsdirektoratet)
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no

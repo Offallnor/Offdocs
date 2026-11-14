@@ -52,11 +52,3 @@ Begrunnelsen for prinsippet er at alle brukerne får et enklere møte med offent
 [Klart språk i digitale tjenester](https://www.digdir.no/klart-sprak/rettleiar-om-klarsprak-i-utvikling-av-digitale-tenester/3564) (Digitaliseringsdirektoratet)
 
 [Skriveråd for klarspråk](https://sprakradet.no/klarsprak/om-skriving/generelle-skriverad-nynorsk/) (Språkrådet)
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no

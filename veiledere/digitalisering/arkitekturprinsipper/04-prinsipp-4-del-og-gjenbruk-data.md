@@ -54,11 +54,3 @@ Deling av data vil også kunne føre til bedre datakvalitet, da flere kan oppdag
 [Referansearkitekturer for datautveksling](https://www.digdir.no/2131) (Digitaliseringsdirektoratet)
 
 [Nasjonal verktøykasse for deling av data](https://www.digdir.no/apne-data/nasjonal-verktoykasse-deling-av-data/2243) (Digitaliseringsdirektoratet)
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no

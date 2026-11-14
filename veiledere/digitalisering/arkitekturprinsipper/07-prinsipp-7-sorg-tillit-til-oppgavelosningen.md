@@ -48,11 +48,3 @@ Begrunnelsen for prinsippet er at tillit til offentlig oppgaveløsning er en for
 [Råd og anbefalinger innenfor digital sikkerhet](https://nsm.no/fagomrader/digital-sikkerhet/rad-og-anbefalinger-innenfor-digital-sikkerhet/)(NSM)
 
 [Veileder til eForvaltningsforskriften](https://www.regjeringen.no/no/dokumenter/veileder-til-eforvaltningsforskriften/id2425012/) (Regjeringen)
-
-## Kontakt
-
-### Nasjonal arkitektur
-
-E-post:
-
-nasjonalarkitektur@digdir.no
