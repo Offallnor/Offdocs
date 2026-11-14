@@ -101,6 +101,7 @@ Start i `veiledere/digitalisering/oversikt.md`. Den lister hver veileder med ant
 - **Informasjonsforvaltning**: Orden i eget hus, sju steg for å få oversikt over og beskrive egne data (`orden-i-eget-hus/`).
 - **Sammenhengende tjenester**: veiledning om styring og organisering av samarbeid på tvers av virksomheter (`sammenhengende-tjenester/`).
 - **Åpen kildekode og EU-regelverk**: veileder om åpen kildekode i offentlig sektor (`apen-kildekode/`) og juridisk veiledning til kommende EU-regelverk (`juridisk-veiledning-eu-regelverk/`).
+- **Kunstig intelligens**: KI Norges veiledning (`ki-veiledning/`), fra ki.norge.no, som Digitaliseringsdirektoratet driver. Den dekker hvordan man kommer i gang med KI (behov, risiko, lovverk, anskaffelse, test og drift), KI-klare data, personvern og KI, KI-forordningen («KI-loven»), etikk, standarder og hvordan en språkmodell virker. Rundskrivet punkt 1.3 har kravene om KI.
 
 Alle mappene ligger direkte under `veiledere/digitalisering/`.
 
