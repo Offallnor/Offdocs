@@ -45,7 +45,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- IMDis veiledere og rundskriv (22 filer) – `rundskriv/imdi/`
+- IMDis veiledere og rundskriv (23 filer) – start med `rundskriv/imdi/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -322,6 +322,7 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/imdi/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a2/` – 1 filer, start med `rundskriv/imdi/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a2/oversikt.md`
+- `rundskriv/imdi/` – 1 filer, start med `rundskriv/imdi/oversikt.md`
 - `rundskriv/imdi/regelverk-kvalifisering/` – 4 filer, start med `rundskriv/imdi/regelverk-kvalifisering/oversikt.md`
 - `rundskriv/imdi/regler-for-planlegging-og-gjennomforing-av-introduksjonsprogrammet/` – 2 filer, start med `rundskriv/imdi/regler-for-planlegging-og-gjennomforing-av-introduksjonsprogrammet/oversikt.md`
 - `rundskriv/imdi/veileder-til-integreringsloven/` – 15 filer, start med `rundskriv/imdi/veileder-til-integreringsloven/oversikt.md`

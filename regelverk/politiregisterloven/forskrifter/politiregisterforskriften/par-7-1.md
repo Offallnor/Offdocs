@@ -1,0 +1,13 @@
+# § 7-1. Generelt
+
+**Kilde:** Forskrift om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterforskriften) § 7-1
+
+**1. ledd**
+
+Bestemmelsene i dette kapittelet gjelder med mindre noe annet fremgår av bestemmelsene til registrene i forskriften del 11 eller i forskriften del 12 om militærpolitiets behandling av opplysninger.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved forskrift 17 sep 2021 nr. 2776 .

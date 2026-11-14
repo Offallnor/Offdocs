@@ -38,7 +38,7 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 - Høyesteretts avgjørelser fra november 2021 (rettspraksis) (3 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Sivilombudets uttalelser (81 filer) – start med `rundskriv/sivilombudet/oversikt.md`
-- Utdanningsdirektoratets rundskriv og veiledere (263 filer) – `rundskriv/udir/`
+- Utdanningsdirektoratets rundskriv og veiledere (264 filer) – start med `rundskriv/udir/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -156,6 +156,7 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/udir/opplaringssprak-og-talemal-i-skolen/` – 1 filer, start med `rundskriv/udir/opplaringssprak-og-talemal-i-skolen/oversikt.md`
 - `rundskriv/udir/ord-og-omgrep/` – 1 filer, start med `rundskriv/udir/ord-og-omgrep/oversikt.md`
 - `rundskriv/udir/organisering-av-opplaringen/` – 1 filer, start med `rundskriv/udir/organisering-av-opplaringen/oversikt.md`
+- `rundskriv/udir/` – 1 filer, start med `rundskriv/udir/oversikt.md`
 - `rundskriv/udir/palagt-skolebytte/` – 6 filer, start med `rundskriv/udir/palagt-skolebytte/oversikt.md`
 - `rundskriv/udir/periodisering-opplaringen/` – 1 filer, start med `rundskriv/udir/periodisering-opplaringen/oversikt.md`
 - `rundskriv/udir/plikt-til-a-folge-opp-fravar/` – 1 filer, start med `rundskriv/udir/plikt-til-a-folge-opp-fravar/oversikt.md`

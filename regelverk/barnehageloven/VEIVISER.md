@@ -40,7 +40,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
 - Sivilombudets uttalelser (12 filer) – start med `rundskriv/sivilombudet/oversikt.md`
-- Utdanningsdirektoratets rundskriv og veiledere (41 filer) – `rundskriv/udir/`
+- Utdanningsdirektoratets rundskriv og veiledere (42 filer) – start med `rundskriv/udir/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -392,6 +392,7 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/udir/kommunens-rolle-som-barnehagemyndighet/` – 10 filer, start med `rundskriv/udir/kommunens-rolle-som-barnehagemyndighet/oversikt.md`
 - `rundskriv/udir/mal-for-tiltaksplan-barnehage/` – 1 filer, start med `rundskriv/udir/mal-for-tiltaksplan-barnehage/oversikt.md`
 - `rundskriv/udir/meldeplikt-for-private-barnehager/` – 1 filer, start med `rundskriv/udir/meldeplikt-for-private-barnehager/oversikt.md`
+- `rundskriv/udir/` – 1 filer, start med `rundskriv/udir/oversikt.md`
 - `rundskriv/udir/regelverk-for-nyankomne-barn-under-skolealder/` – 1 filer, start med `rundskriv/udir/regelverk-for-nyankomne-barn-under-skolealder/oversikt.md`
 - `rundskriv/udir/rettigheter-for-barn-under-opplaringspliktig-alder-med-nedsatt-horsel/` – 1 filer, start med `rundskriv/udir/rettigheter-for-barn-under-opplaringspliktig-alder-med-nedsatt-horsel/oversikt.md`
 - `rundskriv/udir/rundskriv-og-veiledere/` – 1 filer, start med `rundskriv/udir/rundskriv-og-veiledere/oversikt.md`

@@ -34,7 +34,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- IMDis veiledere og rundskriv (5 filer) – `rundskriv/imdi/`
+- IMDis veiledere og rundskriv (6 filer) – start med `rundskriv/imdi/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -127,5 +127,6 @@ Dette er ikke lov- eller forskriftstekst.
 
 ### Rundskriv
 
+- `rundskriv/imdi/` – 1 filer, start med `rundskriv/imdi/oversikt.md`
 - `rundskriv/imdi/tolkeloven/` – 5 filer, start med `rundskriv/imdi/tolkeloven/oversikt.md`
 <!-- AUTO-SLUTT -->

@@ -26,7 +26,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- NOKUTs veiledning om regelverket for fagskoler, akkreditering og klagerett (44 filer) – `rundskriv/nokut/`
+- NOKUTs veiledning om regelverket for fagskoler, akkreditering og klagerett (45 filer) – start med `rundskriv/nokut/oversikt.md`
 - Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -397,6 +397,7 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/nokut/klageinstruks-og-retningslinjer-for-klagebehandling/` – 1 filer, start med `rundskriv/nokut/klageinstruks-og-retningslinjer-for-klagebehandling/oversikt.md`
 - `rundskriv/nokut/laringsutbyte-og-nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/` – 1 filer, start med `rundskriv/nokut/laringsutbyte-og-nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/oversikt.md`
 - `rundskriv/nokut/nar-og-hvordan-skal-fagskolen-melde-fra-om-endringer-i-en-fagskoleutdanning/` – 1 filer, start med `rundskriv/nokut/nar-og-hvordan-skal-fagskolen-melde-fra-om-endringer-i-en-fagskoleutdanning/oversikt.md`
+- `rundskriv/nokut/` – 1 filer, start med `rundskriv/nokut/oversikt.md`
 - `rundskriv/nokut/rangering-av-sokerne-opptak-til-fagskoleutdanning/` – 1 filer, start med `rundskriv/nokut/rangering-av-sokerne-opptak-til-fagskoleutdanning/oversikt.md`
 - `rundskriv/nokut/realkompetansevurdering-pa-fagskolene/` – 1 filer, start med `rundskriv/nokut/realkompetansevurdering-pa-fagskolene/oversikt.md`
 - `rundskriv/nokut/reglene-om-politiattest-for-fagskolestudenter/` – 1 filer, start med `rundskriv/nokut/reglene-om-politiattest-for-fagskolestudenter/oversikt.md`

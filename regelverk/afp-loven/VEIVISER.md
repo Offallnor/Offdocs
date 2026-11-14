@@ -34,7 +34,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
 - Navs rundskriv (R62-00) – se «Rundskriv» under «Andre kilder» nederst
-- Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven) (11 filer) – `rundskriv/spk/`
+- Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven) (12 filer) – start med `rundskriv/spk/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -133,4 +133,5 @@ Dette er ikke lov- eller forskriftstekst.
 
 - `rundskriv/rundskriv-r62-00/` – 33 filer, start med `rundskriv/rundskriv-r62-00/oversikt.md`
 - `rundskriv/spk/avtalefestet-pensjon-afp/` – 11 filer, start med `rundskriv/spk/avtalefestet-pensjon-afp/oversikt.md`
+- `rundskriv/spk/` – 1 filer, start med `rundskriv/spk/oversikt.md`
 <!-- AUTO-SLUTT -->

@@ -1,0 +1,21 @@
+# § 5-4. Ansvaret for barnet etter vedtak om omsorgsovertakelse
+
+**Kilde:** Barnevernsloven § 5-4
+
+**1. ledd**
+
+Etter at det er truffet vedtak om omsorgsovertakelse, har barnevernstjenesten omsorgsansvaret for barnet. Barnevernstjenesten skal gi barnet forsvarlig omsorg og skal ta avgjørelser på vegne av barnet, med mindre avgjørelsen ligger til foreldrene etter tredje ledd eller til vergen.
+
+**2. ledd**
+
+Fosterforeldrene eller institusjonen der barnet bor, utøver omsorgen for barnet på vegne av barnevernstjenesten og kan treffe alle avgjørelser på vegne av barnet som omfattes av barnevernstjenestens myndighet etter første ledd annet punktum. Fosterforeldrene og institusjonen skal utøve omsorgen i samarbeid med barnevernstjenesten, og vesentlige avgjørelser skal avklares med den. Dersom barnevernstjenesten mener at fosterforeldrenes eller institusjonens vurderinger ikke er til barnets beste, skal fosterforeldrene eller institusjonen rette seg etter barnevernstjenestens beslutning.
+
+**3. ledd**
+
+Foreldrenes foreldreansvar er begrenset til avgjørelser om barnets grunnleggende personlige forhold, som valg av type skole, endring av navn, samtykke til adopsjon og inn- og utmelding i tros- og livssynssamfunn.
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 20 juni 2025 nr. 39 (i kraft 1 jan 2026 iflg. res. 19 des 2025 nr. 2711 ).

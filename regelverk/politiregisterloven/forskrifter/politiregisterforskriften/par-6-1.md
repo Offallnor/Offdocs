@@ -1,0 +1,11 @@
+# § 6-1. Samtykke som selvstendig rettsgrunnlag
+
+**Kilde:** Forskrift om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterforskriften) § 6-1
+
+**1. ledd**
+
+Med mindre noe annet er særskilt bestemt kan behandling av opplysninger finne sted når den opplysningene gjelder samtykker, selv om politiregisterlovens vilkår ikke er oppfylt. Slik behandling bør likevel ikke finne sted dersom det er grunn til å tro at opplysningene ikke er korrekte eller dersom opplysningene åpenbart ikke er relevante i forhold til et politimessig formål. Dersom samtykke senere trekkes tilbake, kan opplysningene likevel behandles videre dersom de er nødvendige for å oppnå det politimessige formålet de ble brukt til.
+
+**2. ledd**
+
+Utlevering av opplysninger kan uten hinder av bestemmelsene i politiregisterloven kapittel 5 og 6 finne sted når den opplysningen gjelder samtykker. Slikt samtykke kan likevel ikke danne grunnlag for utlevering av opplysninger i forbindelse med vandelskontroll i henhold til politiregisterloven kapittel 7 .

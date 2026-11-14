@@ -23,7 +23,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- HK-dirs informasjon om opptak, godkjenning av utenlandsk utdanning og lovregulerte yrker (4 filer) – `rundskriv/hkdir/`
+- HK-dirs informasjon om opptak, godkjenning av utenlandsk utdanning og lovregulerte yrker (5 filer) – start med `rundskriv/hkdir/oversikt.md`
 - Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -287,5 +287,6 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/hkdir/jeg-vil-jobbe-i-et-regulert-yrke-i-norge-eller-utlandet/` – 4 filer, start med `rundskriv/hkdir/jeg-vil-jobbe-i-et-regulert-yrke-i-norge-eller-utlandet/oversikt.md`
+- `rundskriv/hkdir/` – 1 filer, start med `rundskriv/hkdir/oversikt.md`
 - `rundskriv/sivilombudet/` – 2 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

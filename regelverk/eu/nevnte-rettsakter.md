@@ -8,6 +8,7 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Direktiv 2003/98 | 7 | Offentleglova, Personopplysningsloven |
 | Direktiv 95/46 | 7 | Personopplysningsloven, Yrkeskvalifikasjonsloven |
 | Forordning 2024/1351 | 7 | Utlendingsloven |
+| Direktiv 2016/680 | 6 | Personopplysningsloven, Politiregisterloven |
 | Direktiv 2013/37 | 5 | Offentleglova |
 | Direktiv 2002/58 | 4 | Personopplysningsloven, Yrkeskvalifikasjonsloven |
 | Forordning 2024/1358 | 4 | Utlendingsloven |
@@ -26,6 +27,7 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning nr. 810/2009 | 2 | Utlendingsloven |
 | Forordning nr. 154/2012 | 2 | Utlendingsloven |
 | Forordning 2016/399 | 2 | Utlendingsloven |
+| Forordning 2019/817 | 2 | Politiloven, Utlendingsloven |
 | Forordning 2024/1359 | 2 | Utlendingsloven |
 | Forordning 2015/983 | 2 | Yrkeskvalifikasjonsloven |
 | Direktiv 75/324 | 1 | Arbeidsmiljøloven |
@@ -60,7 +62,6 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Direktiv 93/13 | 1 | Personopplysningsloven |
 | Direktiv 2011/24 | 1 | Personopplysningsloven |
 | Direktiv 2015/1535 | 1 | Personopplysningsloven |
-| Direktiv 2016/680 | 1 | Personopplysningsloven |
 | Forordning nr. 339/93 | 1 | Personopplysningsloven |
 | Forordning nr. 1049/2001 | 1 | Personopplysningsloven |
 | Forordning nr. 1338/2008 | 1 | Personopplysningsloven |
@@ -76,7 +77,6 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Forordning 2018/1240 | 1 | Utlendingsloven |
 | Forordning 2018/1806 | 1 | Utlendingsloven |
 | Forordning 2019/1155 | 1 | Utlendingsloven |
-| Forordning 2019/817 | 1 | Utlendingsloven |
 | Forordning 2021/1134 | 1 | Utlendingsloven |
 | Forordning 2021/1152 | 1 | Utlendingsloven |
 | Direktiv 64/222 | 1 | Yrkeskvalifikasjonsloven |
@@ -97,3 +97,5 @@ Genereres av `verktoy/bygg.py` ved hvert bygg. Bruk listen til å velge hvilke r
 | Direktiv 82/489 | 1 | Yrkeskvalifikasjonsloven |
 | Direktiv 2013/55 | 1 | Yrkeskvalifikasjonsloven |
 | Forordning 2020/1190 | 1 | Yrkeskvalifikasjonsloven |
+| Forordning 2019/818 | 1 | Politiloven |
+| Direktiv 2023/977 | 1 | Politiregisterloven |

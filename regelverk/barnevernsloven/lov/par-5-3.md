@@ -1,0 +1,21 @@
+# § 5-3. Valg av tiltak etter vedtak om omsorgsovertakelse
+
+**Kilde:** Barnevernsloven § 5-3
+
+**1. ledd**
+
+Når barneverns- og helsenemnda treffer vedtak om omsorgsovertakelse, skal det fremgå av vedtaket om barnet skal bo i et fosterhjem eller i en barnevernsinstitusjon. Nemnda kan bestemme at barnet skal bo i en opplærings- eller behandlingsinstitusjon dersom det er nødvendig fordi barnet har nedsatt funksjonsevne. Nemnda kan i særskilte tilfeller også bestemme at barnet skal bo i et omsorgssenter, jf. kapittel 11.
+
+**2. ledd**
+
+Barnevernstjenesten skal redegjøre for sitt syn på valg av tiltak etter første ledd når den legger frem forslag om omsorgsovertakelse for nemnda. Nemnda kan i vedtaket sette krav til tiltaket. Saken skal forelegges nemnda på nytt dersom vedtaket ikke kan gjennomføres som forutsatt.
+
+**3. ledd**
+
+Ved valg av tiltak skal det blant annet legges vekt på barnets mening, barnets identitet og behov for omsorg i et stabilt miljø, behovet for kontinuitet i barnets oppdragelse og barnets etniske, religiøse, kulturelle og språklige bakgrunn. Det skal også legges vekt på hvor lenge det er antatt at omsorgsovertakelsen skal vare, og på barnets samvær og kontakt med foreldrene, søsken og andre personer som barnet har nær tilknytning til. Dersom barnet skal bo i fosterhjem, skal barnevernstjenesten vurdere om noen i barnets familie eller nære nettverk kan velges som fosterhjem, jf. § 9-4 .
+
+---
+
+**Endringshistorikk:**
+
+- Endret ved lov 20 juni 2025 nr. 39 (i kraft 1 jan 2026 iflg. res. 19 des 2025 nr. 2711 ).

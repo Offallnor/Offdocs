@@ -1,0 +1,15 @@
+# § 9-3. Utlevering av opplysninger for å forebygge lovbrudd
+
+**Kilde:** Forskrift om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterforskriften) § 9-3
+
+**1. ledd**
+
+Etter politiregisterloven § 27 annet ledd kan det utleveres opplysninger til andre offentlige organer dersom det er nødvendig for å forebygge lovbrudd, jf. § 4-2 . Ved vurderingen av kravet om nødvendighet skal det legges vekt på om politiet har objektive holdepunkter for at lovbrudd av en viss alvorlighet vil bli begått, og det er grunn til å tro at utlevering av angjeldende opplysning til et annet offentlig organ vil bidra til at lovbruddet ikke vil bli begått.
+
+**2. ledd**
+
+Det kan utleveres opplysninger til private dersom politiet anser det som strengt nødvendig for å forebygge lovbruddet, jf. § 4-3 .
+
+**3. ledd**
+
+I medhold av politiregisterloven § 27 fjerde ledd kan det utleveres opplysninger til offentlige organer og institusjoner dersom det er nødvendig for generell forebyggende virksomhet, jf. § 4-2 .

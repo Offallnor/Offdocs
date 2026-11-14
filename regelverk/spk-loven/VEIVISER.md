@@ -55,7 +55,7 @@ Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen
 
 - Høyesteretts avgjørelser fra november 2021 (rettspraksis) (2 filer) – start med `rettspraksis/hoyesterett/oversikt.md`
 - Sivilombudets uttalelser (2 filer) – start med `rundskriv/sivilombudet/oversikt.md`
-- Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven) (113 filer) – `rundskriv/spk/`
+- Statens pensjonskasses informasjon til medlemmene (ikke tolkning av loven) (114 filer) – start med `rundskriv/spk/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -359,6 +359,7 @@ Dette er ikke lov- eller forskriftstekst.
 - `rundskriv/spk/alderspensjon/` – 63 filer, start med `rundskriv/spk/alderspensjon/oversikt.md`
 - `rundskriv/spk/etterlattepensjon/` – 7 filer, start med `rundskriv/spk/etterlattepensjon/oversikt.md`
 - `rundskriv/spk/medlemskap-i-spk/` – 7 filer, start med `rundskriv/spk/medlemskap-i-spk/oversikt.md`
+- `rundskriv/spk/` – 1 filer, start med `rundskriv/spk/oversikt.md`
 - `rundskriv/spk/tidligere-medlem/` – 5 filer, start med `rundskriv/spk/tidligere-medlem/oversikt.md`
 - `rundskriv/spk/uforepensjon/` – 21 filer, start med `rundskriv/spk/uforepensjon/oversikt.md`
 - `rundskriv/spk/yrkesskadeforsikring/` – 10 filer, start med `rundskriv/spk/yrkesskadeforsikring/oversikt.md`

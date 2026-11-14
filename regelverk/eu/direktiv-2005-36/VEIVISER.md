@@ -35,6 +35,7 @@ Svar med paragrafen i yrkeskvalifikasjonsloven eller forskriften når spørsmål
 
 Stiene er fra roten av basen.
 
+- **Helsepersonelloven:** `regelverk/helsepersonelloven/lov/par-3.md`
 - **Yrkeskvalifikasjonsloven:** `regelverk/yrkeskvalifikasjonsloven/forskrifter/yrkeskvalifikasjoner/par-12-2.md`, `regelverk/yrkeskvalifikasjonsloven/forskrifter/yrkeskvalifikasjoner/utenfor-paragrafene.md`, `regelverk/yrkeskvalifikasjonsloven/lov/par-1.md`, `regelverk/yrkeskvalifikasjonsloven/lov/par-10.md`, `regelverk/yrkeskvalifikasjonsloven/lov/par-11.md`, `regelverk/yrkeskvalifikasjonsloven/lov/par-22.md`, `regelverk/yrkeskvalifikasjonsloven/lov/par-9.md`
 
 ## Innhold

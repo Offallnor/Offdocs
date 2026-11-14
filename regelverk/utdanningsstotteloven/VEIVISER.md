@@ -27,7 +27,7 @@ Finn paragrafen i listen under «Innhold», og åpne filen før du svarer. Felle
 
 Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
 
-- Lånekassens informasjon om stipend, lån og tilbakebetaling (ikke tolkning av loven) (115 filer) – `rundskriv/lanekassen/`
+- Lånekassens informasjon om stipend, lån og tilbakebetaling (ikke tolkning av loven) (116 filer) – start med `rundskriv/lanekassen/oversikt.md`
 - Sivilombudets uttalelser (5 filer) – start med `rundskriv/sivilombudet/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
@@ -430,6 +430,7 @@ Dette er ikke lov- eller forskriftstekst.
 ### Rundskriv
 
 - `rundskriv/lanekassen/gjeld-og-betaling/` – 28 filer, start med `rundskriv/lanekassen/gjeld-og-betaling/oversikt.md`
+- `rundskriv/lanekassen/` – 1 filer, start med `rundskriv/lanekassen/oversikt.md`
 - `rundskriv/lanekassen/stipend-og-lan/` – 87 filer, start med `rundskriv/lanekassen/stipend-og-lan/oversikt.md`
 - `rundskriv/sivilombudet/` – 5 filer, start med `rundskriv/sivilombudet/oversikt.md`
 <!-- AUTO-SLUTT -->

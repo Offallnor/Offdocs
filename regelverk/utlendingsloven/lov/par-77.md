@@ -2,7 +2,7 @@
 
 **Kilde:** Utlendingsloven § 77
 
-> **Vedtatt endring, ikke i kraft:** Endringslov til konkursloven mv. (LOV-2026-06-19-48). Ikrafttredelse: Kongen bestemmer, og tidspunktet er ikke fastsatt i Lovtidend ennå. Ny ordlyd: `regelverk/utlendingsloven/vedtatte-endringer/lov-2026-06-19-48.md`
+> **Vedtatt endring, ikke i kraft:** Endringslov til konkursloven mv. (LOV-2026-06-19-48). Ikrafttredelse: Kongen bestemmer. Satt i kraft ved FOR-2026-11-13-2341 (Ikraftsetting av lov 19. juni 2026 nr. 48 om endringer i konkursloven mv. (rekonstruksjonsforhandling)): 2027-01-01. Ny ordlyd: `regelverk/utlendingsloven/vedtatte-endringer/lov-2026-06-19-48.md`
 
 **1. ledd**
 
@@ -56,4 +56,4 @@ Kongen kan gi forskrift med nærmere bestemmelser om oppnevning av nemndmedlemme
 
 **Endringshistorikk:**
 
-- Endret ved lover 13 apr 2012 nr. 15 (ikr. 1 mai 2012 iflg. res. 13 apr 2012 nr. 327 ), 21 juni 2013 nr. 92 (ikr. 1 jan 2014 iflg. res. 13 des 2013 nr. 1497 ), 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 12 juni 2020 nr. 66 (ikr. 12 juni 2020 iflg. res. 12 juni 2020 nr. 1185 ), 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416 ), 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026 ), 2 juni 2023 nr. 20 (i kraft 1 jan 2025 iflg. res. 15 sep 2023 nr. 2100 ). Endres ved lov 19 juni 2026 nr. 48 (i kraft fra den tid Kongen bestemmer).
+- Endret ved lover 13 apr 2012 nr. 15 (ikr. 1 mai 2012 iflg. res. 13 apr 2012 nr. 327 ), 21 juni 2013 nr. 92 (ikr. 1 jan 2014 iflg. res. 13 des 2013 nr. 1497 ), 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 12 juni 2020 nr. 66 (ikr. 12 juni 2020 iflg. res. 12 juni 2020 nr. 1185 ), 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416 ), 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026 ), 2 juni 2023 nr. 20 (i kraft 1 jan 2025 iflg. res. 15 sep 2023 nr. 2100 ). Endres ved lov 19 juni 2026 nr. 48 (i kraft 1 jan 2027 iflg. res. 13 nov 2026 nr. 2341 ).

@@ -82,6 +82,10 @@ Vet du allerede hvilken paragraf det gjelder, kan du gå rett til filen. `indeks
 | Forskningsetikkloven | `regelverk/forskningsetikkloven/VEIVISER.md` | 2024-08-01 |
 | Yrkeskvalifikasjonsloven | `regelverk/yrkeskvalifikasjonsloven/VEIVISER.md` | 2021-08-01 |
 | Utdanningsstøtteloven | `regelverk/utdanningsstotteloven/VEIVISER.md` | 2026-08-01 |
+| Politiloven | `regelverk/politiloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
+| Politiregisterloven | `regelverk/politiregisterloven/VEIVISER.md` | 2026-10-01 · **vedtatte endringer venter** |
+| Barnevernsloven | `regelverk/barnevernsloven/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
+| Helsepersonelloven | `regelverk/helsepersonelloven/VEIVISER.md` | 2026-07-01 · **vedtatte endringer venter** |
 <!-- AUTO-SLUTT -->
 
 ## Tariffavtaler og EU-rettsakter i basen
