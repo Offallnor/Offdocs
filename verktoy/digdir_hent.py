@@ -82,6 +82,34 @@ DOKUMENTER = [
      "folg": r"^/standarder/[a-z0-9-]+/\d+$",
      "utelat": r"/(referansekatalogen-it-standardar|hoyringar|gamle-versjonar|arkitektur-og-standardiseringsradet"
                r"|msp-og-internasjonalt|utgreiing-av-nye-krav|standardar)/"},
+    {"mappe": "internkontroll-informasjonssikkerhet", "gruppe": "Informasjonssikkerhet",
+     "start": "/informasjonssikkerhet/internkontroll-i-praksis-informasjonssikkerhet/2601", "dybde": 3,
+     "folg": r"^/informasjonssikkerhet/[a-z0-9-]+/\d+$",
+     "utelat": r"/(internkontroll-i-praksis-informasjonssikkerhet|nifs|nettverk|bli-medlem|sikkerhetsfestival|sikkerhetsmaned"
+               r"|losepengevirus|svindel|na-far-du|framleis|lavere-tillit|informasjonssikkerhet/882)"},
+    {"mappe": "deling-av-data-roller-og-ansvar", "gruppe": "Deling av data",
+     "start": "/datadeling/formalet-med-veilederen-fordeling-av-roller-og-ansvar-nar-dere-skal-dele-data/2089",
+     "folg": r"^/datadeling/[a-z0-9-]+/(208\d|209[01])$"},
+    {"mappe": "prinsipper-deling-av-data", "gruppe": "Deling av data",
+     "start": "/datadeling/om-prinsippene/2087",
+     "folg": r"^/datadeling/prinsipp-\d[^/]*/\d+$"},
+    {"mappe": "digitaliseringsvennlig-regelverk", "gruppe": "Deling av data",
+     "start": "/datadeling/veileder-digitaliseringsvennlig-regelverk/2856", "dybde": 2,
+     "folg": r"^/(datadeling|informasjonsforvaltning)/[a-z0-9-]+/(28[5-9]\d|29[0-4]\d)$"},
+    {"mappe": "orden-i-eget-hus", "gruppe": "Informasjonsforvaltning",
+     "start": "/informasjonsforvaltning/veileder-orden-i-eget-hus/2716", "dybde": 2,
+     "folg": r"^/informasjonsforvaltning/(hva-er-orden|hvorfor-er-orden|hvordan-bruker-dere|steg-\d|modenhetsmodell"
+             r"|hva-er-et-datasett|hva-er-forskjellen|hvordan-bestemme|oversikt-over-datasett)[a-z0-9-]*/\d+$"},
+    {"mappe": "sammenhengende-tjenester", "gruppe": "Sammenhengende tjenester",
+     "start": "/sammenhengende-tjenester/styring-og-organisering-av-samarbeid/2978", "dybde": 2,
+     "folg": r"^/sammenhengende-tjenester/[a-z0-9-]+/\d+$",
+     "utelat": r"/(sammenhengende-tjenester/3157|om-prosjektet|veien-videre)"},
+    {"mappe": "apen-kildekode", "gruppe": "Åpen kildekode og EU-regelverk",
+     "start": "/digitalisering-og-samordning/veileder-om-apen-kildekode-i-offentlig-sektor/8461", "dybde": 2,
+     "folg": r"^/digitalisering-og-samordning/(dette-er-apen-kildekode|apen-kildekode-som-hovedregel|bruk-apen-kildekode)/\d+$"},
+    {"mappe": "juridisk-veiledning-eu-regelverk", "gruppe": "Åpen kildekode og EU-regelverk",
+     "start": "/digitalisering-og-samordning/juridisk-veiledning-til-kommende-eu-regelverk/8357", "dybde": 2,
+     "folg": r"^/(digitalisering-og-samordning|datadeling)/[a-z0-9-]+/(83[4-6]\d)$"},
 ]
 RUNDSKRIV = {
     "mappe": "digitaliseringsrundskrivet", "gruppe": "Digitaliseringsrundskrivet",
@@ -238,7 +266,9 @@ def skriv_oversikt(status: dict) -> None:
               "Veiledning om digitalisering i offentlig sektor fra Digitaliseringsdirektoratet (Digdir), og "
               "digitaliseringsrundskrivet. Veilederne er ikke lov eller forskrift. Rundskrivet gir pålegg til "
               "statlige virksomheter. Hver veileder har en mappe med `oversikt.md` og én fil per kapittel.", ""]
-    for gruppe in ["Digitaliseringsrundskrivet", "Felles arkitektur for samhandling"]:
+    for gruppe in ["Digitaliseringsrundskrivet", "Felles arkitektur for samhandling", "Informasjonssikkerhet",
+                   "Deling av data", "Informasjonsforvaltning", "Sammenhengende tjenester",
+                   "Åpen kildekode og EU-regelverk"]:
         if gruppe not in grupper:
             continue
         linjer += [f"## {gruppe}", "", "| Veileder | Sider | Hentet | Sti |", "|---|---|---|---|"]
