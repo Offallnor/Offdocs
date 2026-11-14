@@ -26,7 +26,9 @@ Finn paragrafen under «Innhold», og åpne filen før du svarer. Merknadene und
 
 ## Tolkningskilder i basen
 
-Ingen rundskriv, veiledere eller uttalelser til dette regelverket er i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+Dette er ikke lov- eller forskriftstekst. Oppgi kilden med navn i svaret. Listen lages fra mappene ved hvert bygg. Andre tolkningskilder til regelverket er ikke i basen. Hovedtariffavtalen og EU-rettsaktene har egne veivisere.
+
+- DFØs veiledning om anskaffelsesregelverket (anskaffelser.no) (37 filer) – start med `rundskriv/dfo/oversikt.md`
 
 ## Vedtatte endringer som ikke er i kraft
 
@@ -394,4 +396,23 @@ Funnet automatisk ved søk etter rettsaktnummer. Stier til `regelverk/eu/` er fr
 - Forordning nr. 1221/2009 – ikke i basen. Nevnt i `forskrifter/anskaffelsesforskriften/par-16-7.md`
 - Forordning nr. 305/2011 – ikke i basen. Nevnt i `forskrifter/anskaffelsesforskriften/par-4-4.md`
 - Forordning nr. 1025/2012 – ikke i basen. Nevnt i `forskrifter/anskaffelsesforskriften/par-4-4.md`
+
+## Andre kilder
+
+Dette er ikke lov- eller forskriftstekst.
+
+### Rundskriv
+
+- `rundskriv/dfo/anskaffelsesprosedyrer/` – 20 filer, start med `rundskriv/dfo/anskaffelsesprosedyrer/oversikt.md`
+- `rundskriv/dfo/felles-kjoreregler-anskaffelser/` – 1 filer, start med `rundskriv/dfo/felles-kjoreregler-anskaffelser/oversikt.md`
+- `rundskriv/dfo/grunnleggende-om-anskaffelsesregelverket/` – 1 filer, start med `rundskriv/dfo/grunnleggende-om-anskaffelsesregelverket/oversikt.md`
+- `rundskriv/dfo/klage-pa-offentlig-anskaffelse/` – 1 filer, start med `rundskriv/dfo/klage-pa-offentlig-anskaffelse/oversikt.md`
+- `rundskriv/dfo/kontrakter-og-avtaler-samlet-oversikt/` – 1 filer, start med `rundskriv/dfo/kontrakter-og-avtaler-samlet-oversikt/oversikt.md`
+- `rundskriv/dfo/kontraktsoppfolging-og-evaluering-av-leveransen/` – 1 filer, start med `rundskriv/dfo/kontraktsoppfolging-og-evaluering-av-leveransen/oversikt.md`
+- `rundskriv/dfo/` – 1 filer, start med `rundskriv/dfo/oversikt.md`
+- `rundskriv/dfo/sikkerhetsloven-og-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/sikkerhetsloven-og-offentlige-anskaffelser/oversikt.md`
+- `rundskriv/dfo/statens-standardavtaler-ssa/` – 7 filer, start med `rundskriv/dfo/statens-standardavtaler-ssa/oversikt.md`
+- `rundskriv/dfo/taushetsplikt-og-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/taushetsplikt-og-offentlige-anskaffelser/oversikt.md`
+- `rundskriv/dfo/terskelverdier-offentlige-anskaffelser/` – 1 filer, start med `rundskriv/dfo/terskelverdier-offentlige-anskaffelser/oversikt.md`
+- `rundskriv/dfo/ulovlig-anbudssamarbeid-lovlig-prosjektsamarbeid/` – 1 filer, start med `rundskriv/dfo/ulovlig-anbudssamarbeid-lovlig-prosjektsamarbeid/oversikt.md`
 <!-- AUTO-SLUTT -->
