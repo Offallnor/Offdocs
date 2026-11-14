@@ -175,6 +175,36 @@ def bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
         return None, None
 
 
+DEL_STORE = 40_000   # et dokument uten paragrafer som er lengre enn dette (tegn), deles per kapittel
+
+
+def filnavn_del(tittel: str, nr: int) -> str:
+    """«5 Rutiner for …» -> kapittel-5.md, «Forord» -> forord.md, ellers del-NN.md."""
+    m = re.match(r"(?:Kapittel\s+)?(\d+[A-Za-z]?)\b", tittel)
+    if m:
+        return f"kapittel-{m.group(1).lower()}.md"
+    ord_ = re.sub(r"[^a-zæøå0-9]+", "-", tittel.lower()).strip("-")
+    return f"{ord_}.md" if ord_ and len(ord_) <= 30 else f"del-{nr:02d}.md"
+
+
+def del_etter_kapitler(tekst: str) -> list:
+    """Deler løpende tekst ved overskrifter på nivå to («## »). Tom liste hvis teksten er kort
+    eller har færre enn tre slike overskrifter. Teksten før første overskrift legges i første del."""
+    if len(tekst) < DEL_STORE:
+        return []
+    biter = re.split(r"(?m)^## (.+)$", tekst)
+    if len(biter) < 7:
+        return []
+    innledning, rest = biter[0].strip(), biter[1:]
+    deler = [(rest[i].strip(), rest[i + 1].strip()) for i in range(0, len(rest), 2)]
+    if innledning:
+        # Dokumenttittelen gjentas ofte øverst; den tas bort, resten legges foran første del
+        innledning = "\n".join(l for l in innledning.splitlines() if not l.startswith("# ")).strip()
+        if innledning:
+            deler[0] = (deler[0][0], f"{innledning}\n\n{deler[0][1]}")
+    return deler
+
+
 def _bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
     """Skriver én fil per paragraf og returnerer (metadata, kapitler med oppføringer)."""
     if utmappe.exists():
@@ -209,6 +239,15 @@ def _bygg_dokument(sti: Path, utmappe: Path, ref: str, feil: list) -> tuple:
         if not tegn:
             feil.append(f"{ref} ({sti.name}): fant verken paragrafer eller annen tekst")
             return meta, resultat
+        deler = del_etter_kapitler(rest)
+        if deler:
+            # Store dokumenter uten paragrafer (f.eks. bestemmelser om økonomistyring) deles per kapittel
+            oppf = []
+            for nr, (tittel, tekst) in enumerate(deler, 1):
+                fil = utmappe / filnavn_del(tittel, nr)
+                fil.write_text(f"# {tittel}\n\n**Kilde:** {meta['tittel'] or ref}\n\n{tekst}", encoding="utf-8")
+                oppf.append((tittel, fil))
+            return meta, [("", oppf)]
         fil = utmappe / "tekst.md"
         fil.write_text(f"# {meta['tittel'] or ref}\n\n{rest}", encoding="utf-8")
         return meta, [("", [("Hele teksten (dokumentet har ikke paragrafer)", fil)])]
