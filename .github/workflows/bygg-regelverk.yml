@@ -39,7 +39,9 @@ jobs:
       - name: MIDLERTIDIG finn økonomireglementet
         if: always()
         continue-on-error: true
-        run: grep -rl "konomistyring i staten" .lovdata | head -20; for f in $(grep -rl "konomistyring i staten" .lovdata | head -20); do grep -o "<title>[^<]*" "$f" | head -1; done
+        run: |
+          for f in $(grep -rlE "<title>(Reglement for økonomistyring|Bestemmelser om økonomistyring)" .lovdata); do echo "$f"; grep -oE 'class="legacyID"[^>]*>[^<]+' "$f" | head -1; grep -o "<title>[^<]*" "$f" | head -1; wc -c < "$f"; done
+          ls .lovdata/*/ | grep 20031212
 
       # Bare til loggen: forskrifter med hjemmel i lovene som ikke er tatt med.
       - name: Forskrifter med hjemmel i lovene som ikke er med
